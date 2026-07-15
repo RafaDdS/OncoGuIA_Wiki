@@ -27,7 +27,7 @@ A wiki estará disponível no seu navegador, geralmente no endereço `http://127
 ## Estrutura
 
 Cada arquivo `.md` na pasta `wiki/` representa um nó do conhecimento oncológico. A arquitetura foi pensada para extração limpa:
-- **Frontmatter (YAML):** Pode ser utilizado no topo dos arquivos para metadados (ex: status de revisão do especialista, split do dataset).
+- **Frontmatter (YAML):** Pode ser utilizado no topo dos arquivos para metadados.
 
 ## Deploy Automático (GitHub Pages)
 

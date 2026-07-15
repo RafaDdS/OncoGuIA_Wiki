@@ -1,12 +1,17 @@
 site_name: OncoGuIA wiki
 docs_dir: 'wiki'
 
+repo_url: https://github.com/RafaDdS/OncoGuIA_Wiki
+repo_name: RafaDdS/OncoGuIA_Wiki
+edit_uri: edit/main/wiki/
+
 theme:
   name: material
   features:
-    - navigation.tabs # Adds top-level tabs for cleaner UI
-    - navigation.indexes # Allows folders to be clicked directly if they have an index.md
-    - navigation.expand # Keeps the sidebar open
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.expand
+    - content.action.edit
 
 plugins:
   - search

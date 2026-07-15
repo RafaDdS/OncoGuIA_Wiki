@@ -8,7 +8,7 @@ tags:
 
 Índice de todas as páginas propostas, organizadas por categoria. Gerado a partir dos glossários de 4 documentos: Estadiamento, Adjuvante, Neoadjuvante e Metastático.
 
-## [Patologia e Subtipos](patologia-e-subtipos/index.md) (7 páginas)
+## [Patologia e Subtipos](patologia-e-subtipos/index.md) 
 
 - [Carcinoma Ductal in Situ (CDIS)](patologia-e-subtipos/Carcinoma Ductal in Situ (CDIS).md)
 - [Carcinoma Inflamatório](patologia-e-subtipos/Carcinoma Inflamatório.md)
@@ -18,13 +18,13 @@ tags:
 - [Grau Histológico (G1–G3)](patologia-e-subtipos/Grau Histológico (G1–G3).md)
 - [Linfócitos Infiltrantes Tumorais (TILs)](patologia-e-subtipos/Linfócitos Infiltrantes Tumorais (TILs).md)
 
-## [Subtipos Moleculares](subtipos-moleculares/index.md) (3 páginas)
+## [Subtipos Moleculares](subtipos-moleculares/index.md) 
 
 - [ER-low / RE Baixo](subtipos-moleculares/ER-low - RE Baixo.md)
 - [Subtipo Luminal (RH+/HER2-)](subtipos-moleculares/Subtipo Luminal (RH+-HER2-).md)
 - [TNBC (Triplo-Negativo)](subtipos-moleculares/TNBC (Triplo-Negativo).md)
 
-## [Biomarcadores](biomarcadores/index.md) (11 páginas)
+## [Biomarcadores](biomarcadores/index.md) 
 
 - [AKT1 / PTEN](biomarcadores/AKT1 - PTEN.md)
 - [BRCA1 / BRCA2](biomarcadores/BRCA1 - BRCA2.md)
@@ -38,12 +38,12 @@ tags:
 - [Receptores Hormonais (RE/RP/RH)](biomarcadores/Receptores Hormonais (RE-RP-RH).md)
 - [Trop-2](biomarcadores/Trop-2.md)
 
-## [Fatores Prognósticos](fatores-prognosticos/index.md) (2 páginas)
+## [Fatores Prognósticos](fatores-prognosticos/index.md) 
 
 - [Invasão Angiolinfática](fatores-prognosticos/Invasão Angiolinfática.md)
 - [Linfonodo Positivo (N+/LFN)](fatores-prognosticos/Linfonodo Positivo (N+-LFN).md)
 
-## [Rastreamento e Imagem](rastreamento-e-imagem/index.md) (9 páginas)
+## [Rastreamento e Imagem](rastreamento-e-imagem/index.md) 
 
 - [Biópsia Líquida (ctDNA)](rastreamento-e-imagem/Biópsia Líquida (ctDNA).md)
 - [Clipagem / Marcador Metálico](rastreamento-e-imagem/Clipagem - Marcador Metálico.md)
@@ -55,7 +55,7 @@ tags:
 - [Ressonância Magnética (RM) de Mamas](rastreamento-e-imagem/Ressonância Magnética (RM) de Mamas.md)
 - [Ultrassonografia (USG) de Mamas e Axilas](rastreamento-e-imagem/Ultrassonografia (USG) de Mamas e Axilas.md)
 
-## [Estadiamento](estadiamento/index.md) (10 páginas)
+## [Estadiamento](estadiamento/index.md) 
 
 - [CEA e CA 15-3](estadiamento/CEA e CA 15-3.md)
 - [Cintilografia Óssea](estadiamento/Cintilografia Óssea.md)
@@ -68,7 +68,7 @@ tags:
 - [Sistema TNM (AJCC)](estadiamento/Sistema TNM (AJCC).md)
 - [TC de Tórax/Abdome/Pelve com Contraste](estadiamento/TC de Tórax-Abdome-Pelve com Contraste.md)
 
-## [Ferramentas Preditivas](ferramentas-preditivas/index.md) (6 páginas)
+## [Ferramentas Preditivas](ferramentas-preditivas/index.md) 
 
 - [CTS5](ferramentas-preditivas/CTS5.md)
 - [Mammaprint](ferramentas-preditivas/Mammaprint.md)
@@ -77,20 +77,20 @@ tags:
 - [RSClin / RSC4All](ferramentas-preditivas/RSClin - RSC4All.md)
 - [Recurrence Score (RS) / Oncotype DX](ferramentas-preditivas/Recurrence Score (RS) - Oncotype DX.md)
 
-## [Critérios de Risco](criterios-de-risco/index.md) (4 páginas)
+## [Critérios de Risco](criterios-de-risco/index.md) 
 
 - [Alto Risco Clínico](criterios-de-risco/Alto Risco Clínico.md)
 - [Alto Risco Genômico](criterios-de-risco/Alto Risco Genômico.md)
 - [CPS-EG](criterios-de-risco/CPS-EG.md)
 - [Doença Residual](criterios-de-risco/Doença Residual.md)
 
-## [Contextos de Tratamento](contextos-de-tratamento/index.md) (3 páginas)
+## [Contextos de Tratamento](contextos-de-tratamento/index.md) 
 
 - [Resposta Patológica Completa (RPC)](contextos-de-tratamento/Resposta Patológica Completa (RPC).md)
 - [Tratamento Adjuvante (Conceito)](contextos-de-tratamento/Tratamento Adjuvante (Conceito).md)
 - [Tratamento Neoadjuvante (Conceito)](contextos-de-tratamento/Tratamento Neoadjuvante (Conceito).md)
 
-## [Quimioterapia](quimioterapia/index.md) (12 páginas)
+## [Quimioterapia](quimioterapia/index.md) 
 
 - [AC (Doxorrubicina + Ciclofosfamida)](quimioterapia/AC (Doxorrubicina + Ciclofosfamida).md)
 - [AC → D (AC seguido de Docetaxel)](quimioterapia/AC → D (AC seguido de Docetaxel).md)
@@ -105,7 +105,7 @@ tags:
 - [TCH / TCHP](quimioterapia/TCH - TCHP.md)
 - [TH / THP](quimioterapia/TH - THP.md)
 
-## [Terapias-Alvo](terapias-alvo/index.md) (16 páginas)
+## [Terapias-Alvo](terapias-alvo/index.md) 
 
 - [Abemaciclibe](terapias-alvo/Abemaciclibe.md)
 - [Anticorpos Conjugados (ADCs) – Classe](terapias-alvo/Anticorpos Conjugados (ADCs) – Classe.md)
@@ -124,7 +124,7 @@ tags:
 - [Terapias Anti-HER2 (Visão Geral)](terapias-alvo/Terapias Anti-HER2 (Visão Geral).md)
 - [Trastuzumabe](terapias-alvo/Trastuzumabe.md)
 
-## [Terapia Endócrina](terapia-endocrina/index.md) (5 páginas)
+## [Terapia Endócrina](terapia-endocrina/index.md) 
 
 - [Fulvestranto](terapia-endocrina/Fulvestranto.md)
 - [Hormonioterapia Neoadjuvante](terapia-endocrina/Hormonioterapia Neoadjuvante.md)
@@ -132,16 +132,16 @@ tags:
 - [Supressão Ovariana](terapia-endocrina/Supressão Ovariana.md)
 - [Tamoxifeno](terapia-endocrina/Tamoxifeno.md)
 
-## [Imunoterapia](imunoterapia/index.md) (1 páginas)
+## [Imunoterapia](imunoterapia/index.md) 
 
 - [Pembrolizumabe](imunoterapia/Pembrolizumabe.md)
 
-## [Terapias Ósseas](terapias-osseas/index.md) (2 páginas)
+## [Terapias Ósseas](terapias-osseas/index.md) 
 
 - [Denosumabe](terapias-osseas/Denosumabe.md)
 - [Ácido Zoledrônico](terapias-osseas/Ácido Zoledrônico.md)
 
-## [Doença Metastática](doenca-metastatica/index.md) (5 páginas)
+## [Doença Metastática](doenca-metastatica/index.md) 
 
 - [Crise Visceral](doenca-metastatica/Crise Visceral.md)
 - [Doença Metastática de Mama](doenca-metastatica/Doença Metastática de Mama.md)
@@ -149,11 +149,11 @@ tags:
 - [Sobrevida Global (SG)](doenca-metastatica/Sobrevida Global (SG).md)
 - [Sobrevida Livre de Progressão (SLP)](doenca-metastatica/Sobrevida Livre de Progressão (SLP).md)
 
-## [Cenários Especiais](cenarios-especiais/index.md) (1 páginas)
+## [Cenários Especiais](cenarios-especiais/index.md) 
 
 - [Câncer de Mama em Homens](cenarios-especiais/Câncer de Mama em Homens.md)
 
-## [Cuidados Adicionais](cuidados-adicionais/index.md) (6 páginas)
+## [Cuidados Adicionais](cuidados-adicionais/index.md) 
 
 - [Aconselhamento Genético](cuidados-adicionais/Aconselhamento Genético.md)
 - [Análogos do GnRH (GnRHa)](cuidados-adicionais/Análogos do GnRH (GnRHa).md)
@@ -162,14 +162,14 @@ tags:
 - [Preservação da Fertilidade](cuidados-adicionais/Preservação da Fertilidade.md)
 - [Seguimento Pós-Tratamento](cuidados-adicionais/Seguimento Pós-Tratamento.md)
 
-## [Diretrizes e Instituições](diretrizes-e-instituicoes/index.md) (4 páginas)
+## [Diretrizes e Instituições](diretrizes-e-instituicoes/index.md) 
 
 - [ESMO / NCCN / ASCO / AJCC](diretrizes-e-instituicoes/ESMO - NCCN - ASCO - AJCC.md)
 - [Lei nº 11.664/2008](diretrizes-e-instituicoes/Lei nº 11.664-2008.md)
 - [Sistema GRADE](diretrizes-e-instituicoes/Sistema GRADE.md)
 - [Sociedade Brasileira de Oncologia Clínica (SBOC)](diretrizes-e-instituicoes/Sociedade Brasileira de Oncologia Clínica (SBOC).md)
 
-## [Epidemiologia](epidemiologia/index.md) (2 páginas)
+## [Epidemiologia](epidemiologia/index.md) 
 
 - [Cobertura Mamográfica](epidemiologia/Cobertura Mamográfica.md)
 - [Mortalidade / Incidência](epidemiologia/Mortalidade - Incidência.md)
