@@ -12,7 +12,12 @@ status: "draft"
 
 # RM de Crânio com Contraste
 
-Ressonância magnética indicada para suspeita de metástases cerebrais (sintomas neurológicos ou tumores de alto risco)
+Ressonância magnética indicada para suspeita de metástases cerebrais.
+
+# Indicações na diretriz:
+
+- **Em caso de sintomas neurológicos:** Sugere-se RM de crânio com contraste.
+- **Em tumores localmente avançados (estádios II e III) ou neoadjuvantes:** A RM de crânio deve ser realizada em pacientes com sinais e sintomas neurológicos e considerada naquelas com tumores triplo-negativos e HER2 positivo se doença localmente avançada.
 
 ## Ver também
 

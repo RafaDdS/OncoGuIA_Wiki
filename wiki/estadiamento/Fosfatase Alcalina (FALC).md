@@ -12,7 +12,14 @@ status: "draft"
 
 # Fosfatase Alcalina (FALC)
 
-Marcador laboratorial que, elevado, sugere possível metástase óssea, indicando cintilografia ou [[PET-CT|PET/CT]]
+Marcador laboratorial que, quando elevado, sugere possível metástase óssea, indicando cintilografia óssea ou [[PET-CT|PET/CT]].
+
+## Recomendações na diretriz:
+
+- **Avaliação mínima pré-tratamento:** Recomenda-se avaliação dos níveis de fosfatase alcalina e cálcio antes da cirurgia e da definição de tratamento (neo)adjuvante sistêmico.
+  - **Nível de evidência:** MUITO BAIXO / FORÇA FORTE (ESMO).
+- **Em caso de dores ósseas ou aumento de FALC:** Considerar cintilografia óssea ou [[PET-CT|PET/CT]].
+- **Em caso de sintomas gastrointestinais ou pélvicos, ou alterações de FALC ou enzimas hepáticas:** Considerar tomografia de abdome total com contraste ou RM com contraste.
 
 ## Ver também
 
