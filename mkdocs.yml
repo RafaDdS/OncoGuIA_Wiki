@@ -1,0 +1,13 @@
+site_name: OncoGuIA wiki
+docs_dir: 'wiki'
+
+theme:
+  name: material
+  features:
+    - navigation.tabs # Adds top-level tabs for cleaner UI
+    - navigation.indexes # Allows folders to be clicked directly if they have an index.md
+    - navigation.expand # Keeps the sidebar open
+
+plugins:
+  - search
+  - roamlinks
