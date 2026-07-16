@@ -12,7 +12,7 @@ status: "draft"
 
 # Carcinoma Inflamatório
 
-Subtipo agressivo com edema, eritema e aspecto inflamatório da pele
+Subtipo agressivo com edema, eritema e aspecto inflamatório da pele. [Mudar estrututra, mover para estadiamento]
 
 ## Ver também
 
