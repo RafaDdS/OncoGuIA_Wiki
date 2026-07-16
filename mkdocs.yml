@@ -4,14 +4,15 @@ docs_dir: 'wiki'
 repo_url: https://github.com/RafaDdS/OncoGuIA_Wiki
 repo_name: RafaDdS/OncoGuIA_Wiki
 edit_uri: edit/main/wiki/
-
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.indexes
     - navigation.expand
     - content.action.edit
+    - content.comments
 
 plugins:
   - search
