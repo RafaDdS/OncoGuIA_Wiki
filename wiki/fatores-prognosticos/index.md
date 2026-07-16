@@ -8,7 +8,6 @@ tags:
 
 Páginas da categoria **Fatores Prognósticos**.
 
-- [Invasão Angiolinfática](Invasão Angiolinfática.md)
-- [Linfonodo Positivo (N+/LFN)](Linfonodo Positivo (N+-LFN).md)
+{{ gerar_lista_arquivos() }}
 
 [← Voltar ao índice geral](../index.md)

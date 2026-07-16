@@ -8,6 +8,6 @@ tags:
 
 Páginas da categoria **Cenários Especiais**.
 
-- [Câncer de Mama em Homens](Câncer de Mama em Homens.md)
+{{ gerar_lista_arquivos() }}
 
 [← Voltar ao índice geral](../index.md)

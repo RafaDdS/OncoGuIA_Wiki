@@ -1,12 +1,12 @@
 ---
-title: "Doença Metastática"
+title: "Patologia e Subtipos"
 tags:
   - "indice-de-categoria"
 ---
 
-# Doença Metastática
+# Patologia e Subtipos
 
-Páginas da categoria **Doença Metastática**.
+Páginas da categoria **Patologia e Subtipos**.
 
 {{ gerar_lista_arquivos() }}
 

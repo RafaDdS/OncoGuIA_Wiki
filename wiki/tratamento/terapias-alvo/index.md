@@ -1,12 +1,12 @@
 ---
-title: "Doença Metastática"
+title: "Terapias-Alvo"
 tags:
   - "indice-de-categoria"
 ---
 
-# Doença Metastática
+# Terapias-Alvo
 
-Páginas da categoria **Doença Metastática**.
+Páginas da categoria **Terapias-Alvo**.
 
 {{ gerar_lista_arquivos() }}
 

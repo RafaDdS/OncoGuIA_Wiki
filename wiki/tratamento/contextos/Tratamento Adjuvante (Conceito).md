@@ -12,7 +12,7 @@ status: "draft"
 
 # Tratamento Adjuvante (Conceito)
 
-Terapia sistêmica realizada após a cirurgia para reduzir risco de recorrência
+Terapia sistêmica realizada após a cirurgia para reduzir risco de recorrência.
 
 ## Ver também
 

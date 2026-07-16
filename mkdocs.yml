@@ -16,4 +16,5 @@ theme:
 
 plugins:
   - search
+  - macros
   - roamlinks

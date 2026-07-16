@@ -8,7 +8,6 @@ tags:
 
 Páginas da categoria **Epidemiologia**.
 
-- [Cobertura Mamográfica](Cobertura Mamográfica.md)
-- [Mortalidade / Incidência](Mortalidade - Incidência.md)
+{{ gerar_lista_arquivos() }}
 
 [← Voltar ao índice geral](../index.md)

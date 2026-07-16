@@ -8,11 +8,6 @@ tags:
 
 Páginas da categoria **Cuidados Adicionais**.
 
-- [Aconselhamento Genético](Aconselhamento Genético.md)
-- [Análogos do GnRH (GnRHa)](Análogos do GnRH (GnRHa).md)
-- [Ecocardiograma Doppler](Ecocardiograma Doppler.md)
-- [Intervalos Assistenciais](Intervalos Assistenciais.md)
-- [Preservação da Fertilidade](Preservação da Fertilidade.md)
-- [Seguimento Pós-Tratamento](Seguimento Pós-Tratamento.md)
+{{ gerar_lista_arquivos() }}
 
 [← Voltar ao índice geral](../index.md)

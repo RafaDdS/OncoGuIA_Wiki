@@ -8,7 +8,6 @@ tags:
 
 Páginas da categoria **Terapias Ósseas**.
 
-- [Denosumabe](Denosumabe.md)
-- [Ácido Zoledrônico](Ácido Zoledrônico.md)
+{{ gerar_lista_arquivos() }}
 
 [← Voltar ao índice geral](../index.md)

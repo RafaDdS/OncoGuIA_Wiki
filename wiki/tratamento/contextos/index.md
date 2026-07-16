@@ -1,12 +1,12 @@
 ---
-title: "Doença Metastática"
+title: "Contextos de Tratamento"
 tags:
   - "indice-de-categoria"
 ---
 
-# Doença Metastática
+# Contextos de Tratamento
 
-Páginas da categoria **Doença Metastática**.
+Páginas da categoria **Contextos de Tratamento**.
 
 {{ gerar_lista_arquivos() }}
 

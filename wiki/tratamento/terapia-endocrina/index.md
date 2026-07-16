@@ -1,12 +1,12 @@
 ---
-title: "Doença Metastática"
+title: "Terapia Endócrina"
 tags:
   - "indice-de-categoria"
 ---
 
-# Doença Metastática
+# Terapia Endócrina
 
-Páginas da categoria **Doença Metastática**.
+Páginas da categoria **Terapia Endócrina**.
 
 {{ gerar_lista_arquivos() }}
 

@@ -1,12 +1,12 @@
 ---
-title: "Doença Metastática"
+title: "Avaliação Neoadjuvante"
 tags:
   - "indice-de-categoria"
 ---
 
-# Doença Metastática
+# Avaliação Neoadjuvante
 
-Páginas da categoria **Doença Metastática**.
+Páginas da categoria **Avaliação Neoadjuvante**.
 
 {{ gerar_lista_arquivos() }}
 

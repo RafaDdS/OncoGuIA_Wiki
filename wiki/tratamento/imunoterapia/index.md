@@ -8,6 +8,6 @@ tags:
 
 Páginas da categoria **Imunoterapia**.
 
-- [Pembrolizumabe](Pembrolizumabe.md)
+{{ gerar_lista_arquivos() }}
 
 [← Voltar ao índice geral](../index.md)

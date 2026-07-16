@@ -8,9 +8,6 @@ tags:
 
 Páginas da categoria **Critérios de Risco**.
 
-- [Alto Risco Clínico](Alto Risco Clínico.md)
-- [Alto Risco Genômico](Alto Risco Genômico.md)
-- [CPS-EG](CPS-EG.md)
-- [Doença Residual](Doença Residual.md)
+{{ gerar_lista_arquivos() }}
 
 [← Voltar ao índice geral](../index.md)

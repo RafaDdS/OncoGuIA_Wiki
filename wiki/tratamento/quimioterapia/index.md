@@ -1,12 +1,12 @@
 ---
-title: "Doença Metastática"
+title: "Quimioterapia"
 tags:
   - "indice-de-categoria"
 ---
 
-# Doença Metastática
+# Quimioterapia
 
-Páginas da categoria **Doença Metastática**.
+Páginas da categoria **Quimioterapia**.
 
 {{ gerar_lista_arquivos() }}
 
