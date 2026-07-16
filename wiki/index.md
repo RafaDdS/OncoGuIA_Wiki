@@ -11,7 +11,6 @@ tags:
 ## [Patologia e Subtipos](patologia-e-subtipos/index.md) 
 
 - [Carcinoma Ductal in Situ (CDIS)](patologia-e-subtipos/Carcinoma Ductal in Situ (CDIS).md)
-- [Carcinoma Inflamatório](patologia-e-subtipos/Carcinoma Inflamatório.md)
 - [Carcinoma Lobular](patologia-e-subtipos/Carcinoma Lobular.md)
 - [Câncer de Mama (Visão Geral)](patologia-e-subtipos/Câncer de Mama (Visão Geral).md)
 - [Doença de Paget](patologia-e-subtipos/Doença de Paget.md)
@@ -57,6 +56,7 @@ tags:
 
 ## [Estadiamento](estadiamento/index.md) 
 
+- [Carcinoma Inflamatório](estadiamento/Carcinoma Inflamatório.md)
 - [CEA e CA 15-3](estadiamento/CEA e CA 15-3.md)
 - [Cintilografia Óssea](estadiamento/Cintilografia Óssea.md)
 - [Doença Localmente Avançada](estadiamento/Doença Localmente Avançada.md)

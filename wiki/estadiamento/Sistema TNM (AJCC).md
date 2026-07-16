@@ -43,7 +43,7 @@ As medidas do tumor primário referem-se sempre à **maior dimensão** do tumor.
 | **T4a** | Extensão para a parede torácica |
 | **T4b** | Ulceração e/ou nódulos satélites ipsilaterais e/ou edema da pele (incluindo pele em "casca de laranja") |
 | **T4c** | Presença de T4a e T4b |
-| **T4d** | Carcinoma inflamatório |
+| **T4d** | [[Carcinoma inflamatório]] |
 
 ---
 
