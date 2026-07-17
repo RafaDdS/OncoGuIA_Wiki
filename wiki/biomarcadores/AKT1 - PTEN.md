@@ -10,7 +10,25 @@ status: "draft"
 
 # AKT1 / PTEN
 
-Alterações na via AKT. A presença dessas mutações indica o uso do inibidor de AKT Capivasertibe, associado ao [[Fulvestranto]], conforme o estudo CAPItello-291.
+O gene **AKT1** e o gene supressor de tumor **PTEN** são componentes cruciais da via de sinalização intracelular PI3K/AKT/mTOR, que regula o crescimento, a proliferação e a sobrevivência celular. No câncer de mama, alterações nesses biomarcadores — como mutações ativadoras no *AKT1* ou a perda de função e mutações no *PTEN* — levam a uma hiperativação prolongada dessa via, o que promove o crescimento tumoral e frequentemente contribui para a resistência a terapias endócrinas.
+
+## Diagnóstico e Avaliação
+
+A detecção de alterações na via AKT/PTEN é realizada a partir de amostras de tecido tumoral (biópsia sólida) ou, em alguns casos, por biópsia líquida:
+
+* **Sequenciamento de Nova Geração (NGS):** É o método de escolha para identificar mutações patogênicas específicas no gene *AKT1* (como a mutação E17K) e alterações no gene *PTEN*.
+* **[[Imuno-histoquímica (IHQ)]]:** Pode ser utilizada complementarmente para avaliar a perda da expressão da proteína PTEN no tecido tumoral, um indicativo de que a função de supressão tumoral do gene foi comprometida.
+
+## Abordagem Clínica e Tratamento
+
+O conhecimento do status de alterações em AKT1 e PTEN assumiu recentemente um papel central na personalização do tratamento, especialmente nas fases avançadas da doença.
+
+### Cenário Metastático
+
+Para pacientes com câncer de mama avançado ou metastático classificado como Receptor Hormonal positivo (HR+) e HER2 negativo, a presença de alterações nesses genes abre novas portas terapêuticas:
+
+* **Terapia-Alvo Direcionada (Capivasertibe):** Pacientes cujos tumores apresentam mutações em *AKT1*, alterações em *PTEN* (ou mutações no gene *PIK3CA*) são elegíveis para o tratamento com **capivasertibe** (um inibidor inibidor específico da via AKT) combinado ao fulvestranto. Essa combinação demonstrou eficácia clínica significativa em ensaios recentes para contornar a resistência à hormonioterapia padrão.
+* **Estratégia de Tratamento:** Como a hiperativação dessa via está ligada a uma pior resposta à terapia endócrina isolada, identificar precocemente alterações em *AKT1/PTEN* permite que o oncologista sequencie o tratamento de forma mais eficaz, bloqueando diretamente a via de escape do tumor.
 
 ## Ver também
 
