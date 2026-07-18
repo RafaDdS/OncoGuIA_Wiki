@@ -12,11 +12,19 @@ status: "draft"
 
 # Câncer de Mama em Homens
 
-[[Tamoxifeno]] é a hormonioterapia preferencial; IAs só com supressão de GnRH; RT segue as mesmas indicações das mulheres.
+A lógica do tratamento adjuvante em homens segue, na sua essência, os pilares já consolidados para o tratamento em mulheres. No entanto, existem particularidades importantes a serem observadas:
 
-## Ver também
 
-- [[Tamoxifeno]]
+- **Hormonioterapia:** Na doença com receptor hormonal positivo (RH+), o tamoxifeno é o tratamento endócrino adjuvante de escolha. Ele é preferido em relação aos inibidores de aromatase (IA) isolados devido à escassez de evidências científicas que sustentem a monoterapia com IA no público masculino.
+
+
+- **Alternativa ao Tamoxifeno:** Nos casos em que há contraindicação ao uso do tamoxifeno, pode-se considerar o uso de um IA, desde que obrigatoriamente associado a um análogo de GnRH (para supressão).
+
+
+- **Inibidores de Ciclinas (iCDKs):** O uso de iCDKs no cenário adjuvante em homens segue os mesmos critérios de elegibilidade validados nos estudos pivotais originais.
+
+
+- **Radioterapia (RT):** A radioterapia adjuvante possui indicação obrigatória após cirurgias conservadoras. Em cenários de mastectomia, a RT deve ser considerada para homens que apresentem os mesmos fatores de maior risco adotados para mulheres, como o comprometimento linfonodal ou tumores volumosos (T3 e T4).
 
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: Câncer de mama em homens.*

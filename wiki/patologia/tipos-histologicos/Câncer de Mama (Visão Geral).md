@@ -14,14 +14,5 @@ status: "draft"
 
 Neoplasia maligna da mama, alvo das diretrizes
 
-## Ver também
-
-- [[Carcinoma Ductal in Situ (CDIS)]]
-- [[Carcinoma Inflamatório]]
-- [[Carcinoma Lobular]]
-- [[Doença de Paget]]
-- [[Grau Histológico (G1–G3)]]
-- [[Linfócitos Infiltrantes Tumorais (TILs)]]
-
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: Câncer de mama / Tumor mamário.*

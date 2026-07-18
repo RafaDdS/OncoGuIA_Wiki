@@ -35,18 +35,5 @@ A utilidade clínica deste biomarcador aplica-se majoritariamente ao câncer de 
 * **Fulvestranto:** Outro SERD (injetável) frequentemente utilizado neste cenário. Por atuar ligando-se ao receptor e promovendo sua degradação, o fulvestranto consegue contornar a resistência, diferentemente dos inibidores de aromatase, que apenas bloqueiam a produção de estrogênio.
 * **Redirecionamento de Tratamento:** A detecção da mutação alerta a equipe oncológica de que o uso ou a manutenção de inibidores de aromatase (como letrozol, anastrozol ou exemestano) será ineficaz, evitando que a paciente seja exposta a tratamentos sem benefício clínico.
 
-## Ver também
-
-- [[AKT1 - PTEN|AKT1 / PTEN]]
-- [[BRCA1 - BRCA2|BRCA1 / BRCA2]]
-- [[FISH - CISH - SISH|FISH / CISH / SISH]]
-- [[HER2]]
-- [[Inibidores de Aromatase]]
-- [[Ki67]]
-- [[PD-L1]]
-- [[PIK3CA]]
-- [[Perfis de Expressão Gênica (Visão Geral)]]
-- [[Receptores Hormonais (RE-RP-RH)|Receptores Hormonais (RE/RP/RH)]]
-
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: ESR1.*

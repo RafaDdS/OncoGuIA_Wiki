@@ -41,17 +41,5 @@ Na doença avançada, a Fosfatase Alcalina torna-se uma ferramenta útil de moni
 * **Avaliação de Resposta:** Em pacientes com metástases ósseas ou hepáticas já estabelecidas, as flutuações nos níveis de FALC ao longo do tempo podem ajudar a indicar se o tratamento sistêmico (seja quimioterapia, hormonioterapia ou terapias-alvo) está conseguindo controlar a doença.
 * **Acompanhamento Ósseo:** É frequentemente avaliada em conjunto com exames de imagem e durante a administração de medicamentos modificadores da doença óssea (como bisfosfonatos e denosumabe), auxiliando a mapear o controle das lesões no esqueleto.
 
-## Ver também
-
-- [[CEA e CA 15-3]]
-- [[Cintilografia Óssea]]
-- [[Doença Localmente Avançada]]
-- [[Estadiamento Prognóstico Clínico e Patológico]]
-- [[Estádios (0–IV)]]
-- [[PET-CT|PET/CT]]
-- [[RM de Crânio com Contraste]]
-- [[Sistema TNM (AJCC)]]
-- [[TC de Tórax-Abdome-Pelve com Contraste|TC de Tórax/Abdome/Pelve com Contraste]]
-
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: Fosfatase alcalina (FALC).*

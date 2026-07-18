@@ -33,18 +33,5 @@ O Trop-2 é o alvo direto do **Sacituzumabe govitecana**, um Anticorpo Conjugado
 * **Câncer de Mama Triplo-Negativo:** O uso deste ADC tornou-se um pilar de tratamento fundamental para pacientes com câncer de mama triplo-negativo metastático que já receberam terapias sistêmicas prévias, demonstrando ganhos muito expressivos no controle da doença e na sobrevida global.
 * **Câncer de Mama HR+ / HER2-:** Mais recentemente, o benefício da terapia anti-Trop-2 foi expandido. Pacientes com tumores que expressam receptores hormonais (HR+) e são HER2 negativos, e que já progrediram após tratamentos com terapia endócrina e quimioterapia, também são elegíveis para o tratamento com Sacituzumabe govitecana, ampliando o horizonte de cuidados para este grupo.
 
-## Ver também
-
-- [[AKT1 - PTEN|AKT1 / PTEN]]
-- [[BRCA1 - BRCA2|BRCA1 / BRCA2]]
-- [[ESR1]]
-- [[FISH - CISH - SISH|FISH / CISH / SISH]]
-- [[HER2]]
-- [[Ki67]]
-- [[PD-L1]]
-- [[PIK3CA]]
-- [[Perfis de Expressão Gênica (Visão Geral)]]
-- [[Receptores Hormonais (RE-RP-RH)|Receptores Hormonais (RE/RP/RH)]]
-
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: Trop-2.*

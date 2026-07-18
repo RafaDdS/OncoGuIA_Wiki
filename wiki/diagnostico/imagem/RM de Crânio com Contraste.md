@@ -19,17 +19,5 @@ Ressonância magnética indicada para suspeita de metástases cerebrais.
 - **Em caso de sintomas neurológicos:** Sugere-se RM de crânio com contraste.
 - **Em tumores localmente avançados (estádios II e III) ou neoadjuvantes:** A RM de crânio deve ser realizada em pacientes com sinais e sintomas neurológicos e considerada naquelas com tumores triplo-negativos e HER2 positivo se doença localmente avançada.
 
-## Ver também
-
-- [[CEA e CA 15-3]]
-- [[Cintilografia Óssea]]
-- [[Doença Localmente Avançada]]
-- [[Estadiamento Prognóstico Clínico e Patológico]]
-- [[Estádios (0–IV)]]
-- [[Fosfatase Alcalina (FALC)]]
-- [[PET-CT|PET/CT]]
-- [[Sistema TNM (AJCC)]]
-- [[TC de Tórax-Abdome-Pelve com Contraste|TC de Tórax/Abdome/Pelve com Contraste]]
-
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: RM de crânio com contraste.*

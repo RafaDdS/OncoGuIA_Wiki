@@ -10,14 +10,15 @@ status: "draft"
 
 # CPS-EG
 
-Escore prognóstico para TNBC; ≥3 define elegibilidade para [[Olaparibe|olaparibe]] adjuvante em [[Doença Residual|doença residual]].
+O escore CPS-EG é um sistema prognóstico utilizado para estimar o risco de recorrência em pacientes com câncer de mama, especialmente no subtipo triplo-negativo (TNBC), que apresentam doença residual após quimioterapia neoadjuvante. O acrônimo engloba variáveis clínico-patológicas fundamentais: Estádio Clínico (Clinical Stage), Estádio Patológico pós-tratamento (Post-treatment Pathological Stage), status do Receptor de Estrogênio (Estrogen Receptor) e Grau histológico (Grade).
 
-## Ver também
+## Aplicações Clínicas e Tratamento
 
-- [[Alto Risco Clínico]]
-- [[Alto Risco Genômico]]
-- [[Doença Residual]]
-- [[Olaparibe]]
+Na prática clínica, o CPS-EG auxilia diretamente a personalização do tratamento adjuvante. Um escore CPS-EG ≥ 3 indica alto risco de recorrência e é utilizado como ponto de corte para definir a elegibilidade do uso de terapia-alvo adjuvante. Pacientes com doença residual, escore elevado e que apresentam mutação germinativa no gene BRCA possuem indicação para o tratamento com o inibidor de PARP olaparibe.
+
+## Estudos-Chave
+
+O uso do CPS-EG como critério para definir o alto risco clínico-patológico foi consolidado pelo estudo **OlympiA**, que demonstrou melhorias expressivas na sobrevida livre de doença invasiva e na sobrevida global com a adição do olaparibe no cenário adjuvante para pacientes BRCA mutadas.
 
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: CPS-EG.*

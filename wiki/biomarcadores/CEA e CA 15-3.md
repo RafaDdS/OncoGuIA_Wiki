@@ -38,17 +38,5 @@ A principal indicação e utilidade clínica do CEA e do CA 15-3 concentra-se na
 * **Avaliação de Resposta Terapêutica:** Eles são frequentemente medidos antes do início de uma nova linha de tratamento sistêmico (quimioterapia, hormonioterapia ou terapia-alvo) para estabelecer um valor basal. Ao longo do tratamento, reduções consistentes nos níveis geralmente indicam resposta positiva à terapia, enquanto aumentos contínuos podem sinalizar resistência ou progressão da doença.
 * **Complemento aos Exames de Imagem:** O acompanhamento desses marcadores é particularmente útil como um dado complementar aos exames de imagem, especialmente quando a paciente apresenta metástases exclusivamente ósseas, um cenário em que a resposta radiológica pode ser de difícil mensuração em estágios iniciais de tratamento.
 
-## Ver também
-
-- [[Cintilografia Óssea]]
-- [[Doença Localmente Avançada]]
-- [[Estadiamento Prognóstico Clínico e Patológico]]
-- [[Estádios (0–IV)]]
-- [[Fosfatase Alcalina (FALC)]]
-- [[PET-CT|PET/CT]]
-- [[RM de Crânio com Contraste]]
-- [[Sistema TNM (AJCC)]]
-- [[TC de Tórax-Abdome-Pelve com Contraste|TC de Tórax/Abdome/Pelve com Contraste]]
-
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: CEA e CA 15-3.*

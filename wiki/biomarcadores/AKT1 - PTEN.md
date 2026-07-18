@@ -30,18 +30,5 @@ Para pacientes com câncer de mama avançado ou metastático classificado como R
 * **Terapia-Alvo Direcionada (Capivasertibe):** Pacientes cujos tumores apresentam mutações em *AKT1*, alterações em *PTEN* (ou mutações no gene *PIK3CA*) são elegíveis para o tratamento com **capivasertibe** (um inibidor inibidor específico da via AKT) combinado ao fulvestranto. Essa combinação demonstrou eficácia clínica significativa em ensaios recentes para contornar a resistência à hormonioterapia padrão.
 * **Estratégia de Tratamento:** Como a hiperativação dessa via está ligada a uma pior resposta à terapia endócrina isolada, identificar precocemente alterações em *AKT1/PTEN* permite que o oncologista sequencie o tratamento de forma mais eficaz, bloqueando diretamente a via de escape do tumor.
 
-## Ver também
-
-- [[BRCA1 - BRCA2|BRCA1 / BRCA2]]
-- [[ESR1]]
-- [[FISH - CISH - SISH|FISH / CISH / SISH]]
-- [[Fulvestranto]]
-- [[HER2]]
-- [[Ki67]]
-- [[PD-L1]]
-- [[PIK3CA]]
-- [[Perfis de Expressão Gênica (Visão Geral)]]
-- [[Receptores Hormonais (RE-RP-RH)|Receptores Hormonais (RE/RP/RH)]]
-
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: AKT1 / PTEN.*

@@ -24,14 +24,5 @@ O PEPI Score (Preoperative Endocrine Prognostic Index) é um sistema de pontuaç
 
 A fundação teórica do PEPI Score ocorreu através da análise retrospectiva dos tecidos do estudo **P024** (que comparou letrozol ao tamoxifeno). Sua consagração clínica, no entanto, deu-se pela validação prospectiva no ensaio **ACOSOG Z1031**, que cravou a eficácia do índice em pinçar de maneira altamente precisa o subgrupo de pacientes com risco extremamente baixo de recaída.
 
-## Ver também
-
-- [[CTS5]]
-- [[Hormonioterapia Neoadjuvante]]
-- [[Mammaprint]]
-- [[PREDICT]]
-- [[RSClin - RSC4All|RSClin / RSC4All]]
-- [[Recurrence Score (RS) - Oncotype DX|Recurrence Score (RS) / Oncotype DX]]
-
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: PEPI Score (Preoperative Endocrine Prognostic Index).*

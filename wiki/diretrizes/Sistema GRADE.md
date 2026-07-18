@@ -23,11 +23,5 @@ Classifica o nível de evidência (Alto, Moderado, Baixo, Muito Baixo) e a forç
 - **Neoadjuvante** (*Sistema GRADE*): Classifica o nível de evidência (Alto, Moderado, Baixo, Muito Baixo) e a força da recomendação (Forte ou Fraca/Condicional). Utilizado na diretriz para embasar decisões clínicas e de política de saúde.
 - **Metastático** (*Sistema GRADE*): Sistema utilizado na diretriz para classificar a qualidade da evidência científica (Alto, Moderado, Baixo, Muito baixo) e a força da recomendação (Forte ou Fraca/Condicional).
 
-## Ver também
-
-- [[ESMO - NCCN - ASCO - AJCC|ESMO / NCCN / ASCO / AJCC]]
-- [[Lei nº 11.664-2008|Lei nº 11.664/2008]]
-- [[Sociedade Brasileira de Oncologia Clínica (SBOC)]]
-
 ---
 *Página gerada a partir de 3 termo(s) original(is) do glossário: Sistema GRADE, Sistema Grade.*

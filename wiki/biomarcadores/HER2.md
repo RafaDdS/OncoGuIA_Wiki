@@ -57,19 +57,4 @@ O tratamento da doença avançada é altamente responsivo a terapias-alvo e depe
 * **Para HER2-low e HER2-ultra low:** Pacientes com essas classificações beneficiam-se expressivamente do tratamento com o ADC **Trastuzumabe deruxtecana (T-DXd)**, que demonstrou alta eficácia nesses cenários clínicos inovadores.
 
 ---
-
-## Ver também
-
-- [[AKT1 - PTEN|AKT1 / PTEN]]
-- [[BRCA1 - BRCA2|BRCA1 / BRCA2]]
-- [[Carboplatina]]
-- [[ESR1]]
-- [[FISH - CISH - SISH|FISH / CISH / SISH]]
-- [[Ki67]]
-- [[PD-L1]]
-- [[Pertuzumabe]]
-- [[TCH - TCHP|TCH / TCHP]]
-- [[Trastuzumabe]]
-
----
 *Página gerada a partir de 6 termo(s) original(is) do glossário: HER2, HER2 positivo, HER2-low, HER2-ultra low.*

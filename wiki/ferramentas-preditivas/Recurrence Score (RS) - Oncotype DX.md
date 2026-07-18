@@ -36,15 +36,4 @@ O Oncotype DX é um painel genômico de 21 genes (16 genes relacionados ao cânc
 **Estudo RxPonder (SWOG S1007):** Avaliou pacientes com 1 a 3 linfonodos axilares positivos, câncer de mama RH+ e HER2- com Recurrence Score < 25. Seus resultados foram divisores de águas ao confirmar que mulheres na pós-menopausa nesse cenário não ganham benefício com a quimioterapia, alterando protocolos globais.
 
 ---
-
-## Ver também
-
-- [[CTS5]]
-- [[Mammaprint]]
-- [[PEPI Score]]
-- [[PREDICT]]
-- [[RSClin - RSC4All|RSClin / RSC4All]]
-- [[Subtipo Luminal (RH+-HER2-)|Subtipo Luminal (RH+/HER2-)]]
-
----
 *Página gerada a partir de 2 termo(s) original(is) do glossário: Oncotype DX, RS (Recurrence Score).*

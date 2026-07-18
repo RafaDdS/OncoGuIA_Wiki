@@ -10,18 +10,15 @@ tags:
 status: "draft"
 ---
 
-# Intervalos Assistenciais
+### Intervalos Assistenciais
 
-Tempos entre suspeita, biópsia, laudo, biomarcadores, [[Estadiamento Prognóstico Clínico e Patológico|estadiamento]] e início do tratamento, monitorados como qualidade
+A agilidade na jornada do paciente é um indicador de qualidade fundamental nos centros oncológicos. O monitoramento rigoroso dos intervalos assistenciais compreende o acompanhamento dos tempos decorridos entre:
 
-## Ver também
-
-- [[Aconselhamento Genético]]
-- [[Análogos do GnRH (GnRHa)]]
-- [[Ecocardiograma Doppler]]
-- [[Estadiamento Prognóstico Clínico e Patológico]]
-- [[Preservação da Fertilidade]]
-- [[Seguimento Pós-Tratamento]]
+1. A suspeita clínica ou achado radiológico.
+2. A realização da biópsia e a emissão do laudo anatomopatológico.
+3. A liberação dos exames de imuno-histoquímica (biomarcadores).
+4. O estadiamento clínico/patológico completo.
+5. O início efetivo do primeiro tratamento (seja cirúrgico, quimioterápico neoadjuvante ou hormonioterápico).
 
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: Intervalos assistenciais.*

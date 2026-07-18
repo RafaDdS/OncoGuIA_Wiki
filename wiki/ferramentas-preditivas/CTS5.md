@@ -22,14 +22,4 @@ Enquanto a maioria das calculadoras foca nos primeiros anos após o diagnóstico
 O algoritmo do CTS5 foi derivado a partir do banco de dados gigantesco do estudo **ATAC** (*Arimidex, Tamoxifen, Alone or in Combination*) e extensamente validado externamente com os dados do estudo **BIG 1-98**. A solidez dessas bases garantiu que a ferramenta representasse fielmente o comportamento tardio do câncer de mama endócrino-dependente.
 
 ---
-
-## Ver também
-
-- [[Mammaprint]]
-- [[PEPI Score]]
-- [[PREDICT]]
-- [[RSClin - RSC4All|RSClin / RSC4All]]
-- [[Recurrence Score (RS) - Oncotype DX|Recurrence Score (RS) / Oncotype DX]]
-
----
 *Página gerada a partir de 1 termo(s) original(is) do glossário: CTS5.*

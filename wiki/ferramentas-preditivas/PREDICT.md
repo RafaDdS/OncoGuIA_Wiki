@@ -23,14 +23,4 @@ O PREDICT é uma ferramenta online gratuita e um dos modelos preditivos prognós
 O modelo matemático do PREDICT foi inicialmente desenvolvido a partir de um vasto banco de dados do *UK Cancer Registry* (Registro de Câncer do Reino Unido). Posteriormente, passou por múltiplas validações externas independentes em diversas coortes ao redor do mundo, confirmando sua alta precisão preditiva, o que garantiu seu endosso por diretrizes internacionais de mastologia e oncologia.
 
 ---
-
-## Ver também
-
-- [[CTS5]]
-- [[Mammaprint]]
-- [[PEPI Score]]
-- [[RSClin - RSC4All|RSClin / RSC4All]]
-- [[Recurrence Score (RS) - Oncotype DX|Recurrence Score (RS) / Oncotype DX]]
-
----
 *Página gerada a partir de 1 termo(s) original(is) do glossário: PREDICT.*

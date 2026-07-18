@@ -12,9 +12,5 @@ status: "draft"
 
 Indicadores epidemiológicos que fundamentam a necessidade do rastreamento precoce; redução de 20% em ensaios clínicos
 
-## Ver também
-
-- [[Cobertura Mamográfica]]
-
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: Mortalidade / Incidência.*

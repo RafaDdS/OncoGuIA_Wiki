@@ -26,19 +26,4 @@ Os perfis de expressão gênica (ou painéis genômicos) são testes laboratoria
 A adoção mundial dos perfis genômicos é respaldada por grandes estudos prospectivos randomizados de fase III, como o **TAILORx**, o **RxPonder** e o **MINDACT**. Esses ensaios representaram um marco na oncologia moderna ao provar, com alto nível de evidência, a segurança de não administrar quimioterapia em populações específicas categorizadas como de "baixo risco genômico", poupando milhares de pacientes de toxicidades desnecessárias.
 
 ---
-
-## Ver também
-
-- [[AKT1 - PTEN|AKT1 / PTEN]]
-- [[BRCA1 - BRCA2|BRCA1 / BRCA2]]
-- [[ESR1]]
-- [[FISH - CISH - SISH|FISH / CISH / SISH]]
-- [[HER2]]
-- [[Ki67]]
-- [[PD-L1]]
-- [[PIK3CA]]
-- [[Recurrence Score (RS) - Oncotype DX|Recurrence Score (RS) / Oncotype DX]]
-- [[Tratamento Adjuvante (Conceito)]]
-
----
 *Página gerada a partir de 1 termo(s) original(is) do glossário: Perfis de expressão gênica.*

@@ -14,9 +14,5 @@ status: "draft"
 
 Presença de invasão de vasos sanguíneos ou linfáticos; fator de risco adicional para recidiva.
 
-## Ver também
-
-- [[Linfonodo Positivo (N+-LFN)|Linfonodo Positivo (N+/LFN)]]
-
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: Invasão angiolinfática.*

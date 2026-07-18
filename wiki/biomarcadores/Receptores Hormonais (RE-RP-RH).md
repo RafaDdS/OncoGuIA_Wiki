@@ -54,18 +54,5 @@ Para a doença avançada ou metastática que expressa receptores hormonais e é 
 * **Combinação com Terapias-Alvo:** A primeira linha de tratamento padrão envolve a combinação de um agente de hormonioterapia (inibidor de aromatase ou fulvestranto) com um **inibidor de CDK4/6** (palbociclibe, ribociclibe ou abemaciclibe), o que demonstrou aumentar significativamente a sobrevida das pacientes.
 * **Tratamentos Sequenciais Guiados por Biomarcadores:** À medida que o tumor desenvolve resistência à terapia inicial, novos exames moleculares são solicitados para buscar mutações adquiridas. Dependendo dos resultados, a estratégia é ajustada utilizando terapias direcionadas, como inibidores de PI3K (para mutações em *PIK3CA*), inibidores de AKT (para alterações em *AKT1/PTEN*) ou SERDs como o elacestranto (para mutações em *ESR1*).
 
-## Ver também
-
-- [[AKT1 - PTEN|AKT1 / PTEN]]
-- [[BRCA1 - BRCA2|BRCA1 / BRCA2]]
-- [[ESR1]]
-- [[FISH - CISH - SISH|FISH / CISH / SISH]]
-- [[HER2]]
-- [[Ki67]]
-- [[PD-L1]]
-- [[PIK3CA]]
-- [[Perfis de Expressão Gênica (Visão Geral)]]
-- [[Trop-2]]
-
 ---
 *Página gerada a partir de 4 termo(s) original(is) do glossário: RE/RP, RH, Receptor de Estrógeno (RE), Receptor de Progesterona (RP).*

@@ -14,10 +14,5 @@ status: "draft"
 
 Terapia sistêmica (quimioterapia, hormonioterapia ou alvo) realizada antes da cirurgia.
 
-## Ver também
-
-- [[Resposta Patológica Completa (RPC)]]
-- [[Tratamento Adjuvante (Conceito)]]
-
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: Tratamento neoadjuvante.*

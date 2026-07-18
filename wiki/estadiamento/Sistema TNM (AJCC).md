@@ -116,17 +116,5 @@ Deve ser utilizado **apenas em locais onde exames de biomarcadores estejam indis
 | **IV** | Qualquer T | Qualquer N | M1 |
 
 
-## Ver também
-
-- [[CEA e CA 15-3]]
-- [[Cintilografia Óssea]]
-- [[Doença Localmente Avançada]]
-- [[Estadiamento Prognóstico Clínico e Patológico]]
-- [[Estádios (0–IV)]]
-- [[Fosfatase Alcalina (FALC)]]
-- [[PET-CT|PET/CT]]
-- [[RM de Crânio com Contraste]]
-- [[TC de Tórax-Abdome-Pelve com Contraste|TC de Tórax/Abdome/Pelve com Contraste]]
-
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: Sistema TNM (8ª edição AJCC).*

@@ -35,18 +35,5 @@ A utilidade clínica deste biomarcador concentra-se em pacientes com câncer de 
 * **Inibidores de AKT (Capivasertibe):** Como a proteína PI3K atua em conjunto com a AKT e a PTEN na mesma cascata de sinalização celular, pacientes com mutações no *PIK3CA* também se enquadram nos critérios de elegibilidade para o uso do inibidor de AKT **capivasertibe** (também associado ao fulvestranto), oferecendo uma importante alternativa terapêutica direcionada.
 * **Manejo e Acompanhamento:** O uso dessas terapias-alvo exige um monitoramento clínico rigoroso, pois o bloqueio dessa via metabólica pode causar efeitos adversos específicos, como hiperglicemia (aumento do açúcar no sangue), que requerem acompanhamento laboratorial contínuo.
 
-## Ver também
-
-- [[AKT1 - PTEN|AKT1 / PTEN]]
-- [[BRCA1 - BRCA2|BRCA1 / BRCA2]]
-- [[ESR1]]
-- [[FISH - CISH - SISH|FISH / CISH / SISH]]
-- [[HER2]]
-- [[Ki67]]
-- [[PD-L1]]
-- [[Perfis de Expressão Gênica (Visão Geral)]]
-- [[Receptores Hormonais (RE-RP-RH)|Receptores Hormonais (RE/RP/RH)]]
-- [[Trop-2]]
-
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: PIK3CA.*

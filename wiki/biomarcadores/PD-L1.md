@@ -43,18 +43,5 @@ Na doença avançada ou metastática, o cenário muda, e a PD-L1 torna-se um bio
 * **Terapia Direcionada:** Para pacientes com câncer de mama triplo-negativo metastático, a adição de **Pembrolizumabe** à quimioterapia de primeira linha está indicada **exclusivamente** para aqueles tumores que apresentam expressão de PD-L1 com **CPS ≥ 10** (conforme os achados do estudo *KEYNOTE-355*).
 * **Direcionamento Terapêutico:** Pacientes com tumores metastáticos com CPS inferior a 10 (negativos para PD-L1) não demonstram benefício significativo com a imunoterapia e devem ser direcionados para outras abordagens sistêmicas, como quimioterapias exclusivas ou anticorpos conjugados a fármacos (ADCs).
 
-## Ver também
-
-- [[AKT1 - PTEN|AKT1 / PTEN]]
-- [[BRCA1 - BRCA2|BRCA1 / BRCA2]]
-- [[ESR1]]
-- [[FISH - CISH - SISH|FISH / CISH / SISH]]
-- [[HER2]]
-- [[Ki67]]
-- [[PIK3CA]]
-- [[Pembrolizumabe]]
-- [[Perfis de Expressão Gênica (Visão Geral)]]
-- [[Receptores Hormonais (RE-RP-RH)|Receptores Hormonais (RE/RP/RH)]]
-
 ---
 *Página gerada a partir de 2 termo(s) original(is) do glossário: PD-L1, PD-L1 (CPS).*

@@ -27,15 +27,4 @@ O Mammaprint é um ensaio genômico baseado em tecnologia de *microarray* que an
 * Em atualizações mais recentes do estudo (seguimento de longo prazo), notou-se que em pacientes jovens (< 50 anos) com perfil discordante, um pequeno benefício da quimioterapia não pôde ser completamente descartado, orientando os médicos a usarem o teste com cautela redobrada nessa faixa etária específica.
 
 ---
-
-## Ver também
-
-- [[CTS5]]
-- [[PEPI Score]]
-- [[PREDICT]]
-- [[RSClin - RSC4All|RSClin / RSC4All]]
-- [[Recurrence Score (RS) - Oncotype DX|Recurrence Score (RS) / Oncotype DX]]
-- [[Subtipo Luminal (RH+-HER2-)|Subtipo Luminal (RH+/HER2-)]]
-
----
 *Página gerada a partir de 1 termo(s) original(is) do glossário: Mammaprint.*

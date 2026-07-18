@@ -45,18 +45,5 @@ Na doença avançada ou metastática, as terapias-alvo exploram o conceito de "l
 
 * **Inibidores de PARP:** Pacientes com câncer de mama metastático HER2-negativo e mutação germinativa no BRCA (gBRCAm) têm forte indicação para o tratamento com inibidores de PARP, como o **Olaparibe** ou o **Talazoparibe**. Essas medicações bloqueiam uma via alternativa de reparo de DNA (a enzima PARP), causando o colapso e a morte seletiva das células tumorais que já possuem a via do BRCA defeituosa.
 
-## Ver também
-
-- [[AKT1 - PTEN|AKT1 / PTEN]]
-- [[ESR1]]
-- [[FISH - CISH - SISH|FISH / CISH / SISH]]
-- [[HER2]]
-- [[Ki67]]
-- [[Olaparibe]]
-- [[PD-L1]]
-- [[PIK3CA]]
-- [[Perfis de Expressão Gênica (Visão Geral)]]
-- [[Subtipo Luminal (RH+-HER2-)|Subtipo Luminal (RH+/HER2-)]]
-
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: BRCA1 / BRCA2.*

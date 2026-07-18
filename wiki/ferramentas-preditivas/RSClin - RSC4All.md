@@ -22,14 +22,4 @@ O Recurrence Score (RS) isolado não leva em conta o tamanho físico do tumor ou
 O modelo fundacional (RSClin) foi estruturado a partir de metanálises profundas de estudos clássicos do *National Surgical Adjuvant Breast and Bowel Project* (NSABP), incluindo o B-14 e o B-20. As validações mostraram que a combinação de dados genômicos e clínicos supera a precisão de ambas as abordagens quando utilizadas de forma isolada.
 
 ---
-
-## Ver também
-
-- [[CTS5]]
-- [[Mammaprint]]
-- [[PEPI Score]]
-- [[PREDICT]]
-- [[Recurrence Score (RS) - Oncotype DX|Recurrence Score (RS) / Oncotype DX]]
-
----
 *Página gerada a partir de 1 termo(s) original(is) do glossário: RSClin / RSC4All.*
