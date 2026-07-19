@@ -1,6 +1,6 @@
 ---
 title: "Sociedade Brasileira de Oncologia Clínica (SBOC)"
-category: "Diretrizes e Instituições"
+category: "Instituições"
 source_documents:
   - "Estadiamento"
 tags:

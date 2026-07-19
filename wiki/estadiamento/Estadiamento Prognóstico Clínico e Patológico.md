@@ -2,7 +2,6 @@
 title: "Estadiamento Prognóstico Clínico e Patológico"
 aliases:
   - "Estadiamento prognóstico clínico e patológico"
-  - "Estadiamento"
 category: "Estadiamento"
 source_documents:
   - "Estadiamento"

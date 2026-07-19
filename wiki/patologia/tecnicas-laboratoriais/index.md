@@ -1,12 +1,12 @@
 ---
-title: "Patologia e Subtipos"
+title: "Técnicas Laboratoriais"
 tags:
   - "indice-de-categoria"
 ---
 
-# Patologia e Subtipos
+# Técnicas Laboratoriais
 
-Páginas da categoria **Patologia e Subtipos**.
+Páginas da categoria **Técnicas Laboratoriais**.
 
 {{ gerar_lista_arquivos() }}
 

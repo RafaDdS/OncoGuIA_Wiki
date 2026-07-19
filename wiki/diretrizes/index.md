@@ -1,12 +1,12 @@
 ---
-title: "Diretrizes e Instituições"
+title: "Diretrizes"
 tags:
   - "indice-de-categoria"
 ---
 
-# Diretrizes e Instituições
+# Diretrizes
 
-Páginas da categoria **Diretrizes e Instituições**.
+Páginas da categoria **Diretrizes**.
 
 {{ gerar_lista_arquivos() }}
 

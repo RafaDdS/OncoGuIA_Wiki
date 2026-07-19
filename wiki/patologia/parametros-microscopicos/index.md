@@ -1,12 +1,12 @@
 ---
-title: "Patologia e Subtipos"
+title: "Parametros Microscopicos"
 tags:
   - "indice-de-categoria"
 ---
 
-# Patologia e Subtipos
+# Parametros Microscopicos
 
-Páginas da categoria **Patologia e Subtipos**.
+Páginas da categoria **Parametros Microscopicos**.
 
 {{ gerar_lista_arquivos() }}
 

@@ -1,12 +1,12 @@
 ---
-title: "Patologia e Subtipos"
+title: "Patologia"
 tags:
   - "indice-de-categoria"
 ---
 
-# Patologia e Subtipos
+# Patologia
 
-Páginas da categoria **Patologia e Subtipos**.
+Páginas da categoria **Patologia**.
 
 {{ gerar_lista_arquivos() }}
 

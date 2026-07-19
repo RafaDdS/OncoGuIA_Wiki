@@ -1,12 +1,12 @@
 ---
-title: "Doença Metastática"
+title: "Desfechos Clínicos em Oncologia"
 tags:
   - "indice-de-categoria"
 ---
 
-# Doença Metastática
+# Desfechos Clínicos em Oncologia
 
-Páginas da categoria **Doença Metastática**.
+A avaliação da eficácia de um tratamento oncológico baseia-se em métricas padronizadas chamadas de "desfechos". Abaixo estão os principais termos utilizados na literatura médica e nas diretrizes:
 
 {{ gerar_lista_arquivos() }}
 
