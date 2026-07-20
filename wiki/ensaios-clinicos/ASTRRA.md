@@ -15,7 +15,7 @@ status: "draft"
  2023
 
 ## Objetivos:
- Investigar a adição de supressão da função ovariana (SFO) ao tamoxifeno após quimioterapia em mulheres pré-menopausadas que recuperaram a função ovariana.
+ Investigar a adição de supressão da função ovariana (SFO) ao [[Tamoxifeno|tamoxifeno]] após [[tratamento/quimioterapia/index|quimioterapia]] em mulheres pré-menopausadas que recuperaram a função ovariana.
 
 ## Resultados e Impacto Clínico:
  Confirmou benefício significativo na sobrevida livre de doença (SLD) em 8 anos com a adição de SFO ao tamoxifeno, validando o uso de SFO nesta população de risco.

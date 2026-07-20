@@ -18,4 +18,4 @@ status: "draft"
  Avaliar a eficácia de sacituzumabe govitecana em pacientes com câncer de mama triplo-negativo metastático previamente tratado.
 
 ## Resultados e Impacto Clínico:
- Ganhos significativos em SLP e SG mediana, estabelecendo o sacituzumabe govitecana como uma opção de tratamento eficaz com perfil de toxicidade manejável.
+ Ganhos significativos em SLP e SG mediana, estabelecendo o sacituzumabe govitecana como uma opção de [[tratamento/index|tratamento]] eficaz com perfil de toxicidade manejável.

@@ -15,7 +15,7 @@ status: "draft"
  2011
 
 ## Objetivos:
- Comparar a eficácia neoadjuvante de três inibidores de aromatase (exemestano, letrozol e anastrozol) em pacientes na pós-menopausa com câncer de mama RH-positivo.
+ Comparar a eficácia neoadjuvante de três [[Inibidores de Aromatase|inibidores de aromatase]] (exemestano, letrozol e anastrozol) em pacientes na pós-menopausa com câncer de mama [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]-positivo.
 
 ## Resultados e Impacto Clínico:
  Confirmou eficácia neoadjuvante equivalente entre todos os três inibidores de aromatase.

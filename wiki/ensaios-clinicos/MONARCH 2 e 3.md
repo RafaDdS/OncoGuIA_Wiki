@@ -16,7 +16,7 @@ status: "draft"
  2019 (MONARCH 2) e 2017 (MONARCH 3)
 
 ## Objetivos:
- (MONARCH 2) Avaliar abemaciclibe + fulvestranto em pacientes que progrediram à terapia endócrina. (MONARCH 3) Avaliar abemaciclibe + IA como tratamento inicial.
+ (MONARCH 2) Avaliar [[Abemaciclibe|abemaciclibe]] + [[Fulvestranto|fulvestranto]] em pacientes que progrediram à [[tratamento/terapia-endocrina/index|terapia endócrina]]. (MONARCH 3) Avaliar abemaciclibe + IA como [[tratamento/index|tratamento]] inicial.
 
 ## Resultados e Impacto Clínico:
  (MONARCH 2) Demonstrou ganhos significativos em SLP e SG. (MONARCH 3) Demonstrou ganho significativo em SLP, com perfil de toxicidade distinto, incluindo diarreia.

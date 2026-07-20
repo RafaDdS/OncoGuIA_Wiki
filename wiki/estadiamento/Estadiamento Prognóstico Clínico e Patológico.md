@@ -14,7 +14,7 @@ status: "draft"
 
 # Estadiamento Prognóstico Clínico e Patológico
 
-[[estadiamento/index|Estadiamento]] que incorpora, além do TNM anatômico, o grau histológico, HER2, receptores hormonais (RE e RP). A diretriz da SBOC 2026 estabelece que o estadiamento clínico e patológico **deve seguir a 8ª edição do AJCC Cancer Staging Manual**, que está disponível no site da AJCC e inclui tanto o estadiamento anatômico quanto o prognóstico.
+[[estadiamento/index|Estadiamento]] que incorpora, além do TNM anatômico, o grau histológico, [[HER2]], receptores hormonais (RE e RP). A diretriz da SBOC 2026 estabelece que o estadiamento clínico e patológico **deve seguir a 8ª edição do AJCC Cancer Staging Manual**, que está disponível no site da AJCC e inclui tanto o estadiamento anatômico quanto o prognóstico.
 
 A grande inovação da 8ª edição do AJCC é a incorporação de **fatores biológicos não anatômicos** ao estadiamento, reconhecendo que o prognóstico do câncer de mama é influenciado por características moleculares além da extensão anatômica.
 
@@ -82,8 +82,8 @@ O estadiamento tem três funções fundamentais:
 
 ## Contexto por documento
 
-- **Estadiamento** (*Estadiamento prognóstico clínico e patológico*): Estadiamento que incorpora, além do TNM anatômico, o grau histológico, [[HER2]], RE e RP
-- **Neoadjuvante** (*Estadiamento*): Inclui exames de imagem (RM, [[TC (Docetaxel + Ciclofosfamida)|TC]], [[PET-CT|PET/CT]], USG) e avaliação clínica de linfonodos axilares, supraclaviculares e parede torácica. Vide capítulo separado da diretriz.
+- **Estadiamento** (*Estadiamento prognóstico clínico e patológico*): Estadiamento que incorpora, além do TNM anatômico, o grau histológico, HER2, RE e RP
+- **Neoadjuvante** (*Estadiamento*): Inclui exames de imagem (RM, [[TC (Docetaxel + Ciclofosfamida)|TC]], [[diagnostico/imagem/PET-CT|PET/CT]], USG) e avaliação clínica de linfonodos axilares, supraclaviculares e parede torácica. Vide capítulo separado da diretriz.
 
 ---
 *Página gerada a partir de 2 termo(s) original(is) do glossário: Estadiamento, Estadiamento prognóstico clínico e patológico.*

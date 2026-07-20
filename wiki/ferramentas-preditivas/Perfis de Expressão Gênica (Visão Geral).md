@@ -23,7 +23,7 @@ Os perfis de expressão gênica (ou painéis genômicos) são testes laboratoria
 
 ## Estudos-Chave
 
-A adoção mundial dos perfis genômicos é respaldada por grandes estudos prospectivos randomizados de fase III, como o **TAILORx**, o **RxPonder** e o **MINDACT**. Esses ensaios representaram um marco na oncologia moderna ao provar, com alto nível de evidência, a segurança de não administrar quimioterapia em populações específicas categorizadas como de "baixo risco genômico", poupando milhares de pacientes de toxicidades desnecessárias.
+A adoção mundial dos perfis genômicos é respaldada por grandes estudos prospectivos randomizados de fase III, como o **[[TAILORx]]**, o **[[RxPONDER (SWOG S1007)|RxPonder]]** e o **[[MINDACT]]**. Esses ensaios representaram um marco na oncologia moderna ao provar, com alto nível de evidência, a segurança de não administrar quimioterapia em populações específicas categorizadas como de "baixo risco genômico", poupando milhares de pacientes de toxicidades desnecessárias.
 
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: Perfis de expressão gênica.*

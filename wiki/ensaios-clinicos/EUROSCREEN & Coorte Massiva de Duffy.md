@@ -19,4 +19,4 @@ status: "draft"
  O EUROSCREEN revisou dados observacionais do impacto do rastreamento na Europa. O estudo de Duffy avaliou de forma independente se o rastreamento mamográfico reduz as taxas de cânceres avançados e fatais em uma gigantesca coorte de mais de 549.000 mulheres. 1
 
 ## Resultados e Impacto Clínico
- Ambos os estudos corroboraram de forma inquestionável que o rastreamento em nível populacional resulta em reduções maciças e significativas na progressão para câncer de mama avançado e fatal, firmando o valor dos programas contínuos de mamografia. 1
+ Ambos os estudos corroboraram de forma inquestionável que o rastreamento em nível populacional resulta em reduções maciças e significativas na progressão para câncer de mama avançado e fatal, firmando o valor dos programas contínuos de [[Mamografia|mamografia]]. 1

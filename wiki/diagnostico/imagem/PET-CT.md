@@ -22,7 +22,7 @@ Exame de [[diagnostico/imagem/index|imagem]] funcional e anatômica que combina 
 - **Indicações principais:**
   - Quando os métodos convencionais forem inconclusivos ou suspeitos.
     - **NE MODERADA / FR MODERADA (ESMO); NE MODERADO / FR FORTE (NCCN).**
-  - Em pacientes com doença localmente avançada, múltiplos linfonodos comprometidos ou suspeita de metástases, especialmente em tumores de alto grau — pode substituir ou complementar os exames convencionais.
+  - Em pacientes com [[Doença Localmente Avançada|doença localmente avançada]], múltiplos linfonodos comprometidos ou suspeita de metástases, especialmente em tumores de alto grau — pode substituir ou complementar os exames convencionais.
     - **NE MODERADA / FR MODERADA (ESMO).**
 - **Evidências:** Ensaio clínico randomizado demonstrou maior detecção de doença em estádio IV com PET/CT-FDG em comparação ao [[estadiamento/index|estadiamento]] convencional (23% versus 11%; p=0,002), com impacto na estratégia terapêutica.
 - **Recomendação internacional:** O PET/CT-FDG é considerado modalidade preferencial para estadiamento sistêmico do câncer de mama localmente avançado em guideline da EANM/SNMMI, endossado por ACR, ESSO, ESTRO e EUSOMA.
@@ -37,7 +37,7 @@ Exame de [[diagnostico/imagem/index|imagem]] funcional e anatômica que combina 
 
 ## Contexto por documento
 
-- **Estadiamento** (*PET/CT-FDG*): Exame metabólico de corpo inteiro com 18F-fluordesoxiglicose, preferencial em [[Doença Localmente Avançada|doença localmente avançada]] ou exames inconclusivos
+- **Estadiamento** (*PET/CT-FDG*): Exame metabólico de corpo inteiro com 18F-fluordesoxiglicose, preferencial em doença localmente avançada ou exames inconclusivos
 - **Estadiamento** (*PET/CT-FES*): PET com 18F-fluoroestradiol para avaliar expressão de receptor de estrógeno; uso principal no metastático, papel incerto no inicial
 - **Metastático** (*PET/CT*): Exame de imagem funcional e anatômica. Recomendado em casos selecionados, especialmente em pacientes com doença óssea exclusiva, para melhor caracterização da extensão da doença.
 

@@ -18,8 +18,8 @@ Paclitaxel (ou Docetaxel) + [[Carboplatina]] + [[Trastuzumabe]] + [[Pertuzumabe]
 
 ## Contexto por documento
 
-- **Adjuvante** (*TCH / TCHP*): Docetaxel + [[Carboplatina]] + [[Trastuzumabe]] (± [[Pertuzumabe]]); esquema preferencial quando há contraindicação a antracíclicos.
-- **Neoadjuvante** (*TCHP*): Paclitaxel (ou Docetaxel) + [[Carboplatina]] + [[Trastuzumabe]] + [[Pertuzumabe]]. Esquema preferencial para [[HER2]]+ na neoadjuvância (RPC ~63% no TRYPHAENA). Omissão de antraciclina com mesma eficácia (TRAIN-2).
+- **Adjuvante** (*TCH / TCHP*): Docetaxel + Carboplatina + Trastuzumabe (± Pertuzumabe); esquema preferencial quando há contraindicação a antracíclicos.
+- **Neoadjuvante** (*TCHP*): Paclitaxel (ou Docetaxel) + Carboplatina + Trastuzumabe + Pertuzumabe. Esquema preferencial para HER2+ na neoadjuvância (RPC ~63% no TRYPHAENA). Omissão de antraciclina com mesma eficácia (TRAIN-2).
 
 ---
 *Página gerada a partir de 2 termo(s) original(is) do glossário: TCH / TCHP, TCHP.*

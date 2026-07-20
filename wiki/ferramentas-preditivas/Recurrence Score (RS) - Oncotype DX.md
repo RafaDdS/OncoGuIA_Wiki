@@ -31,9 +31,9 @@ O Oncotype DX é um painel genômico de 21 genes (16 genes relacionados ao cânc
 
 ## Estudos-Chave
 
-* **Estudo TAILORx:** Revolucionou o tratamento ao avaliar pacientes sem comprometimento linfonodal. Definiu os exatos pontos de corte (limiares) do RS, padronizando a segurança da omissão de quimioterapia na maior parte da população com [[subtipos-moleculares/Subtipo Luminal (RH+-HER2-)|RH+/HER2-]].
+* **Estudo [[TAILORx]]:** Revolucionou o tratamento ao avaliar pacientes sem comprometimento linfonodal. Definiu os exatos pontos de corte (limiares) do RS, padronizando a segurança da omissão de quimioterapia na maior parte da população com [[subtipos-moleculares/Subtipo Luminal (RH+-HER2-)|RH+/HER2-]].
 * 
-**Estudo RxPonder (SWOG S1007):** Avaliou pacientes com 1 a 3 linfonodos axilares positivos, câncer de mama RH+ e HER2- com Recurrence Score < 25. Seus resultados foram divisores de águas ao confirmar que mulheres na pós-menopausa nesse cenário não ganham benefício com a quimioterapia, alterando protocolos globais.
+**Estudo [[RxPONDER (SWOG S1007)|RxPonder (SWOG S1007)]]:** Avaliou pacientes com 1 a 3 linfonodos axilares positivos, câncer de mama RH+ e HER2- com Recurrence Score < 25. Seus resultados foram divisores de águas ao confirmar que mulheres na pós-menopausa nesse cenário não ganham benefício com a quimioterapia, alterando protocolos globais.
 
 ---
 *Página gerada a partir de 2 termo(s) original(is) do glossário: Oncotype DX, RS (Recurrence Score).*

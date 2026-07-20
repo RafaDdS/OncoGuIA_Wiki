@@ -18,7 +18,7 @@ Na prática clínica, o CPS-EG auxilia diretamente a personalização do [[Trata
 
 ## Estudos-Chave
 
-O uso do CPS-EG como critério para definir o [[Alto Risco Clínico|alto risco clínico]]-patológico foi consolidado pelo estudo **OlympiA**, que demonstrou melhorias expressivas na sobrevida livre de doença invasiva e na sobrevida global com a adição do olaparibe no cenário adjuvante para pacientes BRCA mutadas.
+O uso do CPS-EG como critério para definir o [[Alto Risco Clínico|alto risco clínico]]-patológico foi consolidado pelo estudo **[[OlympiA]]**, que demonstrou melhorias expressivas na sobrevida livre de doença invasiva e na sobrevida global com a adição do olaparibe no cenário adjuvante para pacientes BRCA mutadas.
 
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: CPS-EG.*

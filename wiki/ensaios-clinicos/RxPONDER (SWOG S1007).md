@@ -16,7 +16,7 @@ status: "draft"
  2021
 
 ## Objetivos:
- Expandir o uso do ensaio de 21 genes para pacientes com 1-3 linfonodos positivos, avaliando o benefício da quimioterapia adjuvante.
+ Expandir o uso do ensaio de 21 genes para pacientes com 1-3 linfonodos positivos, avaliando o benefício da [[tratamento/quimioterapia/index|quimioterapia]] adjuvante.
 
 ## Resultados e Impacto Clínico:
  Mulheres na pós-menopausa com RS baixo/intermediário (≤ 25) podem omitir a quimioterapia com segurança. Mulheres na pré-menopausa mantêm benefício da quimioterapia, devendo-se discutir sua indicação nesse cenário.

@@ -29,7 +29,7 @@ A avaliação do status do HER2 é feita inicialmente por **[[Imuno-histoquímic
 A classificação da expressão de HER2 foi recentemente expandida para guiar o uso de novas terapias:
 
 * **HER2 Positivo:** Caracteriza-se pela superexpressão da proteína HER2 (resultado IHQ 3+) ou pela amplificação do gene correspondente (resultado FISH/ISH positivo).
-* **HER2-low (Baixa expressão):** Definido como um resultado de IHQ 1+ ou IHQ 2+ com ISH negativo. Embora não seja considerado "HER2 positivo" nos moldes tradicionais, esse subgrupo tornou-se elegível para tratamentos específicos com Anticorpos Conjugados a Fármacos (ADCs), com base nos estudos *DESTINY-Breast04* e *DESTINY-Breast06*.
+* **HER2-low (Baixa expressão):** Definido como um resultado de IHQ 1+ ou IHQ 2+ com ISH negativo. Embora não seja considerado "HER2 positivo" nos moldes tradicionais, esse subgrupo tornou-se elegível para tratamentos específicos com Anticorpos Conjugados a Fármacos (ADCs), com base nos estudos *[[DESTINY-Breast04]]* e *DESTINY-Breast06*.
 * **HER2-ultra low (Expressão ultrabaixa):** Definido como IHQ 0, mas com uma coloração de membrana fraca ou incompleta (porém detectável). Assim como o HER2-low, também demonstra benefício e é elegível para tratamento com ADCs específicos, conforme evidenciado pelo estudo *DESTINY-Breast06*.
 
 ---

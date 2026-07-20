@@ -15,7 +15,7 @@ status: "draft"
  2022
 
 ## Objetivos:
- Testar a eficácia do T-DXd em pacientes com câncer de mama metastático com baixa expressão de HER2 ("HER2-low").
+ Testar a eficácia do T-DXd em pacientes com câncer de mama metastático com baixa expressão de HER2 ("[[HER2|HER2-low]]").
 
 ## Resultados e Impacto Clínico:
- Estabeleceu a categoria "HER2-low" como uma entidade clínica tratável, mostrando ganhos de SLP e SG sobre a quimioterapia padrão, especialmente em tumores RH-positivos.
+ Estabeleceu a categoria "HER2-low" como uma entidade clínica tratável, mostrando ganhos de SLP e SG sobre a [[tratamento/quimioterapia/index|quimioterapia]] padrão, especialmente em tumores [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]-positivos.

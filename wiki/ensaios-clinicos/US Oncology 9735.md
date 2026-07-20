@@ -15,7 +15,7 @@ status: "draft"
  2009 (atualização de 7 anos)
 
 ## Objetivos:
- Avaliar o regime não-antracíclico de docetaxel e ciclofosfamida (TC) em comparação ao regime padrão AC.
+ Avaliar o regime não-antracíclico de docetaxel e ciclofosfamida ([[TC (Docetaxel + Ciclofosfamida)|TC]]) em comparação ao regime padrão [[AC (Doxorrubicina + Ciclofosfamida)|AC]].
 
 ## Resultados e Impacto Clínico:
- Demonstrou sobrevida global (SG) superior para o regime TC, estabelecendo uma alternativa viável e poupadora do coração aos esquemas com antraciclinas.
+ Demonstrou [[Sobrevida Global (SG)|sobrevida global (SG)]] superior para o regime TC, estabelecendo uma alternativa viável e poupadora do coração aos esquemas com [[Antraciclinas|antraciclinas]].

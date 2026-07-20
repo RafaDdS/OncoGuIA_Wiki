@@ -12,7 +12,7 @@ status: "draft"
 
 # Inibidores de CDK4/6 (iCDK4/6) – Classe
 
-Medicamentos que inibem as quinases dependentes de ciclina 4 e 6 ([[Palbociclibe]], [[Ribociclibe]], [[Abemaciclibe]]). São o padrão-ouro em 1ª linha para [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]], combinados à [[tratamento/terapia-endocrina/index|terapia endócrina]], melhorando significativamente SLP e SG.
+Medicamentos que inibem as quinases dependentes de ciclina 4 e 6 ([[Palbociclibe]], [[Ribociclibe]], [[Abemaciclibe]]). São o padrão-ouro em 1ª linha para [[subtipos-moleculares/Subtipo Luminal (RH+-HER2-)|RH+/HER2-]], combinados à [[tratamento/terapia-endocrina/index|terapia endócrina]], melhorando significativamente SLP e SG.
 
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: Inibidores de CDK4/6 (iCDK4/6).*

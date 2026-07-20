@@ -16,7 +16,7 @@ status: "draft"
  2015
 
 ## Objetivos:
- Avaliar, em um estudo fatorial, a adição de fluorouracil (5-FU) aos regimes de AC ou EC e a eficácia do esquema dose-denso.
+ Avaliar, em um estudo fatorial, a adição de fluorouracil (5-FU) aos regimes de [[AC (Doxorrubicina + Ciclofosfamida)|AC]] ou EC e a eficácia do esquema dose-denso.
 
 ## Resultados e Impacto Clínico:
- Provou que o 5-FU não fornece benefício de sobrevida adicional, justificando sua omissão dos esquemas padrão. Confirmou o benefício da quimioterapia dose-densa.
+ Provou que o 5-FU não fornece benefício de sobrevida adicional, justificando sua omissão dos esquemas padrão. Confirmou o benefício da [[tratamento/quimioterapia/index|quimioterapia]] dose-densa.

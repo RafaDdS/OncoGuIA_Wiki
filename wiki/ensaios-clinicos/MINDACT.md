@@ -15,7 +15,7 @@ status: "draft"
  2016 e 2021 (atualização)
 
 ## Objetivos:
- Validar o uso da assinatura de 70 genes (MammaPrint) para auxiliar na decisão de quimioterapia, comparando o risco clínico versus o risco genômico.
+ Validar o uso da assinatura de 70 genes ([[Mammaprint|MammaPrint]]) para auxiliar na decisão de [[tratamento/quimioterapia/index|quimioterapia]], comparando o risco clínico versus o risco genômico.
 
 ## Resultados e Impacto Clínico:
- Pacientes com alto risco clínico, mas baixo risco genômico, podem prescindir de quimioterapia com segurança. No entanto, a análise exploratória mostrou que pacientes jovens (<50 anos) com alto risco clínico e baixo risco genômico podem ter benefício com a quimioterapia.
+ Pacientes com [[Alto Risco Clínico|alto risco clínico]], mas baixo risco genômico, podem prescindir de quimioterapia com segurança. No entanto, a análise exploratória mostrou que pacientes jovens (<50 anos) com alto risco clínico e baixo risco genômico podem ter benefício com a quimioterapia.

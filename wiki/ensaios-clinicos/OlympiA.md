@@ -15,7 +15,7 @@ status: "draft"
  2021 e 2022 (SG)
 
 ## Objetivos:
- Avaliar a eficácia de olaparibe adjuvante em pacientes com mutações germinativas BRCA1/2 e câncer de mama inicial de alto risco.
+ Avaliar a eficácia de [[Olaparibe|olaparibe]] adjuvante em pacientes com mutações germinativas BRCA1/2 e câncer de mama inicial de alto risco.
 
 ## Resultados e Impacto Clínico:
  Melhorou significativamente a SLDi e a SG, tornando o teste genético germinativo obrigatório para pacientes de alto risco.

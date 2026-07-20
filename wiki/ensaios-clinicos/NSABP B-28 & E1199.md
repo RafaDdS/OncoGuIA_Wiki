@@ -16,7 +16,7 @@ status: "draft"
  2005 (B-28) e 2015 (E1199, long-term follow-up)
 
 ## Objetivos:
- (B-28) Validar a integração de taxanos (paclitaxel) após a quimioterapia com AC. (E1199) Otimizar os cronogramas de administração de taxanos.
+ (B-28) Validar a integração de taxanos (paclitaxel) após a [[tratamento/quimioterapia/index|quimioterapia]] com [[AC (Doxorrubicina + Ciclofosfamida)|AC]]. (E1199) Otimizar os cronogramas de administração de taxanos.
 
 ## Resultados e Impacto Clínico:
  (B-28) Confirmou o benefício da adição sequencial de paclitaxel após AC. (E1199) Estabeleceu o paclitaxel semanal como superior e menos tóxico que o cronograma de administração a cada 3 semanas.

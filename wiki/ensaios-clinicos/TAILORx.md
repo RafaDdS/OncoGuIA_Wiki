@@ -15,7 +15,7 @@ status: "draft"
  2019
 
 ## Objetivos:
- Avaliar a eficácia da quimioterapia em pacientes com câncer de mama ER-positivo/HER2-negativo e linfonodo negativo, com escore de recorrência (RS) de risco intermediário (11–25).
+ Avaliar a eficácia da [[tratamento/quimioterapia/index|quimioterapia]] em pacientes com câncer de mama ER-positivo/[[HER2]]-negativo e linfonodo negativo, com escore de recorrência (RS) de risco intermediário (11–25).
 
 ## Resultados e Impacto Clínico:
- Demonstrou que a terapia endócrina isolada não é inferior à quimioendócrina em mulheres pós-menopausa com RS 11-25. O benefício da quimioterapia foi limitado a mulheres com 50 anos ou menos e RS 16-25, refinando a seleção de pacientes para tratamento.
+ Demonstrou que a [[tratamento/terapia-endocrina/index|terapia endócrina]] isolada não é inferior à quimioendócrina em mulheres pós-menopausa com RS 11-25. O benefício da quimioterapia foi limitado a mulheres com 50 anos ou menos e RS 16-25, refinando a seleção de pacientes para [[tratamento/index|tratamento]].

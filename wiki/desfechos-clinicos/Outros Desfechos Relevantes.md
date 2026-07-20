@@ -9,7 +9,7 @@ No [[tratamento/index|tratamento]] do câncer de mama em estágios iniciais, ond
 
 - **Sobrevida Livre de Doença (SLD):** Mede o tempo desde o tratamento com intenção curativa (como a cirurgia) até a ocorrência de qualquer evento adverso, que pode incluir a recidiva do câncer (local ou à distância), o surgimento de um novo câncer primário ou a morte por qualquer causa.
 
-- **Sobrevida Livre de Doença Invasiva (SLDi):** Uma métrica mais estrita e comum em ensaios recentes (como o estudo MonarchE e o TAILORx), que avalia o tempo sem o retorno da doença na sua forma *invasiva*.
+- **Sobrevida Livre de Doença Invasiva (SLDi):** Uma métrica mais estrita e comum em ensaios recentes (como o estudo [[monarchE|MonarchE]] e o [[TAILORx]]), que avalia o tempo sem o retorno da doença na sua forma *invasiva*.
 
 - **Sobrevida Livre de Recidiva (SLR):** Avalia especificamente o tempo desde o tratamento bem-sucedido até o retorno do câncer original.
 

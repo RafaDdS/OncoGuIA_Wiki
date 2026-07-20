@@ -37,7 +37,7 @@ No tratamento antes da cirurgia, tumores com mutação em BRCA (especialmente no
 
 No pós-operatório, o objetivo é consolidar o tratamento e reduzir drasticamente o risco de o câncer retornar em pacientes consideradas de alto risco.
 
-* **Inibidores de PARP:** Para pacientes com câncer de mama inicial [[HER2]]-negativo, com alto risco de recorrência clínico-patológica e que apresentam mutação germinativa no BRCA, o uso do inibidor de PARP **[[Olaparibe]]** como terapia adjuvante é indicado. Este tratamento demonstrou melhorias expressivas na sobrevida livre de doença invasiva e na sobrevida global (baseado no estudo *OlympiA*).
+* **Inibidores de PARP:** Para pacientes com câncer de mama inicial [[HER2]]-negativo, com alto risco de recorrência clínico-patológica e que apresentam mutação germinativa no BRCA, o uso do inibidor de PARP **[[Olaparibe]]** como terapia adjuvante é indicado. Este tratamento demonstrou melhorias expressivas na sobrevida livre de doença invasiva e na sobrevida global (baseado no estudo *[[OlympiA]]*).
 
 ### Cenário Metastático
 

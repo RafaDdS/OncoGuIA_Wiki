@@ -16,7 +16,7 @@ status: "draft"
  2020 e 2024 (SG)
 
 ## Objetivos:
- Avaliar a eficácia do pembrolizumabe neoadjuvante em combinação com quimioterapia para o tratamento do câncer de mama triplo-negativo (TNBC) em estádio inicial.
+ Avaliar a eficácia do [[Pembrolizumabe|pembrolizumabe]] neoadjuvante em combinação com [[tratamento/quimioterapia/index|quimioterapia]] para o [[tratamento/index|tratamento]] do câncer de mama [[TNBC (Triplo-Negativo)|triplo-negativo (TNBC)]] em estádio inicial.
 
 ## Resultados e Impacto Clínico:
- Estabeleceu o padrão global de tratamento para TNBC de alto risco, com ganhos imensos na resposta patológica completa (RPC), sobrevida livre de eventos (SLE) e sobrevida global (SG).
+ Estabeleceu o padrão global de tratamento para TNBC de alto risco, com ganhos imensos na [[Resposta Patológica Completa (RPC)|resposta patológica completa (RPC)]], sobrevida livre de eventos (SLE) e [[Sobrevida Global (SG)|sobrevida global (SG)]].

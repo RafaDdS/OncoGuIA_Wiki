@@ -34,7 +34,7 @@ A relevância da testagem da PD-L1 e a indicação de imunoterapia dependem dire
 
 No [[tratamento/index|tratamento]] pré-operatório de tumores triplo-negativos iniciais de alto risco ou localmente avançados, a imunoterapia tornou-se o padrão de cuidado.
 
-* **Uso Independente de PD-L1:** A adição do imunoterápico **[[Pembrolizumabe]]** ao esquema de [[tratamento/quimioterapia/index|quimioterapia]] neoadjuvante aumenta significativamente as taxas de resposta patológica completa (baseado no estudo *KEYNOTE-522*). É fundamental ressaltar que, neste cenário inicial, o benefício da imunoterapia ocorre **independentemente** do status do biomarcador. Portanto, não é obrigatório testar a PD-L1 para prescrever o tratamento na fase neoadjuvante.
+* **Uso Independente de PD-L1:** A adição do imunoterápico **[[Pembrolizumabe]]** ao esquema de [[tratamento/quimioterapia/index|quimioterapia]] neoadjuvante aumenta significativamente as taxas de resposta patológica completa (baseado no estudo *[[KEYNOTE-522]]*). É fundamental ressaltar que, neste cenário inicial, o benefício da imunoterapia ocorre **independentemente** do status do biomarcador. Portanto, não é obrigatório testar a PD-L1 para prescrever o tratamento na fase neoadjuvante.
 
 ### Cenário Metastático
 

@@ -16,8 +16,8 @@ Indicada no adjuvante para pacientes TNBC com [[Doença Residual|doença residua
 
 ## Contexto por documento
 
-- **Adjuvante** (*Capecitabina*): Fluoropirimidina; indicada por 6-8 ciclos em [[Doença Residual|doença residual]] TNBC (estudo CREATE-X).
-- **Neoadjuvante** (*Capecitabina*): Indicada no adjuvante para pacientes TNBC com [[Doença Residual|doença residual]] pós-neoadjuvância, com benefício comprovado em sobrevida global (estudo CREATE-X).
+- **Adjuvante** (*Capecitabina*): Fluoropirimidina; indicada por 6-8 ciclos em doença residual TNBC (estudo CREATE-X).
+- **Neoadjuvante** (*Capecitabina*): Indicada no adjuvante para pacientes TNBC com doença residual pós-neoadjuvância, com benefício comprovado em sobrevida global (estudo CREATE-X).
 
 ---
 *Página gerada a partir de 2 termo(s) original(is) do glossário: Capecitabina.*
