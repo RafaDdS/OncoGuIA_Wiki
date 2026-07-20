@@ -14,7 +14,7 @@ status: "draft"
 
 # Resistência Endócrina
 
-Recidiva após mais de 2 anos do término da terapia adjuvante; ou progressão após mais de 6 meses de terapia endócrina para doença metastática. A doença ainda pode responder a novas linhas hormonais.
+Recidiva após mais de 2 anos do término da terapia adjuvante; ou progressão após mais de 6 meses de [[tratamento/terapia-endocrina/index|terapia endócrina]] para [[doenca-metastatica/index|doença metastática]]. A doença ainda pode responder a novas linhas hormonais.
 
 ## Contexto por documento
 

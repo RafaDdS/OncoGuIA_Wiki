@@ -12,7 +12,7 @@ status: "draft"
 
 # Tratamento Neoadjuvante (Conceito)
 
-Terapia sistêmica (quimioterapia, hormonioterapia ou alvo) realizada antes da cirurgia.
+Terapia sistêmica ([[tratamento/quimioterapia/index|quimioterapia]], hormonioterapia ou alvo) realizada antes da cirurgia.
 
 ---
-*Página gerada a partir de 1 termo(s) original(is) do glossário: Tratamento neoadjuvante.*
+*Página gerada a partir de 1 termo(s) original(is) do glossário: [[tratamento/index|Tratamento]] neoadjuvante.*

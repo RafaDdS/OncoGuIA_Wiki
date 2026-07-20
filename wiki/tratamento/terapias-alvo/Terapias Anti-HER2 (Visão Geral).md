@@ -15,4 +15,4 @@ status: "draft"
 Drogas-alvo anti-[[HER2]] utilizadas em associação ou isoladamente, com indicação de monitoramento cardíaco
 
 ---
-*Página gerada a partir de 1 termo(s) original(is) do glossário: Trastuzumabe / Pertuzumabe / T-DM1.*
+*Página gerada a partir de 1 termo(s) original(is) do glossário: [[Trastuzumabe]] / [[Pertuzumabe]] / T-DM1.*

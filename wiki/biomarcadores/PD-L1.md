@@ -22,19 +22,19 @@ A **PD-L1** (Ligante de Morte Celular Programada 1) é uma proteína transmembra
 
 A pesquisa da expressão de PD-L1 é realizada através do exame de **[[Imuno-histoquímica (IHQ)]]** em amostras de biópsia tumoral. A interpretação dos resultados na prática clínica atual baseia-se em sistemas de pontuação específicos:
 
-* **Escore Positivo Combinado (CPS - *Combined Positive Score*):** É a métrica padrão atual. O CPS calcula a proporção de todas as células que expressam PD-L1 (incluindo células tumorais, linfócitos e macrófagos) em relação ao número total de células tumorais viáveis. No câncer de mama, um resultado de **CPS ≥ 10** é o principal ponto de corte (cutoff) para classificar o tumor como positivo e elegível para a imunoterapia no cenário metastático.
+* **Escore Positivo Combinado (CPS - *Combined Positive Score*):** É a métrica padrão atual. O CPS calcula a proporção de todas as células que expressam PD-L1 (incluindo células tumorais, linfócitos e macrófagos) em relação ao número total de células tumorais viáveis. No câncer de mama, um resultado de **CPS ≥ 10** é o principal ponto de corte (cutoff) para classificar o tumor como positivo e elegível para a [[tratamento/imunoterapia/index|imunoterapia]] no cenário metastático.
 
 ---
 
 ## Abordagem Clínica e Tratamento
 
-A relevância da testagem da PD-L1 e a indicação de imunoterapia dependem diretamente do estadiamento da doença, tendo seu principal papel consolidado no **câncer de mama triplo-negativo (CMTN)**.
+A relevância da testagem da PD-L1 e a indicação de imunoterapia dependem diretamente do [[estadiamento/index|estadiamento]] da doença, tendo seu principal papel consolidado no **câncer de mama triplo-negativo (CMTN)**.
 
 ### Cenário Neoadjuvante
 
-No tratamento pré-operatório de tumores triplo-negativos iniciais de alto risco ou localmente avançados, a imunoterapia tornou-se o padrão de cuidado.
+No [[tratamento/index|tratamento]] pré-operatório de tumores triplo-negativos iniciais de alto risco ou localmente avançados, a imunoterapia tornou-se o padrão de cuidado.
 
-* **Uso Independente de PD-L1:** A adição do imunoterápico **Pembrolizumabe** ao esquema de quimioterapia neoadjuvante aumenta significativamente as taxas de resposta patológica completa (baseado no estudo *KEYNOTE-522*). É fundamental ressaltar que, neste cenário inicial, o benefício da imunoterapia ocorre **independentemente** do status do biomarcador. Portanto, não é obrigatório testar a PD-L1 para prescrever o tratamento na fase neoadjuvante.
+* **Uso Independente de PD-L1:** A adição do imunoterápico **[[Pembrolizumabe]]** ao esquema de [[tratamento/quimioterapia/index|quimioterapia]] neoadjuvante aumenta significativamente as taxas de resposta patológica completa (baseado no estudo *KEYNOTE-522*). É fundamental ressaltar que, neste cenário inicial, o benefício da imunoterapia ocorre **independentemente** do status do biomarcador. Portanto, não é obrigatório testar a PD-L1 para prescrever o tratamento na fase neoadjuvante.
 
 ### Cenário Metastático
 

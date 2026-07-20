@@ -19,7 +19,7 @@ Grau de diferenciação celular; G3 indica maior agressividade e risco de recorr
 
 ## Contexto por documento
 
-- **Estadiamento** (*Grau histológico (G1, G2, G3)*): Classificação do grau de diferenciação tumoral (baixo, intermediário, alto)
+- **[[estadiamento/index|Estadiamento]]** (*Grau histológico (G1, G2, G3)*): Classificação do grau de diferenciação tumoral (baixo, intermediário, alto)
 - **Adjuvante** (*Grau histológico (G3)*): Grau de diferenciação celular; G3 indica maior agressividade e risco de recorrência.
 
 ---

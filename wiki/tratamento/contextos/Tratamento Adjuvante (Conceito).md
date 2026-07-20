@@ -15,4 +15,4 @@ status: "draft"
 Terapia sistêmica realizada após a cirurgia para reduzir risco de recorrência.
 
 ---
-*Página gerada a partir de 1 termo(s) original(is) do glossário: Tratamento adjuvante.*
+*Página gerada a partir de 1 termo(s) original(is) do glossário: [[tratamento/index|Tratamento]] adjuvante.*

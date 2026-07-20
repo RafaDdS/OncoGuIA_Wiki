@@ -18,9 +18,9 @@ O carcinoma inflamatório é uma apresentação clínica agressiva e localmente 
 
 - **Particularidade Patológica:** Caso a biópsia de pele resulte negativa e não exista um tumor primário mensurável localizado, o carcinoma inflamatório clínico (cT4d) passa a ser classificado patologicamente como **pTX**.
 
-- **Tratamento Sistêmico:** Devido à agressividade e à extensão da doença, a realização de quimioterapia neoadjuvante é considerada o tratamento padrão absoluto neste cenário.
+- **[[tratamento/index|Tratamento]] Sistêmico:** Devido à agressividade e à extensão da doença, a realização de [[tratamento/quimioterapia/index|quimioterapia]] neoadjuvante é considerada o tratamento padrão absoluto neste cenário.
 
-- **Abordagem Cirúrgica:** O diagnóstico de carcinoma inflamatório primário ou secundário (comrometimento extenso inicial da pele T4b/T4d) representa uma contraindicação para a realização de cirurgia conservadora da mama, exigindo técnicas mais radicais como a mastectomia após a resposta ao tratamento sistêmico.
+- **Abordagem Cirúrgica:** O [[diagnostico/index|diagnóstico]] de carcinoma inflamatório primário ou secundário (comrometimento extenso inicial da pele T4b/T4d) representa uma contraindicação para a realização de cirurgia conservadora da mama, exigindo técnicas mais radicais como a mastectomia após a resposta ao tratamento sistêmico.
 
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: Carcinoma inflamatório.*

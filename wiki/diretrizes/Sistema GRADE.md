@@ -19,7 +19,7 @@ Classifica o nível de evidência (Alto, Moderado, Baixo, Muito Baixo) e a forç
 
 ## Contexto por documento
 
-- **Estadiamento** (*Sistema Grade*): Sistema de classificação dos níveis de evidência (Alto, Moderado, Baixo, Muito Baixo) e força da recomendação (Forte, Fraca/Condicional)
+- **[[estadiamento/index|Estadiamento]]** (*Sistema Grade*): Sistema de classificação dos níveis de evidência (Alto, Moderado, Baixo, Muito Baixo) e força da recomendação (Forte, Fraca/Condicional)
 - **Neoadjuvante** (*Sistema GRADE*): Classifica o nível de evidência (Alto, Moderado, Baixo, Muito Baixo) e a força da recomendação (Forte ou Fraca/Condicional). Utilizado na diretriz para embasar decisões clínicas e de política de saúde.
 - **Metastático** (*Sistema GRADE*): Sistema utilizado na diretriz para classificar a qualidade da evidência científica (Alto, Moderado, Baixo, Muito baixo) e a força da recomendação (Forte ou Fraca/Condicional).
 

@@ -12,7 +12,7 @@ status: "draft"
 
 # Câncer de Mama (Visão Geral)
 
-Neoplasia maligna da mama, alvo das diretrizes
+Neoplasia maligna da mama, alvo das [[diretrizes/index|diretrizes]]
 
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: Câncer de mama / Tumor mamário.*

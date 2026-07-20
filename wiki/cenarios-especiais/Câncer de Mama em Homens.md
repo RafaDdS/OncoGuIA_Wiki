@@ -12,10 +12,10 @@ status: "draft"
 
 # Câncer de Mama em Homens
 
-A lógica do tratamento adjuvante em homens segue, na sua essência, os pilares já consolidados para o tratamento em mulheres. No entanto, existem particularidades importantes a serem observadas:
+A lógica do [[Tratamento Adjuvante (Conceito)|tratamento adjuvante]] em homens segue, na sua essência, os pilares já consolidados para o [[tratamento/index|tratamento]] em mulheres. No entanto, existem particularidades importantes a serem observadas:
 
 
-- **Hormonioterapia:** Na doença com receptor hormonal positivo (RH+), o tamoxifeno é o tratamento endócrino adjuvante de escolha. Ele é preferido em relação aos inibidores de aromatase (IA) isolados devido à escassez de evidências científicas que sustentem a monoterapia com IA no público masculino.
+- **Hormonioterapia:** Na doença com receptor hormonal positivo ([[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+), o [[Tamoxifeno|tamoxifeno]] é o tratamento endócrino adjuvante de escolha. Ele é preferido em relação aos [[Inibidores de Aromatase|inibidores de aromatase (IA)]] isolados devido à escassez de evidências científicas que sustentem a monoterapia com IA no público masculino.
 
 
 - **Alternativa ao Tamoxifeno:** Nos casos em que há contraindicação ao uso do tamoxifeno, pode-se considerar o uso de um IA, desde que obrigatoriamente associado a um análogo de GnRH (para supressão).

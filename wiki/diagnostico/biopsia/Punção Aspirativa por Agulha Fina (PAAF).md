@@ -18,7 +18,7 @@ A Punção Aspirativa por Agulha Fina (PAAF) é uma técnica de biópsia rápida
 
 ## Aplicações Clínicas e Tratamento
 
-No estadiamento moderno do câncer de mama, a PAAF perdeu espaço para a Core Biopsy na avaliação da lesão primária, uma vez que fornece apenas material celular (citologia) e não preserva a arquitetura do tecido. No entanto, sua principal aplicação clínica atual é a avaliação citológica de linfonodos axilares suspeitos identificados no exame físico ou no ultrassom pré-operatório, auxiliando na decisão de conduta cirúrgica na axila. Também é largamente utilizada para o esvaziamento diagnóstico e terapêutico de cistos mamários simples.
+No [[estadiamento/index|estadiamento]] moderno do câncer de mama, a PAAF perdeu espaço para a [[Core Biopsy]] na avaliação da lesão primária, uma vez que fornece apenas material celular (citologia) e não preserva a arquitetura do tecido. No entanto, sua principal aplicação clínica atual é a avaliação citológica de linfonodos axilares suspeitos identificados no exame físico ou no ultrassom pré-operatório, auxiliando na decisão de conduta cirúrgica na axila. Também é largamente utilizada para o esvaziamento [[diagnostico/index|diagnóstico]] e terapêutico de cistos mamários simples.
 
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: Punção aspirativa por agulha fina (PAAF).*

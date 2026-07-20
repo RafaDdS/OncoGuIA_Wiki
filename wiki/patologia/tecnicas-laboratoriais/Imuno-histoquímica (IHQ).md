@@ -12,7 +12,7 @@ status: "draft"
 
 # Imuno-histoquímica (IHQ)
 
-Imunoistoquímica; técnica para avaliação de RH, [[HER2]], [[Ki67]] e outros marcadores.
+Imunoistoquímica; técnica para avaliação de [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]], [[HER2]], [[Ki67]] e outros marcadores.
 
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: IHQ.*

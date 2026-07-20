@@ -15,7 +15,7 @@ status: "draft"
 
 # PET/CT
 
-Exame de imagem funcional e anatômica que combina tomografia por emissão de pósitrons com tomografia computadorizada.
+Exame de [[diagnostico/imagem/index|imagem]] funcional e anatômica que combina tomografia por emissão de pósitrons com tomografia computadorizada.
 
 ## PET/CT-FDG (com 18F-fluordesoxiglicose):
 
@@ -24,7 +24,7 @@ Exame de imagem funcional e anatômica que combina tomografia por emissão de p�
     - **NE MODERADA / FR MODERADA (ESMO); NE MODERADO / FR FORTE (NCCN).**
   - Em pacientes com doença localmente avançada, múltiplos linfonodos comprometidos ou suspeita de metástases, especialmente em tumores de alto grau — pode substituir ou complementar os exames convencionais.
     - **NE MODERADA / FR MODERADA (ESMO).**
-- **Evidências:** Ensaio clínico randomizado demonstrou maior detecção de doença em estádio IV com PET/CT-FDG em comparação ao estadiamento convencional (23% versus 11%; p=0,002), com impacto na estratégia terapêutica.
+- **Evidências:** Ensaio clínico randomizado demonstrou maior detecção de doença em estádio IV com PET/CT-FDG em comparação ao [[estadiamento/index|estadiamento]] convencional (23% versus 11%; p=0,002), com impacto na estratégia terapêutica.
 - **Recomendação internacional:** O PET/CT-FDG é considerado modalidade preferencial para estadiamento sistêmico do câncer de mama localmente avançado em guideline da EANM/SNMMI, endossado por ACR, ESSO, ESTRO e EUSOMA.
 - **Limitações:** Menor sensibilidade em tumores lobulares e de baixo grau; limitações relacionadas a custo e acessibilidade.
 

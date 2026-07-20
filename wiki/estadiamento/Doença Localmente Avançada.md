@@ -18,8 +18,8 @@ Tumores > 5 cm, fixação à parede torácica, envolvimento cutâneo (ulceraçã
 
 ## Implicações no estadiamento:
 
-- Indicação padrão de quimioterapia neoadjuvante.
-- Exige estadiamento sistêmico completo com painel laboratorial (incluindo FALC), TC de tórax, abdome e pelve com contraste, cintilografia óssea ou PET/CT-FDG, e RM de crânio em casos selecionados (sintomas neurológicos, tumores triplo-negativos ou HER2+).
+- Indicação padrão de [[tratamento/quimioterapia/index|quimioterapia]] neoadjuvante.
+- Exige [[estadiamento/index|estadiamento]] sistêmico completo com painel laboratorial (incluindo FALC), [[TC (Docetaxel + Ciclofosfamida)|TC]] de tórax, abdome e pelve com contraste, [[Cintilografia Óssea|cintilografia óssea]] ou [[diagnostico/imagem/PET-CT|PET/CT-FDG]], e RM de crânio em casos selecionados (sintomas neurológicos, tumores triplo-negativos ou [[HER2]]+).
 - O PET/CT-FDG é considerado modalidade preferencial para estadiamento sistêmico do câncer de mama localmente avançado, conforme guideline da EANM/SNMMI, endossado por ACR, ESSO, ESTRO e EUSOMA.
 
 ---

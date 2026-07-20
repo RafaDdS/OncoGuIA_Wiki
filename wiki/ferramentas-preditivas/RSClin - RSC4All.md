@@ -14,8 +14,8 @@ O Recurrence Score (RS) isolado não leva em conta o tamanho físico do tumor ou
 
 ## Aplicações Clínicas e Tratamento
 
-* **Integração de Dados:** Estas ferramentas combinam o resultado genômico (o valor do Oncotype DX) com as variáveis clássicas (tamanho tumoral, grau histológico e idade da paciente).
-* **Personalização Aprimorada:** O RSC4All, impulsionado por aprendizado de máquina (machine learning) e acessível via plataforma web ([https://rsc4all.streamlit.app/](https://rsc4all.streamlit.app/)), processa essa dupla camada de informações. O resultado é uma estimativa muito mais individualizada do risco de metástase à distância em 9 anos e do real impacto de adicionar a quimioterapia ao regime da paciente, refinando casos "cinzentos" onde o RS sozinho não traz uma resposta definitiva.
+* **Integração de Dados:** Estas ferramentas combinam o resultado genômico (o valor do [[ferramentas-preditivas/Recurrence Score (RS) - Oncotype DX|Oncotype DX]]) com as variáveis clássicas (tamanho tumoral, grau histológico e idade da paciente).
+* **Personalização Aprimorada:** O RSC4All, impulsionado por aprendizado de máquina (machine learning) e acessível via plataforma web ([https://rsc4all.streamlit.app/](https://rsc4all.streamlit.app/)), processa essa dupla camada de informações. O resultado é uma estimativa muito mais individualizada do risco de metástase à distância em 9 anos e do real impacto de adicionar a [[tratamento/quimioterapia/index|quimioterapia]] ao regime da paciente, refinando casos "cinzentos" onde o RS sozinho não traz uma resposta definitiva.
 
 ## Estudos-Chave
 

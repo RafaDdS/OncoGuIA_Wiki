@@ -10,12 +10,12 @@ status: "draft"
 
 # CTS5
 
-Enquanto a maioria das calculadoras foca nos primeiros anos após o diagnóstico, o CTS5 (Clinical Treatment Score post-5 years) preenche a lacuna do seguimento a longo prazo para pacientes com tumores que respondem a hormônios, os quais podem recidivar muitos anos após a cura aparente.
+Enquanto a maioria das calculadoras foca nos primeiros anos após o [[diagnostico/index|diagnóstico]], o CTS5 (Clinical Treatment Score post-5 years) preenche a lacuna do [[Seguimento Pós-Tratamento|seguimento]] a longo prazo para pacientes com tumores que respondem a hormônios, os quais podem recidivar muitos anos após a cura aparente.
 
 ## Aplicações Clínicas e Tratamento
 
-* **Foco no Longo Prazo:** O CTS5 é uma ferramenta clínica desenhada especificamente para estimar o risco de **recorrência tardia** (aquela que ocorre entre o 5º e o 10º ano após o término do tratamento inicial) em mulheres na pós-menopausa com câncer de mama invasivo RH positivo.
-* **Gestão da Terapia Endócrina:** É o principal balizador clínico para a decisão de *Terapia Endócrina Estendida*. Ao cruzar idade, tamanho tumoral, número de linfonodos e grau, o CTS5 classifica a paciente em riscos baixo, intermediário ou alto. Pacientes de baixo risco podem suspender o bloqueio hormonal após 5 anos, enquanto as de alto risco têm forte indicação para prolongar a medicação até o 10º ano.
+* **Foco no Longo Prazo:** O CTS5 é uma ferramenta clínica desenhada especificamente para estimar o risco de **recorrência tardia** (aquela que ocorre entre o 5º e o 10º ano após o término do [[tratamento/index|tratamento]] inicial) em mulheres na pós-menopausa com câncer de mama invasivo [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]] positivo.
+* **Gestão da [[tratamento/terapia-endocrina/index|Terapia Endócrina]]:** É o principal balizador clínico para a decisão de *Terapia Endócrina Estendida*. Ao cruzar idade, tamanho tumoral, número de linfonodos e grau, o CTS5 classifica a paciente em riscos baixo, intermediário ou alto. Pacientes de baixo risco podem suspender o bloqueio hormonal após 5 anos, enquanto as de alto risco têm forte indicação para prolongar a medicação até o 10º ano.
 
 ## Estudos-Chave
 

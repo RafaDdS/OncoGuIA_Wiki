@@ -14,7 +14,7 @@ status: "draft"
 
 # Oncotype DX / Recurrence Score (RS)
 
-O Oncotype DX é um painel genômico de 21 genes (16 genes relacionados ao câncer e 5 genes de referência) criado para refinar o prognóstico e, mais criticamente, para prever o benefício absoluto da quimioterapia adjuvante em pacientes com câncer de mama RH positivo e HER2 negativo. O teste gera um número chamado *Recurrence Score* (RS), que varia de 0 a 100.
+O Oncotype DX é um painel genômico de 21 genes (16 genes relacionados ao câncer e 5 genes de referência) criado para refinar o prognóstico e, mais criticamente, para prever o benefício absoluto da [[tratamento/quimioterapia/index|quimioterapia]] adjuvante em pacientes com câncer de mama [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]] positivo e [[HER2]] negativo. O teste gera um número chamado *Recurrence Score* (RS), que varia de 0 a 100.
 
 ## Aplicações Clínicas e Tratamento
 
@@ -25,13 +25,13 @@ O Oncotype DX é um painel genômico de 21 genes (16 genes relacionados ao cânc
 * **RS > 25:** Alto risco. A quimioterapia adjuvante associada à HT possui indicação formal.
 
 
-* **Cenário Linfonodo Positivo (1 a 3 LFN):** * **Pós-menopausa (RS ≤ 25):** Pode-se omitir a quimioterapia com segurança, mantendo apenas o tratamento endócrino.
-* **Pré-menopausa (RS ≤ 25):** Recomenda-se considerar a quimioterapia, pois observou-se um ganho real na sobrevida livre de doença, possivelmente pelo efeito de supressão ovariana induzido pela quimioterapia.
+* **Cenário Linfonodo Positivo (1 a 3 [[fatores-prognosticos/Linfonodo Positivo (N+-LFN)|LFN]]):** * **Pós-menopausa (RS ≤ 25):** Pode-se omitir a quimioterapia com segurança, mantendo apenas o [[tratamento/index|tratamento]] endócrino.
+* **Pré-menopausa (RS ≤ 25):** Recomenda-se considerar a quimioterapia, pois observou-se um ganho real na sobrevida livre de doença, possivelmente pelo efeito de [[Supressão Ovariana|supressão ovariana]] induzido pela quimioterapia.
 
 
 ## Estudos-Chave
 
-* **Estudo TAILORx:** Revolucionou o tratamento ao avaliar pacientes sem comprometimento linfonodal. Definiu os exatos pontos de corte (limiares) do RS, padronizando a segurança da omissão de quimioterapia na maior parte da população com RH+/HER2-.
+* **Estudo TAILORx:** Revolucionou o tratamento ao avaliar pacientes sem comprometimento linfonodal. Definiu os exatos pontos de corte (limiares) do RS, padronizando a segurança da omissão de quimioterapia na maior parte da população com [[subtipos-moleculares/Subtipo Luminal (RH+-HER2-)|RH+/HER2-]].
 * 
 **Estudo RxPonder (SWOG S1007):** Avaliou pacientes com 1 a 3 linfonodos axilares positivos, câncer de mama RH+ e HER2- com Recurrence Score < 25. Seus resultados foram divisores de águas ao confirmar que mulheres na pós-menopausa nesse cenário não ganham benefício com a quimioterapia, alterando protocolos globais.
 

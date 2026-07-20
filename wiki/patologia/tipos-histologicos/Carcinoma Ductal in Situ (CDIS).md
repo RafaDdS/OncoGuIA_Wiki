@@ -15,11 +15,11 @@ status: "draft"
 
 # Carcinoma Ductal in Situ (CDIS)
 
-Lesão não invasiva; tratada com cirurgia + RT (ou mastectomia); HT se RH+; anti-[[HER2]] não indicado.
+Lesão não invasiva; tratada com cirurgia + RT (ou mastectomia); HT se [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+; anti-[[HER2]] não indicado.
 
 ## Contexto por documento
 
-- **Estadiamento** (*Carcinoma ductal in situ (CDIS)*): Lesão pré-invasiva confinada aos ductos mamários
+- **[[estadiamento/index|Estadiamento]]** (*Carcinoma ductal in situ (CDIS)*): Lesão pré-invasiva confinada aos ductos mamários
 - **Adjuvante** (*CDIS (Carcinoma Ductal in situ)*): Lesão não invasiva; tratada com cirurgia + RT (ou mastectomia); HT se RH+; anti-[[HER2]] não indicado.
 
 ---

@@ -12,7 +12,7 @@ status: "draft"
 
 # Pembrolizumabe
 
-Padrão para TNBC estádios II/III combinado à quimioterapia com platina e taxano, seguido de antraciclina (Keynote-522). [[Seguimento Pós-Tratamento|Seguimento]] de 75 meses confirmou SG em 60 meses de 86,6% vs 81,7% (p=0,002).
+Padrão para TNBC estádios II/III combinado à [[tratamento/quimioterapia/index|quimioterapia]] com platina e taxano, seguido de antraciclina (Keynote-522). [[Seguimento Pós-Tratamento|Seguimento]] de 75 meses confirmou SG em 60 meses de 86,6% vs 81,7% (p=0,002).
 
 ## Contexto por documento
 

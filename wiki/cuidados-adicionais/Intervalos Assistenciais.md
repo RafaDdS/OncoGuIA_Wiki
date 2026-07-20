@@ -16,9 +16,9 @@ A agilidade na jornada do paciente é um indicador de qualidade fundamental nos 
 
 1. A suspeita clínica ou achado radiológico.
 2. A realização da biópsia e a emissão do laudo anatomopatológico.
-3. A liberação dos exames de imuno-histoquímica (biomarcadores).
-4. O estadiamento clínico/patológico completo.
-5. O início efetivo do primeiro tratamento (seja cirúrgico, quimioterápico neoadjuvante ou hormonioterápico).
+3. A liberação dos exames de imuno-histoquímica ([[biomarcadores/index|biomarcadores]]).
+4. O [[estadiamento/index|estadiamento]] clínico/patológico completo.
+5. O início efetivo do primeiro [[tratamento/index|tratamento]] (seja cirúrgico, quimioterápico neoadjuvante ou hormonioterápico).
 
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: Intervalos assistenciais.*

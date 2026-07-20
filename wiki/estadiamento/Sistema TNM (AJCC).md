@@ -12,7 +12,7 @@ status: "draft"
 
 # Sistema TNM (8ª Edição AJCC)
 
-O sistema TNM é a base do estadiamento do câncer de mama, avaliando a extensão anatômica da doença por meio de três componentes principais:
+O sistema TNM é a base do [[estadiamento/index|estadiamento]] do câncer de mama, avaliando a extensão anatômica da doença por meio de três componentes principais:
 
 - **T** (Tumor primário) — tamanho e extensão local
 - **N** (Linfonodos regionais) — comprometimento dos gânglios linfáticos
@@ -30,8 +30,8 @@ As medidas do tumor primário referem-se sempre à **maior dimensão** do tumor.
 |-----------|-----------|
 | **Tx** | Tumor primário não avaliável |
 | **T0** | Sem evidência de tumor primário |
-| **Tis (CDIS)** | Carcinoma ductal *in situ* (o carcinoma lobular *in situ* foi retirado, pois é considerado uma entidade benigna) |
-| **Tis (Paget)** | Doença de Paget do mamilo sem carcinoma invasivo associado |
+| **Tis (CDIS)** | Carcinoma ductal *in situ* (o [[Carcinoma Lobular|carcinoma lobular]] *in situ* foi retirado, pois é considerado uma entidade benigna) |
+| **Tis (Paget)** | [[Doença de Paget]] do mamilo sem carcinoma invasivo associado |
 | **T1** | Tumor ≤ 20 mm na maior dimensão |
 | **T1mi** | Tumor ≤ 1 mm |
 | **T1a** | Tumor > 1 mm e ≤ 5 mm (arredondar 1,0–1,9 mm para 2 mm) |
@@ -49,14 +49,14 @@ As medidas do tumor primário referem-se sempre à **maior dimensão** do tumor.
 
 ## Classificação Linfonodal (N)
 
-**Classificação Clínica (cN)** — baseada em exame físico e exames de imagem:
+**Classificação Clínica (cN)** — baseada em exame físico e exames de [[diagnostico/imagem/index|imagem]]:
 
 | Categoria | Definição |
 |-----------|-----------|
 | **cNx** | Linfonodos não examinados ou removidos previamente |
 | **cN0** | Sem metástases para linfonodos regionais |
 | **cN1** | Metástase em linfonodos axilares móveis ipsilaterais (níveis I ou II) |
-| **cN1mi** | Micrometástases (> 0,2 mm, mas ≤ 2 mm) — raramente utilizado, mais comum em casos de tratamento neoadjuvante |
+| **cN1mi** | Micrometástases (> 0,2 mm, mas ≤ 2 mm) — raramente utilizado, mais comum em casos de [[Tratamento Neoadjuvante (Conceito)|tratamento neoadjuvante]] |
 | **cN2** | Metástase em linfonodos axilares fixos e/ou coalescentes (níveis I/II), **ou** metástase em linfonodos mamários internos ipsilaterais na ausência de acometimento axilar |
 | **cN2a** | Linfonodos axilares fixos ou coalescentes entre si ou com outras estruturas |
 | **cN2b** | Linfonodos mamários internos ipsilaterais sem acometimento axilar |
@@ -101,7 +101,7 @@ As medidas do tumor primário referem-se sempre à **maior dimensão** do tumor.
 
 ## Estadiamento Anatômico (Agrupamentos TNM)
 
-Deve ser utilizado **apenas em locais onde exames de biomarcadores estejam indisponíveis**.
+Deve ser utilizado **apenas em locais onde exames de [[biomarcadores/index|biomarcadores]] estejam indisponíveis**.
 
 | Estádio | T | N | M |
 |---------|---|---|---|

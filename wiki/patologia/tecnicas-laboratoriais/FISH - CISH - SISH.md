@@ -14,11 +14,11 @@ status: "draft"
 
 # FISH / CISH / SISH
 
-Técnicas de hibridização in situ para confirmação do status [[HER2]] em casos de IHQ 2+ (indeterminado)
+Técnicas de hibridização in situ para confirmação do status [[HER2]] em casos de [[Imuno-histoquímica (IHQ)|IHQ]] 2+ (indeterminado)
 
 ## Contexto por documento
 
-- **Estadiamento** (*FISH / CISH / SISH*): Técnicas de hibridização in situ para confirmação do status [[HER2]] em casos de IHQ 2+ (indeterminado)
+- **[[estadiamento/index|Estadiamento]]** (*FISH / CISH / SISH*): Técnicas de hibridização in situ para confirmação do status [[HER2]] em casos de IHQ 2+ (indeterminado)
 - **Adjuvante** (*FISH/CISH*): Hibridização in situ fluorescente/cromogênica; usada para confirmar amplificação de [[HER2]].
 
 ---

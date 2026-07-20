@@ -12,7 +12,7 @@ status: "draft"
 
 # TC (Docetaxel + Ciclofosfamida)
 
-Docetaxel + Ciclofosfamida; opção sem antracíclico, superior a AC em alguns cenários.
+Docetaxel + Ciclofosfamida; opção sem antracíclico, superior a [[AC (Doxorrubicina + Ciclofosfamida)|AC]] em alguns cenários.
 
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: TC.*

@@ -13,4 +13,4 @@ status: "draft"
 Opção para TNBC (estudo asiático); mostrou eficácia similar a FEC-T.
 
 ---
-*Página gerada a partir de 1 termo(s) original(is) do glossário: Carboplatina + Paclitaxel.*
+*Página gerada a partir de 1 termo(s) original(is) do glossário: [[Carboplatina]] + Paclitaxel.*

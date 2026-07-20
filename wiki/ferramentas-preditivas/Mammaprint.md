@@ -10,11 +10,11 @@ status: "draft"
 
 # Mammaprint
 
-O Mammaprint é um ensaio genômico baseado em tecnologia de *microarray* que analisa a expressão de uma assinatura de 70 genes. Ao contrário do Oncotype que fornece uma pontuação contínua, o Mammaprint é categórico: ele classifica o tumor binariamente em "Baixo Risco Genômico" ou "Alto Risco Genômico".
+O Mammaprint é um ensaio genômico baseado em tecnologia de *microarray* que analisa a expressão de uma assinatura de 70 genes. Ao contrário do Oncotype que fornece uma pontuação contínua, o Mammaprint é categórico: ele classifica o tumor binariamente em "Baixo Risco Genômico" ou "[[Alto Risco Genômico]]".
 
 ## Aplicações Clínicas e Tratamento
 
-* **População Alvo:** É frequentemente utilizado em pacientes com câncer de mama RH positivo, HER2 negativo, sem linfonodos comprometidos (N0) que, pelas características clínicas convencionais, teriam indicação de quimioterapia (alto risco clínico).
+* **População Alvo:** É frequentemente utilizado em pacientes com câncer de mama [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]] positivo, [[HER2]] negativo, sem linfonodos comprometidos (N0) que, pelas características clínicas convencionais, teriam indicação de [[tratamento/quimioterapia/index|quimioterapia]] ([[Alto Risco Clínico|alto risco clínico]]).
 * **Decisão Terapêutica:** * Um resultado de **Alto Risco Genômico** confirma a necessidade da quimioterapia.
 * Um resultado de **Baixo Risco Genômico** sugere que o tumor é biologicamente menos agressivo, permitindo a descontinuação da recomendação de quimioterapia.
 
@@ -24,7 +24,7 @@ O Mammaprint é um ensaio genômico baseado em tecnologia de *microarray* que an
 ## Estudos-Chave
 
 * **Estudo MINDACT:** Foi o pilar de validação do Mammaprint. Este ensaio prospectivo provou que pacientes com "Alto Risco Clínico" porém "Baixo Risco Genômico" podiam ser poupadas da quimioterapia sem comprometer significativamente a sobrevida global.
-* Em atualizações mais recentes do estudo (seguimento de longo prazo), notou-se que em pacientes jovens (< 50 anos) com perfil discordante, um pequeno benefício da quimioterapia não pôde ser completamente descartado, orientando os médicos a usarem o teste com cautela redobrada nessa faixa etária específica.
+* Em atualizações mais recentes do estudo ([[Seguimento Pós-Tratamento|seguimento]] de longo prazo), notou-se que em pacientes jovens (< 50 anos) com perfil discordante, um pequeno benefício da quimioterapia não pôde ser completamente descartado, orientando os médicos a usarem o teste com cautela redobrada nessa faixa etária específica.
 
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: Mammaprint.*
