@@ -17,7 +17,7 @@ status: "draft"
 
 # Receptores Hormonais (RE / RP)
 
-O status dos **Receptores Hormonais (RH)** — que compreende o Receptor de Estrogênio (RE) e o Receptor de Progesterona (RP) — é um dos pilares essenciais na caracterização, prognóstico e [[tratamento/index|tratamento]] do câncer de mama. Quando as células tumorais expressam esses receptores, significa que o crescimento do tumor é ativamente estimulado pelos hormônios femininos circulantes no corpo. Tumores que apresentam essa característica são frequentemente classificados como "luminais" e representam a maioria dos diagnósticos de câncer de mama, destacando-se por serem altamente responsivos a tratamentos que bloqueiam essa via hormonal.
+O status dos **Receptores Hormonais (RH)** — que compreende o Receptor de Estrogênio (RE) e o Receptor de Progesterona (RP) — é um dos pilares essenciais na caracterização, prognóstico e [[tratamento/index|tratamento]] do [[Câncer de Mama (Visão Geral)|câncer de mama]]. Quando as células tumorais expressam esses receptores, significa que o crescimento do tumor é ativamente estimulado pelos hormônios femininos circulantes no corpo. Tumores que apresentam essa característica são frequentemente classificados como "luminais" e representam a maioria dos diagnósticos de câncer de mama, destacando-se por serem altamente responsivos a tratamentos que bloqueiam essa via hormonal.
 
 ---
 

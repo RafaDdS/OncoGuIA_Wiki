@@ -15,7 +15,7 @@ status: "draft"
 
 # TH / THP
 
-Paclitaxel semanal (12 semanas) + [[Trastuzumabe]] + [[Pertuzumabe]]. Alternativa ao [[tratamento/quimioterapia/TCH - TCHP|TCHP]], especialmente para casos selecionados (NeoSphere).
+Paclitaxel semanal (12 semanas) + [[Trastuzumabe]] + [[Pertuzumabe]]. Alternativa ao [[tratamento/quimioterapia/TCH - TCHP|TCHP]], especialmente para casos selecionados ([[NeoSphere]]).
 
 ## Contexto por documento
 

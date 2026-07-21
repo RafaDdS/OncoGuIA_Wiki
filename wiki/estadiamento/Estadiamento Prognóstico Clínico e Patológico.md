@@ -14,9 +14,9 @@ status: "draft"
 
 # Estadiamento Prognóstico Clínico e Patológico
 
-[[estadiamento/index|Estadiamento]] que incorpora, além do TNM anatômico, o grau histológico, [[HER2]], receptores hormonais (RE e RP). A diretriz da SBOC 2026 estabelece que o estadiamento clínico e patológico **deve seguir a 8ª edição do AJCC Cancer Staging Manual**, que está disponível no site da AJCC e inclui tanto o estadiamento anatômico quanto o prognóstico.
+[[estadiamento/index|Estadiamento]] que incorpora, além do TNM anatômico, o [[Grau Histológico (G1–G3)|grau histológico]], [[HER2]], receptores hormonais (RE e RP). A diretriz da [[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026 estabelece que o estadiamento clínico e patológico **deve seguir a 8ª edição do [[instituicoes/ESMO - NCCN - ASCO - AJCC|AJCC]] Cancer Staging Manual**, que está disponível no site da AJCC e inclui tanto o estadiamento anatômico quanto o prognóstico.
 
-A grande inovação da 8ª edição do AJCC é a incorporação de **fatores biológicos não anatômicos** ao estadiamento, reconhecendo que o prognóstico do câncer de mama é influenciado por características moleculares além da extensão anatômica.
+A grande inovação da 8ª edição do AJCC é a incorporação de **fatores biológicos não anatômicos** ao estadiamento, reconhecendo que o prognóstico do [[Câncer de Mama (Visão Geral)|câncer de mama]] é influenciado por características moleculares além da extensão anatômica.
 
 ## Componentes do Estadiamento Prognóstico
 
@@ -66,8 +66,8 @@ Baseia-se na avaliação histológica completa da peça cirúrgica e dos linfono
 ## Considerações Especiais
 
 - **N1mi** requer avaliação do nódulo completo e, portanto, **não pode ser determinado** através de [[Punção Aspirativa por Agulha Fina (PAAF)|PAAF]] ou *[[Core Biopsy|core biopsy]]*. Só poderá ser utilizado para estadiamento clínico-prognóstico quando o estadiamento clínico for baseado em linfonodo sentinela ressecado.
-- Para casos em que haja **envolvimento linfonodal sem evidência de tumor primário**, ou quando este for CDIS (ex.: T0N1, TisN1), o grau, HER2, RE e RP do tumor no linfonodo devem ser considerados.
-- Para casos em que o **teste FISH para HER2 seja indeterminado**, deve ser considerada a categoria HER2 negativo.
+- Para casos em que haja **envolvimento linfonodal sem evidência de tumor primário**, ou quando este for [[Carcinoma Ductal in Situ (CDIS)|CDIS]] (ex.: T0N1, TisN1), o grau, HER2, RE e RP do tumor no linfonodo devem ser considerados.
+- Para casos em que o **teste [[patologia/tecnicas-laboratoriais/FISH - CISH - SISH|FISH]] para HER2 seja indeterminado**, deve ser considerada a categoria HER2 negativo.
 - O **[[ferramentas-preditivas/Recurrence Score (RS) - Oncotype DX|Oncotype DX]]** com *score* < 11 pode ser utilizado para definir estádio IA em T1-2N0M0, HER2 negativo, RE positivo.
 
 ---

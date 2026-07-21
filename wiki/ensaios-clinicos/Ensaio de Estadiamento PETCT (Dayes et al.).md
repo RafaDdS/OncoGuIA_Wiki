@@ -16,7 +16,7 @@ status: "draft"
  2023 1
 
 ## Objetivos
- Determinar por ensaio clínico randomizado o impacto do [[estadiamento/index|estadiamento]] por tomografia por emissão de pósitrons com tomografia computadorizada ([[diagnostico/imagem/PET-CT|PET/CT]]) contendo FDG-18F contra as ferramentas de estadiamento convencional em casos de câncer de mama localmente avançado. 1
+ Determinar por ensaio clínico randomizado o impacto do [[estadiamento/index|estadiamento]] por tomografia por emissão de pósitrons com tomografia computadorizada ([[diagnostico/imagem/PET-CT|PET/CT]]) contendo FDG-18F contra as ferramentas de estadiamento convencional em casos de [[Câncer de Mama (Visão Geral)|câncer de mama]] localmente avançado. 1
 
 ## Resultados e Impacto Clínico
  Demonstrou que a PET/CT eleva massivamente a capacidade de detectar metástases à distância previamente ocultas (diagnosticando Estádio IV em 23% dos casos contra apenas 11% da técnica convencional), mudando de forma cabal a abordagem de [[tratamento/index|tratamento]] e cirurgia de quase um quarto das pacientes de alto risco. 1

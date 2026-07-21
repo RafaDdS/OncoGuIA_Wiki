@@ -2,6 +2,9 @@
 title: "FISH / CISH / SISH"
 aliases:
   - "FISH/CISH"
+  - "FISH"
+  - "CISH"
+  - "SISH"
 category: "Biomarcadores"
 source_documents:
   - "Adjuvante"

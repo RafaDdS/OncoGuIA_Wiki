@@ -27,4 +27,4 @@ A lógica do [[Tratamento Adjuvante (Conceito)|tratamento adjuvante]] em homens 
 - **Radioterapia (RT):** A radioterapia adjuvante possui indicação obrigatória após cirurgias conservadoras. Em cenários de mastectomia, a RT deve ser considerada para homens que apresentem os mesmos fatores de maior risco adotados para mulheres, como o comprometimento linfonodal ou tumores volumosos (T3 e T4).
 
 ---
-*Página gerada a partir de 1 termo(s) original(is) do glossário: Câncer de mama em homens.*
+*Página gerada a partir de 1 termo(s) original(is) do glossário: [[Câncer de Mama (Visão Geral)|Câncer de mama]] em homens.*

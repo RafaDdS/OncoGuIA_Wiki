@@ -12,7 +12,7 @@ status: "draft"
 
 # Sistema TNM (8ª Edição AJCC)
 
-O sistema TNM é a base do [[estadiamento/index|estadiamento]] do câncer de mama, avaliando a extensão anatômica da doença por meio de três componentes principais:
+O sistema TNM é a base do [[estadiamento/index|estadiamento]] do [[Câncer de Mama (Visão Geral)|câncer de mama]], avaliando a extensão anatômica da doença por meio de três componentes principais:
 
 - **T** (Tumor primário) — tamanho e extensão local
 - **N** (Linfonodos regionais) — comprometimento dos gânglios linfáticos
@@ -30,7 +30,7 @@ As medidas do tumor primário referem-se sempre à **maior dimensão** do tumor.
 |-----------|-----------|
 | **Tx** | Tumor primário não avaliável |
 | **T0** | Sem evidência de tumor primário |
-| **Tis (CDIS)** | Carcinoma ductal *in situ* (o [[Carcinoma Lobular|carcinoma lobular]] *in situ* foi retirado, pois é considerado uma entidade benigna) |
+| **Tis ([[Carcinoma Ductal in Situ (CDIS)|CDIS]])** | Carcinoma ductal *in situ* (o [[Carcinoma Lobular|carcinoma lobular]] *in situ* foi retirado, pois é considerado uma entidade benigna) |
 | **Tis (Paget)** | [[Doença de Paget]] do mamilo sem carcinoma invasivo associado |
 | **T1** | Tumor ≤ 20 mm na maior dimensão |
 | **T1mi** | Tumor ≤ 1 mm |
@@ -117,4 +117,4 @@ Deve ser utilizado **apenas em locais onde exames de [[biomarcadores/index|bioma
 
 
 ---
-*Página gerada a partir de 1 termo(s) original(is) do glossário: Sistema TNM (8ª edição AJCC).*
+*Página gerada a partir de 1 termo(s) original(is) do glossário: Sistema TNM (8ª edição [[instituicoes/ESMO - NCCN - ASCO - AJCC|AJCC]]).*

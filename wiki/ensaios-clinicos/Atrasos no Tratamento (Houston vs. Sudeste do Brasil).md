@@ -16,7 +16,7 @@ status: "draft"
  2022 1
 
 ## Objetivos
- Contrastar e comparar os atrasos temporais no manejo do câncer de mama entre pacientes tratadas em sistemas de "rede de segurança" pública em Houston (Texas, EUA) e na região Sudeste do Brasil. 1
+ Contrastar e comparar os atrasos temporais no manejo do [[Câncer de Mama (Visão Geral)|câncer de mama]] entre pacientes tratadas em sistemas de "rede de segurança" pública em Houston (Texas, EUA) e na região Sudeste do Brasil. 1
 
 ## Resultados e Impacto Clínico
  Comprovou que deficiências e longas esperas logísticas observadas no Brasil afetam diretamente a capacidade de início rápido de [[tratamento/index|tratamento]], alterando as chances prognósticas dos pacientes muito antes da terapia começar. 1

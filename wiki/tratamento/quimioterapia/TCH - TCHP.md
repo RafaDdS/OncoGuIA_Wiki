@@ -14,7 +14,7 @@ status: "draft"
 
 # TCH / TCHP
 
-Paclitaxel (ou Docetaxel) + [[Carboplatina]] + [[Trastuzumabe]] + [[Pertuzumabe]]. Esquema preferencial para [[HER2]]+ na neoadjuvância (RPC ~63% no TRYPHAENA). Omissão de antraciclina com mesma eficácia (TRAIN-2).
+Paclitaxel (ou Docetaxel) + [[Carboplatina]] + [[Trastuzumabe]] + [[Pertuzumabe]]. Esquema preferencial para [[HER2]]+ na neoadjuvância (RPC ~63% no [[TRYPHAENA]]). Omissão de antraciclina com mesma eficácia ([[TRAIN-2]]).
 
 ## Contexto por documento
 

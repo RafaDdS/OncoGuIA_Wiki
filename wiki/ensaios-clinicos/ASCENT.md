@@ -15,7 +15,7 @@ status: "draft"
  2021 e 2024 (final)
 
 ## Objetivos:
- Avaliar a eficácia de sacituzumabe govitecana em pacientes com câncer de mama triplo-negativo metastático previamente tratado.
+ Avaliar a eficácia de sacituzumabe govitecana em pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] triplo-negativo metastático previamente tratado.
 
 ## Resultados e Impacto Clínico:
  Ganhos significativos em SLP e SG mediana, estabelecendo o sacituzumabe govitecana como uma opção de [[tratamento/index|tratamento]] eficaz com perfil de toxicidade manejável.

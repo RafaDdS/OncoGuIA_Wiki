@@ -14,7 +14,7 @@ status: "draft"
 
 A classificação de "Alto Risco Clínico", especialmente relevante para tumores da mama Receptor Hormonal positivo e [[HER2]] negativo ([[subtipos-moleculares/Subtipo Luminal (RH+-HER2-)|RH+/HER2-]]), orienta a indicação de tratamentos sistêmicos adjuvantes, como a [[tratamento/quimioterapia/index|quimioterapia]] e as [[tratamento/terapias-alvo/index|terapias-alvo]]. 
 
-- **Para tumores com linfonodos axilares negativos (N0):** Considera-se alto risco clínico a presença de tumores a partir de 1 cm com grau histológico 3; tumores a partir de 2 cm com graus 2 ou 3; ou tumores a partir de 3 cm de qualquer grau histológico. 
+- **Para tumores com linfonodos axilares negativos (N0):** Considera-se alto risco clínico a presença de tumores a partir de 1 cm com [[Grau Histológico (G1–G3)|grau histológico]] 3; tumores a partir de 2 cm com graus 2 ou 3; ou tumores a partir de 3 cm de qualquer grau histológico. 
 
 - **Fatores agravantes adicionais:** O risco é considerado maior na presença de *status* pré-menopausal, [[Invasão Angiolinfática|invasão angiolinfática]], baixa expressão de receptores hormonais e índice de proliferação celular ([[Ki67]]) elevado (≥ 20%). 
 

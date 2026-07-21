@@ -21,11 +21,11 @@ Exame de [[diagnostico/imagem/index|imagem]] funcional e anatômica que combina 
 
 - **Indicações principais:**
   - Quando os métodos convencionais forem inconclusivos ou suspeitos.
-    - **NE MODERADA / FR MODERADA (ESMO); NE MODERADO / FR FORTE (NCCN).**
+    - **NE MODERADA / FR MODERADA ([[instituicoes/ESMO - NCCN - ASCO - AJCC|ESMO]]); NE MODERADO / FR FORTE (NCCN).**
   - Em pacientes com [[Doença Localmente Avançada|doença localmente avançada]], múltiplos linfonodos comprometidos ou suspeita de metástases, especialmente em tumores de alto grau — pode substituir ou complementar os exames convencionais.
     - **NE MODERADA / FR MODERADA (ESMO).**
 - **Evidências:** Ensaio clínico randomizado demonstrou maior detecção de doença em estádio IV com PET/CT-FDG em comparação ao [[estadiamento/index|estadiamento]] convencional (23% versus 11%; p=0,002), com impacto na estratégia terapêutica.
-- **Recomendação internacional:** O PET/CT-FDG é considerado modalidade preferencial para estadiamento sistêmico do câncer de mama localmente avançado em guideline da EANM/SNMMI, endossado por ACR, ESSO, ESTRO e EUSOMA.
+- **Recomendação internacional:** O PET/CT-FDG é considerado modalidade preferencial para estadiamento sistêmico do [[Câncer de Mama (Visão Geral)|câncer de mama]] localmente avançado em guideline da EANM/SNMMI, endossado por ACR, ESSO, ESTRO e EUSOMA.
 - **Limitações:** Menor sensibilidade em tumores lobulares e de baixo grau; limitações relacionadas a custo e acessibilidade.
 
 ## PET/CT-FES (com 18F-fluoroestradiol):

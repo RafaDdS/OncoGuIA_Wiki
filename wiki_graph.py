@@ -11,10 +11,15 @@ It reuses the same frontmatter/title conventions as wikilink_generator.py:
   - Nodes are colored by the frontmatter `category` field, if present.
   - Edges are parsed from `[[Target]]` and `[[Target|Display text]]` links
     found anywhere in the page body (frontmatter itself is ignored).
-  - A link that points to a title not found anywhere in the wiki is
-    reported as "dangling" (printed to the console) but not silently
-    dropped from the count -- it's just excluded from the rendered graph
-    since there's no node to draw it to.
+  - A link's bracket text is resolved the same way
+    wikilink_generator.py writes it: either a plain title, or -- for
+    index.md pages and titles containing "/" -- an explicit path like
+    "diagnostico/index". Both forms are recognized so those links don't
+    show up as false-positive "dangling" links.
+  - A link that still doesn't resolve to any known page is reported as
+    "dangling" (printed to the console) but not silently dropped from the
+    count -- it's just excluded from the rendered graph since there's no
+    node to draw it to.
 
 Usage:
     python wiki_graph.py --wiki-dir wiki
@@ -68,13 +73,33 @@ def split_frontmatter(text):
     return meta, text[m.end():]
 
 
+def compute_link_href(path, wiki_dir, title):
+    """
+    Mirrors wikilink_generator.py's logic: mkdocs-roamlinks-plugin resolves
+    a bare [[Title]] by matching the actual filename on disk, which breaks
+    for index.md files (every folder has one) and for titles containing
+    "/" (misparsed as a path by the plugin). The generator falls back to
+    an explicit relative path in exactly those two cases, so we need to
+    recognize that same path form here -- otherwise every link to an
+    index page looks "dangling" even though it resolves fine in the
+    live site.
+    """
+    is_index_page = path.stem.lower() == "index"
+    has_unsafe_slash = "/" in title or "\\" in title
+    if is_index_page or has_unsafe_slash:
+        return path.relative_to(wiki_dir).with_suffix("").as_posix()
+    return title
+
+
 def build_graph(wiki_dir):
     """Returns (graph, category_of_node, dangling_links) """
     graph = nx.DiGraph()
     category_of = {}
     dangling = []  # (source_title, target_text, path)
+    href_to_title = {}  # every valid string that can appear inside [[ ]]
 
     paths = sorted(wiki_dir.rglob("*.md"))
+    titles = {}  # path -> title, computed once and reused below
 
     # Pass 1: register every page as a node.
     for path in paths:
@@ -84,22 +109,26 @@ def build_graph(wiki_dir):
         category = str(meta.get("category") or "Sem categoria").strip().strip('"').strip("'")
         graph.add_node(title, category=category, path=str(path))
         category_of[title] = category
+        titles[path] = title
 
-    known_titles = set(graph.nodes)
+        href = compute_link_href(path, wiki_dir, title)
+        href_to_title[title] = title
+        href_to_title[href] = title
 
-    # Pass 2: parse links now that we know every valid title.
+    # Pass 2: parse links now that we know every valid title/href.
     for path in paths:
         text = path.read_text(encoding="utf-8")
         meta, body = split_frontmatter(text)
-        title = str(meta.get("title") or path.stem).strip().strip('"').strip("'")
+        title = titles[path]
 
         for m in WIKILINK_RE.finditer(body):
-            target = m.group(1).strip()
+            raw_target = m.group(1).strip()
+            target = href_to_title.get(raw_target)
+            if target is None:
+                dangling.append((title, raw_target, path))
+                continue
             if target == title:
                 continue  # ignore accidental self-links
-            if target not in known_titles:
-                dangling.append((title, target, path))
-                continue
             if graph.has_edge(title, target):
                 continue  # de-dupe repeated links to the same page
             graph.add_edge(title, target)
@@ -245,9 +274,9 @@ def main():
     )
     parser.add_argument("--wiki-dir", required=True, type=Path,
                         help="Root folder containing the .md wiki pages.")
-    parser.add_argument("--output", type=Path, default=Path("wiki_graph.html"),
+    parser.add_argument("--output", type=Path, default=Path("wiki/graph.html"),
                         help="Path for the interactive HTML output "
-                             "(default: wiki_graph.html).")
+                             "(default: wiki/graph.html).")
     parser.add_argument("--static", type=Path, default=None,
                         help="Also export a static PNG overview to this path.")
     parser.add_argument("--undirected", action="store_true",

@@ -14,7 +14,7 @@ O Mammaprint é um ensaio genômico baseado em tecnologia de *microarray* que an
 
 ## Aplicações Clínicas e Tratamento
 
-* **População Alvo:** É frequentemente utilizado em pacientes com câncer de mama [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]] positivo, [[HER2]] negativo, sem linfonodos comprometidos (N0) que, pelas características clínicas convencionais, teriam indicação de [[tratamento/quimioterapia/index|quimioterapia]] ([[Alto Risco Clínico|alto risco clínico]]).
+* **População Alvo:** É frequentemente utilizado em pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]] positivo, [[HER2]] negativo, sem linfonodos comprometidos (N0) que, pelas características clínicas convencionais, teriam indicação de [[tratamento/quimioterapia/index|quimioterapia]] ([[Alto Risco Clínico|alto risco clínico]]).
 * **Decisão Terapêutica:** * Um resultado de **Alto Risco Genômico** confirma a necessidade da quimioterapia.
 * Um resultado de **Baixo Risco Genômico** sugere que o tumor é biologicamente menos agressivo, permitindo a descontinuação da recomendação de quimioterapia.
 

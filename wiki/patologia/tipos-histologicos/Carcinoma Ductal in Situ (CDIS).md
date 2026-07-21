@@ -1,8 +1,8 @@
 ---
 title: "Carcinoma Ductal in Situ (CDIS)"
 aliases:
-  - "Carcinoma ductal in situ (CDIS)"
-  - "CDIS (Carcinoma Ductal in situ)"
+  - "Carcinoma ductal in situ"
+  - "CDIS"
 category: "Patologia e Subtipos"
 source_documents:
   - "Adjuvante"

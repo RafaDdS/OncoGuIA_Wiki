@@ -10,7 +10,7 @@ status: "draft"
 
 # PIK3CA
 
-O gene **PIK3CA** é responsável por codificar uma proteína crucial na via de sinalização PI3K/AKT/mTOR, que regula a sobrevivência, a proliferação e o metabolismo celular. No câncer de mama, especialmente no subtipo com receptor hormonal positivo (HR+) e [[HER2]] negativo, mutações neste gene são extremamente comuns (presentes em cerca de 40% dos casos). Essas mutações ativadoras causam uma hiperestimulação contínua dessa via, promovendo o crescimento tumoral e contribuindo diretamente para o desenvolvimento de resistência à [[tratamento/terapia-endocrina/index|terapia endócrina]] padrão.
+O gene **PIK3CA** é responsável por codificar uma proteína crucial na via de sinalização PI3K/AKT/mTOR, que regula a sobrevivência, a proliferação e o metabolismo celular. No [[Câncer de Mama (Visão Geral)|câncer de mama]], especialmente no subtipo com receptor hormonal positivo (HR+) e [[HER2]] negativo, mutações neste gene são extremamente comuns (presentes em cerca de 40% dos casos). Essas mutações ativadoras causam uma hiperestimulação contínua dessa via, promovendo o crescimento tumoral e contribuindo diretamente para o desenvolvimento de resistência à [[tratamento/terapia-endocrina/index|terapia endócrina]] padrão.
 
 ---
 

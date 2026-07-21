@@ -10,7 +10,7 @@ status: "draft"
 
 # Trop-2
 
-A **Trop-2** (Antígeno de Superfície Celular Trofoblástica 2) é uma glicoproteína transmembrana superexpressa em diversos tipos de tumores sólidos, incluindo o câncer de mama. No contexto oncológico atual, a sua importância reside no fato de ser um alvo altamente eficaz para uma nova classe de medicamentos conhecidos como Anticorpos Conjugados a Fármacos (ADCs), revolucionando especialmente o [[tratamento/index|tratamento]] de subtipos mais agressivos da doença.
+A **Trop-2** (Antígeno de Superfície Celular Trofoblástica 2) é uma glicoproteína transmembrana superexpressa em diversos tipos de tumores sólidos, incluindo o [[Câncer de Mama (Visão Geral)|câncer de mama]]. No contexto oncológico atual, a sua importância reside no fato de ser um alvo altamente eficaz para uma nova classe de medicamentos conhecidos como Anticorpos Conjugados a Fármacos (ADCs), revolucionando especialmente o [[tratamento/index|tratamento]] de subtipos mais agressivos da doença.
 
 ---
 

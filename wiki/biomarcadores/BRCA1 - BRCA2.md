@@ -16,7 +16,7 @@ Os genes **BRCA1** e **BRCA2** (Breast Cancer 1 e 2) são importantes genes supr
 
 ## Diagnóstico e Avaliação
 
-A avaliação do status do BRCA é fortemente recomendada para pacientes com fatores de risco clínicos, histórico familiar marcante ou subtipos específicos de câncer de mama (como o triplo-negativo). O [[diagnostico/index|diagnóstico]] é feito principalmente por sequenciamento genético:
+A avaliação do status do BRCA é fortemente recomendada para pacientes com fatores de risco clínicos, histórico familiar marcante ou subtipos específicos de [[Câncer de Mama (Visão Geral)|câncer de mama]] (como o triplo-negativo). O [[diagnostico/index|diagnóstico]] é feito principalmente por sequenciamento genético:
 
 * **Testagem Germinativa (gBRCA):** Realizada por meio de amostras de sangue ou saliva, identifica mutações hereditárias (presentes em todas as células do corpo). É a testagem padrão para determinar a elegibilidade para a maioria das terapias direcionadas aprovadas atualmente.
 * **Testagem Somática (sBRCA):** Realizada a partir do sequenciamento do tecido tumoral (biópsia), identifica mutações adquiridas que estão restritas ao tumor.

@@ -1,5 +1,8 @@
 ---
 title: "Sociedade Brasileira de Oncologia Clínica (SBOC)"
+aliases:
+  - "Sociedade Brasileira de Oncologia Clínica"
+  - "SBOC"
 category: "Instituições"
 source_documents:
   - "Estadiamento"

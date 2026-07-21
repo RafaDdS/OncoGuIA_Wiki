@@ -16,7 +16,7 @@ A Resposta Patológica Completa (RPC) refere-se à ausência de [[Doença Residu
 
 ## Aplicações Clínicas e Tratamento
 
-Alcançar a RPC é um excelente indicador de sucesso terapêutico. Ela atua como um desfecho substituto para ganhos significativos em sobrevida em longo prazo, refletindo excelente prognóstico principalmente em subtipos mais agressivos como o câncer de mama [[TNBC (Triplo-Negativo)|Triplo-Negativo (TNBC)]], [[HER2]]+ e Receptor Hormonal positivo ([[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+) de grau 3. Pacientes que atingem a RPC costumam prosseguir com as terapias adjuvantes de consolidação padrão, sem a necessidade de introduzir tratamentos de resgate.
+Alcançar a RPC é um excelente indicador de sucesso terapêutico. Ela atua como um desfecho substituto para ganhos significativos em sobrevida em longo prazo, refletindo excelente prognóstico principalmente em subtipos mais agressivos como o [[Câncer de Mama (Visão Geral)|câncer de mama]] [[TNBC (Triplo-Negativo)|Triplo-Negativo (TNBC)]], [[HER2]]+ e Receptor Hormonal positivo ([[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+) de grau 3. Pacientes que atingem a RPC costumam prosseguir com as terapias adjuvantes de consolidação padrão, sem a necessidade de introduzir tratamentos de resgate.
 
 ## Estudos-Chave
 

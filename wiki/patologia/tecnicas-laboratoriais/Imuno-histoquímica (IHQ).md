@@ -1,6 +1,7 @@
 ---
 title: "Imuno-histoquímica (IHQ)"
 aliases:
+  - "Imuno-histoquímica"
   - "IHQ"
 category: "Rastreamento e Imagem"
 source_documents:

@@ -16,7 +16,7 @@ status: "draft"
  2011 (BCIRG-006) e (HERA)
 
 ## Objetivos:
- Provar o benefício de um ano de [[Trastuzumabe|trastuzumabe]] adjuvante em pacientes com câncer de mama inicial [[HER2]]-positivo.
+ Provar o benefício de um ano de [[Trastuzumabe|trastuzumabe]] adjuvante em pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] inicial [[HER2]]-positivo.
 
 ## Resultados e Impacto Clínico:
  Reduziram drasticamente a recorrência e a mortalidade, estabelecendo o trastuzumabe adjuvante por um ano como o padrão de cuidado.

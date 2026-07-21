@@ -12,7 +12,7 @@ status: "draft"
 
 # Fosfatase Alcalina (FALC)
 
-A **Fosfatase Alcalina (FALC)** é uma enzima presente em diversos tecidos do organismo, com concentrações mais expressivas no fígado e nos ossos. No contexto do câncer de mama, ela não atua como um alvo terapêutico ou marcador molecular para tratamentos específicos, mas desempenha um papel importante como um exame laboratorial (marcador bioquímico) auxiliar na investigação sistêmica e no monitoramento de possíveis metástases.
+A **Fosfatase Alcalina (FALC)** é uma enzima presente em diversos tecidos do organismo, com concentrações mais expressivas no fígado e nos ossos. No contexto do [[Câncer de Mama (Visão Geral)|câncer de mama]], ela não atua como um alvo terapêutico ou marcador molecular para tratamentos específicos, mas desempenha um papel importante como um exame laboratorial (marcador bioquímico) auxiliar na investigação sistêmica e no monitoramento de possíveis metástases.
 
 ---
 

@@ -5,7 +5,7 @@ status: "draft"
 
 # Outros Desfechos Relevantes
 
-No [[tratamento/index|tratamento]] do câncer de mama em estágios iniciais, onde o objetivo é a cura, os estudos utilizam métricas focadas no tempo sem o retorno da doença:
+No [[tratamento/index|tratamento]] do [[Câncer de Mama (Visão Geral)|câncer de mama]] em estágios iniciais, onde o objetivo é a cura, os estudos utilizam métricas focadas no tempo sem o retorno da doença:
 
 - **Sobrevida Livre de Doença (SLD):** Mede o tempo desde o tratamento com intenção curativa (como a cirurgia) até a ocorrência de qualquer evento adverso, que pode incluir a recidiva do câncer (local ou à distância), o surgimento de um novo câncer primário ou a morte por qualquer causa.
 

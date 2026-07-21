@@ -16,9 +16,9 @@ Os perfis de expressão gênica (ou painéis genômicos) são testes laboratoria
 
 ## Aplicações Clínicas e Tratamento
 
-* **Indicação Principal:** São indicados quase exclusivamente para pacientes com câncer de mama inicial com Receptor Hormonal positivo ([[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+) e HER2 negativo.
+* **Indicação Principal:** São indicados quase exclusivamente para pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] inicial com Receptor Hormonal positivo ([[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+) e HER2 negativo.
 * **Limitações de Uso:** Estes testes não possuem valor preditivo ou prognóstico validado para pacientes com tumores [[HER2|HER2 positivo]] ou Triplo-Negativo (RH negativo), não devendo ser solicitados nesses cenários.
-* **Omissão Segura:** Em mulheres na pós-menopausa com tumores de características indolentes (grau histológico 1 ou 2, alta expressão de receptores de progesterona ≥ 20% e sem comprometimento de linfonodos), a equipe médica pode considerar a omissão do teste. A justificativa é que a probabilidade de um [[Alto Risco Genômico|alto risco genômico]] nesses casos é extremamente baixa, especialmente em tumores menores que 2 cm, tornando a quimioterapia desnecessária independente do exame.
+* **Omissão Segura:** Em mulheres na pós-menopausa com tumores de características indolentes ([[Grau Histológico (G1–G3)|grau histológico]] 1 ou 2, alta expressão de receptores de progesterona ≥ 20% e sem comprometimento de linfonodos), a equipe médica pode considerar a omissão do teste. A justificativa é que a probabilidade de um [[Alto Risco Genômico|alto risco genômico]] nesses casos é extremamente baixa, especialmente em tumores menores que 2 cm, tornando a quimioterapia desnecessária independente do exame.
 * **Contexto de Saúde Pública:** Apesar de seu alto valor na personalização do [[tratamento/index|tratamento]], o acesso a painéis genômicos no sistema público de saúde ainda é limitado devido aos custos. Na ausência dessas plataformas, a decisão pela quimioterapia deve continuar sendo guiada pelo uso rigoroso de variáveis clínico-patológicas e calculadoras de risco online (como o [[PREDICT]]).
 
 ## Estudos-Chave

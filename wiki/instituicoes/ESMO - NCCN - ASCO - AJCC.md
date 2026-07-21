@@ -1,5 +1,10 @@
 ---
 title: "ESMO / NCCN / ASCO / AJCC"
+aliases:
+  - "ESMO"
+  - "NCCN"
+  - "ASCO"
+  - "AJCC"
 category: "Diretrizes e Instituições"
 source_documents:
   - "Estadiamento"

@@ -10,7 +10,7 @@ status: "draft"
 
 # CEA e CA 15-3
 
-O **Antígeno Carcinoembrionário (CEA)** e o **Antígeno Câncer 15-3 (CA 15-3)** são marcadores tumorais circulantes detectados no sangue. No contexto do câncer de mama, essas glicoproteínas não são utilizadas para o rastreamento, [[diagnostico/index|diagnóstico]] precoce ou decisões de [[tratamento/terapias-alvo/index|terapias-alvo]], mas possuem utilidade específica na avaliação da carga tumoral e no monitoramento da evolução clínica, ajudando a observar a resposta da doença aos tratamentos instituídos.
+O **Antígeno Carcinoembrionário (CEA)** e o **Antígeno Câncer 15-3 (CA 15-3)** são marcadores tumorais circulantes detectados no sangue. No contexto do [[Câncer de Mama (Visão Geral)|câncer de mama]], essas glicoproteínas não são utilizadas para o rastreamento, [[diagnostico/index|diagnóstico]] precoce ou decisões de [[tratamento/terapias-alvo/index|terapias-alvo]], mas possuem utilidade específica na avaliação da carga tumoral e no monitoramento da evolução clínica, ajudando a observar a resposta da doença aos tratamentos instituídos.
 
 ---
 

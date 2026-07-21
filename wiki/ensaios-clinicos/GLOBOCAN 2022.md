@@ -15,7 +15,7 @@ status: "draft"
  2022 (GLOBOCAN) e 2020 (Heer E et al.) 1
 
 ## Objetivos
- Fornecer estatísticas e estimativas globais de incidência e mortalidade por câncer de mama (GLOBOCAN) e avaliar tendências populacionais entre mulheres na pré e pós-menopausa. 1
+ Fornecer estatísticas e estimativas globais de incidência e mortalidade por [[Câncer de Mama (Visão Geral)|câncer de mama]] (GLOBOCAN) e avaliar tendências populacionais entre mulheres na pré e pós-menopausa. 1
 
 ## Resultados e Impacto Clínico
  Destacou o avassalador fardo global da doença, revelando taxas sem precedentes e fortemente estratificadas por raça, estágio de [[diagnostico/index|diagnóstico]] e status menopausal, estabelecendo a linha de base epidemiológica moderna para políticas de saúde. 1

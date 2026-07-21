@@ -1,7 +1,8 @@
 ---
 title: "Câncer de Mama (Visão Geral)"
 aliases:
-  - "Câncer de mama / Tumor mamário"
+  - "Câncer de mama"
+  - "Tumor mamário"
 category: "Patologia e Subtipos"
 source_documents:
   - "Estadiamento"

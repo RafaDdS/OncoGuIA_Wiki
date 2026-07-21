@@ -12,7 +12,7 @@ status: "draft"
 
 # Capecitabina
 
-Indicada no adjuvante para pacientes TNBC com [[Doença Residual|doença residual]] pós-neoadjuvância, com benefício comprovado em sobrevida global (estudo CREATE-X).
+Indicada no adjuvante para pacientes TNBC com [[Doença Residual|doença residual]] pós-neoadjuvância, com benefício comprovado em sobrevida global (estudo [[Create-X|CREATE-X]]).
 
 ## Contexto por documento
 

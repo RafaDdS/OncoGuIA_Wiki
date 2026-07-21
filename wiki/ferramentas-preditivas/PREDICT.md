@@ -14,7 +14,7 @@ O PREDICT é uma ferramenta online gratuita e um dos modelos preditivos prognós
 
 ## Aplicações Clínicas e Tratamento
 
-* **Mecanismo de Ação:** O algoritmo cruza dados clínicos e patológicos da paciente, incluindo idade, tamanho do tumor, grau histológico, status de receptores hormonais, status do [[HER2]], índice de proliferação celular (Ki-67) e número de linfonodos positivos.
+* **Mecanismo de Ação:** O algoritmo cruza dados clínicos e patológicos da paciente, incluindo idade, tamanho do tumor, [[Grau Histológico (G1–G3)|grau histológico]], status de receptores hormonais, status do [[HER2]], índice de proliferação celular (Ki-67) e número de linfonodos positivos.
 * **Projeção de Sobrevida:** A partir desses dados, a ferramenta estima a probabilidade de sobrevida global da paciente em horizontes de 5, 10 e 15 anos após a cirurgia.
 * **Apoio Terapêutico:** Mais do que apenas prever o futuro, o PREDICT calcula o benefício absoluto (em porcentagem) que tratamentos adicionais — como [[tratamento/quimioterapia/index|quimioterapia]] de 2ª ou 3ª geração, hormonioterapia prolongada e bloqueio anti-HER2 — trarão para a sobrevida da paciente. Isso o torna um instrumento essencial na consulta médica para discutir os prós e contras de cada [[tratamento/index|tratamento]] de forma transparente com a paciente.
 

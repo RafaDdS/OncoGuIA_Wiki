@@ -12,7 +12,7 @@ status: "draft"
 
 # Carcinoma Inflamatório
 
-O carcinoma inflamatório é uma apresentação clínica agressiva e localmente avançada do câncer de mama.
+O carcinoma inflamatório é uma apresentação clínica agressiva e localmente avançada do [[Câncer de Mama (Visão Geral)|câncer de mama]].
 
 - **Apresentação Clínica e Classificação:** O tumor é classificado clinicamente como **cT4d**. Ele se caracteriza por um endurecimento difuso e intenso da pele da mama, apresentando bordas erisipeloides (aspecto inflamatório com eritema e edema), frequentemente sem a presença de uma massa tumoral subjacente palpável.
 

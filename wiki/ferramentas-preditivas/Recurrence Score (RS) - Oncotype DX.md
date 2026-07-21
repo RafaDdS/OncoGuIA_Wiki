@@ -14,7 +14,7 @@ status: "draft"
 
 # Oncotype DX / Recurrence Score (RS)
 
-O Oncotype DX é um painel genômico de 21 genes (16 genes relacionados ao câncer e 5 genes de referência) criado para refinar o prognóstico e, mais criticamente, para prever o benefício absoluto da [[tratamento/quimioterapia/index|quimioterapia]] adjuvante em pacientes com câncer de mama [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]] positivo e [[HER2]] negativo. O teste gera um número chamado *Recurrence Score* (RS), que varia de 0 a 100.
+O Oncotype DX é um painel genômico de 21 genes (16 genes relacionados ao câncer e 5 genes de referência) criado para refinar o prognóstico e, mais criticamente, para prever o benefício absoluto da [[tratamento/quimioterapia/index|quimioterapia]] adjuvante em pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]] positivo e [[HER2]] negativo. O teste gera um número chamado *Recurrence Score* (RS), que varia de 0 a 100.
 
 ## Aplicações Clínicas e Tratamento
 

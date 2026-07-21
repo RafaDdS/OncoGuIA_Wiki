@@ -16,7 +16,7 @@ status: "draft"
  2022 1
 
 ## Objetivos
- Avaliar a qualidade de vida de mulheres com câncer de mama detectado por rastreamento em contraste com o câncer de intervalo e com mulheres saudáveis sem a doença. 1
+ Avaliar a qualidade de vida de mulheres com [[Câncer de Mama (Visão Geral)|câncer de mama]] detectado por rastreamento em contraste com o câncer de intervalo e com mulheres saudáveis sem a doença. 1
 
 ## Resultados e Impacto Clínico
  Destacou os impactos psicológicos gerados por rastreamentos, a carga dos falsos positivos e a tensão associada, reforçando que as políticas de rastreamento também devem gerenciar e equilibrar a qualidade de vida dos participantes. 1

@@ -10,7 +10,7 @@ status: "draft"
 
 # AKT1 / PTEN
 
-O gene **AKT1** e o gene supressor de tumor **PTEN** são componentes cruciais da via de sinalização intracelular PI3K/AKT/mTOR, que regula o crescimento, a proliferação e a sobrevivência celular. No câncer de mama, alterações nesses [[biomarcadores/index|biomarcadores]] — como mutações ativadoras no *AKT1* ou a perda de função e mutações no *PTEN* — levam a uma hiperativação prolongada dessa via, o que promove o crescimento tumoral e frequentemente contribui para a resistência a terapias endócrinas.
+O gene **AKT1** e o gene supressor de tumor **PTEN** são componentes cruciais da via de sinalização intracelular PI3K/AKT/mTOR, que regula o crescimento, a proliferação e a sobrevivência celular. No [[Câncer de Mama (Visão Geral)|câncer de mama]], alterações nesses [[biomarcadores/index|biomarcadores]] — como mutações ativadoras no *AKT1* ou a perda de função e mutações no *PTEN* — levam a uma hiperativação prolongada dessa via, o que promove o crescimento tumoral e frequentemente contribui para a resistência a terapias endócrinas.
 
 ## Diagnóstico e Avaliação
 

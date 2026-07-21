@@ -17,7 +17,7 @@ status: "draft"
  2013 1
 
 ## Objetivos
- Conduzir uma rigorosa revisão independente para avaliar tanto os benefícios quanto os danos decorrentes do rastreamento populacional do câncer de mama. 1
+ Conduzir uma rigorosa revisão independente para avaliar tanto os benefícios quanto os danos decorrentes do rastreamento populacional do [[Câncer de Mama (Visão Geral)|câncer de mama]].
 
 ## Resultados e Impacto Clínico
- Encontrou e estabeleceu fortes evidências de uma redução de cerca de 20% na mortalidade por câncer de mama atribuível ao rastreamento mamográfico em ensaios clínicos randomizados, balizando as [[diretrizes/index|diretrizes]] de saúde pública no Reino Unido e no mundo. 1
+ Encontrou e estabeleceu fortes evidências de uma redução de cerca de 20% na mortalidade por câncer de mama atribuível ao rastreamento mamográfico em [[ensaios-clinicos/index|ensaios clínicos]] randomizados, balizando as [[diretrizes/index|diretrizes]] de saúde pública no Reino Unido e no mundo.
