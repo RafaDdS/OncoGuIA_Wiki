@@ -20,3 +20,8 @@ status: "draft"
 
 ## Resultados e Impacto Clínico:
  Mulheres na pós-menopausa com RS baixo/intermediário (≤ 25) podem omitir a quimioterapia com segurança. Mulheres na pré-menopausa mantêm benefício da quimioterapia, devendo-se discutir sua indicação nesse cenário.
+
+
+## Referências
+
+1. Kalinsky K; Barlow WE; Gralow JR; Meric-Bernstam F; Albain KS; Hayes DF; et al. 21-Gene Assay to Inform Chemotherapy Benefit in Node-Positive Breast Cancer. N Engl J Med. 2021;385(25):2336-47. DOI: [10.1056/NEJMoa2108873](https://doi.org/10.1056/NEJMoa2108873)

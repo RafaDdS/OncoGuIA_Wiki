@@ -19,3 +19,8 @@ Avaliar a eficácia e segurança de [[Pembrolizumabe|pembrolizumabe]] em combina
 
 ## Resultados e Impacto Clínico:
 Demonstrou ganho significativo em SLP e SG com a adição de pembrolizumabe em pacientes com [[PD-L1]] CPS ≥ 10, estabelecendo-o como padrão de primeira linha para este subgrupo.
+
+
+## Referências
+
+1. Cortes J; Rugo HS; Cescon DW; Im SA; Yusof MM; Gallardo C; et al. Pembrolizumab plus Chemotherapy in Advanced Triple-Negative Breast Cancer. N Engl J Med. 2022;387(3):217-26. DOI: [10.1056/nejmoa2202809](https://doi.org/10.1056/nejmoa2202809)

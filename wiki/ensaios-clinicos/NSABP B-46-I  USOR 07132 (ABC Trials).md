@@ -21,3 +21,8 @@ Avaliar, em três [[ensaios-clinicos/index|ensaios clínicos]] randomizados (ABC
 
 ## Resultados e Impacto Clínico:
 A análise combinada desses estudos (USOR 06-090, NSABP B-46-I, e NSABP B-49) forneceu evidências sobre a eficácia relativa de diferentes regimes de quimioterapia adjuvante, incluindo a comparação de docetaxel/ciclofosfamida ([[TC (Docetaxel + Ciclofosfamida)|TC]]) e regimes com [[Antraciclinas|antraciclinas]] em diferentes subgrupos.
+
+
+## Referências
+
+1. Blum JL; Flynn PJ; Yothers G; Asmar L; Geyer CE; Jacobs SA; et al. Anthracyclines in Early Breast Cancer: The ABC Trials-USOR 06-090, NSABP B-46-1/USOR 07132, and NSABP B-49 (NRG Oncology). J Clin Oncol. 2017;35(23):2647-55. DOI: [10.1200/JCO.2016.71.4147](https://doi.org/10.1200/JCO.2016.71.4147)

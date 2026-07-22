@@ -19,3 +19,8 @@ Comparar a eficácia e segurança de [[Trastuzumabe|trastuzumabe]] + [[tratament
 
 ## Resultados e Impacto Clínico:
 Demonstrou não-inferioridade da combinação com terapia endócrina em relação à quimioterapia, com menor toxicidade, reforçando a possibilidade de omitir a quimioterapia neste subgrupo selecionado.
+
+
+## Referências
+
+1. Hua X; Bi XW; Zhao JL; Shi YX; Lin Y; Wu ZY; et al. Trastuzumab Plus Endocrine Therapy or Chemotherapy as First-line Treatment for Patients with Hormone Receptor-Positive and HER2-Positive Metastatic Breast Cancer (SYSUCC-002). Clin Cancer Res. 2022;28(4):637-45. DOI: [10.1158/1078-0432.ccr-21-3435](https://doi.org/10.1158/1078-0432.ccr-21-3435)

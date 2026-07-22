@@ -19,3 +19,7 @@ Avaliar a segurança e eficácia de primeira linha com [[Pertuzumabe|pertuzumabe
 
 ## Resultados e Impacto Clínico:
 Confirmou a eficácia do duplo bloqueio [[HER2]] com diferentes taxanos, com docetaxel apresentando maior toxicidade, sugerindo que paclitaxel pode ser uma alternativa viável.
+
+## Referências
+
+1. Bachelot T; Ciruelos E; Schneeweiss A; Puglisi F; Peretz-Yablonski T; Bondarenko I; et al. Preliminary safety and efficacy of first-line pertuzumab combined with trastuzumab and taxane therapy for HER2-positive locally recurrent or metastatic breast cancer (PERUSE). Ann Oncol. 2019;30(5):766-73. DOI: [10.1093/annonc/mdz061](https://doi.org/10.1093/annonc/mdz061)

@@ -22,3 +22,7 @@ Desenvolver e validar uma ferramenta ([[CTS5]]) que integra variáveis clínicas
 A ferramenta gratuita auxilia na decisão sobre a extensão da terapia hormonal para 10 anos, individualizando o [[tratamento/index|tratamento]].
 
 ---
+
+## Referências
+
+1. Finn RS; Martin M; Rugo HS; Jones S; Im SA; Gelmon K; et al. Palbociclib and Letrozole in Advanced Breast Cancer. N Engl J Med. 2016;375(20):1925-36. DOI: [10.1056/NEJMoa1607303](https://doi.org/10.1056/NEJMoa1607303)

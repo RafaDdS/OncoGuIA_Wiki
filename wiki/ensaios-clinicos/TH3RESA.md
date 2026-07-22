@@ -19,3 +19,8 @@ Avaliar a eficácia de T-DM1 em comparação com a [[tratamento/quimioterapia/in
 
 ## Resultados e Impacto Clínico:
 Demonstrou ganho significativo em SLP (6,2 vs 3,3 meses; HR 0,52) e SG (22,7 vs 15,8 meses; HR 0,68), estabelecendo o T-DM1 como uma opção eficaz neste cenário politratado.
+
+
+## Referências
+
+1. Krop IE; Kim SB; González-Martín A; LoRusso PM; Ferrero JM; Smitt M; et al. Trastuzumab emtansine versus treatment of physician's choice for pretreated HER2-positive advanced breast cancer (TH3RESA). Lancet Oncol. 2014;15(7):689-99. DOI: [10.1016/S1470-2045(14)70178-0](https://doi.org/10.1016/S1470-2045(14)70178-0)

@@ -20,3 +20,10 @@ status: "draft"
 
 ## Resultados e Impacto Clínico:
  Estabeleceu o padrão global de tratamento para TNBC de alto risco, com ganhos imensos na [[Resposta Patológica Completa (RPC)|resposta patológica completa (RPC)]], sobrevida livre de eventos (SLE) e [[Sobrevida Global (SG)|sobrevida global (SG)]].
+
+
+## Referências
+
+1. Schmid P; Cortes J; Pusztai L; McArthur H; Kümmel S; Bergh J; et al. Pembrolizumab for Early Triple-Negative Breast Cancer. N Engl J Med. 2020;382(9):810-21. DOI: [10.1056/NEJMoa1910549](https://doi.org/10.1056/NEJMoa1910549)
+2. Schmid P; Cortes J; Pusztai L; McArthur H; Kümmel S; Bergh J; et al. Pembrolizumab for Early Triple-Negative Breast Cancer. N Engl J Med. 2020;382(9):810-21. DOI: [10.1056/NEJMoa1910549](https://doi.org/10.1056/NEJMoa1910549)
+3. Schmid P; Cortes J; Dent R; McArthur H; Pusztai L; Kümmel S; et al. Overall Survival with Pembrolizumab in Early-Stage Triple-Negative Breast Cancer. N Engl J Med. 2024;391(21):1981-91. DOI: [10.1056/NEJMoa2409932](https://doi.org/10.1056/NEJMoa2409932)

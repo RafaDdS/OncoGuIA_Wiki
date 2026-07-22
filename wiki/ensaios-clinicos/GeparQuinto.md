@@ -19,3 +19,8 @@ Avaliar a eficácia da adição de [[Trastuzumabe|trastuzumabe]] ou lapatinibe �
 
 ## Resultados e Impacto Clínico:
 O subgrupo de pacientes HER2-positivos tratadas com trastuzumabe apresentou uma taxa de RPC significativamente maior do que o grupo controle, reforçando o benefício do trastuzumabe neste cenário.
+
+
+## Referências
+
+1. Untch M; von Minckwitz G; Gerber B; Schem C; Rezai M; Fasching PA; et al. Survival Analysis After Neoadjuvant Chemotherapy With Trastuzumab or Lapatinib in Patients With Human Epidermal Growth Factor Receptor 2-Positive Breast Cancer in the GeparQuinto (G5) Study (GBG 44). J Clin Oncol. 2018;36(13):1308–16.

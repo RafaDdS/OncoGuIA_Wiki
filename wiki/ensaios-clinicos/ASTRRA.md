@@ -19,3 +19,8 @@ status: "draft"
 
 ## Resultados e Impacto Clínico:
  Confirmou benefício significativo na sobrevida livre de doença (SLD) em 8 anos com a adição de SFO ao tamoxifeno, validando o uso de SFO nesta população de risco.
+
+
+## Referências
+
+1. Baek SY; Noh WC; Ahn SH; Kim HA; Ryu JM; Kim SI; et al. Adding Ovarian Suppression to Tamoxifen for Premenopausal Women With Hormone Receptor-Positive Breast Cancer After Chemotherapy. J Clin Oncol. 2023;41(31):4864-71. DOI: [10.1200/JCO.23.00557](https://doi.org/10.1200/JCO.23.00557)

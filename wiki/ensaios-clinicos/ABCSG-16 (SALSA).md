@@ -20,3 +20,7 @@ status: "draft"
 
 ## Resultados e Impacto Clínico:
  Não houve benefício de eficácia para 10 anos sobre 7 anos de terapia, apenas aumento de toxicidade, especialmente fraturas ósseas.
+
+## Referências
+
+1. Goetz MP; Toi M; Campone M; Sohn J; Paluch-Shimon S; Huober J; et al. MONARCH 3: Abemaciclib As Initial Therapy for Advanced Breast Cancer. J Clin Oncol. 2017;35(32):3638-46. DOI: [10.1200/JCO.2017.75.6155](https://doi.org/10.1200/JCO.2017.75.6155)

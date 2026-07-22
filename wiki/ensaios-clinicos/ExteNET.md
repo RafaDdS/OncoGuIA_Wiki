@@ -19,3 +19,8 @@ Avaliar a eficácia e segurança de [[Neratinibe|neratinibe]] adjuvante após a 
 
 ## Resultados e Impacto Clínico:
 Demonstrou benefício em SLDi, principalmente no subgrupo com tumores [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]-positivos, onde também sugeriu possível benefício em SG. A toxicidade gastrointestinal é um desafio para sua utilização.
+
+
+## Referências
+
+1. Martin M; Holmes FA; Ejlertsen B; Delaloge S; Moy B; Iwata H; et al. Neratinib after trastuzumab-based adjuvant therapy in HER2-positive breast cancer (ExteNET). Lancet Oncol. 2017;18(12):1688-700. DOI: [10.1016/S1470-2045(17)30717-9](https://doi.org/10.1016/S1470-2045(17)30717-9)

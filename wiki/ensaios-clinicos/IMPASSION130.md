@@ -19,3 +19,8 @@ Avaliar a eficácia e segurança de atezolizumabe em combinação com nab-paclit
 
 ## Resultados e Impacto Clínico:
 Demonstrou ganho em SLP na população com [[PD-L1]] >1, mas a análise de SG não alcançou significância estatística, limitando seu uso na prática clínica.
+
+
+## Referências
+
+1. Schmid P; Adams S; Rugo HS; Schneeweiss A; Barrios CH; Iwata H; et al. Atezolizumab and Nab-Paclitaxel in Advanced Triple-Negative Breast Cancer. N Engl J Med. 2018;379(22):2108-21. DOI: [10.1056/NEJMoa1809615](https://doi.org/10.1056/NEJMoa1809615)

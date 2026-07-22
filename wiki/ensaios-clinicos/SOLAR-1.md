@@ -19,3 +19,8 @@ status: "draft"
 
 ## Resultados e Impacto Clínico:
  Demonstrou ganhos significativos em SLP na população com mutação, estabelecendo o primeiro [[tratamento/index|tratamento]] guiado por biomarcador para [[Câncer de Mama (Visão Geral)|câncer de mama]] metastático [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+.
+
+
+## Referências
+
+1. André F; Ciruelos EM; Juric D; Loibl S; Campone M; Mayer IA; et al. Alpelisib plus fulvestrant for PIK3CA-mutated, hormone receptor-positive, human epidermal growth factor receptor-2-negative advanced breast cancer. Ann Oncol. 2021;32(2):208-17. DOI: [10.1016/j.annonc.2020.11.011](https://doi.org/10.1016/j.annonc.2020.11.011)

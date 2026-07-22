@@ -20,3 +20,8 @@ Avaliar a eficácia de [[Olaparibe|olaparibe]] em pacientes com mutações germi
 
 ## Resultados e Impacto Clínico:
 Demonstrou atividade significativa de olaparibe em pacientes com mutações germinativas em PALB2 e mutações somáticas em BRCA, ampliando o escopo de uso dos inibidores de PARP.
+
+
+## Referências
+
+1. Tung NM; Robson ME; Ventz S; Santa-Maria CA; Nanda R; Marcom PK; et al. TBCRC 048: Phase II Study of Olaparib for Metastatic Breast Cancer and Mutations in Homologous Recombination-Related Genes. J Clin Oncol. 2020;38(36):4274-82. DOI: [10.1200/JCO.20.02151](https://doi.org/10.1200/JCO.20.02151)

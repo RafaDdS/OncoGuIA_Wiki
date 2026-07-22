@@ -19,3 +19,8 @@ Avaliar a eficácia de [[Palbociclibe|palbociclibe]] em combinação com [[Fulve
 
 ## Resultados e Impacto Clínico:
 Demonstrou ganho significativo em SLP, mas não conseguiu demonstrar benefício estatisticamente significativo em SG, consolidando, ainda assim, o uso de iCDK4/6 neste cenário.
+
+
+## Referências
+
+1. Turner NC; Slamon DJ; Ro J; Bondarenko I; Im SA; Masuda N; et al. Overall Survival with Palbociclib and Fulvestrant in Advanced Breast Cancer. N Engl J Med. 2018;379(20):1926-36. DOI: [10.1056/NEJMoa1810527](https://doi.org/10.1056/NEJMoa1810527)

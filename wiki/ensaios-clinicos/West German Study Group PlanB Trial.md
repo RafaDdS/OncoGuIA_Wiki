@@ -19,3 +19,8 @@ Avaliar se um regime de 6 ciclos de docetaxel/ciclofosfamida ([[TC (Docetaxel + 
 
 ## Resultados e Impacto Clínico:
 Demonstrou não-inferioridade de TC em comparação com EC-Docetaxel, sugerindo que TC pode ser uma opção eficaz em certos subgrupos, poupando [[Antraciclinas|antraciclinas]].
+
+
+## Referências
+
+1. Nitz U; Gluz O; Clemens M; Malter W; Reimer T; Nuding B; et al. West German Study PlanB Trial: Adjuvant Four Cycles of Epirubicin and Cyclophosphamide Plus Docetaxel Versus Six Cycles of Docetaxel and Cyclophosphamide in HER2-Negative Early Breast Cancer. J Clin Oncol. 2019;37(10):799-808. DOI: [10.1200/JCO.18.00237](https://doi.org/10.1200/JCO.18.00237)

@@ -22,3 +22,9 @@ status: "draft"
  Reduziu pela metade a recorrência de eventos mamários em comparação ao placebo, com uma redução drástica nas toxicidades clássicas do tamoxifeno, oferecendo uma alternativa para pacientes com dificuldade de tolerar a dose padrão.
 
 ---
+
+
+
+## Referências
+
+1. DeCensi A; Puntoni M; Guerrieri-Gonzaga A; Caviglia S; Avino F; Cortesi L; et al. Randomized Placebo Controlled Trial of Low-Dose Tamoxifen to Prevent Local and Contralateral Recurrence in Breast Intraepithelial Neoplasia. J Clin Oncol. 2019;37(19):1629-37. DOI: [10.1200/JCO.18.01779](https://doi.org/10.1200/JCO.18.01779)

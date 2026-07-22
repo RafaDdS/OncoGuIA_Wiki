@@ -20,3 +20,9 @@ status: "draft"
 
 ## Resultados e Impacto Clínico
  Comprovou que deficiências e longas esperas logísticas observadas no Brasil afetam diretamente a capacidade de início rápido de [[tratamento/index|tratamento]], alterando as chances prognósticas dos pacientes muito antes da terapia começar. 1
+
+
+
+## Referências
+
+1. Instituto Nacional de Cancer (INCA) Controle do cancer de mama no Brasil. Dados e números: 2024. INCA. 2024;N/A.

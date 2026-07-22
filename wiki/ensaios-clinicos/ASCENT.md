@@ -19,3 +19,8 @@ status: "draft"
 
 ## Resultados e Impacto Clínico:
  Ganhos significativos em SLP e SG mediana, estabelecendo o sacituzumabe govitecana como uma opção de [[tratamento/index|tratamento]] eficaz com perfil de toxicidade manejável.
+
+
+## Referências
+
+1. Bardia A; Rugo HS; Tolaney SM; Loirat D; Punie K; Oliveira M; et al. Final Results From the Randomized Phase III ASCENT Clinical Trial in Metastatic Triple-Negative Breast Cancer. J Clin Oncol. 2024;42(15):1738-44. DOI: [10.1200/JCO.23.01409](https://doi.org/10.1200/JCO.23.01409)

@@ -19,3 +19,8 @@ Avaliar a eficácia de [[Abemaciclibe|abemaciclibe]] como agente único ou em co
 
 ## Resultados e Impacto Clínico:
 Confirmou a atividade de abemaciclibe como agente único, com a adição de tamoxifeno não aumentando a SLP ou SG, reforçando o papel da monoterapia com abemaciclibe neste cenário.
+
+
+## Referências
+
+1. Hamilton E; Cortes J; Ozyilkan O; Chen SC; Petrakova K; Manikhas A; et al. nextMONARCH: Abemaciclib Monotherapy or Combined With Tamoxifen for Metastatic Breast Cancer. Clin Breast Cancer. 2021;21(3):181-190.e2. DOI: [10.1016/j.clbc.2021.01.008](https://doi.org/10.1016/j.clbc.2021.01.008)

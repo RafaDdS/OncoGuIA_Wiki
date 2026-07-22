@@ -20,3 +20,9 @@ Avaliar a eficácia de imlunestranto (SERD oral) isolado ou em combinação com 
 
 ## Resultados e Impacto Clínico:
 No subgrupo com mutação [[ESR1]], imlunestranto melhorou a SLP (5,5 vs 3,8 meses; HR 0,62). A combinação com abemaciclibe melhorou a SLP independentemente do status de ESR1 (9,4 vs 5,5 meses; HR 0,57). A medicação ainda não possui aprovação no Brasil.
+
+
+## Referências
+
+1. Jhaveri KL; Neven P; Casalnuovo ML; et al. Imlunestrant with or without abemaciclib in advanced breast cancer. N Engl J Med. 2025;392(12):1189-1202. DOI: [10.1056/nejmoa2410858](https://doi.org/10.1056/nejmoa2410858)
+2. Jhaveri KL; Neven P; Casalnuovo ML; et al. Imlunestrant with or without abemaciclib in advanced breast cancer: updated efficacy results from the phase III EMBER-3 trial. Ann Oncol. 2026;37(4):532-543. DOI: [10.1016/j.annonc.2025.12.004](https://doi.org/10.1016/j.annonc.2025.12.004)

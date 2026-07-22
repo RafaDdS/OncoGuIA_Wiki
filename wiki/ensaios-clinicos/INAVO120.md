@@ -19,3 +19,9 @@ Avaliar a eficácia e segurança da terapia tripla com inavolisibe (inibidor de 
 
 ## Resultados e Impacto Clínico:
 Demonstrou ganhos relevantes em SLP (15 vs 7,3 meses; HR 0,43), taxa de resposta (58,4% vs 25%) e SG (34 vs 27 meses), estabelecendo um novo padrão de [[tratamento/index|tratamento]] de primeira linha para este subgrupo de alto risco.
+
+
+## Referências
+
+1. Turner NC; Im SA; Saura C; et al. Inavolisib-based therapy in PIK3CA-mutated advanced breast cancer. N Engl J Med. 2024;391(17):1584-1596. DOI: [10.1056/NEJMoa2404625](https://doi.org/10.1056/NEJMoa2404625)
+2. Jhaveri KL; Im SA; Saura C; et al. Overall survival with inavolisib in PIK3CA-mutated advanced breast cancer. N Engl J Med. 2025;393(2):151-161. DOI: [10.1056/nejmoa2501796](https://doi.org/10.1056/nejmoa2501796)
