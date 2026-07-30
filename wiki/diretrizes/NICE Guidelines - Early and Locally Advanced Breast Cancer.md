@@ -15,7 +15,7 @@ status: "draft"
 
 # NICE Guidelines - Early and Locally Advanced Breast Cancer
 
-**Título original:** Early and locally advanced breast cancer: diagnosis and management - NICE Guidelines
+**Título original:** Early and locally advanced breast cancer: diagnosis and management - [[Diretrizes de Imagem Inicial (NICE, Mann e Arnaout)|NICE]] Guidelines
 
 ## Informações da Fonte
 
@@ -24,8 +24,8 @@ status: "draft"
 - **DOI:** N/A
 - **Revista:** NICE
 - **Detalhes da Publicação:** NG101
-- **Documento de Origem:** Estadiamento
+- **Documento de Origem:** [[estadiamento/index|Estadiamento]]
 
 ## Resumo
 
-Diretriz do NICE para diagnóstico e manejo do câncer de mama inicial e localmente avançado. Abrange avaliação pré-tratamento, perfil tumoral e testagem genética, cirurgia da mama e axila, reconstrução, terapia sistêmica (neoadjuvante e adjuvante) por subtipo, radioterapia, e seguimento. Inclui recomendações específicas para doença triplo-negativa, HER2-positiva e terapia endócrina.
+Diretriz do NICE para [[diagnostico/index|diagnóstico]] e manejo do [[Câncer de Mama (Visão Geral)|câncer de mama]] inicial e localmente avançado. Abrange avaliação pré-[[tratamento/index|tratamento]], perfil tumoral e testagem genética, cirurgia da mama e axila, reconstrução, terapia sistêmica (neoadjuvante e adjuvante) por subtipo, radioterapia, e [[Seguimento Pós-Tratamento|seguimento]]. Inclui recomendações específicas para doença triplo-negativa, [[HER2]]-positiva e [[tratamento/terapia-endocrina/index|terapia endócrina]].

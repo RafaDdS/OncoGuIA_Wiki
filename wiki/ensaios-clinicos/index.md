@@ -18,11 +18,11 @@ Páginas da categoria **Ensaios Clínicos**.
   - `monarchE` (Abemaciclib)
   - `NATALEE` (Ribociclib)
   - `PALLAS` (Palbociclib)
-  - `PENELOPE-B` (Palbociclib pós-quimioterapia neoadjuvante)
+  - `PENELOPE-B` (Palbociclib pós-[[tratamento/quimioterapia/index|quimioterapia]] neoadjuvante)
 - **Metastático (1ª linha e combinações)**
   - `MONALEESA-2` (Ribociclib + Letrozol)
   - `MONALEESA-3` (Ribociclib + Fulvestrant)
-  - `MONALEESA-7` (Ribociclib + Terapia Endócrina - Pré-menopausa)
+  - `MONALEESA-7` (Ribociclib + [[tratamento/terapia-endocrina/index|Terapia Endócrina]] - Pré-menopausa)
   - `MONARCH 1` (Abemaciclib monoterapia)
   - `MONARCH 2` (Abemaciclib + Fulvestrant)
   - `MONARCH 3` (Abemaciclib + AI)
@@ -30,17 +30,17 @@ Páginas da categoria **Ensaios Clínicos**.
   - `SONIA` (Deferimento vs uso precoce de CDK4/6)
   - `postMONARCH` (Abemaciclib após progressão a CDK4/6)
   - `MAINTAIN` (Ribociclib após progressão a CDK4/6)
-  - `nextMONARCH` (Abemaciclib monoterapia ou + tamoxifeno)
-  - `PATINA` (Palbociclib + anti-HER2 para HR+/HER2+)
+  - `nextMONARCH` (Abemaciclib monoterapia ou + [[Tamoxifeno|tamoxifeno]])
+  - `PATINA` (Palbociclib + anti-HER2 para HR+/[[HER2|HER2+]])
 
 #### 2. TERAPIA ENDÓCRINA PURA (SEM CDK4/6) – AIs, SERMs, SERDs, PI3K/AKT/mTOR
 - **Adjuvante (Pós-menopausa / Premenopausa)**
   - `BIG 1-98` (Letrozol vs Tamoxifeno)
-  - `SOFT e TEXT` (Supressão ovariana + Exemestano/Tamoxifeno)
+  - `SOFT e TEXT` ([[Supressão Ovariana|Supressão ovariana]] + Exemestano/Tamoxifeno)
   - `ATLAS` (Tamoxifeno estendido por 10 anos)
   - `aTTom` (Tamoxifeno estendido por 10 anos)
   - `MA.17` (Letrozol estendido pós-tamoxifeno)
-  - `MA17R` (Re-randomização do MA.17)
+  - `MA17R` ([[biomarcadores/Receptores Hormonais (RE-RP-RH)|Re]]-randomização do [[MA.17]])
   - `ABCSG-16 (SALSA)` (Anastrozol por 2 vs 5 anos estendido)
   - `NSABP B-14` (Tamoxifeno vs placebo para LN-)
   - `ASTRRA` (Supressão ovariana + Tamoxifeno após QT)
@@ -53,15 +53,15 @@ Páginas da categoria **Ensaios Clínicos**.
   - `EMERALD` (Elacestrant - SERD oral)
   - `EMBER-3` (Imlunestrant - SERD oral)
   - `BOLERO-2` (Everolimo + Exemestano)
-  - `SOLAR-1` (Alpelisib + Fulvestrant - PIK3CA)
+  - `SOLAR-1` (Alpelisib + Fulvestrant - [[PIK3CA]])
   - `INAVO120` (Inavolisib + Palbociclib + Fulvestrant - PIK3CA)
   - `CAPItello-291` (Capivasertib + Fulvestrant - AKT)
 
 #### 3. ANTI-HER2 (HER2 Positivo)
 - **Adjuvante (Pós-cirúrgico)**
-  - `HERA` (Trastuzumabe 1 ano vs observação)
-  - `BCIRG-006` (TCH vs AC-T + Trastuzumabe)
-  - `APHINITY` (Pertuzumabe + Trastuzumabe adjuvante)
+  - `HERA` ([[Trastuzumabe]] 1 ano vs observação)
+  - `BCIRG-006` (TCH vs [[AC (Doxorrubicina + Ciclofosfamida)|AC]]-T + Trastuzumabe)
+  - `APHINITY` ([[Pertuzumabe]] + Trastuzumabe adjuvante)
   - `ExteNET` (Neratimibe após Trastuzumabe)
   - `APT` (Paclitaxel + Trastuzumabe para N-)
   - `SOLD` (9 semanas vs 1 ano de Trastuzumabe)
@@ -72,7 +72,7 @@ Páginas da categoria **Ensaios Clínicos**.
   - `NeoSphere` (Pertuzumabe + Trastuzumabe + Docetaxel)
   - `TRYPHAENA` (Pertuzumabe + Trastuzumabe com/sem antraciclina)
   - `TRAIN-2` (Duplo bloqueio com/sem antraciclina)
-  - `DESTINY-Breast11` (T-DXd neoadjuvante vs T-DXd seguido de quimio)
+  - `DESTINY-Breast11` ([[T-DXd (Trastuzumabe Deruxtecana)|T-DXd]] neoadjuvante vs T-DXd seguido de quimio)
 - **Metastático (1ª linha e combos)**
   - `CLEOPATRA` (Pertuzumabe + Trastuzumabe + Docetaxel)
   - `PERUSE` (Pertuzumabe + Trastuzumabe + Taxano variado)
@@ -82,23 +82,23 @@ Páginas da categoria **Ensaios Clínicos**.
   - `DESTINY-Breast09` (T-DXd + Pertuzumabe vs T-DXd isolado)
   - `HER2CLIMB-05` (Tucatinibe + Trastuzumabe + Pertuzumabe em 1ª linha)
 - **Metastático (Linhas tardias / Progressão)**
-  - `DESTINY-Breast03` (T-DXd vs T-DM1)
-  - `HER2CLIMB` (Tucatinibe + Trastuzumabe + Capecitabina)
+  - `DESTINY-Breast03` (T-DXd vs [[T-DM1 (Trastuzumabe Emtansina)|T-DM1]])
+  - `HER2CLIMB` (Tucatinibe + Trastuzumabe + [[Capecitabina]])
   - `TH3RESA` (T-DM1 vs escolha do médico)
   - `PHEREXA` (Trastuzumabe + Capecitabina ± Pertuzumabe)
   - `ALTERNATIVE` (Lapatinibe + Trastuzumabe + AI)
 - **Resposta Residual (Após Neoadjuvante)**
-  - `KATHERINE` (T-DM1 vs Trastuzumabe para doença residual)
+  - `KATHERINE` (T-DM1 vs Trastuzumabe para [[Doença Residual|doença residual]])
   - `DESTINY-Breast05` (T-DXd vs T-DM1 para doença residual)
 
 #### 4. TRIPLO NEGATIVO (TNBC) E IMUNOTERAPIA
 - **Neoadjuvante**
-  - `KEYNOTE-522` (Pembrolizumabe + Quimioterapia)
-  - `GeparSixto` (Carboplatina + Quimioterapia)
+  - `KEYNOTE-522` ([[Pembrolizumabe]] + Quimioterapia)
+  - `GeparSixto` ([[Carboplatina]] + Quimioterapia)
   - `CALGB 40603` (Carboplatina + Bevacizumabe)
   - `NACATRINE` (Carboplatina neoadjuvante)
 - **Metastático (1ª linha)**
-  - `KEYNOTE-355` (Pembrolizumabe + Quimioterapia para PD-L1+)
+  - `KEYNOTE-355` (Pembrolizumabe + Quimioterapia para [[PD-L1]]+)
   - `IMpassion130` (Atezolizumabe + Nab-Paclitaxel)
   - `ASCENT-03` (Sacituzumabe Govitecan vs Quimioterapia em 1ª linha)
 - **Metastático (Linhas tardias)**
@@ -120,35 +120,35 @@ Páginas da categoria **Ensaios Clínicos**.
   - `Intergroup C9741` (Dose-dense vs convencional)
   - `EBCTCG Meta-analysis (Dose-dense)` (Metanálise de densidade de dose)
 - **Comparação de Esquemas**
-  - `US Oncology 9735` (TC vs AC)
-  - `NSABP B-15` (AC vs CMF)
+  - `US Oncology 9735` ([[TC (Docetaxel + Ciclofosfamida)|TC]] vs AC)
+  - `NSABP B-15` (AC vs [[CMF]])
   - `NSABP B-28` (Paclitaxel após AC)
   - `E1199` (Paclitaxel semanal vs q3s / Docetaxel q3s vs semanal)
   - `West German Study Group PlanB` (EC-Docetaxel vs TC)
-  - `PEARLY (Estudo Fase III)` (Carboplatina + Paclitaxel adjuvante para TNBC)
-  - `ABC Trials (NSABP B-46-I / USOR 07132)` (Antraciclinas vs não-antraciclinas)
+  - `PEARLY (Estudo Fase III)` ([[Carboplatina + Paclitaxel]] adjuvante para TNBC)
+  - `ABC Trials (NSABP B-46-I / USOR 07132)` ([[Antraciclinas]] vs não-antraciclinas)
 - **Capecitabina (pós-neoadjuvante)**
   - `Create-X` (Capecitabina adjuvante para doença residual TNBC)
 
 #### 7. GENÔMICA E PROGNÓSTICO
-- `TAILORx` (Oncotype DX para N-, RS 11-25)
+- `TAILORx` ([[ferramentas-preditivas/Recurrence Score (RS) - Oncotype DX|Oncotype DX]] para N-, RS 11-25)
 - `RxPONDER (SWOG S1007)` (Oncotype DX para N+ 1-3, RS < 25)
-- `MINDACT` (Assinatura de 70 genes - MammaPrint)
+- `MINDACT` (Assinatura de 70 genes - [[Mammaprint|MammaPrint]])
 - `Estudo CTS5` (Modelo de risco de recorrência tardia)
 
 #### 8. RASTREAMENTO, ESTADIAMENTO E EPIDEMIOLOGIA
 - **Rastreamento**
-  - `UK Age Trial` (Mamografia a partir dos 40 anos)
+  - `UK Age Trial` ([[Mamografia]] a partir dos 40 anos)
   - `EUROSCREEN & Coorte Massiva de Duffy` (Impacto do rastreio na mortalidade)
   - `Revisão Marmot (The Marmot Review)` (Revisão de rastreamento)
   - `GLOBOCAN 2022` (Incidência/mortalidade global)
-- **Estadiamento e Diagnóstico**
-  - `Ensaio de Estadiamento PETCT (Dayes et al.)` (FDG-PET/CT vs estadiamento convencional)
-  - `Diretrizes de Imagem Inicial (NICE, Mann e Arnaout)` (Recomendações de imagem)
+- **[[estadiamento/index|Estadiamento]] e [[diagnostico/index|Diagnóstico]]**
+  - `Ensaio de Estadiamento PETCT (Dayes et al.)` (FDG-[[diagnostico/imagem/PET-CT|PET/CT]] vs estadiamento convencional)
+  - `Diretrizes de Imagem Inicial (NICE, Mann e Arnaout)` (Recomendações de [[diagnostico/imagem/index|imagem]])
   - `Estudo Norueguês de Qualidade de Vida (QoL)` (Impacto do rastreio na QdV)
 - **Dados Brasileiros (Real-world)**
   - `AMAZONA III (Registro GBECAM 0115)` (Perfil clínico-patológico no Brasil)
-  - `Atrasos no Tratamento (Houston vs. Sudeste do Brasil)` (Atraso no tratamento)
+  - `Atrasos no Tratamento (Houston vs. Sudeste do Brasil)` (Atraso no [[tratamento/index|tratamento]])
 
 ---
 
@@ -160,6 +160,6 @@ Esses ensaios **não aparecem** nas referências dos documentos enviados. Se voc
 - `BRIGHTNESS (Estudo Fase III)` – (Não há menção direta nos PDFs)
 - `NSABP B-20` – (Quimioterapia + Tamoxifeno para N-; clássico, mas não citado diretamente)
 - `RSC4All Tool (Machine Learning)` – (Modelo preditor, não aparece)
-- `GeparQuinto` – (Embora os dados de pCR sejam usados na referência de von Minckwitz 2012, o estudo *GeparQuinto* em si não é o foco da citação; a referência usa dados agregados de vários estudos. Por isso, mapeei como "Análise de pCR (múltiplos estudos)").
+- `GeparQuinto` – (Embora os dados de pCR sejam usados na referência de von Minckwitz 2012, o estudo *[[GeparQuinto]]* em si não é o foco da citação; a referência usa dados agregados de vários estudos. Por isso, mapeei como "Análise de pCR (múltiplos estudos)").
 
 [← Voltar ao índice geral](../index.md)

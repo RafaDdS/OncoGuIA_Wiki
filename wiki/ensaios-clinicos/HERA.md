@@ -15,10 +15,10 @@ title: HERA
  2011 (atualização); 2005 (publicação original)
 
 ## Objetivos:
- Avaliar o benefício de um ano de [[Trastuzumabe|trastuzumabe]] adjuvante após [[tratamento/quimioterapia/index|quimioterapia]] padrão em pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] inicial [[HER2]]-positivo.
+ Avaliar o benefício de um ano de [[Trastuzumabe|trastuzumabe]] adjuvante após [[tratamento/quimioterapia/index|quimioterapia]] padrão em pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] inicial [[HER2|HER2-positivo]].
 
 ## Resultados e Impacto Clínico:
- Reduziu drasticamente a recorrência e a mortalidade, estabelecendo o trastuzumabe adjuvante por um ano como o padrão de cuidado para [[HER2]]-positivo inicial.
+ Reduziu drasticamente a recorrência e a mortalidade, estabelecendo o trastuzumabe adjuvante por um ano como o padrão de cuidado para HER2-positivo inicial.
 
 ## Referências
 

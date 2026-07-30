@@ -14,7 +14,7 @@ status: "draft"
 
 # NCCN Guidelines - Breast Cancer (NCCN Guideline)
 
-**Título original:** Breast Cancer - NCCN Clinical Practice Guidelines in Oncology (NCCN Guideline)
+**Título original:** Breast Cancer - [[instituicoes/ESMO - NCCN - ASCO - AJCC|NCCN]] Clinical Practice Guidelines in Oncology (NCCN Guideline)
 
 ## Informações da Fonte
 
@@ -27,4 +27,4 @@ status: "draft"
 
 ## Resumo
 
-Diretriz clínica do NCCN para diagnóstico e tratamento do câncer de mama. Esta referência corresponde a uma citação adicional da diretriz NCCN no documento Adjuvante, complementar à versão 1.2026. Abrange recomendações para manejo adjuvante baseadas em evidências atualizadas e consenso de painel multidisciplinar.
+Diretriz clínica do NCCN para [[diagnostico/index|diagnóstico]] e [[tratamento/index|tratamento]] do [[Câncer de Mama (Visão Geral)|câncer de mama]]. Esta referência corresponde a uma citação adicional da diretriz NCCN no documento Adjuvante, complementar à versão 1.2026. Abrange recomendações para manejo adjuvante baseadas em evidências atualizadas e consenso de painel multidisciplinar.

@@ -10,7 +10,7 @@ status: "draft"
 
 # RSClin / RSC4All
 
-O Recurrence Score (RS) isolado não leva em conta o tamanho físico do tumor ou a idade da paciente, o que pode deixar lacunas na predição de risco. O RSClin e a plataforma [[RSC4All Tool (Machine Learning)|RSC4All]] nasceram para suprir essa necessidade de integração clínico-genômica.
+O Recurrence Score (RS) isolado não leva em conta o tamanho físico do tumor ou a idade da paciente, o que pode deixar lacunas na predição de risco. O RSClin e a plataforma RSC4All nasceram para suprir essa necessidade de integração clínico-genômica.
 
 ## Aplicações Clínicas e Tratamento
 

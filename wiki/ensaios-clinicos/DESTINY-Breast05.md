@@ -18,10 +18,10 @@ status: "draft"
  2026
 
 ## Objetivos:
- Avaliar a eficácia de [[Trastuzumabe Deruxtecano|trastuzumabe deruxtecano (T-DXd)]] versus [[T-DM1|trastuzumabe entansina (T-DM1)]] em pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] inicial [[HER2]]-positivo com doença residual após [[tratamento/quimioterapia/index|quimioterapia]] neoadjuvante baseada em taxano e trastuzumabe.
+ Avaliar a eficácia de [[Trastuzumabe|trastuzumabe]] deruxtecano ([[T-DXd (Trastuzumabe Deruxtecana)|T-DXd]]) versus trastuzumabe entansina ([[T-DM1 (Trastuzumabe Emtansina)|T-DM1]]) em pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] inicial [[HER2|HER2-positivo]] com [[Doença Residual|doença residual]] após [[tratamento/quimioterapia/index|quimioterapia]] neoadjuvante baseada em taxano e trastuzumabe.
 
 ## Resultados e Impacto Clínico:
- Estudo em andamento para determinar se T-DXd é superior a T-DM1 no cenário de doença residual pós-neoadjuvante, expandindo as opções além do [[KATHERINE|padrão atual (T-DM1)]].
+ Estudo em andamento para determinar se T-DXd é superior a T-DM1 no cenário de doença residual pós-neoadjuvante, expandindo as opções além do padrão atual (T-DM1).
 
 
 

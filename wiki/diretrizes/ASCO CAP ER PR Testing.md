@@ -17,7 +17,7 @@ status: "draft"
 
 # ASCO/CAP ER/PR Testing
 
-**Título original:** Estrogen and Progesterone Receptor Testing in Breast Cancer: ASCO/CAP Guideline Update
+**Título original:** Estrogen and Progesterone Receptor Testing in Breast Cancer: [[instituicoes/ESMO - NCCN - ASCO - AJCC|ASCO]]/CAP Guideline Update
 
 ## Informações da Fonte
 
@@ -26,8 +26,8 @@ status: "draft"
 - **DOI:** [10.1200/JCO.19.02309](https://doi.org/10.1200/JCO.19.02309)
 - **Revista:** Journal of Clinical Oncology
 - **Detalhes da Publicação:** 38(12):1346-66
-- **Documento de Origem:** Estadiamento, Metastática
+- **Documento de Origem:** [[estadiamento/index|Estadiamento]], Metastática
 
 ## Resumo
 
-Atualização da diretriz conjunta ASCO/CAP para padronização da testagem de receptores de estrogênio (ER) e progesterona (PR) em câncer de mama. Estabelece critérios para interpretação dos resultados imuno-histoquímicos, incluindo o limiar de 1% para definição de positividade, requisitos de controle de qualidade, validação de anticorpos e recomendações para relato patológico. A diretriz visa garantir consistência e reprodutibilidade entre laboratórios.
+Atualização da diretriz conjunta ASCO/CAP para padronização da testagem de receptores de estrogênio (ER) e progesterona (PR) em [[Câncer de Mama (Visão Geral)|câncer de mama]]. Estabelece critérios para interpretação dos resultados imuno-histoquímicos, incluindo o limiar de 1% para definição de positividade, requisitos de controle de qualidade, validação de anticorpos e recomendações para relato patológico. A diretriz visa garantir consistência e reprodutibilidade entre laboratórios.

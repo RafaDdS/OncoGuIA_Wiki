@@ -1,5 +1,7 @@
 ---
 title: "Trop-2"
+aliases:
+  - "Antígeno de Superfície Celular Trofoblástica 2"
 category: "Biomarcadores"
 source_documents:
   - "Metastático"

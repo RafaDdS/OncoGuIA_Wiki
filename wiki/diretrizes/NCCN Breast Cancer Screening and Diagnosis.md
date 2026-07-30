@@ -22,10 +22,10 @@ status: "draft"
 - **Autores:** Bevers TB; Anderson BO; Helvie M; Bonaccio E; et al.
 - **Ano:** 2020
 - **DOI:** N/A
-- **Revista:** NCCN
+- **Revista:** [[instituicoes/ESMO - NCCN - ASCO - AJCC|NCCN]]
 - **Detalhes da Publicação:** Version 3.2018
-- **Documento de Origem:** Estadiamento
+- **Documento de Origem:** [[estadiamento/index|Estadiamento]]
 
 ## Resumo
 
-Diretriz do NCCN focada em rastreamento e diagnóstico do câncer de mama. Aborda estratificação de risco, recomendações de rastreamento mamográfico conforme faixa etária e fatores de risco, métodos diagnósticos complementares (US, RM, tomossíntese) e biópsia. Visa orientar a detecção precoce e o diagnóstico preciso.
+Diretriz do NCCN focada em rastreamento e [[diagnostico/index|diagnóstico]] do [[Câncer de Mama (Visão Geral)|câncer de mama]]. Aborda estratificação de risco, recomendações de rastreamento mamográfico conforme faixa etária e fatores de risco, métodos diagnósticos complementares (US, RM, tomossíntese) e biópsia. Visa orientar a detecção precoce e o diagnóstico preciso.

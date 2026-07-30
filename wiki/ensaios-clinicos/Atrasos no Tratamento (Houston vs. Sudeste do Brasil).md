@@ -25,4 +25,4 @@ status: "draft"
 
 ## Referências
 
-1. Instituto Nacional de Cancer (INCA) Controle do cancer de mama no Brasil. Dados e números: 2024. INCA. 2024;N/A.
+1. Instituto Nacional de Cancer (INCA) [[INCA - Controle do Cancer de Mama|Controle do cancer de mama no Brasil]]. Dados e números: 2024. INCA. 2024;N/A.

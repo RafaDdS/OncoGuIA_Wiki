@@ -16,7 +16,7 @@ status: "draft"
 
 # ASCO Guideline - Exercise Diet Weight Management
 
-**Título original:** Exercise, Diet, and Weight Management During Cancer Treatment: ASCO Guideline
+**Título original:** Exercise, Diet, and Weight Management During Cancer Treatment: [[instituicoes/ESMO - NCCN - ASCO - AJCC|ASCO]] Guideline
 
 ## Informações da Fonte
 
@@ -29,4 +29,4 @@ status: "draft"
 
 ## Resumo
 
-Diretriz da ASCO sobre exercício, dieta e manejo de peso durante o tratamento oncológico. Recomenda que pacientes em tratamento recebam orientação para manter atividade física aeróbica e de resistência, dieta balanceada e evitar ganho de peso significativo. Aborda segurança do exercício durante diferentes modalidades terapêuticas, impacto na fadiga e qualidade de vida, e necessidade de individualização conforme condição clínica.
+Diretriz da ASCO sobre exercício, dieta e manejo de peso durante o [[tratamento/index|tratamento]] oncológico. Recomenda que pacientes em tratamento recebam orientação para manter atividade física aeróbica e de resistência, dieta balanceada e evitar ganho de peso significativo. Aborda segurança do exercício durante diferentes modalidades terapêuticas, impacto na fadiga e qualidade de vida, e necessidade de individualização conforme condição clínica.

@@ -13,7 +13,7 @@ status: "draft"
 
 # Linfócitos Infiltrantes Tumorais (TILs)
 
-Biomarcador prognóstico e preditivo em [[Câncer de Mama (Visão Geral)|câncer de mama]] triplo-negativo e [[HER2]]-positivo
+Biomarcador prognóstico e preditivo em [[Câncer de Mama (Visão Geral)|câncer de mama]] triplo-negativo e [[HER2|HER2-positivo]]
 
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: Linfócitos infiltrantes tumorais (TILs).*

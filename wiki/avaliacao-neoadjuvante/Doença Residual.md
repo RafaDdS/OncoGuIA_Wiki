@@ -19,7 +19,7 @@ A doença residual é definida pela presença de tumor invasivo persistente na m
 A identificação da doença residual atua como um marcador biológico preditivo e determina a necessidade de mudança ou escalonamento na estratégia de [[Tratamento Adjuvante (Conceito)|tratamento adjuvante]], com o objetivo de reduzir o risco de retorno do câncer. As estratégias variam conforme o subtipo:
 
 * 
-**[[HER2]]-positivo:** É recomendada a substituição das terapias de bloqueio padrão pelo anticorpo conjugado a fármaco T-DM1 ([[Trastuzumabe|trastuzumabe]] entansina), especialmente em pacientes com doença estádio III operada.
+**[[HER2|HER2-positivo]]:** É recomendada a substituição das terapias de bloqueio padrão pelo anticorpo conjugado a fármaco [[T-DM1 (Trastuzumabe Emtansina)|T-DM1]] ([[Trastuzumabe|trastuzumabe]] entansina), especialmente em pacientes com doença estádio III operada.
 
 
 * 

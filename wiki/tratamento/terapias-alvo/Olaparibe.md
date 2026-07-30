@@ -12,7 +12,7 @@ status: "draft"
 
 # Olaparibe
 
-Indicado no adjuvante para pacientes com mutação germinativa BRCA1/2 e [[Doença Residual|doença residual]] pós-neoadjuvância (estudo [[OlympiA]]).
+Indicado no adjuvante para pacientes com mutação germinativa [[biomarcadores/BRCA1 - BRCA2|BRCA1/2]] e [[Doença Residual|doença residual]] pós-neoadjuvância (estudo [[OlympiA]]).
 
 ## Contexto por documento
 

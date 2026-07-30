@@ -17,10 +17,10 @@ status: "draft"
  2015
 
 ## Objetivos:
- Avaliar a eficácia do [[tratamento/quimioterapia/index|paclitaxel]] semanal combinado com [[Trastuzumabe|trastuzumabe]] como [[tratamento/index|tratamento]] adjuvante em pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] inicial [[HER2]]-positivo e linfonodo negativo.
+ Avaliar a eficácia do paclitaxel semanal combinado com [[Trastuzumabe|trastuzumabe]] como [[Tratamento Adjuvante (Conceito)|tratamento adjuvante]] em pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] inicial [[HER2|HER2-positivo]] e linfonodo negativo.
 
 ## Resultados e Impacto Clínico:
- Demonstrou taxas de sobrevida livre de doença extremamente baixas (93,3% em 3 anos e 97,5% para pacientes com tumores ≤3cm), estabelecendo o regime de paclitaxel + trastuzumabe como uma opção de tratamento de baixa toxicidade para pacientes com HER2+ e linfonodo negativo.
+ Demonstrou taxas de sobrevida livre de doença extremamente baixas (93,3% em 3 anos e 97,5% para pacientes com tumores ≤3cm), estabelecendo o regime de paclitaxel + trastuzumabe como uma opção de [[tratamento/index|tratamento]] de baixa toxicidade para pacientes com HER2+ e linfonodo negativo.
 
 
 

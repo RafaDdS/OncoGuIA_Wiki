@@ -16,7 +16,7 @@ status: "draft"
 
 # ESO-ESMO ABC 5
 
-**Título original:** 5th ESO-ESMO international consensus guidelines for advanced breast cancer (ABC 5)
+**Título original:** 5th ESO-[[instituicoes/ESMO - NCCN - ASCO - AJCC|ESMO]] international consensus guidelines for advanced breast cancer (ABC 5)
 
 ## Informações da Fonte
 
@@ -29,4 +29,4 @@ status: "draft"
 
 ## Resumo
 
-5ª edição do consenso internacional ESO-ESMO para câncer de mama avançado, realizado em Lisboa (novembro 2019). Abrange todas as recomendações para manejo da doença localmente avançada e metastática, organizadas por subtipo (HR+/HER2-, HER2+, triplo-negativo), incluindo algoritmos diagnósticos e terapêuticos, seguimento, cuidados paliativos e de suporte. As recomendações são acompanhadas de nível de evidência, grau de recomendação e porcentagem de consenso entre os 44 painelistas.
+5ª edição do consenso internacional ESO-ESMO para [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado, realizado em Lisboa (novembro 2019). Abrange todas as recomendações para manejo da [[Doença Localmente Avançada|doença localmente avançada]] e metastática, organizadas por subtipo (HR+/HER2-, [[HER2|HER2+]], triplo-negativo), incluindo algoritmos diagnósticos e terapêuticos, [[Seguimento Pós-Tratamento|seguimento]], cuidados paliativos e de suporte. As recomendações são acompanhadas de nível de evidência, grau de recomendação e porcentagem de consenso entre os 44 painelistas.

@@ -22,4 +22,4 @@ Demonstrou ganho em SLD e SG com a [[tratamento/terapia-endocrina/index|terapia 
 
 ## Referências
 
-1. Slamon D; Eiermann W; Robert N; Pienkowski T; Martin M; Press M; et al. Adjuvant trastuzumab in HER2-positive breast cancer. N Engl J Med. 2011;365(14):1273-83. DOI: [10.1056/NEJMoa0910383](https://doi.org/10.1056/NEJMoa0910383)
+1. Slamon D; Eiermann W; Robert N; Pienkowski T; Martin M; Press M; et al. Adjuvant trastuzumab in [[HER2]]-positive breast cancer. N Engl J Med. 2011;365(14):1273-83. DOI: [10.1056/NEJMoa0910383](https://doi.org/10.1056/NEJMoa0910383)

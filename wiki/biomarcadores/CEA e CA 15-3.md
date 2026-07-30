@@ -1,5 +1,8 @@
 ---
 title: "CEA e CA 15-3"
+aliases:
+  - "CEA"
+  - "CA 15-3"
 category: "Estadiamento"
 source_documents:
   - "Estadiamento"

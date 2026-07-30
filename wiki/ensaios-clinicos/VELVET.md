@@ -15,7 +15,7 @@ Perez EA, Lopez-Vega JM, Petit T, Zamagni C, Easton V, Kamber J, et al.
 2016
 
 ## Objetivos:
-Avaliar a segurança e eficácia de vinorelbina em combinação com [[Pertuzumabe|pertuzumabe]] e [[Trastuzumabe|trastuzumabe]] como [[tratamento/index|tratamento]] de primeira linha para [[Câncer de Mama (Visão Geral)|câncer de mama]] metastático [[HER2]]-positivo.
+Avaliar a segurança e eficácia de vinorelbina em combinação com [[Pertuzumabe|pertuzumabe]] e [[Trastuzumabe|trastuzumabe]] como [[tratamento/index|tratamento]] de primeira linha para [[Câncer de Mama (Visão Geral)|câncer de mama]] metastático [[HER2|HER2-positivo]].
 
 ## Resultados e Impacto Clínico:
 Sugeriu que o regime é ativo e seguro, podendo ser uma boa opção para pacientes com contraindicação ao uso de taxanos.

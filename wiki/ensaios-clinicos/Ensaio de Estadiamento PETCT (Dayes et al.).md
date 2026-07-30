@@ -24,4 +24,4 @@ status: "draft"
 
 ## Referências
 
-1. Dayes IS; Metser U; Hodgson N; Parpia S; Eisen AF; George R; et al. Impact of 18F-Labeled Fluorodeoxyglucose Positron Emission Tomography-Computed Tomography Versus Conventional Staging in Patients With Locally Advanced Breast Cancer. J Clin Oncol. 2023;41(23):3909-16. DOI: [10.1200/jco.23.00249](https://doi.org/10.1200/jco.23.00249)
+1. Dayes IS; Metser U; Hodgson N; Parpia S; Eisen AF; George R; et al. [[IMPACT|Impact]] of 18F-Labeled Fluorodeoxyglucose Positron Emission Tomography-Computed Tomography Versus Conventional Staging in Patients With Locally Advanced Breast Cancer. J Clin Oncol. 2023;41(23):3909-16. DOI: [10.1200/jco.23.00249](https://doi.org/10.1200/jco.23.00249)

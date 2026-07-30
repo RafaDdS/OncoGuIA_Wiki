@@ -25,7 +25,7 @@ O conhecimento do status de alterações em AKT1 e PTEN assumiu recentemente um 
 
 ### Cenário Metastático
 
-Para pacientes com câncer de mama avançado ou metastático classificado como Receptor Hormonal positivo (HR+) e [[HER2]] negativo, a presença de alterações nesses genes abre novas portas terapêuticas:
+Para pacientes com câncer de mama avançado ou metastático classificado como Receptor Hormonal positivo (HR+) e [[HER2|HER2 negativo]], a presença de alterações nesses genes abre novas portas terapêuticas:
 
 * **Terapia-Alvo Direcionada (Capivasertibe):** Pacientes cujos tumores apresentam mutações em *AKT1*, alterações em *PTEN* (ou mutações no gene *[[PIK3CA]]*) são elegíveis para o tratamento com **capivasertibe** (um inibidor inibidor específico da via AKT) combinado ao [[Fulvestranto|fulvestranto]]. Essa combinação demonstrou eficácia clínica significativa em ensaios recentes para contornar a resistência à hormonioterapia padrão.
 * **Estratégia de Tratamento:** Como a hiperativação dessa via está ligada a uma pior resposta à [[tratamento/terapia-endocrina/index|terapia endócrina]] isolada, identificar precocemente alterações em *AKT1/PTEN* permite que o oncologista sequencie o tratamento de forma mais eficaz, bloqueando diretamente a via de escape do tumor.

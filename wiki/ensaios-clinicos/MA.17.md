@@ -18,10 +18,10 @@ status: "draft"
  2012 (longer-term outcomes); 2003 (publicação original)
 
 ## Objetivos:
- Avaliar o benefício do [[tratamento/terapia-endocrina/index|letrozol]] como [[tratamento/index|tratamento]] adjuvante estendido após 5 anos de [[Tamoxifeno|tamoxifeno]] em mulheres pós-menopausadas com [[Câncer de Mama (Visão Geral)|câncer de mama]] RH-positivo.
+ Avaliar o benefício do letrozol como [[Tratamento Adjuvante (Conceito)|tratamento adjuvante]] estendido após 5 anos de [[Tamoxifeno|tamoxifeno]] em mulheres pós-menopausadas com [[Câncer de Mama (Visão Geral)|câncer de mama]] [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]-positivo.
 
 ## Resultados e Impacto Clínico:
- Demonstrou melhora significativa na sobrevida livre de doença e sobrevida global com o uso estendido de letrozol, estabelecendo a terapia endócrina estendida como padrão para pacientes com alto risco de recorrência tardia.
+ Demonstrou melhora significativa na sobrevida livre de doença e sobrevida global com o uso estendido de letrozol, estabelecendo a [[tratamento/terapia-endocrina/index|terapia endócrina]] estendida como padrão para pacientes com alto risco de recorrência tardia.
 
 
 

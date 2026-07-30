@@ -15,7 +15,7 @@ status: "draft"
 
 # ASCO Guideline - Male Breast Cancer
 
-**Título original:** Management of Male Breast Cancer: ASCO Guideline
+**Título original:** Management of Male Breast Cancer: [[instituicoes/ESMO - NCCN - ASCO - AJCC|ASCO]] Guideline
 
 ## Informações da Fonte
 
@@ -28,4 +28,4 @@ status: "draft"
 
 ## Resumo
 
-Diretriz da ASCO para manejo do câncer de mama masculino. Baseada em consenso formal devido à escassez de ensaios clínicos específicos. Recomenda tamoxifeno como terapia endócrina adjuvante padrão por 5 anos; agonista GnRH + inibidor de aromatase como alternativa. Terapia endócrina como primeira linha na doença avançada, exceto em crise visceral. CDK4/6 e terapias-alvo conforme indicações usadas em mulheres. Oferecer aconselhamento genético a todos os homens com câncer de mama.
+Diretriz da ASCO para manejo do [[Câncer de Mama (Visão Geral)|câncer de mama]] masculino. Baseada em consenso formal devido à escassez de [[ensaios-clinicos/index|ensaios clínicos]] específicos. Recomenda [[Tamoxifeno|tamoxifeno]] como [[tratamento/terapia-endocrina/index|terapia endócrina]] adjuvante padrão por 5 anos; agonista GnRH + inibidor de aromatase como alternativa. Terapia endócrina como primeira linha na doença avançada, exceto em [[Crise Visceral|crise visceral]]. CDK4/6 e [[tratamento/terapias-alvo/index|terapias-alvo]] conforme indicações usadas em mulheres. Oferecer [[Aconselhamento Genético|aconselhamento genético]] a todos os homens com câncer de mama.

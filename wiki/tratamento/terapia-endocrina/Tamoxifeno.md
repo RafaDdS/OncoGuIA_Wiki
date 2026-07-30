@@ -12,7 +12,7 @@ status: "draft"
 
 # Tamoxifeno
 
-Modulador seletivo de RE; usado por 5 a 10 anos em pré e pós-menopausa.
+Modulador seletivo de [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RE]]; usado por 5 a 10 anos em pré e pós-menopausa.
 
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: Tamoxifeno (TMX).*

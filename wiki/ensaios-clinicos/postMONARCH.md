@@ -23,4 +23,4 @@ Demonstrou uma melhora significativa, porém modesta, na SLP para a combinação
 
 ## Referências
 
-1. Kalinsky K; Bianchini G; Hamilton EP; Graff SL; Park KH; Jeselsohn R; et al. Abemaciclib plus fulvestrant vs fulvestrant alone for HR+, HER2-advanced breast cancer following progression on a prior CDK4/6 inhibitor plus endocrine therapy. J Clin Oncol. 2024;42(17-suppl):LBA1001-LBA1001. DOI: [10.1200/JCO.2024.42.17_suppl.LBA1001](https://doi.org/10.1200/JCO.2024.42.17_suppl.LBA1001)
+1. Kalinsky K; Bianchini G; Hamilton EP; Graff SL; Park KH; Jeselsohn R; et al. Abemaciclib plus fulvestrant vs fulvestrant alone for HR+, [[HER2]]-advanced breast cancer following progression on a prior CDK4/6 inhibitor plus endocrine therapy. J Clin Oncol. 2024;42(17-suppl):LBA1001-LBA1001. DOI: [10.1200/JCO.2024.42.17_suppl.LBA1001](https://doi.org/10.1200/JCO.2024.42.17_suppl.LBA1001)

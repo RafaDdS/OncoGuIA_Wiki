@@ -24,8 +24,8 @@ status: "draft"
 - **DOI:** [10.1001/jama.2024.5534](https://doi.org/10.1001/jama.2024.5534)
 - **Revista:** JAMA
 - **Detalhes da Publicação:** 331:1918
-- **Documento de Origem:** Estadiamento
+- **Documento de Origem:** [[estadiamento/index|Estadiamento]]
 
 ## Resumo
 
-Recomendação da força-tarefa norte-americana sobre rastreamento do câncer de mama. Baseia-se em modelos do CISNET para atualizar as faixas etárias e intervalos de rastreamento mamográfico, considerando benefícios e danos. A diretriz aborda fatores como densidade mamária, histórico familiar e tomada de decisão compartilhada.
+Recomendação da força-tarefa norte-americana sobre rastreamento do [[Câncer de Mama (Visão Geral)|câncer de mama]]. Baseia-se em modelos do CISNET para atualizar as faixas etárias e intervalos de rastreamento mamográfico, considerando benefícios e danos. A diretriz aborda fatores como densidade mamária, histórico familiar e tomada de decisão compartilhada.

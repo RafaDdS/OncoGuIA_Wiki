@@ -15,7 +15,7 @@ status: "draft"
 
 # ASCO Guideline - Sentinel Lymph Node Biopsy
 
-**Título original:** Sentinel Lymph Node Biopsy for Patients With Early-Stage Breast Cancer
+**Título original:** Sentinel Lymph Node Biopsy for Patients With Early-[[Study of Adjuvant Therapy in Premenopausal Women (STAGE)|Stage]] Breast Cancer
 
 ## Informações da Fonte
 
@@ -28,4 +28,4 @@ status: "draft"
 
 ## Resumo
 
-Diretriz da ASCO sobre biópsia de linfonodo sentinela (SLNB) no câncer de mama inicial. Aborda indicações, técnica, interpretação e manejo dos resultados. Recomenda SLNB como padrão para estadiamento axilar em pacientes com mama inicial clinicamente node-negative. Discute cenários de omissão da SLNB, uso de dupla-técnica (radioisótopo + azul), e manejo de micrometástases e células tumorais isoladas.
+Diretriz da [[instituicoes/ESMO - NCCN - ASCO - AJCC|ASCO]] sobre biópsia de linfonodo sentinela (SLNB) no [[Câncer de Mama (Visão Geral)|câncer de mama]] inicial. Aborda indicações, técnica, interpretação e manejo dos resultados. Recomenda SLNB como padrão para [[estadiamento/index|estadiamento]] axilar em pacientes com mama inicial clinicamente node-negative. Discute cenários de omissão da SLNB, uso de dupla-técnica (radioisótopo + azul), e manejo de micrometástases e células tumorais isoladas.

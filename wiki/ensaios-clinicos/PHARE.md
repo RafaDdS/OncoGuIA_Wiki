@@ -18,7 +18,7 @@ status: "draft"
  2019
 
 ## Objetivos:
- Comparar 6 meses versus 12 meses de [[Trastuzumabe|trastuzumabe]] adjuvante em pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] inicial [[HER2]]-positivo, para determinar se uma duração menor poderia ser não inferior ao padrão de 12 meses.
+ Comparar 6 meses versus 12 meses de [[Trastuzumabe|trastuzumabe]] adjuvante em pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] inicial [[HER2|HER2-positivo]], para determinar se uma duração menor poderia ser não inferior ao padrão de 12 meses.
 
 ## Resultados e Impacto Clínico:
  Não demonstrou não inferioridade para 6 meses, confirmando que 12 meses de trastuzumabe permanece o padrão de cuidado. Resultados semelhantes aos dos estudos [[SOLD]] e [[PERSEPHONE]].

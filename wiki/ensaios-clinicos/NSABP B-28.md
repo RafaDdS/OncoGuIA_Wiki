@@ -16,7 +16,7 @@ title: NSABP B-28
  2005
 
 ## Objetivos:
- Validar a integração de taxanos ([[Paclitaxel|paclitaxel]]) após a [[tratamento/quimioterapia/index|quimioterapia]] com [[AC (Doxorrubicina + Ciclofosfamida)|AC]] no [[tratamento/index|tratamento]] adjuvante de pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] e linfonodos positivos.
+ Validar a integração de taxanos (paclitaxel) após a [[tratamento/quimioterapia/index|quimioterapia]] com [[AC (Doxorrubicina + Ciclofosfamida)|AC]] no [[Tratamento Adjuvante (Conceito)|tratamento adjuvante]] de pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] e linfonodos positivos.
 
 ## Resultados e Impacto Clínico:
  Confirmou o benefício da adição sequencial de paclitaxel após AC, melhorando a sobrevida livre de doença, consolidando o regime AC seguido de taxano como padrão adjuvante.

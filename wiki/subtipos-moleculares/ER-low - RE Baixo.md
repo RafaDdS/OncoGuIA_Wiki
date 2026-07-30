@@ -16,11 +16,11 @@ status: "draft"
 
 # ER-low / RE Baixo
 
-Expressão de RE abaixo de 10%. Deve ser manejado como triplo-negativo na neoadjuvância, com as mesmas recomendações terapêuticas e testagem genética para BRCA (evidências: neo-real, Acs et al., St. Gallen 2025).
+Expressão de RE abaixo de 10%. Deve ser manejado como triplo-negativo na neoadjuvância, com as mesmas recomendações terapêuticas e testagem genética para BRCA (evidências: neo-real, Acs et al., [[St Gallen 2025|St. Gallen 2025]]).
 
 ## Contexto por documento
 
-- **Neoadjuvante** (*ER-low (Receptor de Estrógeno baixo)*): Expressão de RE abaixo de 10%. Deve ser manejado como triplo-negativo na neoadjuvância, com as mesmas recomendações terapêuticas e testagem genética para BRCA (evidências: neo-real, Acs et al., St. Gallen 2025).
+- **Neoadjuvante** (*ER-low ([[biomarcadores/Receptores Hormonais (RE-RP-RH)|Receptor de Estrógeno]] baixo)*): Expressão de RE abaixo de 10%. Deve ser manejado como triplo-negativo na neoadjuvância, com as mesmas recomendações terapêuticas e testagem genética para BRCA (evidências: neo-real, Acs et al., St. Gallen 2025).
 - **Neoadjuvante** (*ER-low*): Expressão de receptor de estrógeno < 10%; manejado como triplo-negativo para neoadjuvância, incluindo [[tratamento/imunoterapia/index|imunoterapia]] e testagem BRCA.
 - **Metastático** (*RE baixo (1 a 10%)*): Tumores com expressão hormonal entre 1% e 10%. Apresentam comportamento biológico semelhante ao triplo-negativo, devendo seguir o fluxograma de [[tratamento/index|tratamento]] para TNBC.
 

@@ -1,7 +1,8 @@
 ---
 title: "Fosfatase Alcalina (FALC)"
 aliases:
-  - "Fosfatase alcalina (FALC)"
+  - "Fosfatase Alcalina"
+  - "FALC"
 category: "Estadiamento"
 source_documents:
   - "Estadiamento"

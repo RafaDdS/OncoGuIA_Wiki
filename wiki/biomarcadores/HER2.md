@@ -2,6 +2,10 @@
 title: "HER2"
 aliases:
   - "HER2 positivo"
+  - "HER2-positivo"
+  - "HER2 negativo"
+  - "HER2-negativo"
+  - "HER2+"
   - "HER2-low"
   - "HER2-ultra low"
 category: "Biomarcadores"
@@ -53,7 +57,7 @@ No pós-operatório, o [[Tratamento Adjuvante (Conceito)|tratamento adjuvante]] 
 
 O tratamento da doença avançada é altamente responsivo a terapias-alvo e depende da expressão do receptor:
 
-* **Para HER2 Positivo:** Utiliza-se o bloqueio com anticorpos monoclonais (como Trastuzumabe e Pertuzumabe) e Anticorpos Conjugados a Fármacos (ADCs), como o [[T-DXd (Trastuzumabe Deruxtecana)|T-DXd (Trastuzumabe deruxtecana)]] e o T-DM1.
+* **Para HER2 Positivo:** Utiliza-se o bloqueio com anticorpos monoclonais (como Trastuzumabe e Pertuzumabe) e Anticorpos Conjugados a Fármacos (ADCs), como o [[T-DXd (Trastuzumabe Deruxtecana)|T-DXd (Trastuzumabe deruxtecana)]] e o [[T-DM1 (Trastuzumabe Emtansina)|T-DM1]].
 * **Para HER2-low e HER2-ultra low:** Pacientes com essas classificações beneficiam-se expressivamente do tratamento com o ADC **Trastuzumabe deruxtecana (T-DXd)**, que demonstrou alta eficácia nesses cenários clínicos inovadores.
 
 ---

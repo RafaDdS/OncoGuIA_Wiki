@@ -19,7 +19,7 @@ Paclitaxel semanal (12 semanas) + [[Trastuzumabe]] + [[Pertuzumabe]]. Alternativ
 
 ## Contexto por documento
 
-- **Adjuvante** (*TH*): Paclitaxel + Trastuzumabe semanal; regime de descalonamento para [[HER2]]+ de baixo risco (T<2cm, N0).
+- **Adjuvante** (*TH*): Paclitaxel + Trastuzumabe semanal; regime de descalonamento para [[HER2|HER2+]] de baixo risco (T<2cm, N0).
 - **Neoadjuvante** (*THP*): Paclitaxel semanal (12 semanas) + Trastuzumabe + Pertuzumabe. Alternativa ao TCHP, especialmente para casos selecionados (NeoSphere).
 
 ---

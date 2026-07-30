@@ -15,7 +15,7 @@ status: "draft"
 
 # NCCN Guidelines - Breast Cancer v1.2026
 
-**Título original:** NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines®): Breast Cancer. Version 1.2026
+**Título original:** [[instituicoes/ESMO - NCCN - ASCO - AJCC|NCCN]] Clinical Practice Guidelines in Oncology (NCCN Guidelines®): Breast Cancer. Version 1.2026
 
 ## Informações da Fonte
 
@@ -24,8 +24,8 @@ status: "draft"
 - **DOI:** N/A
 - **Revista:** NCCN
 - **Detalhes da Publicação:** Versão 1.2026 — 16 de janeiro de 2026
-- **Documento de Origem:** Adjuvante, Estadiamento
+- **Documento de Origem:** Adjuvante, [[estadiamento/index|Estadiamento]]
 
 ## Resumo
 
-Diretriz clínica do NCCN para diagnóstico, tratamento e acompanhamento do câncer de mama. A versão 1.2026 inclui recomendações atualizadas sobre biópsia de linfonodo sentinela em pacientes selecionadas, supressão ovariana, uso do MammaPrint para decisões sobre antraciclinas e do Breast Cancer Index para risco de recidiva tardia. Desenvolvida por painel multidisciplinar com base em evidências e consenso.
+Diretriz clínica do NCCN para [[diagnostico/index|diagnóstico]], [[tratamento/index|tratamento]] e acompanhamento do [[Câncer de Mama (Visão Geral)|câncer de mama]]. A versão 1.2026 inclui recomendações atualizadas sobre biópsia de linfonodo sentinela em pacientes selecionadas, [[Supressão Ovariana|supressão ovariana]], uso do [[Mammaprint|MammaPrint]] para decisões sobre [[Antraciclinas|antraciclinas]] e do Breast Cancer Index para risco de recidiva tardia. Desenvolvida por painel multidisciplinar com base em evidências e consenso.

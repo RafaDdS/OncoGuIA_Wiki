@@ -23,4 +23,4 @@ status: "draft"
 ## Referências
 
 1. Cortes J; Rugo HS; Cescon DW; Im SA; Yusof MM; Gallardo C; et al. Pembrolizumab plus Chemotherapy in Advanced Triple-Negative Breast Cancer. N Engl J Med. 2022;387(3):217-26. DOI: [10.1056/nejmoa2202809](https://doi.org/10.1056/nejmoa2202809)
-2. Tutt ANJ; Garber JE; Kaufman B; Viale G; Fumagalli D; Rastogi P; et al. Adjuvant Olaparib for Patients with BRCA1 - or BRCA2 -Mutated Breast Cancer. N Engl J Med. 2021;384(25):2394-405. DOI: [10.1056/NEJMoa2105215](https://doi.org/10.1056/NEJMoa2105215)
+2. Tutt ANJ; Garber JE; Kaufman B; Viale G; Fumagalli D; Rastogi P; et al. Adjuvant Olaparib for Patients with [[biomarcadores/BRCA1 - BRCA2|BRCA1]] - or BRCA2 -Mutated Breast Cancer. N Engl J Med. 2021;384(25):2394-405. DOI: [10.1056/NEJMoa2105215](https://doi.org/10.1056/NEJMoa2105215)
