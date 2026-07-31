@@ -14,7 +14,7 @@ status: "draft"
 
 # Estadiamento Prognóstico Clínico e Patológico
 
-[[estadiamento/index|Estadiamento]] que incorpora, além do TNM anatômico, o [[Grau Histológico (G1–G3)|grau histológico]], HER2, receptores hormonais (RE e RP). A diretriz da [[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026 estabelece que o estadiamento clínico e patológico **deve seguir a 8ª edição do [[AJCC Cancer Staging Manual]]**, que está disponível no site da [[instituicoes/ESMO - NCCN - ASCO - AJCC|AJCC]] e inclui tanto o estadiamento anatômico quanto o prognóstico.
+[[estadiamento/index|Estadiamento]] que incorpora, além do TNM anatômico, o [[Grau Histológico (G1–G3)|grau histológico]], HER2, receptores hormonais (RE e RP). A diretriz da [[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026 estabelece que o estadiamento clínico e patológico **deve seguir a 8ª edição do [[AJCC Cancer Staging Manual]]**, que está disponível no site da [[AJCC]] e inclui tanto o estadiamento anatômico quanto o prognóstico.
 
 A grande inovação da 8ª edição do AJCC é a incorporação de **fatores biológicos não anatômicos** ao estadiamento, reconhecendo que o prognóstico do [[Câncer de Mama (Visão Geral)|câncer de mama]] é influenciado por características moleculares além da extensão anatômica.
 

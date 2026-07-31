@@ -15,7 +15,7 @@ status: "draft"
 
 # ASCO Guideline - Male Breast Cancer
 
-**Título original:** Management of Male Breast Cancer: [[instituicoes/ESMO - NCCN - ASCO - AJCC|ASCO]] Guideline
+**Título original:** Management of Male Breast Cancer: [[ASCO]] Guideline
 
 ## Informações da Fonte
 

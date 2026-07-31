@@ -16,7 +16,7 @@ status: "draft"
 
 # ESO-ESMO BCY5
 
-**Título original:** ESO-[[instituicoes/ESMO - NCCN - ASCO - AJCC|ESMO]] fifth international consensus guidelines for breast cancer in young women (BCY5)
+**Título original:** ESO-[[ESMO]] fifth international consensus guidelines for breast cancer in young women (BCY5)
 
 ## Informações da Fonte
 

@@ -16,7 +16,7 @@ status: "draft"
 
 # ASCO Guideline - Exercise Diet Weight Management
 
-**Título original:** Exercise, Diet, and Weight Management During Cancer Treatment: [[instituicoes/ESMO - NCCN - ASCO - AJCC|ASCO]] Guideline
+**Título original:** Exercise, Diet, and Weight Management During Cancer Treatment: [[ASCO]] Guideline
 
 ## Informações da Fonte
 

@@ -17,7 +17,7 @@ status: "draft"
 
 # ASCO/CAP ER/PR Testing
 
-**Título original:** Estrogen and Progesterone Receptor Testing in Breast Cancer: [[instituicoes/ESMO - NCCN - ASCO - AJCC|ASCO]]/CAP Guideline Update
+**Título original:** Estrogen and Progesterone Receptor Testing in Breast Cancer: [[ASCO]]/CAP Guideline Update
 
 ## Informações da Fonte
 

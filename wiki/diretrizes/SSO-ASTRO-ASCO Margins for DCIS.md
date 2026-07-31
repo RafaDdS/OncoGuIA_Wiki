@@ -16,7 +16,7 @@ status: "draft"
 
 # SSO-ASTRO-ASCO Margins for DCIS
 
-**Título original:** Society of Surgical Oncology-American Society for Radiation Oncology-American Society of Clinical Oncology Consensus Guideline on Margins for Breast-Conserving Surgery With Whole-Breast Irradiation in Ductal Carcinoma In Situ
+**Título original:** Society of Surgical Oncology-American Society for Radiation Oncology-[[ASCO|American Society of Clinical Oncology]] Consensus Guideline on Margins for Breast-Conserving Surgery With Whole-Breast Irradiation in Ductal Carcinoma In Situ
 
 ## Informações da Fonte
 
@@ -29,4 +29,4 @@ status: "draft"
 
 ## Resumo
 
-Consenso multidisciplinar SSO/ASTRO/[[instituicoes/ESMO - NCCN - ASCO - AJCC|ASCO]] sobre margens cirúrgicas no [[Carcinoma Ductal in Situ (CDIS)|carcinoma ductal in situ]] (DCIS) tratado com cirurgia conservadora e radioterapia whole-breast. Baseado em metanálise de 20 estudos (7.883 pacientes). Estabelece margem de 2 mm como padrão para margem adequada, associada a menor taxa de recorrência ipsilateral. Margens maiores que 2 mm não trazem benefício adicional. Margens menores não são indicação isolada para mastectomia.
+Consenso multidisciplinar SSO/ASTRO/ASCO sobre margens cirúrgicas no [[Carcinoma Ductal in Situ (CDIS)|carcinoma ductal in situ]] (DCIS) tratado com cirurgia conservadora e radioterapia whole-breast. Baseado em metanálise de 20 estudos (7.883 pacientes). Estabelece margem de 2 mm como padrão para margem adequada, associada a menor taxa de recorrência ipsilateral. Margens maiores que 2 mm não trazem benefício adicional. Margens menores não são indicação isolada para mastectomia.

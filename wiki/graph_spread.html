@@ -1839,7 +1839,7 @@ var tomSelect=function(e,t){return new TomSelect(e,t)}
                   // adding nodes and edges to the graph
                   data = {nodes: nodes, edges: edges};
 
-                  var options = {"physics": {"solver": "forceAtlas2Based", "forceAtlas2Based": {"gravitationalConstant": -200, "springLength": 300, "springConstant": 0.002, "damping": 0.6, "avoidOverlap": 0.95}, "stabilization": {"iterations": 500, "updateInterval": 10, "minVelocityThreshold": 5}}, "interaction": {"hover": true, "tooltipDelay": 100, "navigationButtons": true, "keyboard": true, "selectConnectedEdges": true, "highlightNearest": {"enabled": true, "degree": 1, "algorithm": "hierarchical", "hover": false}}};
+                  var options = {"physics": {"solver": "forceAtlas2Based", "forceAtlas2Based": {"gravitationalConstant": -400.0, "springLength": 500.0, "springConstant": 0.008, "avoidOverlap": 0.95}, "stabilization": {"iterations": 800}}, "interaction": {"hover": true, "tooltipDelay": 100, "navigationButtons": true, "keyboard": true}};
 
                   
 

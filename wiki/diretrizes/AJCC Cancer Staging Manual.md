@@ -16,7 +16,7 @@ status: "draft"
 
 # AJCC Cancer Staging Manual
 
-**Título original:** [[instituicoes/ESMO - NCCN - ASCO - AJCC|AJCC]] Cancer Staging Manual
+**Título original:** AJCC Cancer Staging Manual
 
 ## Informações da Fonte
 
@@ -29,4 +29,4 @@ status: "draft"
 
 ## Resumo
 
-Manual de estadiamento oncológico do American Joint Committee on Cancer (AJCC). A 8ª edição incorpora [[fatores-prognosticos/index|fatores prognósticos]] biológicos ([[Grau Histológico (G1–G3)|grau histológico]], receptores hormonais, [[HER2]], assinaturas genômicas) ao estadiamento anatomopatológico TNM clássico para o [[Câncer de Mama (Visão Geral)|câncer de mama]], permitindo um estadiamento prognóstico mais preciso e individualizado.
+Manual de estadiamento oncológico do [[AJCC|American Joint Committee on Cancer]] (AJCC). A 8ª edição incorpora [[fatores-prognosticos/index|fatores prognósticos]] biológicos ([[Grau Histológico (G1–G3)|grau histológico]], receptores hormonais, [[HER2]], assinaturas genômicas) ao estadiamento anatomopatológico TNM clássico para o [[Câncer de Mama (Visão Geral)|câncer de mama]], permitindo um estadiamento prognóstico mais preciso e individualizado.

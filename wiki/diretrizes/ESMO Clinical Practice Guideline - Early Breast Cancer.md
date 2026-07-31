@@ -14,7 +14,7 @@ status: "draft"
 
 # ESMO Clinical Practice Guideline - Early Breast Cancer
 
-**Título original:** Early breast cancer: [[instituicoes/ESMO - NCCN - ASCO - AJCC|ESMO]] Clinical Practice Guideline for diagnosis, treatment and follow-up
+**Título original:** Early breast cancer: [[ESMO]] Clinical Practice Guideline for diagnosis, treatment and follow-up
 
 ## Informações da Fonte
 

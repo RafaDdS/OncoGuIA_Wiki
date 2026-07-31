@@ -16,7 +16,7 @@ status: "draft"
 
 # ASCO/CAP HER2 Testing
 
-**Título original:** Human Epidermal Growth Factor Receptor 2 Testing in Breast Cancer: American Society of Clinical Oncology/College of American Pathologists Clinical Practice Guideline Focused Update
+**Título original:** Human Epidermal Growth Factor Receptor 2 Testing in Breast Cancer: [[ASCO|American Society of Clinical Oncology]]/College of American Pathologists Clinical Practice Guideline Focused Update
 
 ## Informações da Fonte
 
@@ -29,4 +29,4 @@ status: "draft"
 
 ## Resumo
 
-Atualização focalizada da diretriz conjunta [[instituicoes/ESMO - NCCN - ASCO - AJCC|ASCO]]/CAP para testagem de [[HER2]] em [[Câncer de Mama (Visão Geral)|câncer de mama]]. Revisa a definição de IHC 2+ (equivoco), torna facultativa a repetição do teste em biópsia versus peça cirúrgica, e estabelece critérios rigorosos para interpretação de padrões ISH incomuns (grupos 2-4), exigindo revisão concomitante com IHC para determinação precisa do status HER2.
+Atualização focalizada da diretriz conjunta ASCO/CAP para testagem de [[HER2]] em [[Câncer de Mama (Visão Geral)|câncer de mama]]. Revisa a definição de IHC 2+ (equivoco), torna facultativa a repetição do teste em biópsia versus peça cirúrgica, e estabelece critérios rigorosos para interpretação de padrões ISH incomuns (grupos 2-4), exigindo revisão concomitante com IHC para determinação precisa do status HER2.

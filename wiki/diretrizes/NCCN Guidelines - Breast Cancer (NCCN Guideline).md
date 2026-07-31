@@ -14,7 +14,7 @@ status: "draft"
 
 # NCCN Guidelines - Breast Cancer (NCCN Guideline)
 
-**Título original:** Breast Cancer - [[instituicoes/ESMO - NCCN - ASCO - AJCC|NCCN]] Clinical Practice Guidelines in Oncology (NCCN Guideline)
+**Título original:** Breast Cancer - [[NCCN]] Clinical Practice Guidelines in Oncology (NCCN Guideline)
 
 ## Informações da Fonte
 

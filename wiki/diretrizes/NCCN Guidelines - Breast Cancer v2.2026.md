@@ -14,11 +14,11 @@ status: "draft"
 
 # NCCN Guidelines - Breast Cancer v2.2026
 
-**Título original:** [[instituicoes/ESMO - NCCN - ASCO - AJCC|NCCN]] Clinical Practice Guidelines in Oncology - Breast Cancer Version 2.2026
+**Título original:** NCCN Clinical Practice Guidelines in Oncology - Breast Cancer Version 2.2026
 
 ## Informações da Fonte
 
-- **Instituição:** National Comprehensive Cancer Network (NCCN)
+- **Instituição:** [[NCCN|National Comprehensive Cancer Network]] (NCCN)
 - **Ano:** 2026
 - **DOI:** N/A
 - **Revista:** NCCN

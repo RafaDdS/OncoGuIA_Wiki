@@ -117,4 +117,4 @@ Deve ser utilizado **apenas em locais onde exames de [[biomarcadores/index|bioma
 
 
 ---
-*Página gerada a partir de 1 termo(s) original(is) do glossário: Sistema TNM (8ª edição [[instituicoes/ESMO - NCCN - ASCO - AJCC|AJCC]]).*
+*Página gerada a partir de 1 termo(s) original(is) do glossário: Sistema TNM (8ª edição [[AJCC]]).*

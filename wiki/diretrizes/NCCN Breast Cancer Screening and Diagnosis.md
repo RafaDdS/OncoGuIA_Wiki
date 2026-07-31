@@ -22,7 +22,7 @@ status: "draft"
 - **Autores:** Bevers TB; Anderson BO; Helvie M; Bonaccio E; et al.
 - **Ano:** 2020
 - **DOI:** N/A
-- **Revista:** [[instituicoes/ESMO - NCCN - ASCO - AJCC|NCCN]]
+- **Revista:** [[NCCN]]
 - **Detalhes da Publicação:** Version 3.2018
 - **Documento de Origem:** [[estadiamento/index|Estadiamento]]
 

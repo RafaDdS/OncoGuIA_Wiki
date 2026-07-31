@@ -16,7 +16,7 @@ status: "draft"
 
 # ESO-ESMO ABC 5
 
-**Título original:** 5th ESO-[[instituicoes/ESMO - NCCN - ASCO - AJCC|ESMO]] international consensus guidelines for advanced breast cancer (ABC 5)
+**Título original:** 5th ESO-[[ESMO]] international consensus guidelines for advanced breast cancer (ABC 5)
 
 ## Informações da Fonte
 
