@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>__TITLE__</title>
+<link href="https://unpkg.com/tabulator-tables@6.3.1/dist/css/tabulator_site.min.css" rel="stylesheet">
+<script src="https://unpkg.com/tabulator-tables@6.3.1/dist/js/tabulator.min.js"></script>
+<script src="https://unpkg.com/vis-network@9.1.2/standalone/umd/vis-network.min.js"></script>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background: #f5f5f5;
+    color: #222;
+    padding: 0;
+  }
+  .header {
+    background: #4051b5;
+    color: #fff;
+    padding: 16px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  .header h1 {
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0.2px;
+  }
+  .header .stats {
+    font-size: 13px;
+    opacity: 0.85;
+  }
+  .section-title {
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+    margin: 0 0 8px 0;
+  }
+  .table-block {
+    padding: 16px 24px;
+  }
+  .table-heading {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 8px;
+  }
+  .table-title {
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+  }
+  .table-count {
+    font-size: 12px;
+    color: #888;
+  }
+  .controls {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 12px 24px;
+    background: #fff;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  .controls label {
+    font-size: 13px;
+    font-weight: 500;
+    color: #555;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .controls input, .controls select {
+    padding: 6px 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 13px;
+    background: #fff;
+    min-width: 160px;
+  }
+  .controls input:focus, .controls select:focus {
+    outline: none;
+    border-color: #4051b5;
+    box-shadow: 0 0 0 2px rgba(64,81,181,0.15);
+  }
+  .table-container {
+    padding: 16px 24px;
+  }
+  .tabulator {
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  }
+  .tabulator .tabulator-header .tabulator-col .tabulator-col-content {
+    padding: 8px 12px;
+  }
+  .tabulator .tabulator-row .tabulator-cell {
+    padding: 6px 12px;
+    font-size: 13px;
+  }
+  .tabulator .tabulator-row .tabulator-cell a {
+    color: #4051b5;
+    text-decoration: none;
+  }
+  .tabulator .tabulator-row .tabulator-cell a:hover {
+    text-decoration: underline;
+  }
+  .graph-section {
+    padding: 16px 24px;
+  }
+  .graph-wrapper {
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    overflow-x: auto;
+  }
+  .legend {
+    display: flex;
+    gap: 14px;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+    font-size: 12px;
+    color: #555;
+  }
+  .legend span {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+  }
+  .legend .dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  @media (max-width: 768px) {
+    .header { padding: 12px 16px; }
+    .controls { padding: 10px 16px; }
+    .table-container { padding: 8px 12px; }
+    .graph-section { padding: 10px 12px; }
+    .controls input, .controls select { min-width: 120px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>__TITLE__</h1>
+  <span class="stats">__STATS__</span>
+</div>
+
+__CONTENT__
+
+</body>
+</html>

@@ -1,19 +1,18 @@
 ---
-title: "Fontes Revisadas"
 tags:
   - "meta"
-  - "fontes"
+  - "dados"
 ---
 
-# Fontes Revisadas
+# Recomendações
 
-Referências bibliográficas utilizadas na elaboração das diretrizes. A tabela abaixo permite buscar, filtrar por documento de origem e ordenar por qualquer coluna.
+Recomendações clínicas por fase, subtipo e cenário. Use a busca para localizar tratamentos específicos ou filtre por fase clínica, nível de evidência e força de recomendação.
 
-<iframe id="sources-table" src="fontes.html" style="width: 100%; border: none; overflow: hidden;" scrolling="no"></iframe>
+<iframe id="recs-table" src="../recomendations.html" style="width: 100%; border: none; overflow: hidden;" scrolling="no"></iframe>
 
 <script>
   window.addEventListener('DOMContentLoaded', () => {
-    const iframe = document.getElementById('sources-table');
+    const iframe = document.getElementById('recs-table');
     const updateHeight = () => {
       try {
         const doc = iframe.contentDocument || iframe.contentWindow.document;

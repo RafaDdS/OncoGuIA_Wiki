@@ -27,6 +27,8 @@ Usage:
     python wiki_graph.py --wiki-dir wiki --static overview.png
     python wiki_graph.py --wiki-dir wiki --undirected
     python wiki_graph.py --wiki-dir wiki --no-physics-ui
+    python wiki_graph.py --wiki-dir wiki --spring-length 400 --gravity -300
+    python wiki_graph.py --wiki-dir wiki --min-degree 2  # hide sparse nodes
 """
 
 import argparse
@@ -142,7 +144,9 @@ def assign_colors(category_of):
     return color_map
 
 
-def render_html(graph, category_of, color_map, output_path, directed, physics_ui):
+def render_html(graph, category_of, color_map, output_path, directed, physics_ui,
+                spring_length=300, spring_constant=0.02, gravity=-200,
+                avoid_overlap=0.7, damping=0.9, iterations=500):
     from pyvis.network import Network
 
     net = Network(
@@ -153,7 +157,7 @@ def render_html(graph, category_of, color_map, output_path, directed, physics_ui
         font_color="#222222",
         select_menu=True,
         filter_menu=True,
-        cdn_resources="in_line",  # fully self-contained single HTML file
+        cdn_resources="in_line",
     )
 
     in_degree = dict(graph.in_degree())
@@ -180,26 +184,38 @@ def render_html(graph, category_of, color_map, output_path, directed, physics_ui
     for source, target in graph.edges:
         net.add_edge(source, target, arrows="to" if directed else "")
 
-    net.set_options("""
-    {
-      "physics": {
+    net.set_options(f"""
+    {{
+      "physics": {{
         "solver": "forceAtlas2Based",
-        "forceAtlas2Based": {
-          "gravitationalConstant": -60,
-          "springLength": 120,
-          "springConstant": 0.05,
-          "avoidOverlap": 0.5
-        },
-        "stabilization": { "iterations": 250 }
-      },
-      "interaction": {
+        "forceAtlas2Based": {{
+          "gravitationalConstant": {gravity},
+          "springLength": {spring_length},
+          "springConstant": {spring_constant},
+          "damping": {damping},
+          "avoidOverlap": {avoid_overlap}
+        }},
+        "stabilization": {{
+          "iterations": {iterations},
+          "updateInterval": 10,
+          "minVelocityThreshold": 5
+        }}
+      }},
+      "interaction": {{
         "hover": true,
         "tooltipDelay": 100,
-        "navigationButtons": %s,
-        "keyboard": true
-      }
-    }
-    """ % ("true" if physics_ui else "false"))
+        "navigationButtons": {"true" if physics_ui else "false"},
+        "keyboard": true,
+        "selectConnectedEdges": true,
+        "highlightNearest": {{
+          "enabled": true,
+          "degree": 1,
+          "algorithm": "hierarchical",
+          "hover": false
+        }}
+      }}
+    }}
+    """)
 
     net.write_html(str(output_path), notebook=False, open_browser=False)
 
@@ -283,6 +299,28 @@ def main():
                         help="Draw edges without direction/arrows.")
     parser.add_argument("--no-physics-ui", action="store_true",
                         help="Hide the on-canvas navigation/physics buttons.")
+    parser.add_argument("--spring-length", type=float, default=300,
+                        help="Ideal edge length in pixels (default: 300). "
+                             "Increase to spread nodes apart.")
+    parser.add_argument("--spring-constant", type=float, default=0.002,
+                        help="Edge spring stiffness (default: 0.02). "
+                             "Higher = stiffer springs, less shaking. "
+                             "Lower = looser, more spread but can oscillate.")
+    parser.add_argument("--gravity", type=float, default=-200,
+                        help="ForceAtlas2 gravitational constant (default: -200). "
+                             "Negative = repulsion from center; "
+                             "more negative = more spread.")
+    parser.add_argument("--avoid-overlap", type=float, default=0.95,
+                        help="Node overlap avoidance 0-1 (default: 0.7). "
+                             "Lower = more stable, higher = less overlap but more shaking.")
+    parser.add_argument("--damping", type=float, default=0.6,
+                        help="Velocity damping 0-1 (default: 0.9). "
+                             "Higher = less oscillation, more stable.")
+    parser.add_argument("--iterations", type=int, default=500,
+                        help="Stabilization iterations (default: 500).")
+    parser.add_argument("--min-degree", type=int, default=0,
+                        help="Hide nodes with degree below this threshold "
+                             "(default: 0 = show all).")
     args = parser.parse_args()
 
     wiki_dir = args.wiki_dir
@@ -292,6 +330,17 @@ def main():
 
     print(f"Scanning wiki pages under {wiki_dir} ...")
     graph, category_of, dangling = build_graph(wiki_dir)
+
+    if args.min_degree > 0:
+        degrees = dict(graph.degree())
+        nodes_to_remove = [n for n, d in degrees.items() if d < args.min_degree]
+        if nodes_to_remove:
+            print(f"Removing {len(nodes_to_remove)} nodes with degree < {args.min_degree} "
+                  f"(leaving {graph.number_of_nodes() - len(nodes_to_remove)} nodes)")
+            for n in nodes_to_remove:
+                category_of.pop(n, None)
+            graph.remove_nodes_from(nodes_to_remove)
+
     color_map = assign_colors(category_of)
 
     print_stats(graph, dangling)
@@ -301,6 +350,12 @@ def main():
         graph, category_of, color_map, args.output,
         directed=not args.undirected,
         physics_ui=not args.no_physics_ui,
+        spring_length=args.spring_length,
+        spring_constant=args.spring_constant,
+        gravity=args.gravity,
+        avoid_overlap=args.avoid_overlap,
+        damping=args.damping,
+        iterations=args.iterations,
     )
     print("Done. Open the HTML file in a browser to explore it.")
 

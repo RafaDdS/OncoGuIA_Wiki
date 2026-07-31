@@ -1,0 +1,75 @@
+<div class="table-block">
+  <div class="table-heading">
+    <h2 class="table-title">__TABLE_TITLE__</h2>
+    <span class="table-count" id="__TABLE_ID__-count"></span>
+  </div>
+</div>
+
+<div class="controls" id="__TABLE_ID__-controls">
+  <label>
+    Buscar:
+    <input type="text" id="__TABLE_ID__-search" placeholder="Pesquisar em todas as colunas..." autocomplete="off">
+  </label>
+  __FILTER_HTML__
+</div>
+
+<div class="table-container">
+  <div id="__TABLE_ID__"></div>
+</div>
+
+<script>
+(function() {
+  const DATA = __JSON_DATA__;
+  const COLUMNS = __JSON_COLUMNS__;
+  const FILTER_COLS = __JSON_FILTER_COLS__;
+  const tableId = "__TABLE_ID__";
+
+  const table = new Tabulator("#" + tableId, {
+    data: DATA,
+    columns: COLUMNS,
+    layout: "fitDataStretch",
+    pagination: true,
+    paginationSize: 25,
+    paginationSizeSelector: [10, 25, 50, 100],
+    paginationCounter: "rows",
+    movableColumns: true,
+    resizableRows: false,
+    selectable: false,
+    tooltips: true,
+    headerFilterPlaceholder: "filtrar...",
+    initialSort: __INITIAL_SORT__,
+    language: "pt-BR",
+  });
+
+  document.getElementById(tableId + "-search").addEventListener("input", function(e) {
+    table.setFilter(matchAnyField, e.target.value);
+  });
+
+  function matchAnyField(data, filterParams, value) {
+    if (!value) return true;
+    const q = value.toLowerCase();
+    for (let key in data) {
+      if (data[key] != null && String(data[key]).toLowerCase().includes(q)) {
+        return true;
+      }
+    }
+    return false;
+  }
+
+  FILTER_COLS.forEach(function(col) {
+    const sel = document.getElementById(tableId + "-filter-" + col);
+    if (!sel) return;
+    sel.addEventListener("change", function() {
+      if (this.value) {
+        table.addFilter(col, "=", this.value);
+      } else {
+        table.removeFilter(col, "=");
+      }
+    });
+  });
+
+  table.on("dataFiltered", function(filters, rows) {
+    document.getElementById(tableId + "-count").innerHTML = rows.length + " registros";
+  });
+})();
+</script>
