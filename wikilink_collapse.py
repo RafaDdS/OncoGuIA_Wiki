@@ -123,6 +123,11 @@ def main():
                         help="Root folder containing the .md wiki pages.")
     parser.add_argument("--dry-run", action="store_true",
                         help="Show what would change without writing files.")
+    parser.add_argument("--include-excluded", action="store_true",
+                        help="Also collapse [[wikilinks]] in pages tagged "
+                             "exclude_from_data: true, removing only the links "
+                             "already present (collapse never re-links, so this "
+                             "only strips what the generator previously wrote).")
     args = parser.parse_args()
 
     wiki_dir = args.wiki_dir
@@ -136,6 +141,12 @@ def main():
     total_changed_files = 0
 
     for path in sorted(wiki_dir.rglob("*.md")):
+        text = path.read_text(encoding="utf-8")
+        fm_match = FRONTMATTER_RE.match(text)
+        if (fm_match and re.search(r"^exclude_from_data\s*:\s*true",
+                                   fm_match.group(1), re.MULTILINE)
+                and not args.include_excluded):
+            continue  # meta/data pages: leave links untouched (unless forced)
         new_text, changed, count = process_file(path)
         if changed:
             total_changed_files += 1

@@ -1,4 +1,5 @@
 ---
+exclude_from_data: true
 tags:
   - "meta"
   - "fontes"
@@ -6,7 +7,7 @@ tags:
 
 # Fontes
 
-Referências bibliográficas utilizadas na elaboração das [[diretrizes/index|diretrizes]]. A tabela abaixo permite buscar, filtrar por documento de origem e ordenar por qualquer coluna.
+Referências bibliográficas utilizadas na elaboração das diretrizes. A tabela abaixo permite buscar, filtrar por documento de origem e ordenar por qualquer coluna.
 
 <iframe id="sources-table" src="../fontes.html" style="width: 100%; border: none; overflow: hidden;" scrolling="no"></iframe>
 

@@ -154,7 +154,7 @@ Páginas da categoria **Ensaios Clínicos**.
 
 ### Estudos da sua lista que NÃO foram mapeados nas referências dos PDFs
 
-Esses ensaios **não aparecem** nas referências dos documentos enviados. Se você tem páginas wiki para eles, talvez precise verificar se há outras [[fontes]] para embasá-los, ou se podem ser removidos/atualizados:
+Esses ensaios **não aparecem** nas referências dos documentos enviados. Se você tem páginas wiki para eles, talvez precise verificar se há outras fontes para embasá-los, ou se podem ser removidos/atualizados:
 
 - `ASCENT-04 (KEYNOTE-D19)` – (Estudo de Sacituzumabe + Pembrolizumabe para TNBC metastático)
 - `BRIGHTNESS (Estudo Fase III)` – (Não há menção direta nos PDFs)

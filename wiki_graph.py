@@ -107,6 +107,8 @@ def build_graph(wiki_dir):
     for path in paths:
         text = path.read_text(encoding="utf-8")
         meta, _ = split_frontmatter(text)
+        if meta.get("exclude_from_data"):
+            continue  # meta/data pages: not part of the graph
         title = str(meta.get("title") or path.stem).strip().strip('"').strip("'")
         category = str(meta.get("category") or "Sem categoria").strip().strip('"').strip("'")
         graph.add_node(title, category=category, path=str(path))
@@ -121,6 +123,8 @@ def build_graph(wiki_dir):
     for path in paths:
         text = path.read_text(encoding="utf-8")
         meta, body = split_frontmatter(text)
+        if meta.get("exclude_from_data"):
+            continue  # meta/data pages: no edges from them
         title = titles[path]
 
         for m in WIKILINK_RE.finditer(body):

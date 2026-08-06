@@ -13,7 +13,7 @@ status: "draft"
 
 # Sociedade Brasileira de Oncologia Clínica (SBOC)
 
-A **Sociedade Brasileira de Oncologia Clínica (SBOC)** é a entidade máxima da oncologia clínica no Brasil, responsável pela elaboração das **[[diretrizes/index|diretrizes]] brasileiras para o [[diagnostico/index|diagnóstico]] e [[tratamento/index|tratamento]] do [[Câncer de Mama (Visão Geral)|câncer de mama]]**, publicadas em 2026. As diretrizes SBOC são a principal referência adotada neste wiki, devendo prevalecer sobre [[fontes]] internacionais em caso de discordância.
+A **Sociedade Brasileira de Oncologia Clínica (SBOC)** é a entidade máxima da oncologia clínica no Brasil, responsável pela elaboração das **[[diretrizes/index|diretrizes]] brasileiras para o [[diagnostico/index|diagnóstico]] e [[tratamento/index|tratamento]] do [[Câncer de Mama (Visão Geral)|câncer de mama]]**, publicadas em 2026. As diretrizes SBOC são a principal referência adotada neste wiki, devendo prevalecer sobre fontes internacionais em caso de discordância.
 
 ## Diretrizes SBOC 2026 para Câncer de Mama
 

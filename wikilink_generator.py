@@ -156,6 +156,9 @@ def build_index(wiki_dir):
         text = path.read_text(encoding="utf-8")
         meta, _, _ = split_frontmatter(text)
 
+        if meta.get("exclude_from_data"):
+            continue  # meta/data pages: not part of the linkable term index
+
         title = meta.get("title") or path.stem
         title = str(title).strip().strip('"').strip("'")
         file_targets[path] = title
@@ -359,6 +362,11 @@ def main():
     total_changed_files = 0
 
     for path in sorted(wiki_dir.rglob("*.md")):
+        text = path.read_text(encoding="utf-8")
+        meta, _, _ = split_frontmatter(text)
+        if meta.get("exclude_from_data"):
+            continue  # never insert links into meta/data pages
+
         new_text, changed, n_links = process_file(
             path, entries, file_targets, href_to_target, args
         )

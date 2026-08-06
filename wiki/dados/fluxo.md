@@ -1,4 +1,5 @@
 ---
+exclude_from_data: true
 tags:
   - "meta"
   - "dados"
