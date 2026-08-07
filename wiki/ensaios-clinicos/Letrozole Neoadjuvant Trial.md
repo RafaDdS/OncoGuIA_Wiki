@@ -15,7 +15,7 @@ Eiermann W, Paepke S, Appfelstaedt J, Llombart-Cussac A, Eremin J, Vinholes J, e
 2001
 
 ## Objetivos:
-Avaliar a eficácia de letrozol versus [[Tamoxifeno|tamoxifeno]] como [[Tratamento Neoadjuvante (Conceito)|tratamento neoadjuvante]] em mulheres na pós-menopausa com [[Câncer de Mama (Visão Geral)|câncer de mama]] [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]-positivo.
+Avaliar a eficácia de letrozol versus [[Tamoxifeno|tamoxifeno]] como [[Tratamento Neoadjuvante (Conceito)|tratamento neoadjuvante]] em mulheres na pós-menopausa com [[Câncer de Mama (Visão Geral)|câncer de mama]] [[Receptores Hormonais (RE-RP-RH)|RH]]-positivo.
 
 ## Resultados e Impacto Clínico:
 Demonstrou superioridade do letrozol em termos de taxa de resposta e downstaging tumoral, reforçando o papel dos IAs na neoadjuvância.

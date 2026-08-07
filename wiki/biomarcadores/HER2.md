@@ -28,7 +28,7 @@ O **HER2** (Receptor 2 do Fator de Crescimento Epidérmico Humano) é um biomarc
 
 ## Diagnóstico e Classificação
 
-A avaliação do status do HER2 é feita inicialmente por **[[Imuno-histoquímica (IHQ)]]** e, em casos indeterminados (IHQ 2+), utiliza-se a hibridização in situ, como **[[patologia/tecnicas-laboratoriais/FISH - CISH - SISH|FISH]], CISH ou SISH**, para confirmar a amplificação gênica.
+A avaliação do status do HER2 é feita inicialmente por **[[Imuno-histoquímica (IHQ)]]** e, em casos indeterminados (IHQ 2+), utiliza-se a hibridização in situ, como **[[FISH - CISH - SISH|FISH]], CISH ou SISH**, para confirmar a amplificação gênica.
 
 A classificação da expressão de HER2 foi recentemente expandida para guiar o uso de novas terapias:
 
@@ -46,7 +46,7 @@ A resposta aos tratamentos voltados para o HER2 varia de acordo com o [[estadiam
 
 No tratamento antes da cirurgia (neoadjuvante) para tumores HER2 positivos, o padrão de excelência atual é o duplo bloqueio de HER2.
 
-* **Esquema Padrão:** Associação de **[[Trastuzumabe]]** e **[[Pertuzumabe]]** combinados a um taxano e **[[Carboplatina]]** (esquema **[[tratamento/quimioterapia/TCH - TCHP|TCHP]]**).
+* **Esquema Padrão:** Associação de **[[Trastuzumabe]]** e **[[Pertuzumabe]]** combinados a um taxano e **[[Carboplatina]]** (esquema **[[TCH - TCHP|TCHP]]**).
 * **Observação:** Preferencialmente, realiza-se este esquema sem o uso de [[Antraciclinas|antraciclinas]], com base nos resultados do estudo [[TRAIN-2]].
 
 ### Cenário Adjuvante

@@ -10,7 +10,7 @@ status: "draft"
 
 # Palbociclibe
 
-O **palbociclibe** (Ibrance) foi o primeiro inibidor de CDK4/6 aprovado no [[tratamento/index|tratamento]] do [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]−. É um inibidor oral administrado em esquema intermitente (3 semanas sim / 1 semana pausa) para permitir a recuperação medular.
+O **palbociclibe** (Ibrance) foi o primeiro inibidor de CDK4/6 aprovado no [[tratamento/index|tratamento]] do [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]−. É um inibidor oral administrado em esquema intermitente (3 semanas sim / 1 semana pausa) para permitir a recuperação medular.
 
 ## Mecanismo
 

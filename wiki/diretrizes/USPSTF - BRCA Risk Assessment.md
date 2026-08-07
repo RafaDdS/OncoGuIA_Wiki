@@ -29,4 +29,4 @@ status: "draft"
 
 ## Resumo
 
-Recomendação da USPSTF sobre avaliação de risco, [[Aconselhamento Genético|aconselhamento genético]] e testagem para mutações [[biomarcadores/BRCA1 - BRCA2|BRCA1/2]]. Recomenda que mulheres com histórico familiar ou pessoal sugestivo de síndrome hereditária de [[Câncer de Mama (Visão Geral)|câncer de mama]] e ovário sejam identificadas por meio de ferramentas de triagem de risco e encaminhadas para aconselhamento genético e testagem quando indicado. Atualiza critérios de elegibilidade e discute benefícios e danos da testagem.
+Recomendação da USPSTF sobre avaliação de risco, [[Aconselhamento Genético|aconselhamento genético]] e testagem para mutações [[BRCA1 - BRCA2|BRCA1/2]]. Recomenda que mulheres com histórico familiar ou pessoal sugestivo de síndrome hereditária de [[Câncer de Mama (Visão Geral)|câncer de mama]] e ovário sejam identificadas por meio de ferramentas de triagem de risco e encaminhadas para aconselhamento genético e testagem quando indicado. Atualiza critérios de elegibilidade e discute benefícios e danos da testagem.

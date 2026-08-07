@@ -27,7 +27,7 @@ As [[diretrizes/index|diretrizes]] da [[Sociedade Brasileira de Oncologia Clíni
 - **[[Mamotomia]]**: Incluída como técnica alternativa para lesões não palpáveis (antes não mencionada).
 - **Biomarcadores**: Avaliação de **TILs** ([[Linfócitos Infiltrantes Tumorais (TILs)|linfócitos infiltrantes tumorais]]) passa a ser recomendada para subtipos TNBC e [[HER2|HER2+]] (NE ALTO). **[[PD-L1]] não é indicado** na doença inicial (NE ALTO).
 - **RM de mamas**: Recomendação formal em casos específicos (jovens, mamas densas, lobular, multicêntrico, neoadjuvância, discrepância clínico-radiológica).
-- **[[diagnostico/imagem/PET-CT|PET/CT-FES]]**: Mencionado para casos selecionados de tumores [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RE]]+ de baixo grau/histologia lobular (NE FRACA/FR FRACA).
+- **[[PET-CT|PET/CT-FES]]**: Mencionado para casos selecionados de tumores [[Receptores Hormonais (RE-RP-RH)|RE]]+ de baixo grau/histologia lobular (NE FRACA/FR FRACA).
 - **[[Intervalos Assistenciais|Intervalos assistenciais]]**: Nova seção recomendando monitoramento de atrasos evitáveis como indicador de qualidade.
 
 ## 3. Tratamento Adjuvante
@@ -36,7 +36,7 @@ As [[diretrizes/index|diretrizes]] da [[Sociedade Brasileira de Oncologia Clíni
 - **Novo**: Seção dedicada, com [[Tamoxifeno|tamoxifeno]] como [[tratamento/terapia-endocrina/index|terapia endócrina]] preferida (evidência escassa para IA isolado) e indicações de RT após mastectomia nos mesmos critérios das mulheres.
 
 ### 3.2. RH+/HER2- (Luminal)
-- **Painéis genômicos**: Esclarecimento de que o benefício da QT em pré-menopausa com RS intermediário ([[ferramentas-preditivas/Recurrence Score (RS) - Oncotype DX|Oncotype DX]]) pode ser parcialmente atribuído à **[[Supressão Ovariana|supressão ovariana]] induzida pela [[tratamento/quimioterapia/index|quimioterapia]]**.
+- **Painéis genômicos**: Esclarecimento de que o benefício da QT em pré-menopausa com RS intermediário ([[Recurrence Score (RS) - Oncotype DX|Oncotype DX]]) pode ser parcialmente atribuído à **[[Supressão Ovariana|supressão ovariana]] induzida pela [[tratamento/quimioterapia/index|quimioterapia]]**.
 - **Inibidores de CDK4/6**:
   - **[[Abemaciclibe]]**: Dados de SG atualizados (ganho de 1,8% em 5 anos) – [[monarchE]].
   - **[[Ribociclibe]]**: Nova opção para alto risco (N+ ou N0 com T≥2cm + grau 3 ou [[Ki67]]≥20%), com ganho de 4,5% em SLDi em 5 anos – [[NATALEE]].
@@ -52,7 +52,7 @@ As [[diretrizes/index|diretrizes]] da [[Sociedade Brasileira de Oncologia Clíni
 ## 4. Tratamento Neoadjuvante
 
 ### 4.1. Triplo-negativo e ER-low
-- **[[subtipos-moleculares/ER-low - RE Baixo|ER-low]] (RE <10%)**: Passa a ser tratado como triplo-negativo (antes era considerado luminal). Inclui também **RP baixo**.
+- **[[ER-low - RE Baixo|ER-low]] (RE <10%)**: Passa a ser tratado como triplo-negativo (antes era considerado luminal). Inclui também **RP baixo**.
 - **Esquema com [[Pembrolizumabe|pembrolizumabe]]**: Permite-se o uso de **[[ACdd (AC Dose-Densa)|ACdd (dose-densa)]]** desvinculado da infusão de pembrolizumabe (que permanece a cada 3 semanas), com base em dados de segurança brasileiros (neo-real).
 - **Docetaxel**: Dose padronizada em 75 mg/m² (antes 75–100 mg/m²).
 

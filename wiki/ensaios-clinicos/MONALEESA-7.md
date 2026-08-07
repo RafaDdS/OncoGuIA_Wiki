@@ -18,10 +18,10 @@ title: MONALEESA-7
  2018 (publicação original); 2022 (atualização de SG)
 
 ## Objetivos:
- Avaliar a eficácia do inibidor de CDK4/6 [[Ribociclibe|ribociclibe]] em combinação com [[tratamento/terapia-endocrina/index|terapia endócrina]] ([[Tamoxifeno|tamoxifeno]] ou IA + goserelina) em mulheres pré ou perimenopausadas com [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[subtipos-moleculares/Subtipo Luminal (RH+-HER2-)|RH+/HER2-]].
+ Avaliar a eficácia do inibidor de CDK4/6 [[Ribociclibe|ribociclibe]] em combinação com [[tratamento/terapia-endocrina/index|terapia endócrina]] ([[Tamoxifeno|tamoxifeno]] ou IA + goserelina) em mulheres pré ou perimenopausadas com [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]].
 
 ## Resultados e Impacto Clínico:
- Primeiro e único estudo de fase III especificamente desenhado para mulheres jovens com câncer de mama metastático [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+, demonstrando benefício significativo em SLP e SG, com SG mediana superior a 5 anos, estabelecendo ribociclibe + terapia endócrina como padrão também para este subgrupo.
+ Primeiro e único estudo de fase III especificamente desenhado para mulheres jovens com câncer de mama metastático [[Receptores Hormonais (RE-RP-RH)|RH]]+, demonstrando benefício significativo em SLP e SG, com SG mediana superior a 5 anos, estabelecendo ribociclibe + terapia endócrina como padrão também para este subgrupo.
 
 
 ## Referências

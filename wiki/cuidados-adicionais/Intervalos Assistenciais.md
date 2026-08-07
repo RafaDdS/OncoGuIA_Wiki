@@ -16,7 +16,7 @@ A agilidade na jornada da paciente oncológica é um indicador de qualidade fund
 
 ## Etapas Monitoradas
 
-Os principais intervalos compreendem o tempo entre a suspeita clínica ou achado radiológico e a realização da biópsia; entre a biópsia e a emissão do laudo anatomopatológico; entre a liberação do laudo e a disponibilidade dos [[biomarcadores/index|biomarcadores]] ([[Imuno-histoquímica (IHQ)|IHQ]] para [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RE]], RP, [[HER2]], [[Ki67]]); entre o [[estadiamento/index|estadiamento]] clínico e patológico completo e a primeira avaliação especializada; e entre a avaliação especializada e o início efetivo do primeiro tratamento (cirurgia, [[tratamento/quimioterapia/index|quimioterapia]] neoadjuvante ou hormonioterapia).
+Os principais intervalos compreendem o tempo entre a suspeita clínica ou achado radiológico e a realização da biópsia; entre a biópsia e a emissão do laudo anatomopatológico; entre a liberação do laudo e a disponibilidade dos [[biomarcadores/index|biomarcadores]] ([[Imuno-histoquímica (IHQ)|IHQ]] para [[Receptores Hormonais (RE-RP-RH)|RE]], RP, [[HER2]], [[Ki67]]); entre o [[estadiamento/index|estadiamento]] clínico e patológico completo e a primeira avaliação especializada; e entre a avaliação especializada e o início efetivo do primeiro tratamento (cirurgia, [[tratamento/quimioterapia/index|quimioterapia]] neoadjuvante ou hormonioterapia).
 
 ## Marco Legal
 

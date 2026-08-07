@@ -4,7 +4,7 @@ regenerate.py
 
 One-command regeneration of every generated artifact in the repo:
 
-  1. Data table pages (wiki/dados/*.html) from the CSVs in data/
+  1. Data table pages (wiki/meta/dados/*.html) from the CSVs in data/
      via wiki_sources.py  (fontes, fluxo, recomendations)
   2. Wikilinks: collapse then regenerate every [[link]] across the wiki
      (wikilink_collapse.py + wikilink_generator.py)
@@ -50,14 +50,14 @@ def main():
     step("Data table pages (wiki_sources.py)")
     table_cmds = [
         ("python3 wiki_sources.py --csv data/fontes.csv "
-         "--output wiki/dados/fontes.html --title \"Fontes Revisadas\""),
+         "--output wiki/meta/dados/fontes.html --title \"Fontes Revisadas\""),
         ("python3 wiki_sources.py --states data/estados.csv "
-         "--transitions data/transicoes.csv --output wiki/dados/fluxo.html "
+         "--transitions data/transicoes.csv --output wiki/meta/dados/fluxo.html "
          "--graph-title \"Fluxo Clínico\""),
         ("python3 wiki_sources.py --csv data/recomendations.csv "
-         "--output wiki/dados/recomendations.html --title \"Recomendações\""),
+         "--output wiki/meta/dados/recomendations.html --title \"Recomendações\""),
         ("python3 wiki_sources.py --csv data/negative_classes.csv "
-         "--output wiki/dados/negative_classes.html --title \"Classes Excluídas\""),
+         "--output wiki/meta/dados/negative_classes.html --title \"Classes Excluídas\""),
     ]
     for cmd in table_cmds:
         r = run(cmd)

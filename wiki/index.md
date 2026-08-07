@@ -8,8 +8,6 @@ tags:
 
 Índice de todas as páginas propostas, organizadas por categoria. Gerado a partir dos glossários de 4 documentos: [[estadiamento/index|Estadiamento]], Adjuvante, Neoadjuvante e Metastático.
 
-{{ gerar_indice_principal() }}
-
 <iframe id="wiki-graph" src="graph.html" style="width: 100%; border: none; overflow: hidden;" scrolling="no"></iframe>
 
 <script>

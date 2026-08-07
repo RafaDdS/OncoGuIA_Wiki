@@ -16,7 +16,7 @@ Tung NM, Robson ME, Ventz S, Santa-Maria CA, Nanda R, Marcom PK, et al.
 2020
 
 ## Objetivos:
-Avaliar a eficácia de [[Olaparibe|olaparibe]] em pacientes com mutações germinativas em genes de reparo de DNA não-BRCA (como PALB2) e em pacientes com mutações somáticas em [[biomarcadores/BRCA1 - BRCA2|BRCA1/2]].
+Avaliar a eficácia de [[Olaparibe|olaparibe]] em pacientes com mutações germinativas em genes de reparo de DNA não-BRCA (como PALB2) e em pacientes com mutações somáticas em [[BRCA1 - BRCA2|BRCA1/2]].
 
 ## Resultados e Impacto Clínico:
 Demonstrou atividade significativa de olaparibe em pacientes com mutações germinativas em PALB2 e mutações somáticas em BRCA, ampliando o escopo de uso dos inibidores de PARP.

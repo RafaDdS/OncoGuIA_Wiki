@@ -25,7 +25,7 @@ A inibição reduz a estradiolemia em >95% em pós-menopausa. Em pré-menopausa,
 
 - **Adjuvante (pós-menopausa)**: 5 anos como terapia inicial ou após 2–3 anos de [[Tamoxifeno|tamoxifeno]] (sequencial); 5 anos adicionais após 5 anos de tamoxifeno (terapia estendida, com base no [[MA.17]])
 - **Adjuvante (pré-menopausa de alto risco)**: associados a supressão ovariana por 5 anos (estudos [[SOFT e TEXT|SOFT]]/TEXT)
-- **Neoadjuvante**: tumores [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+ em pós-menopausa, especialmente luminais A-like, por ≥6 meses
+- **Neoadjuvante**: tumores [[Receptores Hormonais (RE-RP-RH)|RH]]+ em pós-menopausa, especialmente luminais A-like, por ≥6 meses
 - **Metastático**: primeira linha em combinação com iCDK4/6 (monoterapia em casos selecionados)
 
 ## Evidências

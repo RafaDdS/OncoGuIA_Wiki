@@ -17,7 +17,7 @@ status: "draft"
 
 # TNBC (Triplo-Negativo)
 
-Tumores que não expressam receptores de estrógeno ([[biomarcadores/Receptores Hormonais (RE-RP-RH)|RE]]) e progesterona (RP) e não superexpressam [[HER2]]. Padrão de [[Tratamento Neoadjuvante (Conceito)|tratamento neoadjuvante]] para estádios II/III: QT + [[tratamento/imunoterapia/index|imunoterapia]] ([[Pembrolizumabe|pembrolizumabe]]) conforme [[KEYNOTE-522]].
+Tumores que não expressam receptores de estrógeno ([[Receptores Hormonais (RE-RP-RH)|RE]]) e progesterona (RP) e não superexpressam [[HER2]]. Padrão de [[Tratamento Neoadjuvante (Conceito)|tratamento neoadjuvante]] para estádios II/III: QT + [[tratamento/imunoterapia/index|imunoterapia]] ([[Pembrolizumabe|pembrolizumabe]]) conforme [[KEYNOTE-522]].
 
 ## Contexto por documento
 

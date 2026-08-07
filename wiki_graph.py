@@ -12,10 +12,11 @@ It reuses the same frontmatter/title conventions as wikilink_generator.py:
   - Edges are parsed from `[[Target]]` and `[[Target|Display text]]` links
     found anywhere in the page body (frontmatter itself is ignored).
   - A link's bracket text is resolved the same way
-    wikilink_generator.py writes it: either a plain title, or -- for
-    index.md pages and titles containing "/" -- an explicit path like
-    "diagnostico/index". Both forms are recognized so those links don't
-    show up as false-positive "dangling" links.
+    wikilink_generator.py writes it: either a plain filename, or -- for
+    index.md pages -- an explicit path like "diagnostico/index". Both
+    forms are recognized so those links don't show up as false-positive
+    "dangling" links. Resolution logic is imported directly from
+    wikilink_generator.compute_link_href to stay in sync automatically.
   - A link that still doesn't resolve to any known page is reported as
     "dangling" (printed to the console) but not silently dropped from the
     count -- it's just excluded from the rendered graph since there's no
@@ -51,6 +52,8 @@ except ImportError:
           file=sys.stderr)
     sys.exit(1)
 
+from wikilink_generator import compute_link_href
+
 
 FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
 WIKILINK_RE = re.compile(r"\[\[([^\]|]+)(?:\|[^\]]*)?\]\]")
@@ -73,24 +76,6 @@ def split_frontmatter(text):
         print(f"  [warn] could not parse frontmatter: {e}", file=sys.stderr)
         meta = {}
     return meta, text[m.end():]
-
-
-def compute_link_href(path, wiki_dir, title):
-    """
-    Mirrors wikilink_generator.py's logic: mkdocs-roamlinks-plugin resolves
-    a bare [[Title]] by matching the actual filename on disk, which breaks
-    for index.md files (every folder has one) and for titles containing
-    "/" (misparsed as a path by the plugin). The generator falls back to
-    an explicit relative path in exactly those two cases, so we need to
-    recognize that same path form here -- otherwise every link to an
-    index page looks "dangling" even though it resolves fine in the
-    live site.
-    """
-    is_index_page = path.stem.lower() == "index"
-    has_unsafe_slash = "/" in title or "\\" in title
-    if is_index_page or has_unsafe_slash:
-        return path.relative_to(wiki_dir).with_suffix("").as_posix()
-    return title
 
 
 def build_graph(wiki_dir):

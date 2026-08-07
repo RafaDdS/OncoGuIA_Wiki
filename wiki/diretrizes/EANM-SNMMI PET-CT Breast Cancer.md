@@ -15,7 +15,7 @@ status: "draft"
 
 # EANM-SNMMI PET-CT Breast Cancer
 
-**Título original:** The EANM-SNMMI guideline on the role of [18F]FDG-[[diagnostico/imagem/PET-CT|PET/CT]] in breast cancer
+**Título original:** The EANM-SNMMI guideline on the role of [18F]FDG-[[PET-CT|PET/CT]] in breast cancer
 
 ## Informações da Fonte
 

@@ -32,12 +32,13 @@ Rules it follows:
     short acronyms) need exact-case matching instead.
 
   - Written for wikis using mkdocs-roamlinks-plugin, which resolves links
-    by matching the *filename on disk*, not frontmatter titles. Since
-    every category's index.md would otherwise collide (there's one per
-    folder) and titles containing "/" get misparsed as paths by the
-    plugin, the script automatically uses an explicit path like
-    [[biomarcadores/index|Biomarcadores]] instead of a bare [[Biomarcadores]]
-    in exactly those two cases, and a plain [[Title]] everywhere else.
+    by matching the *filename on disk*, not frontmatter titles. So a link
+    always uses the target page's basename ([[NSABP B-14]], [[Lei nº
+    11.664-2008]]), never its title -- otherwise a page whose title
+    differs from its file name (or contains "/") would emit [[...]] text
+    matching no file. The one exception is an index page, where the
+    basename "index" is ambiguous (one per folder), so the script uses an
+    explicit path like [[biomarcadores/index|Biomarcadores]] instead.
 
 Usage:
     python wikilink_generator.py --wiki-dir wiki --dry-run
@@ -118,28 +119,31 @@ def compute_link_href(path, wiki_dir, title):
     Decide what string should go inside [[ ]] for this page so that
     mkdocs-roamlinks-plugin actually resolves it.
 
-    The plugin matches a bare [[Title]] link against files on disk by
-    lowercasing and stripping hyphens/underscores/spaces from *filenames*
-    -- it never looks at frontmatter. That's unsafe in two cases:
+    The plugin matches a link against the *filename on disk*, never the
+    frontmatter title: it lowercases the [[...]] text and strips
+    hyphens/underscores/spaces, then walks every file under docs_dir
+    looking for one with the same normalized filename. Two consequences:
 
-      1. index.md files: every category folder has one, so a bare
-         [[<Category>]] link never matches an "index.md" file, and a bare
-         [[index]] link would be ambiguous (many files share that name).
-      2. Titles containing "/" (e.g. "PET/CT"): the plugin's link syntax
-         treats "/" as a path separator, so a bare [[PET/CT]] gets
-         silently misinterpreted as a relative path rather than a
-         filename search -- producing a broken link with no warning.
+      1. The link text must derive from the **filename**, not the title.
+         A page whose title differs from its on-disk name (e.g. file
+         "NSABP B-14.md" with title "NSABP B-14 e B-20", or file
+         "Lei nº 11.664-2008.md" with title "Lei nº 11.664/2008") would
+         otherwise emit [[Title]] text that matches no file, producing a
+         broken link with a warning (and a `/` in a title is additionally
+         misparsed by the plugin as a relative path). So we always fall
+         back to the page's basename (path.stem), which is guaranteed to
+         resolve because a file with that exact name exists.
 
-    In both cases we fall back to an explicit path relative to the wiki
-    root (e.g. "biomarcadores/index" or "estadiamento/PET-CT"), which the
-    plugin resolves deterministically, and always pair it with an alias
-    so the visible link text still reads naturally.
+      2. The only exception is an index.md page: every category folder
+         has one, so a bare [[...]] can never uniquely select a folder's
+         index by filename. For those we use the path relative to the
+         wiki root (e.g. "biomarcadores/index"), which the plugin
+         resolves deterministically via its "/" branch, and pair it with
+         an alias so the visible link text still reads naturally.
     """
-    is_index_page = path.stem.lower() == "index"
-    has_unsafe_slash = "/" in title or "\\" in title
-    if is_index_page or has_unsafe_slash:
+    if path.stem.lower() == "index":
         return path.relative_to(wiki_dir).with_suffix("").as_posix()
-    return title
+    return path.stem
 
 
 def build_index(wiki_dir):

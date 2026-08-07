@@ -16,7 +16,7 @@ A **doença de Paget da mama** é uma apresentação rara (1–4% dos cânceres 
 
 - **Citologia:** células de Paget — células grandes, com citoplasma abundante e claro (em vidro fosco), núcleo atípico com nucléolo proeminente. Dispostas isoladamente ou em ninhos na **epiderme do mamilo**
 - **Origem:** teoria epidermotrópica — células tumorais migram dos ductos lactíferos para a epiderme através da membrana basal, guiadas por moléculas de adesão como HER2 e mucina (MUC1)
-- **[[Imuno-histoquímica (IHQ)|Imuno-histoquímica]]:** células de Paget são tipicamente **[[HER2|HER2+]]** (~80–90%), **CK7+** e **[[CEA e CA 15-3|CEA]]+**, com expressão variável de [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RE/RP]] (frequentemente RH−)
+- **[[Imuno-histoquímica (IHQ)|Imuno-histoquímica]]:** células de Paget são tipicamente **[[HER2|HER2+]]** (~80–90%), **CK7+** e **[[CEA e CA 15-3|CEA]]+**, com expressão variável de [[Receptores Hormonais (RE-RP-RH)|RE/RP]] (frequentemente RH−)
 
 ## Quadro Clínico
 

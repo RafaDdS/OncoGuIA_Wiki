@@ -19,7 +19,7 @@ O **câncer de mama** é a neoplasia maligna mais incidente em mulheres no mundo
 
 - **Incidência global:** ~2,3 milhões de casos novos/ano (GLOBOCAN 2020)
 - **Brasil:** estimativa de ~74 mil casos/ano (INCA 2023), com taxa de mortalidade ajustada de ~11,7/100.000
-- **Fatores de risco:** idade > 50 anos, história familiar (5–10% por mutações germinativas em [[biomarcadores/BRCA1 - BRCA2|BRCA1/2]], PALB2, TP53), exposição estrogênica prolongada (menarca precoce, menopausa tardia, nuliparidade), densidade mamária elevada, radiação torácica prévia
+- **Fatores de risco:** idade > 50 anos, história familiar (5–10% por mutações germinativas em [[BRCA1 - BRCA2|BRCA1/2]], PALB2, TP53), exposição estrogênica prolongada (menarca precoce, menopausa tardia, nuliparidade), densidade mamária elevada, radiação torácica prévia
 
 ## Heterogeneidade e Subtipos
 
@@ -33,7 +33,7 @@ A classificação por **[[Imuno-histoquímica (IHQ)|imuno-histoquímica (IHQ)]]*
 
 ## Diagnóstico e Estadiamento
 
-O diagnóstico baseia-se na tríade: **exame clínico + [[diagnostico/imagem/index|imagem]]** ([[Mamografia|mamografia]], USG, RM) + **biópsia percutânea** ([[Core Biopsy|core biopsy]] ou biópsia cirúrgica). O laudo anatomopatológico deve incluir: tipo histológico, grau de Nottingham (Elston-Ellis), status [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RE/RP]] (Allred ou H-score), HER2 (IHQ e/ou [[patologia/tecnicas-laboratoriais/FISH - CISH - SISH|FISH/CISH]]), Ki67 e presença de [[Invasão Angiolinfática|invasão angiolinfática]]. O [[estadiamento/index|estadiamento]] segue o **[[AJCC]] 8ª edição**, que incorpora fatores biológicos ao TNM anatômico ([[Estadiamento Prognóstico Clínico e Patológico]]) (SBOC 2026, NE ALTO).
+O diagnóstico baseia-se na tríade: **exame clínico + [[diagnostico/imagem/index|imagem]]** ([[Mamografia|mamografia]], USG, RM) + **biópsia percutânea** ([[Core Biopsy|core biopsy]] ou biópsia cirúrgica). O laudo anatomopatológico deve incluir: tipo histológico, grau de Nottingham (Elston-Ellis), status [[Receptores Hormonais (RE-RP-RH)|RE/RP]] (Allred ou H-score), HER2 (IHQ e/ou [[FISH - CISH - SISH|FISH/CISH]]), Ki67 e presença de [[Invasão Angiolinfática|invasão angiolinfática]]. O [[estadiamento/index|estadiamento]] segue o **[[AJCC]] 8ª edição**, que incorpora fatores biológicos ao TNM anatômico ([[Estadiamento Prognóstico Clínico e Patológico]]) (SBOC 2026, NE ALTO).
 
 ## Tratamento
 

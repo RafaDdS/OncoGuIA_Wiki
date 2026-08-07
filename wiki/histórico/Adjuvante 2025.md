@@ -17,10 +17,10 @@ Esta página descreve o panorama do [[Tratamento Adjuvante (Conceito)|tratamento
 
 ## Em 2025 (Contexto)
 
-- **Seleção de pacientes**: Critérios clínicos e moleculares ([[ferramentas-preditivas/Recurrence Score (RS) - Oncotype DX|Oncotype DX]], [[Mammaprint]]) já eram utilizados para decidir sobre [[tratamento/quimioterapia/index|quimioterapia]] adjuvante.
-- **[[subtipos-moleculares/Subtipo Luminal (RH+-HER2-)|RH+/HER2-]]**:
+- **Seleção de pacientes**: Critérios clínicos e moleculares ([[Recurrence Score (RS) - Oncotype DX|Oncotype DX]], [[Mammaprint]]) já eram utilizados para decidir sobre [[tratamento/quimioterapia/index|quimioterapia]] adjuvante.
+- **[[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]]**:
   - QT recomendada para tumores >2 cm, N+, [[Alto Risco Clínico|alto risco clínico]]/genômico.
-  - **[[Abemaciclibe]]** era o único iCDK4/6 adjuvante aprovado, para pacientes de alto risco (4+ [[fatores-prognosticos/Linfonodo Positivo (N+-LFN)|LFN]] ou 1-3 LFN + critérios adicionais).
+  - **[[Abemaciclibe]]** era o único iCDK4/6 adjuvante aprovado, para pacientes de alto risco (4+ [[Linfonodo Positivo (N+-LFN)|LFN]] ou 1-3 LFN + critérios adicionais).
   - Hormonioterapia: [[Tamoxifeno|tamoxifeno]] ou IA (± [[Supressão Ovariana|supressão ovariana]]) por 5–10 anos.
 - **[[HER2|HER2+]]**:
   - [[Trastuzumabe]] por 1 ano (padrão). [[Pertuzumabe]] adicionado para N+ com base no estudo [[APHINITY]].

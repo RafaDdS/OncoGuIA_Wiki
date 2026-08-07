@@ -12,7 +12,7 @@ status: "draft"
 
 # Everolimo (Inibidor de mTOR)
 
-O **everolimo** (Afinitor) é um inibidor oral do **alvo mecanístico da rapamicina (mTOR)**, especificamente do complexo mTORC1. Sua atuação na via PI3K/AKT/mTOR — a montante do mTOR, na AKT — faz dele uma opção para pacientes [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]− com resistência adquirida a [[Inibidores de Aromatase|inibidores de aromatase]], independentemente do status mutacional de [[PIK3CA]].
+O **everolimo** (Afinitor) é um inibidor oral do **alvo mecanístico da rapamicina (mTOR)**, especificamente do complexo mTORC1. Sua atuação na via PI3K/AKT/mTOR — a montante do mTOR, na AKT — faz dele uma opção para pacientes [[Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]− com resistência adquirida a [[Inibidores de Aromatase|inibidores de aromatase]], independentemente do status mutacional de [[PIK3CA]].
 
 ## Mecanismo de Ação
 

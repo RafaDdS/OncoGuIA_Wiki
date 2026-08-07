@@ -29,7 +29,7 @@ A RM de mamas **não é indicada de rotina**. Seu uso é reservado para situaç�
 
 ### Rastreamento em Alto Risco
 Recomendada **anualmente em conjunto com a [[Mamografia|mamografia]]** para mulheres com risco vitalício ≥20%, incluindo:
-- Portadoras de mutação patogênica em **[[biomarcadores/BRCA1 - BRCA2|BRCA1]]/BRCA2** ou outras síndromes de predisposição hereditária (Li-Fraumeni, Cowden)
+- Portadoras de mutação patogênica em **[[BRCA1 - BRCA2|BRCA1]]/BRCA2** ou outras síndromes de predisposição hereditária (Li-Fraumeni, Cowden)
 - História de **radioterapia torácica** entre 10 e 30 anos
 - Forte história familiar com risco calculado ≥20%
 

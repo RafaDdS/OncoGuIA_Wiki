@@ -26,15 +26,20 @@ What it leaves untouched:
   - Frontmatter (never touched).
   - Fenced ```code blocks``` and inline `code` (protected, same as the
     generator).
-  - Embeds, e.g. ![[image.png]] (the leading "!" marks these as file/image
-    embeds, not page links -- collapsing them would just break the embed).
-  - External links whose target contains "://" (e.g. [[https://...]]),
-    left exactly as-is.
+  - Embeds, e.g. ![[image.png]] and images ![alt](img.png) (the leading
+    "!" marks these as file/image embeds, not page links -- collapsing
+    them would just break the embed).
+  - External links whose target has a URI scheme (e.g. [[https://...]]
+    or [DOI](https://doi.org/...)), left exactly as-is.
+  - Intra-page anchor links [text](#heading).
+  - Breadcrumb/nav links back to a folder's index page (e.g.
+    [← Voltar ao índice geral](../index.md)), which the generator never
+    recreates, so they're preserved as-is.
 
-Everything else -- [[Target]] and [[Target|Display text]] -- is replaced
-with just its display text (the alias if present, otherwise the target
-name with any "#anchor" suffix stripped), turning it back into plain,
-unlinked prose.
+Everything else -- [[Target]], [[Target|Display text]], and internal
+markdown links like [text](relative/path.md) -- is replaced with just
+its display text (the alias if present, otherwise the link text),
+turning it back into plain, unlinked prose.
 
 Usage:
     python wikilink_collapse.py --wiki-dir wiki --dry-run
@@ -51,6 +56,11 @@ FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
 CODE_RE = re.compile(r"(```.*?```|`[^`]*`)", re.DOTALL)
 # Negative lookbehind for "!" so embeds (![[file.png]]) are left alone.
 WIKILINK_RE = re.compile(r"(?<!\!)\[\[([^\]]+)\]\]")
+# Plain markdown links [display](target). Negative lookbehind for "!" keeps
+# images (![alt](img.png)) untouched.
+MDLINK_RE = re.compile(r"(?<!\!)\[([^\]\n]*)\]\(([^)]*)\)")
+# A bare URI scheme (https:, mailto:, tel:, ...) marks a link as external.
+SCHEME_RE = re.compile(r"^[a-zA-Z][a-zA-Z0-9+.\-]*:")
 
 
 def redact_code(text):
@@ -72,12 +82,20 @@ def restore_code(text, blocks):
     return text
 
 
+def is_index_target(target):
+    """True for breadcrumb/nav links pointing at a folder's index page."""
+    clean = target.split("#", 1)[0].strip()
+    clean = clean.lstrip("./")
+    base = clean.rsplit("/", 1)[-1]
+    return base.lower() in ("index", "index.md")
+
+
 def collapse_body(body):
     """Return (new_body, count_collapsed)."""
     redacted, blocks = redact_code(body)
     count = 0
 
-    def repl(m):
+    def wikilink_repl(m):
         nonlocal count
         inner = m.group(1)
         parts = inner.split("|")
@@ -93,7 +111,22 @@ def collapse_body(body):
             display = href.split("#")[0].strip()
         return display
 
-    new_redacted = WIKILINK_RE.sub(repl, redacted)
+    def mdlink_repl(m):
+        nonlocal count
+        target = m.group(2).strip()
+
+        # External URL (bare URI scheme) or intra-page anchor: keep as-is.
+        if SCHEME_RE.match(target) or target.startswith("#"):
+            return m.group(0)
+        # Breadcrumb/nav links back to a folder's index: keep as-is.
+        if is_index_target(target):
+            return m.group(0)
+
+        count += 1
+        return m.group(1)
+
+    new_redacted = WIKILINK_RE.sub(wikilink_repl, redacted)
+    new_redacted = MDLINK_RE.sub(mdlink_repl, new_redacted)
     new_body = restore_code(new_redacted, blocks)
     return new_body, count
 

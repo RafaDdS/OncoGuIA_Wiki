@@ -12,7 +12,7 @@ status: "draft"
 
 # Inibidores de PARP (iPARP) – Classe
 
-Os **inibidores de PARP (iPARP)** — [[Olaparibe|olaparibe]] e talazoparibe — são agentes orais que bloqueiam a enzima poli-ADP-ribose polimerase (PARP), envolvida no reparo de quebras de fita simples do DNA. Em tumores com deficiência pré-existente no reparo por recombinação homóloga (HRD), como os de pacientes com mutações germinativas em [[biomarcadores/BRCA1 - BRCA2|BRCA1/2]], o bloqueio da PARP induz **letalidade sintética**, resultando em morte celular seletiva.
+Os **inibidores de PARP (iPARP)** — [[Olaparibe|olaparibe]] e talazoparibe — são agentes orais que bloqueiam a enzima poli-ADP-ribose polimerase (PARP), envolvida no reparo de quebras de fita simples do DNA. Em tumores com deficiência pré-existente no reparo por recombinação homóloga (HRD), como os de pacientes com mutações germinativas em [[BRCA1 - BRCA2|BRCA1/2]], o bloqueio da PARP induz **letalidade sintética**, resultando em morte celular seletiva.
 
 ## Evidências
 
@@ -29,7 +29,7 @@ A PARP-1 e PARP-2 são enzimas que detectam e reparam quebras de fita simples no
 
 ## Indicações em Câncer de Mama
 
-**Adjuvante (doença localizada de alto risco)** : olaparibe por 1 ano para portadoras de mutação germinativa BRCA1/2 com [[Doença Residual|doença residual]] pós-neoadjuvância ou com tumor ≥ T2 ou N+ (OlympiA). Em 4 anos, o ganho absoluto em SG foi de 3,4% (89,8% vs 86,4%, HR 0,68). A indicação abrange tanto TNBC quanto [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]− ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, NE ALTO/FR FORTE).
+**Adjuvante (doença localizada de alto risco)** : olaparibe por 1 ano para portadoras de mutação germinativa BRCA1/2 com [[Doença Residual|doença residual]] pós-neoadjuvância ou com tumor ≥ T2 ou N+ (OlympiA). Em 4 anos, o ganho absoluto em SG foi de 3,4% (89,8% vs 86,4%, HR 0,68). A indicação abrange tanto TNBC quanto [[Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]− ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, NE ALTO/FR FORTE).
 
 **Metastático**: olaparibe (OlympiAD, PFS 7,0 vs 4,2 meses, HR 0,58) e talazoparibe (EMBRACA, PFS 8,6 vs 5,6 meses, HR 0,54) são opções para pacientes com mutação germinativa BRCA1/2, após progressão a [[tratamento/quimioterapia/index|quimioterapia]] ou hormonioterapia. O olaparibe também é ativo em portadoras de mutação germinativa PALB2 (TBCRC 048). Ambos são bem tolerados, com fadiga, náusea e anemia como eventos adversos mais comuns, sem alopecia significativa.
 

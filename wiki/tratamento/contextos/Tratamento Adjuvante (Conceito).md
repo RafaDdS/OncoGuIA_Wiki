@@ -16,7 +16,7 @@ O **[[tratamento/index|tratamento]] adjuvante** é a terapia sistêmica administ
 
 ## Modalidades
 
-- **[[tratamento/quimioterapia/index|Quimioterapia]] adjuvante**: indicada para tumores TNBC e [[HER2|HER2+]] >5 mm, e para [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+/HER2− de [[Alto Risco Clínico|alto risco clínico]] ou genômico. Os regimes preferenciais incluem sequências antraciclina-taxano ([[AC (Doxorrubicina + Ciclofosfamida)|AC]] seguido de taxano semanal ou dose-densa) e [[TC (Docetaxel + Ciclofosfamida)|TC (docetaxel + ciclofosfamida)]] ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, NE ALTO/FR FORTE)
+- **[[tratamento/quimioterapia/index|Quimioterapia]] adjuvante**: indicada para tumores TNBC e [[HER2|HER2+]] >5 mm, e para [[Receptores Hormonais (RE-RP-RH)|RH]]+/HER2− de [[Alto Risco Clínico|alto risco clínico]] ou genômico. Os regimes preferenciais incluem sequências antraciclina-taxano ([[AC (Doxorrubicina + Ciclofosfamida)|AC]] seguido de taxano semanal ou dose-densa) e [[TC (Docetaxel + Ciclofosfamida)|TC (docetaxel + ciclofosfamida)]] ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, NE ALTO/FR FORTE)
 - **Hormonioterapia adjuvante**: para todos os tumores RH+, com duração de 5 a 10 anos conforme risco. [[Tamoxifeno]] para pré e pós-menopausa; IA apenas para pós-menopausa. [[Supressão Ovariana|Supressão ovariana]] combinada a tamoxifeno ou IA para pré-menopausa de alto risco (SBOC 2026)
 - **Terapia anti-HER2 adjuvante**: [[Trastuzumabe|trastuzumabe]] por 1 ano (padrão), com adição de [[Pertuzumabe|pertuzumabe]] para N+. [[T-DM1 (Trastuzumabe Emtansina)|T-DM1]] para doença residual pós-neoadjuvância ([[KATHERINE]]). [[Neratinibe]] para RH+/doença residual ([[ExteNET]])
 - **iCDK4/6 adjuvantes**: [[Abemaciclibe|abemaciclibe]] por 2 anos ([[monarchE]]) e [[Ribociclibe|ribociclibe]] por 3 anos ([[NATALEE]]) para alto risco
@@ -24,7 +24,7 @@ O **[[tratamento/index|tratamento]] adjuvante** é a terapia sistêmica administ
 
 ## Decisão Terapêutica
 
-A SBOC 2026 recomenda que a indicação de quimioterapia adjuvante seja baseada em critérios clínicos (tamanho, linfonodos, grau, subtipo) e, quando disponíveis e apropriados, em **painéis genômicos** ([[ferramentas-preditivas/Recurrence Score (RS) - Oncotype DX|Oncotype DX]] para RH+/HER2− N0 ou N+ pós-menopausa; [[Mammaprint]] para RH+/HER2− alto risco clínico). Ferramentas como o **[[PREDICT]]** (www.predict.nhs.uk) auxiliam na estimativa do benefício absoluto de quimioterapia e hormonioterapia adjuvante (SBOC 2026).
+A SBOC 2026 recomenda que a indicação de quimioterapia adjuvante seja baseada em critérios clínicos (tamanho, linfonodos, grau, subtipo) e, quando disponíveis e apropriados, em **painéis genômicos** ([[Recurrence Score (RS) - Oncotype DX|Oncotype DX]] para RH+/HER2− N0 ou N+ pós-menopausa; [[Mammaprint]] para RH+/HER2− alto risco clínico). Ferramentas como o **[[PREDICT]]** (www.predict.nhs.uk) auxiliam na estimativa do benefício absoluto de quimioterapia e hormonioterapia adjuvante (SBOC 2026).
 
 ## Fundamentação
 

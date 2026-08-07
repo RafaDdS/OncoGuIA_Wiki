@@ -24,7 +24,7 @@ Além do TNM anatômico, o estadiamento prognóstico incorpora:
 
 - **Grau histológico** (G1, G2, G3)
 - **Receptor de estrógeno (RE)**
-- **[[biomarcadores/Receptores Hormonais (RE-RP-RH)|Receptor de progesterona (RP)]]**
+- **[[Receptores Hormonais (RE-RP-RH)|Receptor de progesterona (RP)]]**
 - **HER2**
 
 O estadiamento prognóstico é baseado em **populações tratadas adequadamente** com hormonioterapia e/ou [[tratamento/quimioterapia/index|quimioterapia]], incluindo terapia anti-HER2.
@@ -67,8 +67,8 @@ Baseia-se na avaliação histológica completa da peça cirúrgica e dos linfono
 
 - **N1mi** requer avaliação do nódulo completo e, portanto, **não pode ser determinado** através de [[Punção Aspirativa por Agulha Fina (PAAF)|PAAF]] ou *[[Core Biopsy|core biopsy]]*. Só poderá ser utilizado para estadiamento clínico-prognóstico quando o estadiamento clínico for baseado em linfonodo sentinela ressecado.
 - Para casos em que haja **envolvimento linfonodal sem evidência de tumor primário**, ou quando este for [[Carcinoma Ductal in Situ (CDIS)|CDIS]] (ex.: T0N1, TisN1), o grau, HER2, RE e RP do tumor no linfonodo devem ser considerados.
-- Para casos em que o **teste [[patologia/tecnicas-laboratoriais/FISH - CISH - SISH|FISH]] para HER2 seja indeterminado**, deve ser considerada a categoria [[HER2|HER2 negativo]].
-- O **[[ferramentas-preditivas/Recurrence Score (RS) - Oncotype DX|Oncotype DX]]** com *score* < 11 pode ser utilizado para definir estádio IA em T1-2N0M0, HER2 negativo, RE positivo.
+- Para casos em que o **teste [[FISH - CISH - SISH|FISH]] para HER2 seja indeterminado**, deve ser considerada a categoria [[HER2|HER2 negativo]].
+- O **[[Recurrence Score (RS) - Oncotype DX|Oncotype DX]]** com *score* < 11 pode ser utilizado para definir estádio IA em T1-2N0M0, HER2 negativo, RE positivo.
 
 ---
 
@@ -83,7 +83,7 @@ O estadiamento tem três funções fundamentais:
 ## Contexto por documento
 
 - **Estadiamento** (*Estadiamento prognóstico clínico e patológico*): Estadiamento que incorpora, além do TNM anatômico, o grau histológico, HER2, RE e RP
-- **Neoadjuvante** (*Estadiamento*): Inclui exames de imagem (RM, [[TC (Docetaxel + Ciclofosfamida)|TC]], [[diagnostico/imagem/PET-CT|PET/CT]], USG) e avaliação clínica de linfonodos axilares, supraclaviculares e parede torácica. Vide capítulo separado da diretriz.
+- **Neoadjuvante** (*Estadiamento*): Inclui exames de imagem (RM, [[TC (Docetaxel + Ciclofosfamida)|TC]], [[PET-CT|PET/CT]], USG) e avaliação clínica de linfonodos axilares, supraclaviculares e parede torácica. Vide capítulo separado da diretriz.
 
 ---
 *Página gerada a partir de 2 termo(s) original(is) do glossário: Estadiamento, Estadiamento prognóstico clínico e patológico.*

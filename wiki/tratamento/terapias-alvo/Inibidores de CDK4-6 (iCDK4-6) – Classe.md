@@ -12,7 +12,7 @@ status: "draft"
 
 # Inibidores de CDK4/6 (iCDK4/6) – Classe
 
-Os **inibidores de CDK4/6** ([[Palbociclibe|palbociclibe]], [[Ribociclibe|ribociclibe]] e [[Abemaciclibe|abemaciclibe]]) são agentes orais que bloqueiam as quinases dependentes de ciclina 4 e 6, impedindo a fosforilação da proteína retinoblastoma (Rb) e a progressão da fase [[Grau Histológico (G1–G3)|G1]] para S do ciclo celular. Constituem o padrão-ouro de primeira linha no [[tratamento/index|tratamento]] do [[Câncer de Mama (Visão Geral)|câncer de mama]] [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]− avançado, em combinação com [[tratamento/terapia-endocrina/index|terapia endócrina]].
+Os **inibidores de CDK4/6** ([[Palbociclibe|palbociclibe]], [[Ribociclibe|ribociclibe]] e [[Abemaciclibe|abemaciclibe]]) são agentes orais que bloqueiam as quinases dependentes de ciclina 4 e 6, impedindo a fosforilação da proteína retinoblastoma (Rb) e a progressão da fase [[Grau Histológico (G1–G3)|G1]] para S do ciclo celular. Constituem o padrão-ouro de primeira linha no [[tratamento/index|tratamento]] do [[Câncer de Mama (Visão Geral)|câncer de mama]] [[Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]− avançado, em combinação com [[tratamento/terapia-endocrina/index|terapia endócrina]].
 
 ## Mecanismo de Ação
 

@@ -12,7 +12,7 @@ status: "draft"
 
 # Inibidores de PI3K – Classe
 
-Os **inibidores de PI3K** são agentes orais que bloqueiam a subunidade catalítica alfa da fosfatidilinositol-3-quinase (PI3Kα), cuja ativação constitutiva por mutação no gene **[[PIK3CA]]** é um dos mecanismos mais frequentes de [[Resistência Endócrina|resistência endócrina]] no [[Câncer de Mama (Visão Geral)|câncer de mama]] [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]−. As mutações em PIK3CA ocorrem em ~40% dos tumores RH+ e conferem ativação persistente da via PI3K/AKT/mTOR.
+Os **inibidores de PI3K** são agentes orais que bloqueiam a subunidade catalítica alfa da fosfatidilinositol-3-quinase (PI3Kα), cuja ativação constitutiva por mutação no gene **[[PIK3CA]]** é um dos mecanismos mais frequentes de [[Resistência Endócrina|resistência endócrina]] no [[Câncer de Mama (Visão Geral)|câncer de mama]] [[Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]−. As mutações em PIK3CA ocorrem em ~40% dos tumores RH+ e conferem ativação persistente da via PI3K/AKT/mTOR.
 
 ## Evidências
 

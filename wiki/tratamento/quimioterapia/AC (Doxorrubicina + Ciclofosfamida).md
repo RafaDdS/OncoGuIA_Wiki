@@ -24,7 +24,7 @@ O regime **AC** (Doxorrubicina — adriamicina — + Ciclofosfamida) é um esque
 
 ## Indicações
 
-- **Adjuvância** em câncer de mama inicial, em tumores de risco intermediário ou alto, tanto [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+ quanto TNBC e [[HER2|HER2+]]
+- **Adjuvância** em câncer de mama inicial, em tumores de risco intermediário ou alto, tanto [[Receptores Hormonais (RE-RP-RH)|RH]]+ quanto TNBC e [[HER2|HER2+]]
 - **Neoadjuvância** em sequência com taxano (AC→T ou AC→D) e, no HER2+, associado a anti-HER2
 - Alternativa ao [[CMF]] com superioridade em eficácia
 

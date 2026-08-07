@@ -27,7 +27,7 @@ Os análogos de LHRH atuam como **agonistas** do receptor hipofisário de GnRH. 
 
 ## Indicações
 
-- **Pré-menopausa de alto risco**: tumores [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+ com indicação de [[tratamento/terapia-endocrina/index|terapia endócrina]] adjuvante combinada a SO + IA ou [[Tamoxifeno|tamoxifeno]] (NE ALTO/FR FORTE, [[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]])
+- **Pré-menopausa de alto risco**: tumores [[Receptores Hormonais (RE-RP-RH)|RH]]+ com indicação de [[tratamento/terapia-endocrina/index|terapia endócrina]] adjuvante combinada a SO + IA ou [[Tamoxifeno|tamoxifeno]] (NE ALTO/FR FORTE, [[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]])
 - **Maior benefício**: pacientes com indicação de [[tratamento/quimioterapia/index|quimioterapia]] adjuvante ou idade < 35 anos (NE ALTO, [[SOFT e TEXT|SOFT]]/TEXT)
 - **Preservação de fertilidade**: administrado durante quimioterapia adjuvante para proteção da reserva ovariana
 - **[[Câncer de Mama (Visão Geral)|Câncer de mama]] metastático RH+**: em combinação com IA ou [[Fulvestranto|fulvestranto]] em pré-menopausa

@@ -23,7 +23,7 @@ O **carcinoma lobular** é o segundo subtipo histológico mais comum de [[Cânce
 
 - **Citologia**: células pequenas a médias, núcleo uniforme, citoplasma escasso, ausência de coesão celular, núcleo com cromatina fina e nucléolo inconspícuo
 - **Padrão de crescimento**: infiltração difusa em fileiras indianas ou em alvo, sem formar massas tumorais bem delimitadas
-- **[[Imuno-histoquímica (IHQ)|Imuno-histoquímica]]**: **E-caderina negativa** (perda de expressão) — diferencial crítico em relação ao carcinoma ductal. Quase universalmente **[[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+** (RE e RP positivos) e **[[HER2|HER2-negativo]]**
+- **[[Imuno-histoquímica (IHQ)|Imuno-histoquímica]]**: **E-caderina negativa** (perda de expressão) — diferencial crítico em relação ao carcinoma ductal. Quase universalmente **[[Receptores Hormonais (RE-RP-RH)|RH]]+** (RE e RP positivos) e **[[HER2|HER2-negativo]]**
 - **Expressão gênica**: perfil luminal (quase sempre luminal A ou luminal B)
 
 ## Implicações Clínicas

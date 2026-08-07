@@ -12,7 +12,7 @@ status: "draft"
 
 # Capivasertibe (Inibidor de AKT)
 
-O **capivasertibe** é um inibidor oral seletivo e pan-AKT (isoformas AKT1, AKT2 e AKT3), que bloqueia a sinalização da via PI3K/AKT/mTOR a montante de mTOR. Sua aprovação no Brasil foi baseada no estudo [[CAPItello-291]], para pacientes [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]− com alterações genômicas ativadoras da via ([[PIK3CA]]/AKT1/PTEN).
+O **capivasertibe** é um inibidor oral seletivo e pan-AKT (isoformas AKT1, AKT2 e AKT3), que bloqueia a sinalização da via PI3K/AKT/mTOR a montante de mTOR. Sua aprovação no Brasil foi baseada no estudo [[CAPItello-291]], para pacientes [[Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]− com alterações genômicas ativadoras da via ([[PIK3CA]]/AKT1/PTEN).
 
 ## Mecanismo de Ação
 

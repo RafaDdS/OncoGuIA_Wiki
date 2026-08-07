@@ -16,7 +16,7 @@ A **[[doenca-metastatica/index|doença metastática]] de mama** (estádio IV) ca
 
 ## Epidemiologia e Prognóstico
 
-Cerca de 5–10% das pacientes apresentam-se com doença metastática ao [[diagnostico/index|diagnóstico]]. Em pacientes tratadas com intenção curativa para doença localizada, 20–30% evoluirão com recidiva metastática ao longo do [[Seguimento Pós-Tratamento|seguimento]]. A sobrevida mediana varia amplamente conforme o subtipo: [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+/HER2− (3–5 anos), HER2+ (4–6 anos com terapias modernas) e TNBC (1–2 anos). O prognóstico vem melhorando progressivamente com a incorporação de novas [[tratamento/terapias-alvo/index|terapias-alvo]] e [[tratamento/imunoterapia/index|imunoterapia]].
+Cerca de 5–10% das pacientes apresentam-se com doença metastática ao [[diagnostico/index|diagnóstico]]. Em pacientes tratadas com intenção curativa para doença localizada, 20–30% evoluirão com recidiva metastática ao longo do [[Seguimento Pós-Tratamento|seguimento]]. A sobrevida mediana varia amplamente conforme o subtipo: [[Receptores Hormonais (RE-RP-RH)|RH]]+/HER2− (3–5 anos), HER2+ (4–6 anos com terapias modernas) e TNBC (1–2 anos). O prognóstico vem melhorando progressivamente com a incorporação de novas [[tratamento/terapias-alvo/index|terapias-alvo]] e [[tratamento/imunoterapia/index|imunoterapia]].
 
 ## Abordagem por Subtipo (SBOC Metastática 2026)
 

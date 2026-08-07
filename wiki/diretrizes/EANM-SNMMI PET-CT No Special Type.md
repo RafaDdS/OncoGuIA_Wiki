@@ -15,7 +15,7 @@ status: "draft"
 
 # EANM-SNMMI PET-CT No Special Type
 
-**Título original:** Joint EANM-SNMMI guideline on the role of 2-[18F]FDG [[diagnostico/imagem/PET-CT|PET/CT]] in no special type breast cancer
+**Título original:** Joint EANM-SNMMI guideline on the role of 2-[18F]FDG [[PET-CT|PET/CT]] in no special type breast cancer
 
 ## Informações da Fonte
 

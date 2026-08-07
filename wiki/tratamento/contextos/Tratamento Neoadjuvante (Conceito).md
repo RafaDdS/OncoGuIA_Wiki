@@ -23,7 +23,7 @@ O principal objetivo é converter tumores inoperáveis ou localmente avançados 
 A SBOC 2026 recomenda tratamento neoadjuvante prioritariamente para:
 
 - **Tumores TNBC e HER2+** a partir de 1 cm ou com linfonodo positivo, independentemente do subtipo
-- **Tumores [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+/HER2−** com [[Alto Risco Clínico|alto risco clínico]] (T ≥ 2 cm, [[Grau Histológico (G1–G3)|G3]], [[Ki67]] ≥ 20%, N+) ou quando há necessidade de redução tumoral para cirurgia conservadora
+- **Tumores [[Receptores Hormonais (RE-RP-RH)|RH]]+/HER2−** com [[Alto Risco Clínico|alto risco clínico]] (T ≥ 2 cm, [[Grau Histológico (G1–G3)|G3]], [[Ki67]] ≥ 20%, N+) ou quando há necessidade de redução tumoral para cirurgia conservadora
 - **[[Doença Localmente Avançada|Doença localmente avançada]]** (T3/T4, N2/N3) — o tratamento neoadjuvante é mandatório
 
 Para tumores RH+/HER2− de baixo risco, especialmente luminais A (G1, Ki67 baixo, RE forte), a **[[Hormonioterapia Neoadjuvante|hormonioterapia neoadjuvante]]** por ≥ 6 meses pode ser alternativa à [[tratamento/quimioterapia/index|quimioterapia]] em pós-menopausa (SBOC 2026).
@@ -33,5 +33,5 @@ Para tumores RH+/HER2− de baixo risco, especialmente luminais A (G1, Ki67 baix
 O regime neoadjuvante segue o mesmo princípio do adjuvante, ajustado por subtipo:
 
 - **TNBC**: antraciclina + taxano + platina (se estádio II–III); [[Pembrolizumabe|pembrolizumabe]] pode ser adicionado ([[KEYNOTE-522]])
-- **HER2+**: antraciclina + taxano + [[Trastuzumabe|trastuzumabe]] + [[Pertuzumabe|pertuzumabe]] (duplo bloqueio); regimes descalonados ([[tratamento/quimioterapia/TH - THP|TH]]) para T1N0
+- **HER2+**: antraciclina + taxano + [[Trastuzumabe|trastuzumabe]] + [[Pertuzumabe|pertuzumabe]] (duplo bloqueio); regimes descalonados ([[TH - THP|TH]]) para T1N0
 - **RH+/HER2−**: antraciclina + taxano (se alto risco), ou hormonioterapia (se baixo risco/luminal A em pós-menopausa)

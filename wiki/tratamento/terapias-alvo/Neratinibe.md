@@ -16,7 +16,7 @@ O **neratinibe** (Nerlynx) é um inibidor de tirosina quinase (TKI) irreversíve
 
 ## Indicação
 
-O neratinibe é indicado na **adjuvância estendida** para pacientes [[HER2|HER2+]]/[[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+ com [[Doença Residual|doença residual]] após neoadjuvância ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, NE ALTO/FR FRACA). Deve ser iniciado após a conclusão de 1 ano de [[Trastuzumabe|trastuzumabe]] adjuvante, na dose de 240 mg/dia (6 comprimidos de 40 mg) por 1 ano. O estudo [[ExteNET]] demonstrou benefício na SLD em 5 anos: 90,2% vs 87,7% (HR 0,73), com maior benefício no subgrupo RH+/doença residual.
+O neratinibe é indicado na **adjuvância estendida** para pacientes [[HER2|HER2+]]/[[Receptores Hormonais (RE-RP-RH)|RH]]+ com [[Doença Residual|doença residual]] após neoadjuvância ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, NE ALTO/FR FRACA). Deve ser iniciado após a conclusão de 1 ano de [[Trastuzumabe|trastuzumabe]] adjuvante, na dose de 240 mg/dia (6 comprimidos de 40 mg) por 1 ano. O estudo [[ExteNET]] demonstrou benefício na SLD em 5 anos: 90,2% vs 87,7% (HR 0,73), com maior benefício no subgrupo RH+/doença residual.
 
 ## Evidências
 

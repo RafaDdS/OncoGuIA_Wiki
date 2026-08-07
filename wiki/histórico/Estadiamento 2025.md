@@ -24,7 +24,7 @@ Esta página descreve o panorama do [[estadiamento/index|estadiamento]] e [[diag
   - RM de mamas como opção em situações especiais.
   - PET/CT indicado quando métodos convencionais inconclusivos.
 - **[[biomarcadores/index|Biomarcadores]]**:
-  - [[Imuno-histoquímica (IHQ)|IHQ]] para [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RE]], RP, HER2, [[Ki67]] (padrão).
+  - [[Imuno-histoquímica (IHQ)|IHQ]] para [[Receptores Hormonais (RE-RP-RH)|RE]], RP, HER2, [[Ki67]] (padrão).
   - [[PD-L1]] e TILs não eram formalmente recomendados na doença inicial.
 - **Estadiamento sistêmico**:
   - Não indicado rotineiramente para estádios iniciais; indicado para localmente avançados ou com sintomas.
@@ -44,7 +44,7 @@ Esta página descreve o panorama do [[estadiamento/index|estadiamento]] e [[diag
 | **Ultrassom de mamas e axilas** | Citado como parte da avaliação. | Recomendado com **NE ALTO/FR FORTE** para estadiamento locorregional. |
 | **[[Mamotomia]]** | Não mencionada. | Incluída como técnica alternativa para lesões não palpáveis. |
 | **RM de mamas** | Opção em situações especiais. | Formalmente indicada em: jovens com mamas densas, tumores lobulares, multicêntricos, primário oculto, neoadjuvância, discrepância clínico-radiológica. |
-| **[[diagnostico/imagem/PET-CT|PET/CT-FDG]]** | Quando métodos convencionais inconclusivos. | Recomendado com NE MODERADA/FR MODERADA para [[Doença Localmente Avançada|doença localmente avançada]], múltiplos linfonodos ou suspeita de metástases. |
+| **[[PET-CT|PET/CT-FDG]]** | Quando métodos convencionais inconclusivos. | Recomendado com NE MODERADA/FR MODERADA para [[Doença Localmente Avançada|doença localmente avançada]], múltiplos linfonodos ou suspeita de metástases. |
 | **PET/CT-FES** | Citado, sem grau de recomendação, para tumores RE+ de baixo grau/histologia lobular. | Mesma indicação, agora com **NE FRACA/FR FRACA** explicitados. |
 
 ### 3. Biomarcadores
@@ -71,7 +71,7 @@ Esta página descreve o panorama do [[estadiamento/index|estadiamento]] e [[diag
 ## Estudos-chave que embasaram as mudanças
 
 - [[INCA - Controle do Cancer de Mama|INCA 2024]] (dados de cobertura e mortalidade)
-- [[ensaios-clinicos/Ensaio de Estadiamento PETCT (Dayes et al.)|Dayes et al.]] (JCO 2023) (PET/CT no estadiamento)
+- [[Ensaio de Estadiamento PETCT (Dayes et al.)|Dayes et al.]] (JCO 2023) (PET/CT no estadiamento)
 - Estudos de qualidade de vida e rastreamento
 - [[ASCO]]/CAP 2020 (atualização de critérios de IHQ)
 - Consenso da SBOC 2026 para intervalos assistenciais e cuidados adicionais.

@@ -18,7 +18,7 @@ title: MONALEESA-2
  2018 (atualização); 2016 (publicação original)
 
 ## Objetivos:
- Avaliar a eficácia e segurança do inibidor de CDK4/6 [[Ribociclibe|ribociclibe]] em combinação com letrozol como [[tratamento/index|tratamento]] de primeira linha em pacientes pós-menopausadas com [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[subtipos-moleculares/Subtipo Luminal (RH+-HER2-)|RH+/HER2-]].
+ Avaliar a eficácia e segurança do inibidor de CDK4/6 [[Ribociclibe|ribociclibe]] em combinação com letrozol como [[tratamento/index|tratamento]] de primeira linha em pacientes pós-menopausadas com [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]].
 
 ## Resultados e Impacto Clínico:
  Demonstrou benefício significativo em [[Sobrevida Livre de Progressão (SLP)|sobrevida livre de progressão (SLP)]] e [[Sobrevida Global (SG)|sobrevida global (SG)]] para ribociclibe + letrozol versus placebo + letrozol, com SG mediana superior a 5 anos, estabelecendo este regime como padrão de primeira linha.

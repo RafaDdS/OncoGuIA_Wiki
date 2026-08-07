@@ -23,13 +23,13 @@ Esta página descreve o panorama do [[Tratamento Neoadjuvante (Conceito)|tratame
   - [[Pembrolizumabe]] + QT ([[KEYNOTE-522]]) era padrão para estádios II-III, com manutenção adjuvante.
   - Esquema: paclitaxel + carboplatina (semanal) → [[AC (Doxorrubicina + Ciclofosfamida)|AC]] (3/3 semanas) + pembrolizumabe.
 - **HER2+**:
-  - Padrão: **[[tratamento/quimioterapia/TCH - TCHP|TCHP]]** (docetaxel, carboplatina, [[Trastuzumabe|trastuzumabe]], [[Pertuzumabe|pertuzumabe]]) – preferencial sem [[Antraciclinas|antraciclinas]] ([[TRAIN-2]]).
+  - Padrão: **[[TCH - TCHP|TCHP]]** (docetaxel, carboplatina, [[Trastuzumabe|trastuzumabe]], [[Pertuzumabe|pertuzumabe]]) – preferencial sem [[Antraciclinas|antraciclinas]] ([[TRAIN-2]]).
   - Opção com antraciclina: ACTHP.
   - Manutenção: trastuzumabe (± pertuzumabe se N+) até 1 ano.
-- **[[subtipos-moleculares/Subtipo Luminal (RH+-HER2-)|Luminal (RH+/HER2-)]]**:
+- **[[Subtipo Luminal (RH+-HER2-)|Luminal (RH+/HER2-)]]**:
   - QT neoadjuvante com AC→T (dose-densa preferencial).
   - [[Hormonioterapia Neoadjuvante|Hormonioterapia neoadjuvante]] (IA) para pós-menopausa com tumores luminais A-like e baixo risco.
-- **[[subtipos-moleculares/ER-low - RE Baixo|ER-low]]**: Não havia distinção; eram tratados como luminais.
+- **[[ER-low - RE Baixo|ER-low]]**: Não havia distinção; eram tratados como luminais.
 
 ## Mudanças em 2026
 
@@ -49,7 +49,7 @@ Esta página descreve o panorama do [[Tratamento Neoadjuvante (Conceito)|tratame
 
 ### 4. HER2+ – T-DXd neoadjuvante
 - **2025**: Não havia menção.
-- **2026**: Citado o estudo **[[DESTINY-Breast11]]**, que mostrou RPC superior com [[T-DXd (Trastuzumabe Deruxtecana)|T-DXd]] seguido de [[tratamento/quimioterapia/TH - THP|THP]] (67,3% vs 56,3%) em comparação a ACdd-THP. Ainda sem aprovação no Brasil, mas sinaliza futuro padrão.
+- **2026**: Citado o estudo **[[DESTINY-Breast11]]**, que mostrou RPC superior com [[T-DXd (Trastuzumabe Deruxtecana)|T-DXd]] seguido de [[TH - THP|THP]] (67,3% vs 56,3%) em comparação a ACdd-THP. Ainda sem aprovação no Brasil, mas sinaliza futuro padrão.
 
 ### 5. Luminal – QT neoadjuvante
 - Mantida a preferência por ACdd→T, com reforço da recomendação de que toda a QT seja administrada antes da cirurgia, sempre que possível.

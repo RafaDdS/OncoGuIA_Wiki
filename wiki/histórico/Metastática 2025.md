@@ -17,7 +17,7 @@ Esta página descreve o panorama do [[tratamento/index|tratamento]] do [[Câncer
 
 ## Em 2025 (Contexto)
 
-- **[[subtipos-moleculares/Subtipo Luminal (RH+-HER2-)|RH+/HER2-]]**:
+- **[[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]]**:
   - 1ª linha: IA + iCDK4/6 ([[Palbociclibe|palbociclibe]], [[Ribociclibe|ribociclibe]] ou [[Abemaciclibe|abemaciclibe]]) – padrão universal.
   - 2ª linha: [[Fulvestranto|fulvestranto]] + iCDK4/6 (se não usado antes), everolimo + exemestano, ou alpelisibe + fulvestranto (se [[PIK3CA]] mutado).
   - Capivasertibe + fulvestranto (para alterações em AKT/PIK3CA/PTEN) era opção emergente.
@@ -62,7 +62,7 @@ Esta página descreve o panorama do [[tratamento/index|tratamento]] do [[Câncer
 
 #### 1ª linha (PD-L1 <10) – Datopotamabe deruxtecana (Dato-DXd)
 - **2025**: QT padrão (taxano, capecitabina, etc.).
-- **2026**: **Dato-DXd** passa a ser opção preferencial ([[TROPION-Breast02]]), com ganho de SLP (10,8 vs 5,6 meses) e SG (23,7 vs 18,7 meses). *Nota: a eficácia aqui refere-se à 1ª linha do TNBC (TROPION-Breast02); a aprovação na Anvisa do Dato-DXd citada pela diretriz é no contexto [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+/HER2- ([[TROPION-Breast01]]).*
+- **2026**: **Dato-DXd** passa a ser opção preferencial ([[TROPION-Breast02]]), com ganho de SLP (10,8 vs 5,6 meses) e SG (23,7 vs 18,7 meses). *Nota: a eficácia aqui refere-se à 1ª linha do TNBC (TROPION-Breast02); a aprovação na Anvisa do Dato-DXd citada pela diretriz é no contexto [[Receptores Hormonais (RE-RP-RH)|RH]]+/HER2- ([[TROPION-Breast01]]).*
 
 #### 1ª linha com imunoterapia – novos dados
 - **2025**: Pembrolizumabe + QT para CPS ≥10.

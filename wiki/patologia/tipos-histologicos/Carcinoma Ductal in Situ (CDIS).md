@@ -35,7 +35,7 @@ O **carcinoma ductal in situ (CDIS)** é uma lesão neoplásica não invasiva, c
 - **Cirurgia conservadora + radioterapia**: padrão para CDIS localizado. Margens ≥ 2 mm são necessárias (SBOC 2026, NE MODERADO/FR FORTE)
 - **Mastectomia**: indicada quando multicêntrico, impossibilidade de margens ≥ 2 mm, ou contraindicação a radioterapia
 - **Linfonodo sentinela**: habitualmente não indicado, pode ser considerado em tumores de alto grau/volumosos, especialmente se mastectomia (SBOC 2026)
-- **Hormonioterapia**: [[Tamoxifeno|tamoxifeno]] 20 mg/dia × 5 anos (ou 5 mg/dia × 3 anos) ou anastrozol 1 mg/dia × 5 anos (apenas pós-menopausa) para CDIS [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+, reduz recorrência ipsilateral e contralateral de doença invasiva (SBOC 2026, NE ALTO/FR FORTE)
+- **Hormonioterapia**: [[Tamoxifeno|tamoxifeno]] 20 mg/dia × 5 anos (ou 5 mg/dia × 3 anos) ou anastrozol 1 mg/dia × 5 anos (apenas pós-menopausa) para CDIS [[Receptores Hormonais (RE-RP-RH)|RH]]+, reduz recorrência ipsilateral e contralateral de doença invasiva (SBOC 2026, NE ALTO/FR FORTE)
 - **Anti-HER2**: não é indicado em CDIS (SBOC 2026, NE MODERADO/FR FRACA)
 
 ## Prognóstico

@@ -20,7 +20,7 @@ O CMF (Ciclofosfamida + Metotrexato + 5-Fluorouracil) é o primeiro regime de po
 
 ## Indicações
 
-- **Câncer de mama inicial de baixo risco ([[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+)**: especialmente em pacientes com contraindicação ou intolerância a antraciclinas
+- **Câncer de mama inicial de baixo risco ([[Receptores Hormonais (RE-RP-RH)|RH]]+)**: especialmente em pacientes com contraindicação ou intolerância a antraciclinas
 - **Adjuvância em pacientes idosas ou com comorbidades cardiovasculares**: por não apresentar cardiotoxicidade
 - Historicamente utilizado em **TNBC**, mas atualmente substituído por regimes à base de antraciclina-taxano
 

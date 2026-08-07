@@ -17,7 +17,7 @@ title: MONARCH 3
  2017 (publicação original); 2019 (atualização de PFS); 2024 (atualização final)
 
 ## Objetivos:
- Avaliar [[Abemaciclibe|abemaciclibe]] + inibidor de aromatase (IA) como [[tratamento/index|tratamento]] inicial em pacientes pós-menopausadas com [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[subtipos-moleculares/Subtipo Luminal (RH+-HER2-)|RH+/HER2-]].
+ Avaliar [[Abemaciclibe|abemaciclibe]] + inibidor de aromatase (IA) como [[tratamento/index|tratamento]] inicial em pacientes pós-menopausadas com [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]].
 
 ## Resultados e Impacto Clínico:
  Demonstrou ganho significativo em SLP para abemaciclibe + IA versus placebo + IA em primeira linha, com perfil de toxicidade característico incluindo diarreia, estabelecendo abemaciclibe como opção de primeira linha.

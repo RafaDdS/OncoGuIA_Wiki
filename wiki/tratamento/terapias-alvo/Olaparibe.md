@@ -12,7 +12,7 @@ status: "draft"
 
 # Olaparibe
 
-O **olaparibe** (Lynparza) é o inibidor de PARP mais extensamente estudado e aprovado no [[Câncer de Mama (Visão Geral)|câncer de mama]]. Disponível em formulação oral, é indicado tanto no cenário adjuvante quanto no metastático para pacientes portadoras de mutação germinativa em [[biomarcadores/BRCA1 - BRCA2|BRCA1/2]].
+O **olaparibe** (Lynparza) é o inibidor de PARP mais extensamente estudado e aprovado no [[Câncer de Mama (Visão Geral)|câncer de mama]]. Disponível em formulação oral, é indicado tanto no cenário adjuvante quanto no metastático para pacientes portadoras de mutação germinativa em [[BRCA1 - BRCA2|BRCA1/2]].
 
 ## Evidências
 
@@ -24,7 +24,7 @@ O olaparibe inibe PARP-1, PARP-2 e PARP-3 com IC50 de 1–5 nM. A farmacocinéti
 
 ## Indicações
 
-**Adjuvante (OlympiA)** : olaparibe 300 mg VO 12/12h por 1 ano para pacientes com mutação germinativa BRCA1/2 e doença localizada de alto risco, definido como: (a) TNBC ou [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]− com doença residual após neoadjuvância (qualquer estádio inicial), ou (b) TNBC com tumor ≥ T2 ou N+ tratado com quimioterapia adjuvante (sem neoadjuvância). O benefício absoluto em SG em 4 anos foi de 3,4%, com NNT de 29 ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, NE ALTO/FR FORTE).
+**Adjuvante (OlympiA)** : olaparibe 300 mg VO 12/12h por 1 ano para pacientes com mutação germinativa BRCA1/2 e doença localizada de alto risco, definido como: (a) TNBC ou [[Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]− com doença residual após neoadjuvância (qualquer estádio inicial), ou (b) TNBC com tumor ≥ T2 ou N+ tratado com quimioterapia adjuvante (sem neoadjuvância). O benefício absoluto em SG em 4 anos foi de 3,4%, com NNT de 29 ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, NE ALTO/FR FORTE).
 
 **Metastático (OlympiAD)** : olaparibe 300 mg VO 12/12h para pacientes com mutação germinativa BRCA e progressão a quimioterapia prévia (≤ 2 linhas para [[doenca-metastatica/index|doença metastática]]). PFS mediana de 7,0 vs 4,2 meses (HR 0,58), com taxa de resposta de 60% vs 29%. O benefício foi observado independentemente do status de receptores hormonais.
 

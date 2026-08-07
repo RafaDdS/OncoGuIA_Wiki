@@ -10,7 +10,7 @@ status: "draft"
 
 # Fulvestranto
 
-O **fulvestranto** é um degradador seletivo do receptor de estrogênio (SERD) injetável, indicado no [[tratamento/index|tratamento]] do [[Câncer de Mama (Visão Geral)|câncer de mama]] **[[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+** em estágio avançado. Diferentemente do [[Tamoxifeno|tamoxifeno]] (que antagoniza o RE), o fulvestranto promove a **degradação completa do RE** por ubiquitinação proteassômica, resultando em bloqueio mais completo da sinalização estrogênica.
+O **fulvestranto** é um degradador seletivo do receptor de estrogênio (SERD) injetável, indicado no [[tratamento/index|tratamento]] do [[Câncer de Mama (Visão Geral)|câncer de mama]] **[[Receptores Hormonais (RE-RP-RH)|RH]]+** em estágio avançado. Diferentemente do [[Tamoxifeno|tamoxifeno]] (que antagoniza o RE), o fulvestranto promove a **degradação completa do RE** por ubiquitinação proteassômica, resultando em bloqueio mais completo da sinalização estrogênica.
 
 ## Mecanismo de Ação
 

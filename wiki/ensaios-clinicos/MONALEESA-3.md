@@ -18,7 +18,7 @@ title: MONALEESA-3
  2018 (publicação original); 2021 (atualização)
 
 ## Objetivos:
- Avaliar a eficácia do inibidor de CDK4/6 [[Ribociclibe|ribociclibe]] em combinação com [[Fulvestranto|fulvestranto]] em pacientes pós-menopausadas com [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[subtipos-moleculares/Subtipo Luminal (RH+-HER2-)|RH+/HER2-]], incluindo pacientes que receberam até uma linha de [[tratamento/terapia-endocrina/index|terapia endócrina]] prévia.
+ Avaliar a eficácia do inibidor de CDK4/6 [[Ribociclibe|ribociclibe]] em combinação com [[Fulvestranto|fulvestranto]] em pacientes pós-menopausadas com [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]], incluindo pacientes que receberam até uma linha de [[tratamento/terapia-endocrina/index|terapia endócrina]] prévia.
 
 ## Resultados e Impacto Clínico:
  Demonstrou ganhos significativos em SLP e SG com ribociclibe + fulvestranto, consolidando o benefício dos inibidores de CDK4/6 em segunda linha e em pacientes com exposição prévia a terapia endócrina.

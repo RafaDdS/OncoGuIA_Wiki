@@ -23,7 +23,7 @@ O regime **TC** (Docetaxel + Ciclofosfamida) é uma opção sem antracíclico pa
 
 ## Indicações
 
-- **Adjuvante** em câncer de mama inicial de alto risco ([[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+, [[HER2]]− ou TNBC)
+- **Adjuvante** em câncer de mama inicial de alto risco ([[Receptores Hormonais (RE-RP-RH)|RH]]+, [[HER2]]− ou TNBC)
 - **Preferencial** quando há contraindicação às [[Antraciclinas|antraciclinas]] (cardiopatia prévia, FEVE limítrofe, idade avançada)
 - Alternativa de escolha quando o risco cardíaco supera o benefício incremental das antraciclinas
 

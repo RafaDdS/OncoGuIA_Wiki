@@ -17,7 +17,7 @@ title: MONARCH 2
  2019
 
 ## Objetivos:
- Avaliar [[Abemaciclibe|abemaciclibe]] + [[Fulvestranto|fulvestranto]] em pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[subtipos-moleculares/Subtipo Luminal (RH+-HER2-)|RH+/HER2-]] que progrediram à [[tratamento/terapia-endocrina/index|terapia endócrina]] prévia.
+ Avaliar [[Abemaciclibe|abemaciclibe]] + [[Fulvestranto|fulvestranto]] em pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]] que progrediram à [[tratamento/terapia-endocrina/index|terapia endócrina]] prévia.
 
 ## Resultados e Impacto Clínico:
  Demonstrou ganhos significativos em [[Sobrevida Livre de Progressão (SLP)|sobrevida livre de progressão (SLP)]] e [[Sobrevida Global (SG)|sobrevida global (SG)]], estabelecendo abemaciclibe + fulvestranto como um regime padrão em segunda linha para pacientes com progressão a terapia endócrina.

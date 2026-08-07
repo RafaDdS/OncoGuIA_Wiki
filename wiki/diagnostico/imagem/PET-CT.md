@@ -30,7 +30,7 @@ Exame de [[diagnostico/imagem/index|imagem]] funcional e anatômica que combina 
 
 ## PET/CT-FES (com 18F-fluoroestradiol):
 
-- Principal indicação: avaliar lesões com expressão de [[biomarcadores/Receptores Hormonais (RE-RP-RH)|receptor de estrógeno]] em contexto de câncer de mama metastático.
+- Principal indicação: avaliar lesões com expressão de [[Receptores Hormonais (RE-RP-RH)|receptor de estrógeno]] em contexto de câncer de mama metastático.
 - Papel no estadiamento do câncer de mama inicial ainda não está estabelecido.
 - Pode ser considerado em casos selecionados de tumores RE-positivos de baixo grau e/ou histologia lobular.
   - **NE FRACA / FR FRACA.**

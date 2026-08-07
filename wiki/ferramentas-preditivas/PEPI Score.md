@@ -16,7 +16,7 @@ O PEPI Score (Preoperative Endocrine Prognostic Index) é um sistema de pontuaç
 
 ## Aplicações Clínicas e Tratamento
 
-* **Avaliação Pós-[[tratamento/index|Tratamento]]:** Após uma paciente com câncer [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]] positivo receber hormonioterapia por vários meses antes da cirurgia, o patologista analisa o tecido retirado na operação para calcular o PEPI Score.
+* **Avaliação Pós-[[tratamento/index|Tratamento]]:** Após uma paciente com câncer [[Receptores Hormonais (RE-RP-RH)|RH]] positivo receber hormonioterapia por vários meses antes da cirurgia, o patologista analisa o tecido retirado na operação para calcular o PEPI Score.
 * **Variáveis Analisadas:** O cálculo integra o tamanho do tumor residual, o status dos linfonodos, a expressão do receptor de estrogênio no tecido final e o índice Ki-67 pós-tratamento (que mede o nível de proliferação das células após terem sido expostas ao bloqueio hormonal).
 * **Definição de Conduta Adjuvante:** Pacientes que alcançam um PEPI Score igual a 0 (zero) demonstram uma resposta excepcional ao bloqueio hormonal. Elas possuem um prognóstico de longo prazo tão favorável que a [[tratamento/quimioterapia/index|quimioterapia]] pós-operatória (adjuvante) pode ser dispensada com segurança, mantendo-se apenas a terapia endócrina de manutenção.
 

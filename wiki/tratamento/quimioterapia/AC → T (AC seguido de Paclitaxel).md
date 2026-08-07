@@ -22,7 +22,7 @@ O regime **[[AC (Doxorrubicina + Ciclofosfamida)|AC]] → T** (4 ciclos de AC se
 
 ## Indicações
 
-- **Adjuvante:** câncer de mama inicial de alto risco (tumores [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+ com linfonodos positivos, TNBC, [[HER2|HER2+]])
+- **Adjuvante:** câncer de mama inicial de alto risco (tumores [[Receptores Hormonais (RE-RP-RH)|RH]]+ com linfonodos positivos, TNBC, [[HER2|HER2+]])
 - **Neoadjuvante:** antes da cirurgia, seguido de regime antraciclina-taxano podendo ser associado a platina no TNBC ou a anti-HER2 no HER2+
 - **Dose-densa:** variante com AC q14d + G-CSF + paclitaxel q14d, com superioridade em SLD (estudo CALGB 9741)
 

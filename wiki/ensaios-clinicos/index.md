@@ -40,7 +40,7 @@ Páginas da categoria **Ensaios Clínicos**.
   - `ATLAS` (Tamoxifeno estendido por 10 anos)
   - `aTTom` (Tamoxifeno estendido por 10 anos)
   - `MA.17` (Letrozol estendido pós-tamoxifeno)
-  - `MA17R` ([[biomarcadores/Receptores Hormonais (RE-RP-RH)|Re]]-randomização do [[MA.17]])
+  - `MA17R` ([[Receptores Hormonais (RE-RP-RH)|Re]]-randomização do [[MA.17]])
   - `ABCSG-16 (SALSA)` (Anastrozol por 2 vs 5 anos estendido)
   - `NSABP B-14` (Tamoxifeno vs placebo para LN-)
   - `ASTRRA` (Supressão ovariana + Tamoxifeno após QT)
@@ -131,7 +131,7 @@ Páginas da categoria **Ensaios Clínicos**.
   - `Create-X` (Capecitabina adjuvante para doença residual TNBC)
 
 #### 7. GENÔMICA E PROGNÓSTICO
-- `TAILORx` ([[ferramentas-preditivas/Recurrence Score (RS) - Oncotype DX|Oncotype DX]] para N-, RS 11-25)
+- `TAILORx` ([[Recurrence Score (RS) - Oncotype DX|Oncotype DX]] para N-, RS 11-25)
 - `RxPONDER (SWOG S1007)` (Oncotype DX para N+ 1-3, RS < 25)
 - `MINDACT` (Assinatura de 70 genes - [[Mammaprint|MammaPrint]])
 - `Estudo CTS5` (Modelo de risco de recorrência tardia)
@@ -143,7 +143,7 @@ Páginas da categoria **Ensaios Clínicos**.
   - `Revisão Marmot (The Marmot Review)` (Revisão de rastreamento)
   - `GLOBOCAN 2022` (Incidência/mortalidade global)
 - **[[estadiamento/index|Estadiamento]] e [[diagnostico/index|Diagnóstico]]**
-  - `Ensaio de Estadiamento PETCT (Dayes et al.)` (FDG-[[diagnostico/imagem/PET-CT|PET/CT]] vs estadiamento convencional)
+  - `Ensaio de Estadiamento PETCT (Dayes et al.)` (FDG-[[PET-CT|PET/CT]] vs estadiamento convencional)
   - `Diretrizes de Imagem Inicial (NICE, Mann e Arnaout)` (Recomendações de [[diagnostico/imagem/index|imagem]])
   - `Estudo Norueguês de Qualidade de Vida (QoL)` (Impacto do rastreio na QdV)
 - **Dados Brasileiros (Real-world)**

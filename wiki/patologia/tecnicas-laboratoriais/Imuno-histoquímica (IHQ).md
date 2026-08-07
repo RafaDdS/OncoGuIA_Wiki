@@ -21,7 +21,7 @@ A **imuno-histoquímica (IHQ)** é a técnica de detecção de antígenos celula
 - **HER2**: graduação semiquantitativa de 0 a 3+ conforme ASCO/CAP 2018:
   - **0**: sem coloração ou coloração incompleta em ≤ 10% das células
   - **1+**: coloração incompleta, fraca, em > 10% das células (HER2-low)
-  - **2+**: coloração moderada, completa, em > 10% (equivocado — requer [[patologia/tecnicas-laboratoriais/FISH - CISH - SISH|FISH/CISH]])
+  - **2+**: coloração moderada, completa, em > 10% (equivocado — requer [[FISH - CISH - SISH|FISH/CISH]])
   - **3+**: coloração forte e completa em > 10% ([[HER2|HER2 positivo]])
   - HER2 3+ ou HER2 amplificado por ISH elegível a terapia anti-HER2
   - HER2-low (IHQ 1+ ou IHQ 2+/ISH negativo) elegível a [[T-DXd (Trastuzumabe Deruxtecana)|T-DXd]] no cenário metastático (SBOC 2026)
@@ -34,12 +34,12 @@ A **imuno-histoquímica (IHQ)** é a técnica de detecção de antígenos celula
 - **EGFR**: superexpressão associada a subtipo triplo-negógico basal-like
 - **[[PD-L1]]** (SP142, 22C3): avaliação em TNBC metastático para elegibilidade a [[tratamento/imunoterapia/index|imunoterapia]] (atezolizumabe, [[Pembrolizumabe|pembrolizumabe]])
 - **Androgen receptor (AR)**: expresso em ~10–30% dos TNBC; alvo terapêutico potencial em investigação
-- **p53, [[biomarcadores/BRCA1 - BRCA2|BRCA1]] (perda)**: valor prognóstico e preditivo principalmente no TNBC
+- **p53, [[BRCA1 - BRCA2|BRCA1]] (perda)**: valor prognóstico e preditivo principalmente no TNBC
 
 ## Aplicações
 
 - **Classificação molecular substituta**: IHQ para RE, RP, HER2 e Ki67 permite categorizar tumores em luminais A e B, HER2-enriquecido e triplo-negativo (SBOC 2026)
-- **Predição de resposta**: [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RE/RP]] → hormonioterapia; HER2 → terapia anti-HER2; PD-L1 → imunoterapia; Ki67 → [[tratamento/quimioterapia/index|quimioterapia]]
+- **Predição de resposta**: [[Receptores Hormonais (RE-RP-RH)|RE/RP]] → hormonioterapia; HER2 → terapia anti-HER2; PD-L1 → imunoterapia; Ki67 → [[tratamento/quimioterapia/index|quimioterapia]]
 - **Prognóstico**: expressão de receptores hormonais e Ki67 são fatores independentes no [[estadiamento/index|estadiamento]] prognóstico [[AJCC]] 8ª ed
 
 ## Limitações

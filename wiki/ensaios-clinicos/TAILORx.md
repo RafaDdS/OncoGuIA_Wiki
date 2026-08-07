@@ -24,4 +24,4 @@ status: "draft"
 ## Referências
 
 1. Sparano JA; Gray RJ; Ravdin PM; Makower DF; Pritchard KI; Albain KS; et al. Clinical and Genomic Risk to Guide the Use of Adjuvant Therapy for Breast Cancer. N Engl J Med. 2019;380(25):2395-405. DOI: [10.1056/NEJMoa1904819](https://doi.org/10.1056/NEJMoa1904819)
-2. Voutsadakis IA; Thibodeau S; Reed M Prediction of the [[ferramentas-preditivas/Recurrence Score (RS) - Oncotype DX|Oncotype Dx]] recurrence score (RS) from clinicopathologic factors. Cancer Res. 2019;79(4 Supplement):P2-07-11-P2-07-11. DOI: [10.1158/1538-7445.SABCS18-P2-07-11](https://doi.org/10.1158/1538-7445.SABCS18-P2-07-11)
+2. Voutsadakis IA; Thibodeau S; Reed M Prediction of the [[Recurrence Score (RS) - Oncotype DX|Oncotype Dx]] recurrence score (RS) from clinicopathologic factors. Cancer Res. 2019;79(4 Supplement):P2-07-11-P2-07-11. DOI: [10.1158/1538-7445.SABCS18-P2-07-11](https://doi.org/10.1158/1538-7445.SABCS18-P2-07-11)

@@ -29,7 +29,7 @@ Os anticorpos monoclonais [[Trastuzumabe|trastuzumabe]] e [[Pertuzumabe|pertuzum
 | **[[KATHERINE]]** (NEJM 2018, SG 2023) | [[Doença Residual|Doença residual]] pós-neoadj | T-DM1 vs H | SLD HR 0,50; SG +4,7% em 7a |
 | **[[DESTINY-Breast03]]** (NEJM 2022) | 2ª linha metastático | T-DXd vs T-DM1 | PFS não atingida vs 6,8m (HR 0,28) |
 | **[[DESTINY-Breast04]]** (NEJM 2022) | [[HER2|HER2-low]] metastático | T-DXd vs QT escolha | PFS 10,1 vs 5,4m (HR 0,51) |
-| **[[ExteNET]]** (Lancet Oncol 2017) | Adjuvante estendida | Neratinibe 1a vs placebo | SLD HR 0,73 (em [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+/DR) |
+| **[[ExteNET]]** (Lancet Oncol 2017) | Adjuvante estendida | Neratinibe 1a vs placebo | SLD HR 0,73 (em [[Receptores Hormonais (RE-RP-RH)|RH]]+/DR) |
 | **[[DESTINY-Breast05]]** (2024) | Doença residual | T-DXd vs T-DM1 | Superioridade T-DXd (ainda sem aprovação no Brasil) |
 
 ## Contexto Adjuvante

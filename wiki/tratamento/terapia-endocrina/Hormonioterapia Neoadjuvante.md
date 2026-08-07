@@ -10,7 +10,7 @@ status: "draft"
 
 # Hormonioterapia Neoadjuvante
 
-A hormonioterapia neoadjuvante consiste no uso de [[tratamento/terapia-endocrina/index|terapia endócrina]] antes da cirurgia com o objetivo de reduzir o tamanho tumoral, permitindo cirurgia conservadora ou diminuindo a extensão da ressecção. É uma alternativa à [[tratamento/quimioterapia/index|quimioterapia]] neoadjuvante para pacientes selecionadas com tumores [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+ e perfil biológico favorável.
+A hormonioterapia neoadjuvante consiste no uso de [[tratamento/terapia-endocrina/index|terapia endócrina]] antes da cirurgia com o objetivo de reduzir o tamanho tumoral, permitindo cirurgia conservadora ou diminuindo a extensão da ressecção. É uma alternativa à [[tratamento/quimioterapia/index|quimioterapia]] neoadjuvante para pacientes selecionadas com tumores [[Receptores Hormonais (RE-RP-RH)|RH]]+ e perfil biológico favorável.
 
 ## Indicações
 

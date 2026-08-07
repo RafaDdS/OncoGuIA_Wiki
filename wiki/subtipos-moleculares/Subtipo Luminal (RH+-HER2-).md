@@ -15,7 +15,7 @@ status: "draft"
 
 # Subtipo Luminal (RH+/HER2-)
 
-Subtipo luminal mais comum. Caracterizado pela expressão de receptores hormonais ([[biomarcadores/Receptores Hormonais (RE-RP-RH)|RE]] e/ou RP) e ausência de superexpressão/amplificação de HER2. O [[tratamento/index|tratamento]] prioritário envolve [[tratamento/terapia-endocrina/index|terapia endócrina]] associada a inibidores de CDK4/6.
+Subtipo luminal mais comum. Caracterizado pela expressão de receptores hormonais ([[Receptores Hormonais (RE-RP-RH)|RE]] e/ou RP) e ausência de superexpressão/amplificação de HER2. O [[tratamento/index|tratamento]] prioritário envolve [[tratamento/terapia-endocrina/index|terapia endócrina]] associada a inibidores de CDK4/6.
 
 ## Contexto por documento
 

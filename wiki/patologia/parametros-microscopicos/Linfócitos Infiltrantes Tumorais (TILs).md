@@ -27,7 +27,7 @@ Os TILs são avaliados em cortes corados por HE (hematoxilina-eosina) na área e
 
 - **TNBC**: TILs altos no tumor primário associam-se a **maior taxa de [[Resposta Patológica Completa (RPC)|resposta patológica completa (RPC)]]** após neoadjuvância e **melhor sobrevida global** (denkert et al., JAMA Oncol 2018; Loi et al., JCO 2019). Cada incremento de 10% nos TILs estromais reduz o risco de recidiva em ~15–20% no TNBC
 - **HER2+**: TILs elevados correlacionam-se com melhor prognóstico e maior resposta à terapia anti-HER2 + [[tratamento/quimioterapia/index|quimioterapia]] (Loi et al., JCO 2014)
-- **[[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+/HER2−**: o valor prognóstico dos TILs é mais limitado, com associação mais fraca com desfechos; níveis elevados são raros nesta categoria
+- **[[Receptores Hormonais (RE-RP-RH)|RH]]+/HER2−**: o valor prognóstico dos TILs é mais limitado, com associação mais fraca com desfechos; níveis elevados são raros nesta categoria
 
 ## Significado Preditivo
 

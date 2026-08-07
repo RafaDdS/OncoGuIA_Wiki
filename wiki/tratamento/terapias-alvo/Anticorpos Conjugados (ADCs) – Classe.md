@@ -31,7 +31,7 @@ O ADC liga-se ao antígeno de superfície celular, é internalizado por endocito
 | **T-DXd** | [[DESTINY-Breast03]] (Lancet 2023) | 2ª linha HER2+ metastático | PFS HR 0,28 vs T-DM1; SG HR 0,60 |
 | **T-DXd** | [[DESTINY-Breast04]] (NEJM 2022) | [[HER2|HER2-low]] metastático | PFS 10,1 vs 5,4m (HR 0,51) |
 | **Sacituzumabe govitecana** | [[ASCENT]] (NEJM 2021) | TNBC metastático ≥ 2L | PFS 5,6 vs 1,7m (HR 0,41); SG 12,1 vs 6,7m |
-| **Sacituzumabe govitecana** | [[TROPiCS-02]] (JCO 2022) | [[biomarcadores/Receptores Hormonais (RE-RP-RH)|RH]]+ metastático ≥ 2L QT | PFS 5,5 vs 4,0m (HR 0,66) |
+| **Sacituzumabe govitecana** | [[TROPiCS-02]] (JCO 2022) | [[Receptores Hormonais (RE-RP-RH)|RH]]+ metastático ≥ 2L QT | PFS 5,5 vs 4,0m (HR 0,66) |
 | **Datopotamabe deruxtecana** | [[TROPION-Breast01]] (2024) | RH+ metastático ≥ 1L QT | PFS 6,9 vs 4,9m (HR 0,63) |
 
 ## ADCs em Câncer de Mama
