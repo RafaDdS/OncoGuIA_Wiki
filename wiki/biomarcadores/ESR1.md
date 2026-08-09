@@ -31,7 +31,7 @@ O conhecimento do status mutacional do *ESR1* assumiu um papel preditivo fundame
 
 A utilidade clínica deste biomarcador aplica-se majoritariamente ao câncer de mama avançado ou metastático classificado como Receptor Hormonal positivo (HR+) e [[HER2|HER2 negativo]].
 
-* **Degradadores Seletivos do Receptor de Estrogênio (SERDs):** Pacientes com a mutação no *ESR1* têm indicação clara para o uso de medicamentos da classe dos SERDs. O **Elacestranto**, um SERD oral, demonstrou eficácia superior nesses casos específicos e é uma das principais [[tratamento/terapias-alvo/index|terapias-alvo]] aprovadas.
+* **Degradadores Seletivos do Receptor de Estrogênio (SERDs):** Pacientes com a mutação no *ESR1* têm indicação clara para o uso de medicamentos da classe dos SERDs. O **Elacestranto**, um SERD oral, demonstrou eficácia superior nesses casos específicos e é uma das principais [[tratamento/terapias-alvo/index|terapias-alvo]] da classe, embora ainda sem aprovação regulatória no Brasil.
 * **[[Fulvestranto]]:** Outro SERD (injetável) frequentemente utilizado neste cenário. Por atuar ligando-se ao receptor e promovendo sua degradação, o fulvestranto consegue contornar a resistência, diferentemente dos inibidores de aromatase, que apenas bloqueiam a produção de estrogênio.
 * **Redirecionamento de Tratamento:** A detecção da mutação alerta a equipe oncológica de que o uso ou a manutenção de inibidores de aromatase (como letrozol, anastrozol ou exemestano) será ineficaz, evitando que a paciente seja exposta a tratamentos sem benefício clínico.
 

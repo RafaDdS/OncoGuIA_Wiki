@@ -20,7 +20,7 @@ Ao ligar-se ao domínio II, o pertuzumabe bloqueia a dimerização HER2/HER3, a 
 
 ## Indicações
 
-**Neoadjuvante**: o pertuzumabe é recomendado em combinação com trastuzumabe e [[tratamento/quimioterapia/index|quimioterapia]] para tumores [[HER2|HER2+]] estádio II–III, aumentando as taxas de RPC em ~20 pontos percentuais (estudo [[NeoSphere|NEOSPHERE]], RPC 39% vs 21% com H + QT). A RPC com HP + QT é de aproximadamente 45–60%.
+**Neoadjuvante**: o pertuzumabe é recomendado em combinação com trastuzumabe e [[tratamento/quimioterapia/index|quimioterapia]] para tumores [[HER2|HER2+]] estádio II–III, aumentando as taxas de RPC em ~17 pontos percentuais (estudo [[NeoSphere|NEOSPHERE]], RPC 45,8% vs 29% com H + QT). A RPC com HP + QT é de aproximadamente 45–60%.
 
 **Adjuvante**: indicado para pacientes com **linfonodos positivos**, baseado no estudo [[APHINITY]] (HR 0,77 para SLD em N+ com [[Seguimento Pós-Tratamento|seguimento]] de 8,4 anos). Para pacientes N0, o benefício é marginal (HR 0,96) e o pertuzumabe não é rotineiramente recomendado neste subgrupo ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, NE ALTO/FR FORTE).
 
@@ -28,7 +28,7 @@ Ao ligar-se ao domínio II, o pertuzumabe bloqueia a dimerização HER2/HER3, a 
 
 ## Evidências
 
-O pertuzumabe foi avaliado em três cenários principais. No **CLEOPATRA** (1ª linha metastática), a adição de pertuzumabe a trastuzumabe + docetaxel resultou em ganho de SG de 15,7 meses (56,5 vs 40,8 meses; HR 0,68), com 37% das pacientes vivas em 8 anos no braço experimental. No **APHINITY** (adjuvante), o benefício em SLD foi significativo apenas no subgrupo com linfonodos positivos (HR 0,77 em 8,4 anos), com NNT de 39 para prevenir uma recidiva. No **NEOSPHERE** (neoadjuvante), a combinação HP + docetaxel elevou a RPC para 39% vs 21% com H + docetaxel (p = 0,01), e a sequência HP seguida de cirurgia sem quimioterapia alcançou RPC de 11% no subgrupo HR−, sugerindo atividade intrínseca do duplo bloqueio. O estudo **PEONY** confirmou os achados em população asiática.
+O pertuzumabe foi avaliado em três cenários principais. No **CLEOPATRA** (1ª linha metastática), a adição de pertuzumabe a trastuzumabe + docetaxel resultou em ganho de SG de 15,7 meses (56,5 vs 40,8 meses; HR 0,68), com 37% das pacientes vivas em 8 anos no braço experimental. No **APHINITY** (adjuvante), o benefício em SLD foi significativo apenas no subgrupo com linfonodos positivos (HR 0,77 em 8,4 anos), com NNT de 39 para prevenir uma recidiva. No **NEOSPHERE** (neoadjuvante), a combinação HP + docetaxel elevou a RPC para 45,8% vs 29% com H + docetaxel (p = 0,01), e a sequência HP seguida de cirurgia sem quimioterapia alcançou RPC de 11% no subgrupo HR−, sugerindo atividade intrínseca do duplo bloqueio. O estudo **PEONY** confirmou os achados em população asiática.
 
 ## Esquema
 

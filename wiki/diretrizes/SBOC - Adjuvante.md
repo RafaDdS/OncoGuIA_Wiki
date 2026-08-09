@@ -194,7 +194,7 @@ A tabela a seguir resume os principais estudos que abordaram a duração do trat
 
 | Estudo (desenho) | Pacientes | Tratamento | Resultados |
 |------------------|-----------|------------|------------|
-| [[ATLAS]] (Randomizado) | 12.894 pacientes, 5-10 anos de seguimento | TMX 10 anos vs 5 anos | Ganho em SG, SLP e SG |
+| [[ATLAS]] (Randomizado) | 12.894 pacientes, 5-10 anos de seguimento | TMX 10 anos vs 5 anos | Redução de recorrência e mortalidade por câncer de mama |
 | [[aTTom]] (Randomizado) | 6.953 pacientes, 5-10 anos de seguimento | TMX 10 anos vs 5 anos | Ganho em SG e SLP |
 | [[MA.17]] (Randomizado) | 5.187 pacientes pós-menopausa, 5 anos de seguimento | Letrozol 5 anos após 5 anos de TMX | Ganho em SG e SLP |
 | [[NSABP B-14]] (Randomizado) | Pacientes com LFN negativo, 5-10 anos de seguimento | TMX >5 anos vs 5 anos | Sem benefício adicional |
@@ -234,7 +234,7 @@ A tabela a seguir resume os principais estudos que abordaram a duração do trat
 | Letrozol | 2,5 mg/dia | VO contínuo |
 | Exemestano | 25 mg/dia | VO contínuo |
 | Abemaciclibe | 150 mg 2x/dia | VO contínuo, 2 anos |
-| Ribociclibe | 600 mg/dia (3 semanas on/1 off) | VO, 3 anos |
+| Ribociclibe | 400 mg/dia (3 semanas on/1 off) | VO, 3 anos |
 | Olaparibe | 300 mg 2x/dia | VO contínuo, 1 ano |
 | Capecitabina | 2.000 mg/m² D1-14 | A cada 3 semanas, 6-8 ciclos |
 
