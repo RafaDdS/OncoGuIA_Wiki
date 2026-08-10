@@ -19,7 +19,7 @@ O **T-DXd ([[Trastuzumabe|trastuzumabe]] deruxtecana, Enhertu)** é um conjugado
 
 ## Indicações
 
-**Metastático HER2+ (2ª linha em diante)**: o T-DXd é o agente preferencial em segunda linha após progressão a HP + taxano, baseado no [[DESTINY-Breast03]]. A PFS mediana não foi atingida vs 6,8 meses com [[T-DM1 (Trastuzumabe Emtansina)|T-DM1]] (HR 0,28), com SG superior (HR 0,60). A taxa de resposta objetiva foi de 79% vs 35%.
+**Metastático HER2+ (2ª linha em diante)**: o T-DXd é o agente preferencial em segunda linha após progressão a HP + taxano, baseado no [[DESTINY-Breast03]]. Em atualização com seguimento mediano de 41 meses, a SLP mediana foi de 29 vs 7,2 meses com [[T-DM1 (Trastuzumabe Emtansina)|T-DM1]] (HR 0,30; IC 95% 0,24-0,38), com ganho em SG (52,6 vs 42,7 meses; HR 0,73). A taxa de resposta objetiva foi de 79,9% vs 34,2%.
 
 **Metastático [[HER2|HER2-low]] ([[Imuno-histoquímica (IHQ)|IHQ]] 1+ ou IHQ 2+/[[FISH - CISH - SISH|FISH]] negativo)**: no [[DESTINY-Breast04]], o T-DXd demonstrou PFS de 10,1 vs 5,4 meses (HR 0,51) e SG de 23,9 vs 17,5 meses (HR 0,64) no subgrupo [[Receptores Hormonais (RE-RP-RH)|RH]]+, com benefício também no RH−. No [[DESTINY-Breast06]], o benefício estendeu-se a HER2-ultralow (IHQ 0 com coloração fraca) em pacientes com progressão a hormonioterapia e sem [[tratamento/quimioterapia/index|quimioterapia]] prévia para [[doenca-metastatica/index|doença metastática]] ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, NE ALTO/FR FORTE).
 
@@ -27,7 +27,7 @@ O **T-DXd ([[Trastuzumabe|trastuzumabe]] deruxtecana, Enhertu)** é um conjugado
 
 ## Evidências
 
-O T-DXd foi avaliado em múltiplos estudos pivotais. No **DESTINY-Breast01** (fase II, HER2+ previamente tratado), a taxa de resposta objetiva foi de 61% e a SG mediana de 24,6 meses. No **DESTINY-Breast03** (HER2+ 2ª linha), o T-DXd foi superior ao T-DM1 em PFS (não atingida vs 6,8 meses; HR 0,28) e SG (HR 0,60), com taxa de resposta de 79% vs 35%, consolidando-o como agente preferencial após HP + taxano. No **DESTINY-Breast04** (HER2-low metastático), a PFS foi de 10,1 vs 5,4 meses (HR 0,51) e a SG de 23,9 vs 17,5 meses (HR 0,64) no subgrupo RH+. No **DESTINY-Breast06** (HER2-low e ultralow, sem quimioterapia prévia para doença metastática), a PFS foi de 13,2 vs 8,1 meses (HR 0,62) para HER2-low, com resultados consistentes em HER2-ultralow. No **DESTINY-Breast05** (doença residual pós-neoadjuvância), o T-DXd foi superior ao T-DM1, mas ainda aguarda aprovação regulatória no Brasil (SBOC 2026).
+O T-DXd foi avaliado em múltiplos estudos pivotais. No **DESTINY-Breast01** (fase II, HER2+ previamente tratado), a taxa de resposta objetiva foi de 61% e a SG mediana de 24,6 meses. No **DESTINY-Breast03** (HER2+ 2ª linha), o T-DXd foi superior ao T-DM1 em SLP (29 vs 7,2 meses; HR 0,30) e SG (52,6 vs 42,7 meses; HR 0,73), com taxa de resposta de 79,9% vs 34,2%, consolidando-o como agente preferencial após HP + taxano. No **DESTINY-Breast04** (HER2-low metastático), a PFS foi de 10,1 vs 5,4 meses (HR 0,51) e a SG de 23,9 vs 17,5 meses (HR 0,64) no subgrupo RH+. No **DESTINY-Breast06** (HER2-low e ultralow, sem quimioterapia prévia para doença metastática), a PFS foi de 13,2 vs 8,1 meses (HR 0,62) para HER2-low, com resultados consistentes em HER2-ultralow. No **DESTINY-Breast05** (doença residual pós-neoadjuvância), o T-DXd foi superior ao T-DM1, mas ainda aguarda aprovação regulatória no Brasil (SBOC 2026).
 
 ## Esquema
 

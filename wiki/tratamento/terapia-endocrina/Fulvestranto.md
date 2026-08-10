@@ -34,7 +34,8 @@ O fulvestranto liga-se ao RE com afinidade ~89% da do estradiol, induzindo mudan
 
 - **FALCON** (2016): fulvestranto 500 mg vs anastrozol em 1L metastático — PFS 16,6 vs 13,8 meses (HR 0,66; p=0,049), com maior benefício no subgrupo sem doença visceral (NE ALTO)
 - **CONFIRM** (Di Leo et al., 2014): fulvestranto 500 mg vs 250 mg — PFS 6,5 vs 5,5 meses (HR 0,80; p=0,006), SG 26,4 vs 22,3 meses (HR 0,76; p=0,02) — estabelecendo 500 mg como dose padrão
-- **[[MONARCH 3]]**: abemaciclibe + IA ou fulvestranto — PFS HR 0,54
+- **[[MONARCH 3]]**: abemaciclibe + IA (1ª linha) — PFS HR 0,54
+- **[[MONARCH 2]]**: abemaciclibe + fulvestranto (2ª linha) — SG 46,7 vs 37,3 meses (HR 0,757)
 - **[[MONALEESA-2]], [[PALOMA-2]]**: iCDK4/6 + IA como preferenciais em 1L, com fulvestranto como alternativa
 
 ## Toxicidade

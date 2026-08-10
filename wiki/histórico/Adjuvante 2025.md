@@ -28,7 +28,7 @@ Esta página descreve o panorama do [[Tratamento Adjuvante (Conceito)|tratamento
 - **Triplo-negativo**:
   - QT com antraciclina + taxano; [[Capecitabina|capecitabina]] para doença residual ([[Create-X]]); [[Olaparibe|olaparibe]] para BRCA-mutado de alto risco ([[OlympiA]]).
 - **[[Câncer de Mama em Homens|Câncer de mama em homens]]**: Não havia seção específica; as recomendações seguiam as mesmas das mulheres.
-- **[[Carcinoma Ductal in Situ (CDIS)|CDIS]]**: Tamoxifeno 20 mg/dia ou 5 mg/dia (indisponível no Brasil) por 5 anos, ou anastrozol para pós-menopausa.
+- **[[Carcinoma Ductal in Situ (CDIS)|CDIS]]**: Tamoxifeno 20 mg/dia ou 5 mg/dia (indisponível no Brasil) por 3 anos, ou anastrozol para pós-menopausa.
 
 ## Mudanças em 2026
 

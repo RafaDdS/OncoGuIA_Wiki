@@ -22,9 +22,9 @@ As CDK4 e CDK6 são ativadas pela ciclina D1 (superexpressa em tumores RH+ por s
 
 | Estudo | Cenário | Comparação | PFS | SG |
 |--------|---------|------------|-----|-----|
-| **[[PALOMA-2]]** (NEJM 2016) | 1ª linha metastático | Palbociclibe + letrozol vs placebo + letrozol | 27,6 vs 14,5m (HR 0,58) | NR (não significativo) |
+| **[[PALOMA-2]]** (NEJM 2016) | 1ª linha metastático | Palbociclibe + letrozol vs placebo + letrozol | 24,8 vs 14,5m (HR 0,58) | NR (não significativo) |
 | **[[Paloma-3|PALOMA-3]]** (NEJM 2018) | 2ª linha metastático | Palbociclibe + [[Fulvestranto|fulvestranto]] vs placebo + fulvestranto | 9,5 vs 4,6m (HR 0,46) | 34,8 vs 28,0m (HR 0,81) |
-| **[[MONALEESA-2]]** (NEJM 2018, SG 2022) | 1ª linha metastático | Ribociclibe + letrozol vs placebo + letrozol | HR 0,57 | 63,9 vs 51,4m (HR 0,76) |
+| **[[MONALEESA-2]]** (NEJM 2018, SG 2022) | 1ª linha metastático | Ribociclibe + letrozol vs placebo + letrozol | HR 0,56 | 63,9 vs 51,4m (HR 0,76) |
 | **[[MONALEESA-7]]** (NEJM 2019) | Pré-menopausa 1ª linha | Ribociclibe + SO + HT vs placebo | HR 0,55 | HR 0,71 |
 | **[[MONALEESA-3]]** (Lancet Oncol 2021) | 1ª/2ª linha metastático | Ribociclibe + fulvestranto vs placebo + fulvestranto | HR 0,59 | HR 0,73 |
 | **MONARCH-3** (JCO 2017, SG 2023) | 1ª linha metastático | Abemaciclibe + IA vs placebo + IA | 28,2 vs 14,8m (HR 0,54) | 66,8 vs 53,7m (HR 0,80) |
@@ -36,7 +36,7 @@ As CDK4 e CDK6 são ativadas pela ciclina D1 (superexpressa em tumores RH+ por s
 
 ## Perfil de Toxicidade
 
-Os três inibidores demonstraram benefício significativo em sobrevida livre de progressão (PFS) em combinação com IA em primeira linha (MONALEESA-2: ribociclibe PFS HR 0,57; PALOMA-2: palbociclibe HR 0,58; MONARCH-3: abemaciclibe HR 0,54). O MONALEESA-2 demonstrou ganho em SG (63,9 vs 51,4 meses; HR 0,76). Na pré-menopausa, o estudo MONALEESA-7 validou ribociclibe + SO + [[Tamoxifeno|tamoxifeno]] ou IA (SG HR 0,71). Em segunda linha, palbociclibe e ribociclibe combinados a fulvestranto têm dados de PFS (PALOMA-3, MONALEESA-3) e SG.
+Os três inibidores demonstraram benefício significativo em sobrevida livre de progressão (PFS) em combinação com IA em primeira linha (MONALEESA-2: ribociclibe PFS HR 0,56; PALOMA-2: palbociclibe HR 0,58; MONARCH-3: abemaciclibe HR 0,54). O MONALEESA-2 demonstrou ganho em SG (63,9 vs 51,4 meses; HR 0,76). Na pré-menopausa, o estudo MONALEESA-7 validou ribociclibe + SO + [[Tamoxifeno|tamoxifeno]] ou IA (SG HR 0,71). Em segunda linha, palbociclibe e ribociclibe combinados a fulvestranto têm dados de PFS (PALOMA-3, MONALEESA-3) e SG.
 
 ## Perfil de Toxicidade
 

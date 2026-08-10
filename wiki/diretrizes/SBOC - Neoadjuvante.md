@@ -225,7 +225,7 @@ Para pacientes com doença residual invasiva após QT neoadjuvante com bloqueio 
 | AC | Adriamicina 60 mg/m² + Ciclofosfamida 600 mg/m² | A cada 3 semanas, 4 ciclos |
 | Paclitaxel semanal | 80 mg/m² | Semanal, 12 semanas |
 | Paclitaxel dose-densa | 175 mg/m² | A cada 2 semanas, 4 ciclos |
-| Docetaxel | 75-100 mg/m² | A cada 3 semanas, 4 ciclos |
+| Docetaxel | 75 mg/m² | A cada 3 semanas, 4 ciclos |
 | [[Carboplatina + Paclitaxel]] | Paclitaxel 80 mg/m² + Carboplatina AUC 2 | Semanal, 12 semanas |
 | EC90 | Epirrubicina 90 mg/m² + Ciclofosfamida 600 mg/m² | A cada 3 semanas, 4 ciclos |
 

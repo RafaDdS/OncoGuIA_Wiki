@@ -103,7 +103,7 @@ A avaliação da função cardíaca é recomendada para pacientes com plano de u
 
 **Metástases (M)**
 - **M0**: ausência de metástases
-- **cM0(i+)**: células tumorais detectadas por métodos moleculares (circulação, medula, [[Linfonodo Positivo (N+-LFN)|LFN]] regionais)
+- **cM0(i+)**: células tumorais detectadas por métodos moleculares (circulação, medula, [[Linfonodo Positivo (N+-LFN)|LFN]] não regionais)
 - **cM1**: metástases detectadas por exames clínicos ou de imagem
 - **pM1**: metástases confirmadas por histologia (LFN não-regionais >0,2mm)
 

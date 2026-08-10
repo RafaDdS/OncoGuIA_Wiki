@@ -28,9 +28,9 @@ O ADC liga-se ao antígeno de superfície celular, é internalizado por endocito
 |-----|---------------|---------|-------------------|
 | **[[T-DM1 (Trastuzumabe Emtansina)|T-DM1]]** | EMILIA (NEJM 2012) | 2ª linha HER2+ metastático | PFS 9,6 vs 6,4m (HR 0,65); SG 30,9 vs 25,1m |
 | **T-DM1** | [[KATHERINE]] (NEJM 2018) | [[Doença Residual|Doença residual]] pós-neoadj | SLD HR 0,50; SG +4,7% em 7a |
-| **T-DXd** | [[DESTINY-Breast03]] (Lancet 2023) | 2ª linha HER2+ metastático | PFS HR 0,28 vs T-DM1; SG HR 0,60 |
+| **T-DXd** | [[DESTINY-Breast03]] (Lancet 2023) | 2ª linha HER2+ metastático | SLP 29 vs 7,2m (HR 0,30); SG 52,6 vs 42,7m (HR 0,73) |
 | **T-DXd** | [[DESTINY-Breast04]] (NEJM 2022) | [[HER2|HER2-low]] metastático | PFS 10,1 vs 5,4m (HR 0,51) |
-| **Sacituzumabe govitecana** | [[ASCENT]] (NEJM 2021) | TNBC metastático ≥ 2L | PFS 5,6 vs 1,7m (HR 0,41); SG 12,1 vs 6,7m |
+| **Sacituzumabe govitecana** | [[ASCENT]] (NEJM 2021) | TNBC metastático após ≥ 1 linha | PFS 4,8 vs 1,7m (HR 0,51); SG 11,8 vs 6,9m |
 | **Sacituzumabe govitecana** | [[TROPiCS-02]] (JCO 2022) | [[Receptores Hormonais (RE-RP-RH)|RH]]+ metastático ≥ 2L QT | PFS 5,5 vs 4,0m (HR 0,66) |
 | **Datopotamabe deruxtecana** | [[TROPION-Breast01]] (2024) | RH+ metastático ≥ 1L QT | PFS 6,9 vs 4,9m (HR 0,63) |
 
@@ -38,5 +38,5 @@ O ADC liga-se ao antígeno de superfície celular, é internalizado por endocito
 
 - **T-DM1 ([[Trastuzumabe|trastuzumabe]] entansina)**: anti-HER2 acoplado a DM1 (inibidor de microtúbulos). Padrão para doença residual HER2+ pós-neoadjuvância (KATHERINE) e 2ª linha metastática (EMILIA). DAR ~3,5:1. Sem efeito bystander significativo (linker não clivável)
 - **[[T-DXd (Trastuzumabe Deruxtecana)|T-DXd (trastuzumabe deruxtecana)]]**: anti-HER2 acoplado a deruxtecana (inibidor de topoisomerase I). Superior ao T-DM1 em 2ª linha metastática (DESTINY-Breast03) e no cenário HER2-low (DESTINY-Breast04/06). DAR ~8:1. Potente efeito bystander
-- **Sacituzumabe govitecana (SG)**: anti-[[Trop-2]] acoplado a SN-38 (metabólito ativo da irinotecana). Aprovado para TNBC metastático após ≥ 2 linhas (ASCENT, PFS 5,6 vs 1,7 meses) e para RH+/HER2− após progressão a hormonioterapia e ≥ 1 linha de [[tratamento/quimioterapia/index|quimioterapia]] (TROPiCS-02, HR 0,66)
+- **Sacituzumabe govitecana (SG)**: anti-[[Trop-2]] acoplado a SN-38 (metabólito ativo da irinotecana). Aprovado para TNBC metastático após pelo menos 1 linha de tratamento na doença metastática (ASCENT, PFS 4,8 vs 1,7 meses; SG 11,8 vs 6,9 meses; HR 0,51) e para RH+/HER2− após progressão a hormonioterapia e ≥ 1 linha de [[tratamento/quimioterapia/index|quimioterapia]] (TROPiCS-02, HR 0,66)
 - **Datopotamabe deruxtecana (Dato-DXd)**: anti-Trop-2 acoplado a deruxtecana. Em avaliação no cenário metastático RH+ e TNBC (TROPION-Breast01). PFS 6,9 vs 4,9 meses em RH+, com perfil de toxicidade distinto de SG

@@ -50,7 +50,7 @@ Deve-se ressaltar que os testes genômicos Oncotype Dx e Mammaprint não possuem
 - **Quimioterapia alternativa**: [[AC (Doxorrubicina + Ciclofosfamida)|AC]]; [[CMF]] "clássico"; CMF EV (NE MODERADO/FR FRACA).
 - **Hormonioterapia pré-menopausa**: [[Tamoxifeno]] por 5 a 10 anos; [[Supressão Ovariana|supressão ovariana]] por 2-5 anos em combinação a Tamoxifeno ou Inibidor de Aromatase por 5 anos (NE ALTO/FR FORTE).
 - **Hormonioterapia pós-menopausa**: Tamoxifeno por 5 a 10 anos; Anastrozol, Letrozol ou Exemestano por 5 a 10 anos; IA por 2-3 anos seguido por Tamoxifeno até completar 5 anos (NE ALTO/FR FORTE).
-- **Inibidores de CDK4/6**: [[Abemaciclibe]] por 2 anos para alto risco clínico (4+ [[Linfonodo Positivo (N+-LFN)|LFN]] ou 1-3 LFN + T≥5cm/G3/Ki67≥20%) (NE ALTO/FR FORTE); [[Ribociclibe]] por 3 anos para alto risco (N+ qualquer ou N0 com T≥2cm+G3 ou T≥2cm+Ki67≥20%+alto risco genômico) (NE ALTO/FR FORTE).
+- **Inibidores de CDK4/6**: [[Abemaciclibe]] por 2 anos para alto risco clínico (4+ [[Linfonodo Positivo (N+-LFN)|LFN]] ou 1-3 LFN + T≥5cm/G3/Ki67≥20%) (NE ALTO/FR FORTE); [[Ribociclibe]] por 3 anos (em combinação a IA ± supressão ovariana) para alto risco (N+ qualquer ou N0 com T≥2cm e ao menos um dos seguintes: grau 3; grau 2 com Ki67≥20%; ou alto risco genômico) (NE ALTO/FR FORTE).
 - **Inibidor de PARP**: [[Olaparibe]] por 1 ano para portadoras de variante patogênica germinativa de [[BRCA1 - BRCA2|BRCA1/2]] e alto risco (RH+: [[Doença Residual|doença residual]] com [[CPS-EG]]≥3 ou ≥4 LFN comprometidos; TN: doença residual ou T2/N+) (NE ALTO/FR FORTE).
 
 **Subtipo Triplo-Negativo:**
@@ -182,7 +182,7 @@ História clínica e exame físico: a cada 3-6 meses nos primeiros 3 anos, depoi
 
 ### Aconselhamento Genético
 
-Devem ser encaminhados para [[Aconselhamento Genético|aconselhamento genético]] os pacientes com [[diagnostico/index|diagnóstico]] aos 50 anos ou menos; história familiar desconhecida ou limitada; história pessoal de neoplasia de mama com um ou mais familiares próximos com câncer de mama aos 50 anos ou menos, ovário, próstata de alto grau (Gleason ≥ 7) ou intraductal, ou pâncreas; três ou mais familiares com câncer de mama ou próstata (qualquer grau); câncer de mama triplo-negativo; câncer de mama masculino; múltiplos primários de mama; câncer de mama lobular com história pessoal ou familiar para câncer gástrico difuso; possibilidade de indicação terapêutica de inibidor de PARP, incluindo RH+/HER2- ou RH-/HER2- com [[doenca-metastatica/index|doença metastática]] ou com doença localizada de alto risco. Por familiares próximos entendem-se parentes de primeiro, segundo ou terceiro grau de um mesmo lado familiar. Em caso de suspeita de síndromes genéticas, ferramentas para estimativas de risco familiar como Ontario Family History Assessment Tool e Manchester Scoring System podem auxiliar na decisão de encaminhamento à investigação genética.
+Devem ser encaminhados para [[Aconselhamento Genético|aconselhamento genético]] os pacientes com [[diagnostico/index|diagnóstico]] aos 50 anos ou menos; história familiar desconhecida ou limitada; história pessoal de neoplasia de mama; um ou mais familiares próximos com câncer de mama aos 50 anos ou menos, ovário, próstata de alto grau (Gleason ≥ 7) ou intraductal, ou pâncreas; três ou mais familiares com câncer de mama ou próstata (qualquer grau); câncer de mama triplo-negativo; câncer de mama masculino; múltiplos primários de mama; câncer de mama lobular com história pessoal ou familiar para câncer gástrico difuso; possibilidade de indicação terapêutica de inibidor de PARP, incluindo RH+/HER2- ou RH-/HER2- com [[doenca-metastatica/index|doença metastática]] ou com doença localizada de alto risco. Por familiares próximos entendem-se parentes de primeiro, segundo ou terceiro grau de um mesmo lado familiar. Em caso de suspeita de síndromes genéticas, ferramentas para estimativas de risco familiar como Ontario Family History Assessment Tool e Manchester Scoring System podem auxiliar na decisão de encaminhamento à investigação genética.
 
 ---
 
@@ -194,9 +194,9 @@ A tabela a seguir resume os principais estudos que abordaram a duração do trat
 
 | Estudo (desenho) | Pacientes | Tratamento | Resultados |
 |------------------|-----------|------------|------------|
-| [[ATLAS]] (Randomizado) | 12.894 pacientes, 5-10 anos de seguimento | TMX 10 anos vs 5 anos | Redução de recorrência e mortalidade por câncer de mama |
-| [[aTTom]] (Randomizado) | 6.953 pacientes, 5-10 anos de seguimento | TMX 10 anos vs 5 anos | Ganho em SG e SLP |
-| [[MA.17]] (Randomizado) | 5.187 pacientes pós-menopausa, 5 anos de seguimento | Letrozol 5 anos após 5 anos de TMX | Ganho em SG e SLP |
+| [[ATLAS]] (Randomizado) | 6.846 pacientes, 5-10 anos de seguimento | TMX 10 anos vs 5 anos | Redução de recorrência e mortalidade por câncer de mama |
+| [[aTTom]] (Randomizado) | 6.934 pacientes, 5-10 anos de seguimento | TMX 10 anos vs 5 anos | Ganho em SG e SLP |
+| [[MA17R]] (Randomizado) | 1.918 pacientes pós-menopausa, 5 anos de seguimento | 5 anos adicionais de IA vs placebo após 5 anos de HT | Ganho de SLP, sem ganho em SG |
 | [[NSABP B-14]] (Randomizado) | Pacientes com LFN negativo, 5-10 anos de seguimento | TMX >5 anos vs 5 anos | Sem benefício adicional |
 | [[GIM4]] (Randomizado) | 2.056 pacientes pós-menopausa, 5 anos de seguimento | Letrozol 2-3 anos + TMX 2-3 anos vs TMX 5 anos | Ganho em SG e SLP |
 | [[ABCSG-16 (SALSA)|ABCSG-16]] (Randomizado) | 3.484 pacientes pós-menopausa, 5 anos de seguimento | Anastrozol 2 vs 5 anos após 5 anos de HT | Sem benefício para 5 anos; risco de fraturas aumentado |
@@ -210,7 +210,7 @@ A tabela a seguir resume os principais estudos que abordaram a duração do trat
 | AC | Adriamicina 60 mg/m² + Ciclofosfamida 600 mg/m² | A cada 3 semanas, 4 ciclos |
 | Paclitaxel semanal | 80 mg/m² | Semanal, 12 semanas |
 | Paclitaxel dose-densa | 175 mg/m² | A cada 2 semanas, 4 ciclos |
-| Docetaxel | 75-100 mg/m² | A cada 3 semanas, 4 ciclos |
+| Docetaxel | 75 mg/m² | A cada 3 semanas, 4 ciclos |
 | TC | Docetaxel 75 mg/m² + Ciclofosfamida 600 mg/m² | A cada 3 semanas, 4 ciclos |
 | CMF clássico | Ciclofosfamida 100 mg/m² VO D1-14 + Metotrexato 40 mg/m² EV D1,8 + 5-FU 600 mg/m² EV D1,8 | A cada 4 semanas, 6 ciclos |
 

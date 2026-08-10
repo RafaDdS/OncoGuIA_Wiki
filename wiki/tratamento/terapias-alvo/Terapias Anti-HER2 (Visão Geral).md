@@ -27,7 +27,7 @@ Os anticorpos monoclonais [[Trastuzumabe|trastuzumabe]] e [[Pertuzumabe|pertuzum
 | **[[APHINITY]]** (NEJM 2017, atualização 2023) | Adjuvante HER2+ N+ | QT + HP vs QT + H | SLD HR 0,77 em N+ (8,4a) |
 | **[[CLEOPATRA]]** (NEJM 2015) | 1ª linha metastático | HP + docetaxel vs H + docetaxel | SG 56,5 vs 40,8 meses (HR 0,68) |
 | **[[KATHERINE]]** (NEJM 2018, SG 2023) | [[Doença Residual|Doença residual]] pós-neoadj | T-DM1 vs H | SLD HR 0,50; SG +4,7% em 7a |
-| **[[DESTINY-Breast03]]** (NEJM 2022) | 2ª linha metastático | T-DXd vs T-DM1 | PFS não atingida vs 6,8m (HR 0,28) |
+| **[[DESTINY-Breast03]]** (NEJM 2022) | 2ª linha metastático | T-DXd vs T-DM1 | SLP 29 vs 7,2m (HR 0,30); SG 52,6 vs 42,7m (HR 0,73) |
 | **[[DESTINY-Breast04]]** (NEJM 2022) | [[HER2|HER2-low]] metastático | T-DXd vs QT escolha | PFS 10,1 vs 5,4m (HR 0,51) |
 | **[[ExteNET]]** (Lancet Oncol 2017) | Adjuvante estendida | Neratinibe 1a vs placebo | SLD HR 0,73 (em [[Receptores Hormonais (RE-RP-RH)|RH]]+/DR) |
 | **[[DESTINY-Breast05]]** (2024) | Doença residual | T-DXd vs T-DM1 | Superioridade T-DXd (ainda sem aprovação no Brasil) |
@@ -38,4 +38,4 @@ O [[tratamento/index|tratamento]] padrão para doença HER2+ localizada é [[tra
 
 ## Contexto Metastático
 
-Na primeira linha, a combinação pertuzumabe + trastuzumabe + taxano (CLEOPATRA, PFS 18,5 vs 12,4 meses, HR 0,62) é o padrão. Em segunda linha, T-DXd é preferencial sobre T-DM1 (DESTINY-Breast03, PFS não atingido vs 6,8 meses). O T-DXd também é opção para HER2-low ([[Imuno-histoquímica (IHQ)|IHQ]] 1+ ou 2+/ISH negativo) após progressão a hormonioterapia (DESTINY-Breast04/06). O monitoramento cardíaco (ecocardiograma/MUGA a cada 3 meses durante o tratamento) é mandatório devido ao risco de disfunção ventricular esquerda, especialmente com trastuzumabe e pertuzumabe (SBOC 2026).
+Na primeira linha, a combinação pertuzumabe + trastuzumabe + taxano (CLEOPATRA, PFS 18,5 vs 12,4 meses, HR 0,62) é o padrão. Em segunda linha, T-DXd é preferencial sobre T-DM1 (DESTINY-Breast03, SLP 29 vs 7,2 meses; HR 0,30; SG 52,6 vs 42,7 meses; HR 0,73). O T-DXd também é opção para HER2-low ([[Imuno-histoquímica (IHQ)|IHQ]] 1+ ou 2+/ISH negativo) após progressão a hormonioterapia (DESTINY-Breast04/06). O monitoramento cardíaco (ecocardiograma/MUGA a cada 3 meses durante o tratamento) é mandatório devido ao risco de disfunção ventricular esquerda, especialmente com trastuzumabe e pertuzumabe (SBOC 2026).
