@@ -137,14 +137,14 @@ Páginas da categoria **Ensaios Clínicos**.
 
 ---
 
-### Estudos da sua lista que NÃO foram mapeados nas referências dos PDFs
+### Notas sobre mapeamento nas referências das diretrizes
 
-Esses ensaios **não aparecem** nas referências dos documentos enviados. Se você tem páginas wiki para eles, talvez precise verificar se há outras fontes para embasá-los, ou se podem ser removidos/atualizados:
+Os estudos abaixo estão, na verdade, citados nas diretrizes SBOC 2026:
 
-- `ASCENT-04 (KEYNOTE-D19)` – (Estudo de Sacituzumabe + Pembrolizumabe para TNBC metastático)
-- `BRIGHTNESS (Estudo Fase III)` – (Não há menção direta nos PDFs)
-- `NSABP B-20` – (Quimioterapia + Tamoxifeno para N-; clássico, mas não citado diretamente)
-- `RSC4All Tool (Machine Learning)` – (Modelo preditor, não aparece)
-- `GeparQuinto` – (Embora os dados de pCR sejam usados na referência de von Minckwitz 2012, o estudo *[[GeparQuinto]]* em si não é o foco da citação; a referência usa dados agregados de vários estudos. Por isso, mapeei como "Análise de pCR (múltiplos estudos)").
+- `ASCENT-04 (KEYNOTE-D19)` – Citado na diretriz de doença Metastática (ref. 75; texto sobre o estudo).
+- `BRIGHTNESS (Estudo Fase III)` – Citado na diretriz de doença Neoadjuvante (aumento de RPC e melhora de SLE).
+- `RSC4All Tool (Machine Learning)` – Citado na diretriz de Adjuvante (ref. 12; ferramenta de aprendizado de máquina).
+- `GeparQuinto` – Citado na diretriz de doença Neoadjuvante (bloqueio duplo HER2).
+- `NSABP B-20` – (Quimioterapia + Tamoxifeno para N-; não citado diretamente nas diretrizes SBOC 2026).
 
 [← Voltar ao índice geral](../../index.md)

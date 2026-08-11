@@ -23,4 +23,4 @@ status: "draft"
 
 ## Referências
 
-1. Cortés J; Kim SB; Chung WP; Im SA; Park YH; Hegg R; et al. Trastuzumab Deruxtecan versus Trastuzumab Emtansine for Breast Cancer. N Engl J Med. 2022;386(12):1143-54. DOI: [10.1056/NEJMoa2115022](https://doi.org/10.1056/NEJMoa2115022)
+1. Moshina N; Falk RS; Botteri E; Larsen M; Akslen LA; Cairns JA; et al. Quality of life among women with symptomatic, screen-detected, and interval breast cancer, and for women without breast cancer: a retrospective cross-sectional study from Norway. Qual Life Res. 2022;31(4):1057-68. DOI: [10.1007/s11136-021-03017-7](https://doi.org/10.1007/s11136-021-03017-7)

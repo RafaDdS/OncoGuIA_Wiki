@@ -23,7 +23,7 @@ Investigar se a adição de [[Antraciclinas|antraciclinas]] melhora a RPC em com
 ## Resultados e Impacto Clínico:
 
 ### Análise primária (2018)
-- RPC de 68% no braço com antraciclina vs. 67% no braço sem antraciclina (p = 0,95), sem diferença significativa.
+- RPC de 67% no braço com antraciclina vs. 68% no braço sem antraciclina (p = 0,95), sem diferença significativa.
 - Maior toxicidade (incluindo cardíaca) no braço com antraciclina.
 
 ### Seguimento de 3 anos (2020)

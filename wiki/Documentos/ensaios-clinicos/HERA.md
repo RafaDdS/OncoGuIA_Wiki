@@ -22,4 +22,5 @@ title: HERA
 
 ## Referências
 
-1. Sonke GS; van Ommen-Nijhof A; Wortelboer N; van der Noort V; Swinkels ACP; Blommestein HM; et al. Early versus deferred use of CDK4/6 inhibitors in advanced breast cancer. Nature. 2024;636(8042):474-80. DOI: [10.1038/s41586-024-08035-2](https://doi.org/10.1038/s41586-024-08035-2)
+1. Piccart-Gebhart MJ; Procter M; Leyland-Jones B; Goldhirsch A; Untch M; Smith I; et al. Trastuzumab after Adjuvant Chemotherapy in HER2-Positive Breast Cancer. N Engl J Med. 2005;353(16):1659-72. DOI: [10.1056/NEJMoa052306](https://doi.org/10.1056/NEJMoa052306)
+2. Slamon D; Eiermann W; Robert N; Pienkowski T; Martin M; Press M; et al. Adjuvant Trastuzumab in HER2-Positive Breast Cancer. N Engl J Med. 2011;365(14):1273-83. DOI: [10.1056/NEJMoa0910383](https://doi.org/10.1056/NEJMoa0910383)

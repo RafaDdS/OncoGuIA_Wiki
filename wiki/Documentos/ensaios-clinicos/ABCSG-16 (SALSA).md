@@ -23,4 +23,4 @@ status: "draft"
 
 ## Referências
 
-1. Goetz MP; Toi M; Campone M; Sohn J; Paluch-Shimon S; Huober J; et al. [[MONARCH 3]]: Abemaciclib As Initial Therapy for Advanced Breast Cancer. J Clin Oncol. 2017;35(32):3638-46. DOI: [10.1200/JCO.2017.75.6155](https://doi.org/10.1200/JCO.2017.75.6155)
+1. Gnant M; Fitzal F; Rinnerthaler G; Steger GG; Greil-Ressler S; Balic M; et al. Duration of Adjuvant Aromatase-Inhibitor Therapy in Postmenopausal Breast Cancer. N Engl J Med. 2021;385(5):395-405. DOI: [10.1056/NEJMoa2104162](https://doi.org/10.1056/NEJMoa2104162)

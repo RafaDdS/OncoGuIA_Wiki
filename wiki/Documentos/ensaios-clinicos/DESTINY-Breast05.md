@@ -23,7 +23,7 @@ Determinar se T-DXd é superior a T-DM1 como tratamento pós-neoadjuvante em pac
 - Risco importante identificado de doença pulmonar intersticial associada ao T-DXd, que requer monitoramento e manejo adequados.
 
 ## Impacto Clínico:
-T-DXd aumentou significativamente a probabilidade de SLDi versus T-DM1 no cenário de alto risco com doença residual HER2-positiva pós-neoadjuvante, desafiando o padrão atual (T-DM1) com ganho robusto, porém exigindo vigilância ativa para toxicidade pulmonar.
+T-DXd aumentou significativamente a probabilidade de SLDi versus T-DM1 no cenário de alto risco com doença residual HER2-positiva pós-neoadjuvante, desafiando o padrão atual (T-DM1) com ganho robusto, porém exigindo vigilância ativa para toxicidade pulmonar. `<Recomendação divergente>` A SBOC 2026 mantém o T-DM1 por 14 ciclos como recomendação formal para doença residual (NE ALTO/FR FORTE); o T-DXd, embora aprovado pela Anvisa, ainda não foi incorporado às recomendações formais da diretriz.
 
 ## Referências
 

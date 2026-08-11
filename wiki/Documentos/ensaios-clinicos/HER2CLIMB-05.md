@@ -29,7 +29,7 @@ Avaliar se a adição de tucatinibe ao trastuzumabe + pertuzumabe melhora a SLP 
 - **Segurança:** eventos adversos emergentes mais comuns no braço tucatinibe — diarreia (72,7%; grau ≥3: 6,1%), náusea (33,1%; grau ≥3: 0,9%) e elevação de transaminases (ALT 28,2%; AST 25,8%; grau ≥3: 13,5% e 7,1%); 13,5% descontinuaram tucatinibe por eventos adversos.
 
 ## Impacto Clínico:
-O tucatinibe adicionado a trastuzumabe e pertuzumabe melhorou a SLP como manutenção de primeira linha no HER2-positivo metastático, sem novos sinais de segurança, representando opção de [[tratamento/index|tratamento]] nesse cenário (sem aprovação pela Anvisa à época da elaboração da diretriz).
+O tucatinibe adicionado a trastuzumabe e pertuzumabe melhorou a SLP como manutenção de primeira linha no HER2-positivo metastático, sem novos sinais de segurança, representando opção de [[tratamento/index|tratamento]] nesse cenário `<Sem aprovação nacional>` (sem aprovação pela Anvisa; não incluído nas recomendações formais da SBOC 2026).
 
 ## Referências
 

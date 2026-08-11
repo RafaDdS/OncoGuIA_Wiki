@@ -23,4 +23,4 @@ O regime sem antraciclina ([[TCH - TCHP|TCHP]]) demonstrou alta taxa de RPC (63%
 
 ## Referências
 
-1. O'Brien MER; Wigler N; Inbar M; Rosso R; Grischke E; Santoro A; et al. Reduced cardiotoxicity and comparable efficacy in a phase III trial of pegylated liposomal doxorubicin HCl (CAELYX/Doxil) versus conventional doxorubicin for first-line treatment of metastatic breast cancer. Ann Oncol. 2004;15(3):440-9. DOI: [10.1093/annonc/mdh097](https://doi.org/10.1093/annonc/mdh097)
+1. Schneeweiss A; Chia S; Hickish T; Harvey V; Eniu A; Hegg R; et al. Pertuzumab plus trastuzumab in combination with standard neoadjuvant anthracycline-containing and anthracycline-free chemotherapy regimens in patients with HER2-positive early breast cancer: a randomized phase II cardiac safety study (TRYPHAENA). Ann Oncol. 2013;24(9):2278-84. DOI: [10.1093/annonc/mdt182](https://doi.org/10.1093/annonc/mdt182)

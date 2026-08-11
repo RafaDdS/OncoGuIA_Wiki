@@ -12,7 +12,7 @@ status: "draft"
  Giaquinto AN, Sung H, Miller KD, et al. / Heer E, Harper A, et al. 1
 
 ## Ano de Publicação
- 2022 (GLOBOCAN) e 2020 (Heer E et al.) 1
+ 2024 (GLOBOCAN 2022); 2022 (Breast Cancer Statistics); 2020 (Heer E et al.) 1
 
 ## Objetivos
  Fornecer estatísticas e estimativas globais de incidência e mortalidade por [[Câncer de Mama (Visão Geral)|câncer de mama]] (GLOBOCAN) e avaliar tendências populacionais entre mulheres na pré e pós-menopausa. 1
@@ -22,4 +22,6 @@ status: "draft"
 
 ## Referências
 
-1. Cortés J; Hurvitz SA; Im SA; Iwata H; Curigliano G; Kim SB; et al. Trastuzumab deruxtecan versus trastuzumab emtansine in [[HER2]]-positive metastatic breast cancer: long-term survival analysis of the [[DESTINY-Breast03]] trial. Nat Med. 2024;30(8):2208-15. DOI: [10.1038/s41591-024-03021-7](https://doi.org/10.1038/s41591-024-03021-7)
+1. Giaquinto AN; Sung H; Miller KD; Kramer JL; Newman LA; Minihan A; et al. Breast Cancer Statistics, 2022. CA Cancer J Clin. 2022;72(6):524-41. DOI: [10.3322/caac.21754](https://doi.org/10.3322/caac.21754)
+2. Heer E; Harper A; Escandor N; Sung H; McCormack V; Fidler-Benaoudia MM. Global burden and trends in premenopausal and postmenopausal breast cancer: a population-based study. Lancet Glob Health. 2020;8(8):e1027-37. DOI: [10.1016/S2214-109X(20)30215-1](https://doi.org/10.1016/S2214-109X(20)30215-1)
+3. Bray F; Laversanne M; Sung H; Ferlay J; Siegel RL; Soerjomataram I; et al. Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin. 2024;74(3):229-63. DOI: [10.3322/caac.21834](https://doi.org/10.3322/caac.21834)

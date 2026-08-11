@@ -24,4 +24,4 @@ status: "draft"
 
 ## Referências
 
-1. Baselga J; Cortés J; Kim SB; Im SA; Hegg R; Im YH; et al. Pertuzumab plus Trastuzumab plus Docetaxel for Metastatic Breast Cancer. N Engl J Med. 2012;366(2):109-19. DOI: [10.1056/NEJMoa1113216](https://doi.org/10.1056/NEJMoa1113216)
+1. Marmot MG; Altman DG; Cameron DA; Dewar JA; Thompson SG; Wilcox M. The benefits and harms of breast cancer screening: an independent review. Br J Cancer. 2013;108(11):2205-40. DOI: [10.1038/bjc.2013.177](https://doi.org/10.1038/bjc.2013.177)

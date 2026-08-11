@@ -24,4 +24,4 @@ title: NSABP B-28
 
 ## Referências
 
-1. Mamounas EP; Bryant J; Lembersky B; Fehrenbacher L; Sedlacek SM; Fisher B; et al. Paclitaxel after doxorubicin plus cyclophosphamide as adjuvant chemotherapy for node-positive breast cancer. J Clin Oncol. 2005;23(16):3686-96. DOI: [10.1200/JCO.2005.09.085](https://doi.org/10.1200/JCO.2005.09.085)
+1. Mamounas EP; Bryant J; Lembersky B; Fehrenbacher L; Sedlacek SM; Fisher B; et al. Paclitaxel after doxorubicin plus cyclophosphamide as adjuvant chemotherapy for node-positive breast cancer. J Clin Oncol. 2005;23(16):3686-96. DOI: [10.1200/JCO.2005.10.517](https://doi.org/10.1200/JCO.2005.10.517)

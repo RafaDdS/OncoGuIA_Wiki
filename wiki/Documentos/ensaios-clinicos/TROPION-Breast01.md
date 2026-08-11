@@ -21,10 +21,10 @@ Estudo de fase III, global, aberto, randomizado (NCT05104866), que avaliou o ADC
 Avaliar a eficácia e segurança de datopotamabe deruxtecana (Dato-DXd) versus quimioterapia padrão em pacientes com câncer de mama metastático [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]] previamente tratado.
 
 ## Resultados e Impacto Clínico:
-Foram randomizados 732 pacientes (365 Dato-DXd vs. 367 ICC). O Dato-DXd reduziu significativamente o risco de progressão ou morte versus ICC (SLP por revisão central HR 0,63; IC 95% 0,52–0,76), com SLP mediana de 6,9 vs. 4,9 meses. O perfil de segurança foi favorável e manejável, com náusea (51,1%; grau ≥3 em 1,4%) e estomatite (50%; grau ≥3 em 6,4%) com Dato-DXd, versus neutropenia (42,5%; grau ≥3 em 30,8%) com ICC. Os resultados suportam o Dato-DXd como nova opção de ADC anti-Trop-2 para este cenário, aprovado recentemente pela Anvisa.
+Foram randomizados 732 pacientes (365 Dato-DXd vs. 367 ICC). O Dato-DXd reduziu significativamente o risco de progressão ou morte versus ICC (SLP por revisão central HR 0,63; IC 95% 0,52–0,76), com SLP mediana de 6,9 vs. 4,9 meses. O perfil de segurança foi favorável e manejável, com náusea (51,1%; grau ≥3 em 1,4%) e estomatite (50%; grau ≥3 em 6,4%) com Dato-DXd, versus neutropenia (42,5%; grau ≥3 em 30,8%) com ICC. Os resultados suportam o Dato-DXd como nova opção de ADC anti-Trop-2 para este cenário, aprovado pela Anvisa em março de 2026. `<Recomendação divergente>` A SBOC 2026 não inclui o Dato-DXd no fluxograma de tratamento RH+/HER2- (cita o estudo apenas como referência); a incorporação à recomendação formal ainda não ocorreu na diretriz.
 
 ## Impacto Clínico:
-Consolidou o Dato-DXd como uma nova opção de ADC anti-Trop-2 para pacientes com câncer de mama metastático [[Receptores Hormonais (RE-RP-RH)|RH]]+/HER2- que progrediram à terapia endócrina e à quimioterapia, com benefício de SLP e perfil de segurança favorável.
+Consolidou o Dato-DXd como uma nova opção de ADC anti-Trop-2 para pacientes com câncer de mama metastático [[Receptores Hormonais (RE-RP-RH)|RH]]+/HER2- que progrediram à terapia endócrina e à quimioterapia, com benefício de SLP e perfil de segurança favorável. `<Recomendação divergente>` Opção aprovada pela Anvisa, porém não incorporada às recomendações formais da SBOC 2026.
 
 ## Referências
 

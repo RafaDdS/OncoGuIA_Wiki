@@ -18,7 +18,7 @@ Não especificado no texto.
 Avaliar a eficácia de sacituzumabe govitecana como [[tratamento/index|tratamento]] de primeira linha versus [[tratamento/quimioterapia/index|quimioterapia]] padrão em pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] triplo-negativo metastático não elegíveis para [[tratamento/imunoterapia/index|imunoterapia]].
 
 ## Resultados e Impacto Clínico:
-Demonstrou melhora significativa em SLP (HR 0,62). Ainda não possui aprovação regulatória no Brasil para esta indicação no momento da elaboração da diretriz.
+Demonstrou melhora significativa em SLP (HR 0,62). `<Sem aprovação nacional>` sacituzumabe govitecana como primeira linha não se encontra no fluxograma de tratamento da SBOC 2026 por ainda não haver aprovação regulatória para esta indicação no Brasil.
 
 ## Referências
 
