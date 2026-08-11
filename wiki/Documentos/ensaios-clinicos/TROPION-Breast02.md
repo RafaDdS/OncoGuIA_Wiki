@@ -19,3 +19,7 @@ Avaliar a eficácia e segurança de datopotamabe deruxtecana (Dato-DXd) versus [
 
 ## Resultados e Impacto Clínico:
 Demonstrou melhora significativa em SLP (10,8 vs 5,6 meses; HR 0,57) e SG (23,7 vs 18,7 meses; HR 0,79), estabelecendo uma nova opção de ADC de primeira linha para este cenário. Ainda não possui aprovação regulatória no Brasil para esta indicação.
+
+## Referências
+
+1. Dent R; Shao Z; Schmid P; et al. First-line (1L) datopotamab deruxtecan (Dato-DXd) vs chemotherapy in patients with locally recurrent inoperable or metastatic triple-negative breast cancer (mTNBC) for whom immunotherapy was not an option: Primary results from the randomised, phase III TROPION-Breast02 trial. Ann Oncol. 2025;36(suppl. 1):S1566-7. DOI: [10.1016/j.annonc.2025.09.031](https://doi.org/10.1016/j.annonc.2025.09.031)

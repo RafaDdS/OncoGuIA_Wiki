@@ -19,3 +19,7 @@ status: "draft"
 
 ## Resultados e Impacto Clínico
  O resultado final do estudo randomizado controlado forneceu dados de longo prazo apoiando o benefício da intervenção mais precoce na redução efetiva das mortes pela doença nesta faixa etária específica. 1
+
+## Referências
+
+1. Duffy SW; Vulkan D; Cuckle H; et al. Effect of mammographic screening from age 40 years on breast cancer mortality (UK Age trial): final results of a randomised, controlled trial. Lancet Oncol. 2020;21(9):1165-72. DOI: [10.1016/S1470-2045(20)30398-3](https://doi.org/10.1016/S1470-2045(20)30398-3)

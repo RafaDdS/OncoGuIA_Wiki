@@ -19,3 +19,7 @@ Avaliar a eficácia da adição de [[Palbociclibe|palbociclibe]] à terapia de m
 
 ## Resultados e Impacto Clínico:
 Demonstrou ganho significativo em SLP (44,3 vs 29,1 meses; HR 0,75), representando mais de 15 meses de benefício. Ainda não possui aprovação regulatória no Brasil.
+
+## Referências
+
+1. Metzger O; Mandrekar SJ; Goel S; et al. Palbociclib for Hormone-Receptor-Positive, HER2-Positive Advanced Breast Cancer (PATINA). N Engl J Med. 2026;394(5):451-62. DOI: [10.1056/NEJMoa2511218](https://doi.org/10.1056/NEJMoa2511218)

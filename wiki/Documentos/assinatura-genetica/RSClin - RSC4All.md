@@ -21,5 +21,9 @@ O Recurrence Score (RS) isolado não leva em conta o tamanho físico do tumor ou
 
 O modelo fundacional (RSClin) foi estruturado a partir de metanálises profundas de estudos clássicos do *National Surgical Adjuvant Breast and Bowel Project* (NSABP), incluindo o B-14 e o B-20. As validações mostraram que a combinação de dados genômicos e clínicos supera a precisão de ambas as abordagens quando utilizadas de forma isolada.
 
+## Referências
+
+1. Sparano JA; Gray RJ; Ravdin PM; et al. Clinical and Genomic Risk to Guide the Use of Adjuvant Therapy for Breast Cancer (RSClin). N Engl J Med. 2019;380(25):2395-405. DOI: [10.1056/NEJMoa1904819](https://doi.org/10.1056/NEJMoa1904819)
+2. Jacobs F; D'Amico S; Ferraro E; et al. RSC4All as a machine learning nomogram to [[PREDICT|predict]] RSClin results in HR+/[[HER2]]- node-negative early breast cancer. [[ESMO]] Open. 2025;10(10):105830. DOI: [10.1016/j.esmoop.2025.105830](https://doi.org/10.1016/j.esmoop.2025.105830)
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: RSClin / RSC4All.*

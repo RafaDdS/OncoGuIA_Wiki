@@ -19,3 +19,7 @@ Avaliar a eficácia de [[Carboplatina|carboplatina]] versus docetaxel como [[tra
 
 ## Resultados e Impacto Clínico:
 Na população geral, não houve diferença. No entanto, em pacientes com mutação [[BRCA1 - BRCA2|BRCA1/2]], a carboplatina demonstrou benefício significativo em taxa de resposta e tempo até progressão, estabelecendo a platina como uma opção preferencial neste subgrupo.
+
+## Referências
+
+1. Tutt A; Tovey H; Cheang MCU; et al. Carboplatin in BRCA1/2-mutated and triple-negative breast cancer BRCAness subgroups: the TNT Trial. Nat Med. 2018;24(5):628-37. DOI: [10.1038/s41591-018-0009-7](https://doi.org/10.1038/s41591-018-0009-7)

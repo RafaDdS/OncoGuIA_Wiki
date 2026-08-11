@@ -25,3 +25,8 @@ No Brasil, dados do **SISMAMA/DATASUS** e do **INCA** indicam que a cobertura ma
 ## Impacto da Baixa Cobertura
 
 A baixa cobertura mamográfica no Brasil traduz-se em diagnóstico tardio: aproximadamente **30–40% dos casos** de câncer de mama no país são diagnosticados em estádios III ou IV (INCA), quando as chances de cura são reduzidas. Estima-se que o aumento da cobertura mamográfica para 70% poderia reduzir a mortalidade por câncer de mama no Brasil em 15–25% em uma década, com base nos dados de efetividade do rastreamento ([[EBCTCG (Atlas 2005)|EBCTCG]], RR 0,80). A SBOC 2026 reforça a recomendação de rastreamento mamográfico anual a partir dos 40 anos como estratégia para aumentar a cobertura e diagnosticar a doença em estádios iniciais (NE ALTO/FR FORTE).
+
+## Referências
+
+1. Sung H; Ferlay J; Siegel RL; et al. Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. CA Cancer J Clin. 2021;71(3):209-49. DOI: [10.3322/caac.21660](https://doi.org/10.3322/caac.21660)
+2. Early Breast Cancer Trialists' Collaborative Group (EBCTCG). Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: an overview of the randomised trials. Lancet. 2005;365(9472):1687-717. DOI: [10.1016/S0140-6736(05)66544-0](https://doi.org/10.1016/S0140-6736(05)66544-0)

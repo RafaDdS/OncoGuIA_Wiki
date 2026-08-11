@@ -22,5 +22,8 @@ O PREDICT é uma ferramenta online gratuita e um dos modelos preditivos prognós
 
 O modelo matemático do PREDICT foi inicialmente desenvolvido a partir de um vasto banco de dados do *UK Cancer Registry* (Registro de Câncer do Reino Unido). Posteriormente, passou por múltiplas validações externas independentes em diversas coortes ao redor do mundo, confirmando sua alta precisão preditiva, o que garantiu seu endosso por [[Documentos/diretrizes/index|diretrizes]] internacionais de mastologia e oncologia.
 
+## Referências
+
+1. Wishart GC; Azzato EM; Greenberg DC; et al. PREDICT: a new UK prognostic model that predicts survival following surgery for invasive breast cancer. Breast Cancer Res. 2010;12(1):R1. DOI: [10.1186/bcr2464](https://doi.org/10.1186/bcr2464)
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: PREDICT.*

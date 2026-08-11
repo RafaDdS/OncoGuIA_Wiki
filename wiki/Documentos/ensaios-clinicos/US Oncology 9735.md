@@ -19,3 +19,7 @@ status: "draft"
 
 ## Resultados e Impacto Clínico:
  Demonstrou [[Sobrevida Global (SG)|sobrevida global (SG)]] superior para o regime TC, estabelecendo uma alternativa viável e poupadora do coração aos esquemas com [[Antraciclinas|antraciclinas]].
+
+## Referências
+
+1. Jones S; Holmes FA; O'Shaughnessy J; et al. Docetaxel With Cyclophosphamide Is Associated With an Overall Survival Benefit Compared With Doxorubicin and Cyclophosphamide: 7-Year Follow-Up of US Oncology Research Trial 9735. J Clin Oncol. 2009;27(8):1177-83. DOI: [10.1200/JCO.2008.18.4028](https://doi.org/10.1200/JCO.2008.18.4028)

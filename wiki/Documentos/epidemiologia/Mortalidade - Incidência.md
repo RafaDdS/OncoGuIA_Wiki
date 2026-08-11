@@ -27,3 +27,8 @@ A mortalidade por câncer de mama no Brasil apresenta taxa ajustada por idade de
 ## Redução de Mortalidade pelo Rastreamento
 
 A metanálise do **[[EBCTCG (Atlas 2005)|EBCTCG]]** (Lancet 2011), com dados de 11 [[Documentos/ensaios-clinicos/index|ensaios clínicos]] randomizados de rastreamento mamográfico, demonstrou uma **redução relativa de aproximadamente 20% na mortalidade** por câncer de mama entre mulheres convidadas para rastreamento (RR 0,80; IC 95% 0,73–0,88). O benefício foi mais pronunciado em mulheres de 50 a 69 anos. A [[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, em sua diretriz de rastreamento, endossa esses dados e recomenda [[Mamografia|mamografia]] anual para mulheres de 40 a 74 anos como a estratégia mais eficaz para redução de mortalidade (NE ALTO/FR FORTE).
+
+## Referências
+
+1. Sung H; Ferlay J; Siegel RL; et al. Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. CA Cancer J Clin. 2021;71(3):209-49. DOI: [10.3322/caac.21660](https://doi.org/10.3322/caac.21660)
+2. Gøtzsche PC; Jørgensen KJ. Screening for breast cancer with mammography. Cochrane Database Syst Rev. 2013;6(6):CD001877. DOI: [10.1002/14651858.CD001877.pub5](https://doi.org/10.1002/14651858.CD001877.pub5)

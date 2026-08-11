@@ -19,3 +19,7 @@ title: BCIRG-006
 
 ## Resultados e Impacto Clínico:
  Demonstrou que tanto [[AC (Doxorrubicina + Ciclofosfamida)|AC]] seguido de docetaxel + trastuzumabe quanto TCH são eficazes, com TCH oferecendo uma opção não antraciclina com menor risco de cardiotoxicidade, ampliando as opções de [[Tratamento Adjuvante (Conceito)|tratamento adjuvante]] para HER2-positivo.
+
+## Referências
+
+1. Slamon D; Eiermann W; Robert N; et al. Adjuvant Trastuzumab in HER2-Positive Breast Cancer (BCIRG-006). N Engl J Med. 2011;365(14):1273-83. DOI: [10.1056/NEJMoa0910383](https://doi.org/10.1056/NEJMoa0910383)

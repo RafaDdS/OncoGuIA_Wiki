@@ -19,3 +19,7 @@ status: "draft"
 
 ## Resultados e Impacto Clínico:
  SG mediana notável de 56,5 meses, tornando-se o padrão de cuidado para [[doenca-metastatica/index|doença metastática]] HER2-positiva.
+
+## Referências
+
+1. Baselga J; Cortés J; Kim SB; et al. Pertuzumab plus Trastuzumab plus Docetaxel for Metastatic Breast Cancer (CLEOPATRA). N Engl J Med. 2012;366(2):109-19. DOI: [10.1056/NEJMoa1113216](https://doi.org/10.1056/NEJMoa1113216)

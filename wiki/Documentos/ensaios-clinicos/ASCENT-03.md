@@ -19,3 +19,7 @@ Avaliar a eficácia de sacituzumabe govitecana como [[tratamento/index|tratament
 
 ## Resultados e Impacto Clínico:
 Demonstrou melhora significativa em SLP (HR 0,62). Ainda não possui aprovação regulatória no Brasil para esta indicação no momento da elaboração da diretriz.
+
+## Referências
+
+1. Cortés J; Punie K; Barrios C; et al. Sacituzumab Govitecan in Untreated, Advanced Triple-Negative Breast Cancer ([[ASCENT]]-03). N Engl J Med. 2025;393(19):1912-25. DOI: [10.1056/NEJMoa2511734](https://doi.org/10.1056/NEJMoa2511734)

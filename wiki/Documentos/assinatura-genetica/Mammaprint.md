@@ -26,5 +26,8 @@ O Mammaprint é um ensaio genômico baseado em tecnologia de *microarray* que an
 * **Estudo [[MINDACT]]:** Foi o pilar de validação do Mammaprint. Este ensaio prospectivo provou que pacientes com "Alto Risco Clínico" porém "Baixo Risco Genômico" podiam ser poupadas da quimioterapia sem comprometer significativamente a sobrevida global.
 * Em atualizações mais recentes do estudo ([[Seguimento Pós-Tratamento|seguimento]] de longo prazo), notou-se que em pacientes jovens (< 50 anos) com perfil discordante, um pequeno benefício da quimioterapia não pôde ser completamente descartado, orientando os médicos a usarem o teste com cautela redobrada nessa faixa etária específica.
 
+## Referências
+
+1. Cardoso F; van't Veer LJ; Bogaerts J; et al. 70-Gene Signature as an Aid to Treatment Decisions in Early-[[Study of Adjuvant Therapy in Premenopausal Women (STAGE)|Stage]] Breast Cancer (MINDACT). N Engl J Med. 2016;375(8):717-29. DOI: [10.1056/NEJMoa1602253](https://doi.org/10.1056/NEJMoa1602253)
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: Mammaprint.*

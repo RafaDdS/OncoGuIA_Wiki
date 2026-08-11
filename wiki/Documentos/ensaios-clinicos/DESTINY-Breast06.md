@@ -19,3 +19,7 @@ Avaliar a eficácia de [[T-DXd (Trastuzumabe Deruxtecana)|T-DXd]] versus [[trata
 
 ## Resultados e Impacto Clínico:
 Demonstrou melhora significativa em SLP para T-DXd (13,2 vs 8,1 meses; HR 0,62) na população [[HER2|HER2-low]], com resultados consistentes em HER2-ultralow, expandindo o benefício do T-DXd para pacientes com expressão de HER2 muito baixa.
+
+## Referências
+
+1. Bardia A; Hu X; Dent R; et al. Trastuzumab Deruxtecan after Endocrine Therapy in Metastatic Breast Cancer (DESTINY-Breast06). N Engl J Med. 2024;391(22):2110-22. DOI: [10.1056/NEJMoa2407086](https://doi.org/10.1056/NEJMoa2407086)

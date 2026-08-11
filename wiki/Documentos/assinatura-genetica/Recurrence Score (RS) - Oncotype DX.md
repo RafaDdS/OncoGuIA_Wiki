@@ -35,5 +35,9 @@ O Oncotype DX é um painel genômico de 21 genes (16 genes relacionados ao cânc
 * 
 **Estudo [[RxPONDER (SWOG S1007)|RxPonder (SWOG S1007)]]:** Avaliou pacientes com 1 a 3 linfonodos axilares positivos, câncer de mama RH+ e HER2- com Recurrence Score < 25. Seus resultados foram divisores de águas ao confirmar que mulheres na pós-menopausa nesse cenário não ganham benefício com a quimioterapia, alterando protocolos globais.
 
+## Referências
+
+1. Sparano JA; Gray RJ; Makower DF; et al. Adjuvant Chemotherapy Guided by a 21-Gene Expression Assay in Breast Cancer (TAILORx). N Engl J Med. 2018;379(2):111-21. DOI: [10.1056/NEJMoa1804710](https://doi.org/10.1056/NEJMoa1804710)
+2. Kalinsky K; Barlow WE; Gralow JR; et al. 21-Gene Assay to Inform Chemotherapy Benefit in Node-Positive Breast Cancer (RxPONDER/SWOG S1007). N Engl J Med. 2021;385(25):2336-47. DOI: [10.1056/NEJMoa2108873](https://doi.org/10.1056/NEJMoa2108873)
 ---
 *Página gerada a partir de 2 termo(s) original(is) do glossário: Oncotype DX, RS (Recurrence Score).*
