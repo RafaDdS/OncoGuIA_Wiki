@@ -9,18 +9,27 @@ status: "draft"
 # Intergroup C9741
 
 ## Autores Principais:
- Citron ML, Berry DA, Cirrincione C, et al.
+Citron ML, Berry DA, Cirrincione C, et al. (2003)
 
 ## Ano de Publicação:
- 2003
+2003
+
+## Delineamento (Métodos):
+Ensaio randomizado, multicêntrico, com desenho fatorial 2×2 (NCT00003796). Randomizou **2.005 mulheres** com [[Câncer de Mama (Visão Geral)|câncer de mama]] inicial com linfonodos axilares positivos para quatro regimes de [[tratamento/quimioterapia/index|quimioterapia]] adjuvante: (I) sequencial doxorrubicina (A) → paclitaxel (T) → ciclofosfamida (C) a cada 3 semanas; (II) sequencial a cada 2 semanas com filgrastim; (III) [[AC (Doxorrubicina + Ciclofosfamida)|AC]] concomitante → T a cada 3 semanas; (IV) [[AC → T (AC seguido de Paclitaxel)|AC → T]] a cada 2 semanas com filgrastim. Comparou densidade de dose (a cada 2 vs 3 semanas) e sequência (sequencial vs concomitante). Endpoints: sobrevida livre de doença (SLD) e [[Sobrevida Global (SG)|sobrevida global (SG)]].
 
 ## Objetivos:
- Avaliar a eficácia de regimes de [[tratamento/quimioterapia/index|quimioterapia]] dose-densa (administração a cada duas semanas) versus o cronograma padrão (a cada três semanas).
+Avaliar se a densidade de dose (intervalos a cada 2 semanas com suporte de filgrastim) e o esquema sequencial melhoram SLD e SG em relação ao cronograma convencional (a cada 3 semanas) e ao esquema concomitante, respectivamente.
 
 ## Resultados e Impacto Clínico:
- Provou que a administração dose-densa de [[AC (Doxorrubicina + Ciclofosfamida)|AC]] seguido de paclitaxel melhora tanto a sobrevida livre de doença (SLD) quanto a SG em pacientes com linfonodo positivo, estabelecendo um novo padrão de cuidado.
 
+### Análise primária (2003)
+- Com [[Seguimento Pós-Tratamento|seguimento]] mediano de **36 meses**, o **esquema dose-denso** melhorou o endpoint primário: **SLD (risco relativo 0,74; P = 0,010)** e **SG (RR 0,69; P = 0,013)**.
+- **SLD em 4 anos: 82%** com os regimes dose-densos versus **75%** com os convencionais.
+- **Sem diferença entre esquemas sequenciais e concomitantes** em SLD ou SG, e sem interação entre densidade e sequência.
+- Neutropenia grave menos frequente nos regimes dose-densos (suportados por filgrastim).
 
+## Impacto Clínico:
+Estabeleceu o princípio da **densidade de dose** na quimioterapia adjuvante do câncer de mama com linfonodos positivos, mostrando que regimes a cada 2 semanas com suporte de fator de crescimento melhoram SLD e SG, tornando-se padrão de cuidado (ex.: AC dose-denso).
 
 ## Referências
 

@@ -23,4 +23,4 @@ Demonstrou que a combinação de ribociclibe com HT resultou em [[Sobrevida Livr
 
 ## Referências
 
-1. Lu YS; Mahidin EIBM; Azim H; Eralp Y; Yap YS; Im SA; et al. Final Results of RIGHT Choice: Ribociclib Plus Endocrine Therapy Versus Combination Chemotherapy in Premenopausal Women With Clinically Aggressive Hormone Receptor-Positive/Human Epidermal Growth Factor Receptor 2-Negative Advanced Breast Cancer. J Clin Oncol. 2024;42(23):2812-21. DOI: [10.1016/j.annonc.2024.10.015](https://doi.org/10.1016/j.annonc.2024.10.015)
+1. Lu YS; Mahidin EIBM; Azim H; Eralp Y; Yap YS; Im SA; et al. Final Results of RIGHT Choice: Ribociclib Plus Endocrine Therapy Versus Combination Chemotherapy in Premenopausal Women With Clinically Aggressive Hormone Receptor-Positive/Human Epidermal Growth Factor Receptor 2-Negative Advanced Breast Cancer. J Clin Oncol. 2024;42(23):2812-21. DOI: [10.1200/JCO.24.00144](https://doi.org/10.1200/JCO.24.00144)
