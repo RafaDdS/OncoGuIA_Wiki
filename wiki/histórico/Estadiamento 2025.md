@@ -18,7 +18,7 @@ Esta página descreve o panorama do [[estadiamento/index|estadiamento]] e [[diag
 
 ## Em 2025 (Contexto)
 
-- **Rastreamento**: Recomendação anual para mulheres de 40–74 anos; dados epidemiológicos mencionavam tendência de aumento da mortalidade no Brasil, sem detalhamento sobre cobertura.
+- **[[Documentos/rastreamento/index|Rastreamento]]**: Recomendação anual para mulheres de 40–74 anos; dados epidemiológicos mencionavam tendência de aumento da mortalidade no Brasil, sem detalhamento sobre cobertura.
 - **Exames de [[diagnostico/imagem/index|imagem]]**:
   - [[Mamografia]] bilateral e ultrassom de mamas e axilas como parte da avaliação.
   - RM de mamas como opção em situações especiais.

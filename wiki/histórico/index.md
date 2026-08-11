@@ -20,7 +20,7 @@ Esta seção documenta a evolução das recomendações da [[Sociedade Brasileir
 
 ## Por que um histórico?
 
-A oncologia avança rapidamente. Novos [[ensaios-clinicos/index|ensaios clínicos]], aprovações regulatórias e metanálises frequentemente alteram o padrão de cuidado. Manter um registro das mudanças ajuda a:
+A oncologia avança rapidamente. Novos [[Documentos/ensaios-clinicos/index|ensaios clínicos]], aprovações regulatórias e metanálises frequentemente alteram o padrão de cuidado. Manter um registro das mudanças ajuda a:
 
 - Entender a **justificativa** por trás de cada nova recomendação.
 - Identificar **estudos-chave** que impulsionaram as alterações.
@@ -30,7 +30,7 @@ A oncologia avança rapidamente. Novos [[ensaios-clinicos/index|ensaios clínico
 
 | Categoria | Mudança Principal | Estudo(s) / Fonte |
 | :--- | :--- | :--- |
-| **Rastreamento** | Atualização dos dados epidemiológicos brasileiros (cobertura ~30%, tendência de aumento da mortalidade). | INCA, Freitas-Junior et al. (JCO GO 2023) |
+| **[[Documentos/rastreamento/index|Rastreamento]]** | Atualização dos dados epidemiológicos brasileiros (cobertura ~30%, tendência de aumento da mortalidade). | INCA, Freitas-Junior et al. (JCO GO 2023) |
 | **[[estadiamento/index|Estadiamento]]** | Recomendação formal do ultrassom de mamas/axilas (NE ALTO); inclusão de [[Linfócitos Infiltrantes Tumorais (TILs)|TILs]]; não indicação de [[PD-L1]] na doença inicial. | SBOC 2026, [[ESMO]] 2024, [[ASCO]]/CAP 2020 |
 | **Adjuvante ([[Receptores Hormonais (RE-RP-RH)|RH]]+)** | Inclusão do **[[Ribociclibe]]** como opção; esclarecimento sobre [[Supressão Ovariana|supressão ovariana]] induzida por QT no [[Recurrence Score (RS) - Oncotype DX|Oncotype DX]]; contraindicação de ribociclibe com [[Tamoxifeno|tamoxifeno]]. | [[NATALEE]] (NEJM 2024), [[TAILORx]]/[[RxPONDER (SWOG S1007)|RxPONDER]] |
 | **Adjuvante ([[HER2|HER2+]])** | Atualização dos dados de sobrevida do [[Pertuzumabe|pertuzumabe]] ([[APHINITY]] 11 anos); menção ao [[T-DXd (Trastuzumabe Deruxtecana)|T-DXd]] no cenário de [[Doença Residual|doença residual]] ([[DESTINY-Breast05]]). | APHINITY (ESMO 2025), DESTINY-Breast05 (NEJM 2025) |
@@ -51,7 +51,7 @@ A oncologia avança rapidamente. Novos [[ensaios-clinicos/index|ensaios clínico
 
 ## Como usar esta seção
 
-Cada página de histórico descreve o **estado da arte em 2025** e lista as **principais mudanças implementadas em 2026**, com links diretos para os ensaios clínicos que embasaram as alterações. Para a prática clínica atual, consulte as páginas principais das [[diretrizes/index|diretrizes]]:
+Cada página de histórico descreve o **estado da arte em 2025** e lista as **principais mudanças implementadas em 2026**, com links diretos para os ensaios clínicos que embasaram as alterações. Para a prática clínica atual, consulte as páginas principais das [[Documentos/diretrizes/index|diretrizes]]:
 
 - Adjuvante (2026)
 - Neoadjuvante (2026)

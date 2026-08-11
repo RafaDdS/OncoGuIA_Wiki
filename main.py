@@ -9,18 +9,45 @@ def define_env(env):
     def gerar_lista_arquivos():
         # A macro lê metadados do MkDocs para descobrir exatamente de qual arquivo foi chamada
         caminho_atual = Path(env.page.file.abs_src_path).parent
-        
-        try:
-            arquivos = [f for f in caminho_atual.iterdir() 
-                        if f.is_file() and f.name.endswith(".md") and f.name != "index.md"]
-        except FileNotFoundError:
-            return ""
-        
-        lista = ""
-        for arq in sorted(arquivos, key=lambda x: x.name):
-            # O .stem já extrai o nome do arquivo sem o ".md"
-            lista += f"- [[{arq.stem}]]\n"
-        return lista
+        docs_dir = Path(env.conf['docs_dir'])
+
+        def preencher_diretorio(diretorio, nivel):
+            markdown = ""
+            try:
+                itens = sorted(diretorio.iterdir(), key=lambda x: x.name.lower())
+            except FileNotFoundError:
+                return ""
+
+            arquivos = [f for f in itens if f.is_file() and f.suffix == ".md" and f.name != "index.md"]
+            pastas = [p for p in itens if p.is_dir() and not p.name.startswith('.')]
+
+            for arq in arquivos:
+                markdown += f"- [[{arq.stem}]]\n"
+            if arquivos:
+                markdown += "\n"
+
+            for pasta in pastas:
+                titulo = re.sub(r'^\d+[-_]?', '', pasta.name).replace("-", " ").title()
+                caminho_index = pasta / "index.md"
+                if caminho_index.exists():
+                    titulo_index = extrair_titulo(caminho_index)
+                    if titulo_index:
+                        titulo = titulo_index
+                href = pasta.name + "/index.md"
+                markdown += f"{'#' * nivel} [{titulo}]({href})\n\n"
+                markdown += preencher_diretorio(pasta, nivel + 1)
+
+            return markdown
+
+        def extrair_titulo(path_index):
+            try:
+                texto = path_index.read_text(encoding="utf-8")
+            except (IOError, UnicodeDecodeError):
+                return None
+            m = re.search(r'^title:\s*["\']?(.+?)["\']?\s*$', texto, re.MULTILINE)
+            return m.group(1).strip() if m else None
+
+        return preencher_diretorio(caminho_atual, 2)
 
     # 2. Macro recursiva para o índice mestre (com cabeçalhos clicáveis)
     @env.macro

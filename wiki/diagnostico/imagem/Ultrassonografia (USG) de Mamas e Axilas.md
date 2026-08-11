@@ -20,7 +20,7 @@ O exame é realizado com transdutor **linear** de alta frequência, utilizando g
 
 ## Indicações Clínicas
 
-A USG mamária **não é recomendada como método isolado de rastreamento** para a população geral, pois tem sensibilidade limitada para microcalcificações e carcinomas in situ. Suas principais indicações são:
+A USG mamária **não é recomendada como método isolado de [[Documentos/rastreamento/index|rastreamento]]** para a população geral, pois tem sensibilidade limitada para microcalcificações e carcinomas in situ. Suas principais indicações são:
 
 ### Diagnóstico
 - Diferenciação entre **nódulos sólidos e cistos** (principal vantagem sobre a mamografia)

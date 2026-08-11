@@ -14,7 +14,7 @@ status: "published"
 
 # Resumo Executivo: Mudanças nas Diretrizes SBOC (2025 → 2026)
 
-As [[diretrizes/index|diretrizes]] da [[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] para o [[Câncer de Mama (Visão Geral)|câncer de mama]] sofreram atualizações significativas entre 2025 e 2026, refletindo a incorporação de novos [[ensaios-clinicos/index|ensaios clínicos]], aprovações regulatórias e refinamentos na interpretação de [[biomarcadores/index|biomarcadores]]. Este documento sintetiza as alterações mais impactantes, organizadas por eixo temático.
+As [[Documentos/diretrizes/index|diretrizes]] da [[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] para o [[Câncer de Mama (Visão Geral)|câncer de mama]] sofreram atualizações significativas entre 2025 e 2026, refletindo a incorporação de novos [[Documentos/ensaios-clinicos/index|ensaios clínicos]], aprovações regulatórias e refinamentos na interpretação de [[biomarcadores/index|biomarcadores]]. Este documento sintetiza as alterações mais impactantes, organizadas por eixo temático.
 
 ## 1. Rastreamento e Epidemiologia
 
@@ -71,7 +71,7 @@ As [[diretrizes/index|diretrizes]] da [[Sociedade Brasileira de Oncologia Clíni
 - **Manutenção**: Novas estratégias – **[[PATINA]]** (palbociclibe + HT + anti-HER2) e **[[HER2CLIMB-05]]** (tucatinibe + HP) – com ganhos significativos de SLP (sem aprovação no Brasil).
 
 ### 5.3. Triplo-negativo
-- **1ª linha (PD-L1 <10)**: **Datopotamabe deruxtecana (Dato-DXd)** como opção preferencial ([[TROPION-Breast02]]) – ainda sem aprovação na Anvisa para TNBC; a aprovação brasileira do Dato-DXd refere-se ao contexto [[Receptores Hormonais (RE-RP-RH)|RH]]+/HER2- ([[TROPION-Breast01]]).
+- **1ª linha (PD-L1 <10)**: **Datopotamabe deruxtecana (Dato-DXd)** como opção preferencial ([[TROPION-Breast02]]) – ainda sem aprovação na Anvisa para TNBC; a aprovação brasileira do Dato-DXd refere-se ao contexto [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]] ([[TROPION-Breast01]]).
 - **1ª linha com [[tratamento/imunoterapia/index|imunoterapia]]**: Estudos [[ASCENT-03]]/04 (sacituzumabe govitecana ± pembrolizumabe) mostram ganho de SLP, ainda sem aprovação.
 
 ## 6. Cuidados Adicionais ao Diagnóstico (novo capítulo)

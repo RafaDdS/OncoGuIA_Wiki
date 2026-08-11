@@ -19,7 +19,7 @@ O **T-DXd ([[Trastuzumabe|trastuzumabe]] deruxtecana, Enhertu)** é um conjugado
 
 ## Indicações
 
-**Metastático HER2+ (2ª linha em diante)**: o T-DXd é o agente preferencial em segunda linha após progressão a HP + taxano, baseado no [[DESTINY-Breast03]]. Em atualização com seguimento mediano de 41 meses, a SLP mediana foi de 29 vs 7,2 meses com [[T-DM1 (Trastuzumabe Emtansina)|T-DM1]] (HR 0,30; IC 95% 0,24-0,38), com ganho em SG (52,6 vs 42,7 meses; HR 0,73). A taxa de resposta objetiva foi de 79,9% vs 34,2%.
+**Metastático HER2+ (2ª linha em diante)**: o T-DXd é o agente preferencial em segunda linha após progressão a HP + taxano, baseado no [[DESTINY-Breast03]]. Em atualização com [[Seguimento Pós-Tratamento|seguimento]] mediano de 41 meses, a SLP mediana foi de 29 vs 7,2 meses com [[T-DM1 (Trastuzumabe Emtansina)|T-DM1]] (HR 0,30; IC 95% 0,24-0,38), com ganho em SG (52,6 vs 42,7 meses; HR 0,73). A taxa de resposta objetiva foi de 79,9% vs 34,2%.
 
 **Metastático [[HER2|HER2-low]] ([[Imuno-histoquímica (IHQ)|IHQ]] 1+ ou IHQ 2+/[[FISH - CISH - SISH|FISH]] negativo)**: no [[DESTINY-Breast04]], o T-DXd demonstrou PFS de 10,1 vs 5,4 meses (HR 0,51) e SG de 23,9 vs 17,5 meses (HR 0,64) no subgrupo [[Receptores Hormonais (RE-RP-RH)|RH]]+, com benefício também no RH−. No [[DESTINY-Breast06]], o benefício estendeu-se a HER2-ultralow (IHQ 0 com coloração fraca) em pacientes com progressão a hormonioterapia e sem [[tratamento/quimioterapia/index|quimioterapia]] prévia para [[doenca-metastatica/index|doença metastática]] ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, NE ALTO/FR FORTE).
 

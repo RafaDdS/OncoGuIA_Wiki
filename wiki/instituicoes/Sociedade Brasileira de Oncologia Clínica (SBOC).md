@@ -13,13 +13,13 @@ status: "draft"
 
 # Sociedade Brasileira de Oncologia Clínica (SBOC)
 
-A **Sociedade Brasileira de Oncologia Clínica (SBOC)** é a entidade máxima da oncologia clínica no Brasil, responsável pela elaboração das **[[diretrizes/index|diretrizes]] brasileiras para o [[diagnostico/index|diagnóstico]] e [[tratamento/index|tratamento]] do [[Câncer de Mama (Visão Geral)|câncer de mama]]**, publicadas em 2026. As diretrizes SBOC são a principal referência adotada neste wiki, devendo prevalecer sobre fontes internacionais em caso de discordância.
+A **Sociedade Brasileira de Oncologia Clínica (SBOC)** é a entidade máxima da oncologia clínica no Brasil, responsável pela elaboração das **[[Documentos/diretrizes/index|diretrizes]] brasileiras para o [[diagnostico/index|diagnóstico]] e [[tratamento/index|tratamento]] do [[Câncer de Mama (Visão Geral)|câncer de mama]]**, publicadas em 2026. As diretrizes SBOC são a principal referência adotada neste wiki, devendo prevalecer sobre fontes internacionais em caso de discordância.
 
 ## Diretrizes SBOC 2026 para Câncer de Mama
 
 Anualmente a SBOC publica diretrizes abrangentes para o câncer de mama, coordenadas pelo Comitê de Tumores Mamários em colaboração com o GBECAM:
 
-- **Rastreamento, [[estadiamento/index|Estadiamento]] e [[cuidados-adicionais/index|Cuidados Adicionais]]** — recomendações para rastreamento mamográfico anual a partir dos 40 anos (NE ALTO/FR FORTE), estadiamento conforme [[AJCC]] 8ª edição e cuidados de suporte
+- **[[Documentos/rastreamento/index|Rastreamento]], [[estadiamento/index|Estadiamento]] e [[cuidados-adicionais/index|Cuidados Adicionais]]** — recomendações para rastreamento mamográfico anual a partir dos 40 anos (NE ALTO/FR FORTE), estadiamento conforme [[AJCC]] 8ª edição e cuidados de suporte
 - **Doença Localizada — Neoadjuvância** — indicações de tratamento sistêmico pré-operatório, regimes preferenciais por subtipo e manejo conforme resposta
 - **Doença Localizada — Adjuvância** — indicação de [[tratamento/quimioterapia/index|quimioterapia]], hormonioterapia, terapia anti-[[HER2]] e inibidores de CDK4/6; uso de painéis genômicos; [[Carcinoma Ductal in Situ (CDIS)|CDIS]]; [[Seguimento Pós-Tratamento|seguimento]]
 - **[[doenca-metastatica/index|Doença Metastática]]** — tratamento sistêmico por subtipo, sequenciamento de terapias e critérios de elegibilidade para novas drogas

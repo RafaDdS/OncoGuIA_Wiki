@@ -13,7 +13,7 @@ status: "draft"
 
 # CEA e CA 15-3
 
-O **Antígeno Carcinoembrionário (CEA)** e o **Antígeno Câncer 15-3 (CA 15-3)** são marcadores tumorais circulantes detectados no sangue. No contexto do [[Câncer de Mama (Visão Geral)|câncer de mama]], essas glicoproteínas não são utilizadas para o rastreamento, [[diagnostico/index|diagnóstico]] precoce ou decisões de [[tratamento/terapias-alvo/index|terapias-alvo]], mas possuem utilidade específica na avaliação da carga tumoral e no monitoramento da evolução clínica, ajudando a observar a resposta da doença aos tratamentos instituídos.
+O **Antígeno Carcinoembrionário (CEA)** e o **Antígeno Câncer 15-3 (CA 15-3)** são marcadores tumorais circulantes detectados no sangue. No contexto do [[Câncer de Mama (Visão Geral)|câncer de mama]], essas glicoproteínas não são utilizadas para o [[Documentos/rastreamento/index|rastreamento]], [[diagnostico/index|diagnóstico]] precoce ou decisões de [[tratamento/terapias-alvo/index|terapias-alvo]], mas possuem utilidade específica na avaliação da carga tumoral e no monitoramento da evolução clínica, ajudando a observar a resposta da doença aos tratamentos instituídos.
 
 ---
 
@@ -32,7 +32,7 @@ Ao contrário de [[biomarcadores/index|biomarcadores]] moleculares que definem t
 
 ### Cenários Iniciais (Estadiamento e Doença Localizada)
 
-Nas fases iniciais do câncer de mama, a solicitação rotineira desses marcadores não é recomendada pelas principais [[diretrizes/index|diretrizes]] clínicas para o [[estadiamento/index|estadiamento]] inicial ou para o [[Seguimento Pós-Tratamento|seguimento]] (follow-up) de pacientes após o [[tratamento/index|tratamento]] com intenção curativa. Nesses contextos, os marcadores apresentam baixa sensibilidade para detectar recidivas precoces de forma confiável, não impactando a sobrevida global.
+Nas fases iniciais do câncer de mama, a solicitação rotineira desses marcadores não é recomendada pelas principais [[Documentos/diretrizes/index|diretrizes]] clínicas para o [[estadiamento/index|estadiamento]] inicial ou para o [[Seguimento Pós-Tratamento|seguimento]] (follow-up) de pacientes após o [[tratamento/index|tratamento]] com intenção curativa. Nesses contextos, os marcadores apresentam baixa sensibilidade para detectar recidivas precoces de forma confiável, não impactando a sobrevida global.
 
 ### Cenário Metastático
 

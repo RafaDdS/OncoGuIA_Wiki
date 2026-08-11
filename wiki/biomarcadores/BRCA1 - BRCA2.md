@@ -14,7 +14,7 @@ status: "draft"
 
 # BRCA1 / BRCA2
 
-Os genes **BRCA1** e **BRCA2** (Breast Cancer 1 e 2) são importantes genes supressores de tumor que desempenham um papel vital na via de reparo do DNA por recombinação homóloga. Mutações patogênicas nesses genes prejudicam a capacidade da célula de corrigir erros no DNA, levando à instabilidade genômica e aumentando significativamente o risco de desenvolvimento de câncer, especialmente o de mama e o de ovário. A identificação do status mutacional do BRCA tornou-se essencial não apenas para o [[Aconselhamento Genético|aconselhamento genético]] e rastreamento familiar, mas também como um biomarcador preditivo indispensável para o uso de [[tratamento/terapias-alvo/index|terapias-alvo]] específicas na oncologia de precisão.
+Os genes **BRCA1** e **BRCA2** (Breast Cancer 1 e 2) são importantes genes supressores de tumor que desempenham um papel vital na via de reparo do DNA por recombinação homóloga. Mutações patogênicas nesses genes prejudicam a capacidade da célula de corrigir erros no DNA, levando à instabilidade genômica e aumentando significativamente o risco de desenvolvimento de câncer, especialmente o de mama e o de ovário. A identificação do status mutacional do BRCA tornou-se essencial não apenas para o [[Aconselhamento Genético|aconselhamento genético]] e [[Documentos/rastreamento/index|rastreamento]] familiar, mas também como um biomarcador preditivo indispensável para o uso de [[tratamento/terapias-alvo/index|terapias-alvo]] específicas na oncologia de precisão.
 
 ---
 

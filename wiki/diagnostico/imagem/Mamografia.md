@@ -10,7 +10,7 @@ status: "draft"
 
 # Mamografia
 
-A mamografia é um exame radiológico que utiliza **raios-X** em baixas doses para obter imagens detalhadas do parênquima mamário. É o único método de [[diagnostico/imagem/index|imagem]] com evidência comprovada de **redução da mortalidade** por [[Câncer de Mama (Visão Geral)|câncer de mama]], sendo o exame padrão para **rastreamento** e **[[diagnostico/index|diagnóstico]]** da doença.
+A mamografia é um exame radiológico que utiliza **raios-X** em baixas doses para obter imagens detalhadas do parênquima mamário. É o único método de [[diagnostico/imagem/index|imagem]] com evidência comprovada de **redução da mortalidade** por [[Câncer de Mama (Visão Geral)|câncer de mama]], sendo o exame padrão para **[[Documentos/rastreamento/index|rastreamento]]** e **[[diagnostico/index|diagnóstico]]** da doença.
 
 ## Técnica
 
