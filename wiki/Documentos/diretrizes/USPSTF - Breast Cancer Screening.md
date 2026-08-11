@@ -28,4 +28,10 @@ status: "draft"
 
 ## Resumo
 
-Recomendação da força-tarefa norte-americana sobre [[Documentos/rastreamento/index|rastreamento]] do [[Câncer de Mama (Visão Geral)|câncer de mama]]. Baseia-se em modelos do CISNET para atualizar as faixas etárias e intervalos de rastreamento mamográfico, considerando benefícios e danos. A diretriz aborda fatores como densidade mamária, histórico familiar e tomada de decisão compartilhada.
+Recomendação de 2024 da força-tarefa norte-americana sobre [[Documentos/rastreamento/index|rastreamento]] do [[Câncer de Mama (Visão Geral)|câncer de mama]], baseada em revisão sistemática e em modelos colaborativos (CISNET) para comparar estratégias mamográficas por idade de início/término, intervalo, modalidade e uso de [[diagnostico/imagem/index|imagem]] suplementar. Aplica-se a mulheres cisgênero e demais pessoas designadas do sexo feminino ao nascer, com **40 anos ou mais, em risco médio** para câncer de mama. Em 2023, estima-se que 43.170 mulheres morreram de câncer de mama nos EUA; mulheres brancas não hispânicas têm a maior incidência e mulheres negras não hispânicas a maior mortalidade. A diretriz aborda fatores como densidade mamária, histórico familiar e tomada de decisão compartilhada.
+
+### Recomendações-chave
+
+- **Recomendação B:** rastreamento mamográfico **bienal para mulheres de 40 a 74 anos** — há certeza moderada de benefício líquido moderado.
+- **I statement:** a evidência é **insuficiente** para avaliar o balanço de benefícios e danos da [[Mamografia|mamografia]] de rastreamento em mulheres com **75 anos ou mais**.
+- **I statement:** a evidência é **insuficiente** para avaliar o balanço de benefícios e danos do **rastreamento suplementar com ultrassonografia ou ressonância magnética** em mulheres com **mamas densas** e mamografia de rastreamento negativa, independentemente da densidade.

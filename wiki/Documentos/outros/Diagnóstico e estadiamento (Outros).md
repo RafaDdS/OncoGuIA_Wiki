@@ -13,6 +13,6 @@ Documentos sobre métodos diagnósticos e de [[estadiamento/index|estadiamento]]
 - **[[AJCC Cancer Staging Manual]]** (estadiamento anatômico) — [10.1007/978-3-319-40618-3](https://doi.org/10.1007/978-3-319-40618-3)
 - **The accuracy of ultrasound-guided fine-needle aspiration and core** needle biopsy — [10.3389/fonc.2023.1166035](https://doi.org/10.3389/fonc.2023.1166035)
 - **Breast MRI: state of the art** — [10.1148/radiol.2019182947](https://doi.org/10.1148/radiol.2019182947)
-- **Baseline staging imaging for distant metastasis in women with** stage II-III — [10.3747/co.27.6147](https://doi.org/10.3747/co.27.6147)
+- **[[Diretrizes de Imagem Inicial (NICE, Mann e Arnaout)|Baseline staging imaging]] for distant metastasis in women with** stage II-III — [10.3747/co.27.6147](https://doi.org/10.3747/co.27.6147)
 
 [← Voltar ao índice de Outros...](index.md)

@@ -28,4 +28,12 @@ status: "draft"
 
 ## Resumo
 
-Diretriz conjunta EANM/SNMMI especificamente para carcinoma mamário de tipo não especial (NST). Detalha as indicações do FDG-PET/CT no estadiamento, avaliação de resposta terapêutica e [[Seguimento Pós-Tratamento|seguimento]], com recomendações técnicas padronizadas para aquisição, interpretação e laudo, considerando as particularidades deste subtipo histológico.
+Diretriz conjunta EANM/SNMMI especificamente para carcinoma mamário de tipo não especial (NST), endossada pelas sociedades ACR, ESSO, ESTRO, EUSOBI/ESR e EUSOMA. As recomendações foram graduadas segundo os critérios do National Institute for Health and Care Excellence ([[Diretrizes de Imagem Inicial (NICE, Mann e Arnaout)|NICE]]). Parâmetros quantitativos de PET (SUV, MTV e TLG) são parâmetros prognósticos valiosos. No estadiamento basal, o FDG-PET/CT tem papel a partir do estágio IIB até o IV. Na avaliação de resposta à terapia, deve ser realizado em scanners certificados e relatado conforme critérios PERCIST, EORTC PET ou critérios EANM de resposta a [[tratamento/imunoterapia/index|imunoterapia]], conforme apropriado. O PET/CT pode ser útil na avaliação de resposta metabólica precoce, particularmente em tumores não metastáticos triplo-negativos e [[HER2|HER2+]], e na detecção do local e da extensão da recorrência no [[Seguimento Pós-Tratamento|seguimento]], quando os métodos de [[diagnostico/imagem/index|imagem]] convencionais são equívocos ou há suspeita clínica e/ou laboratorial de recidiva.
+
+### Recomendações-chave
+
+- Estadiamento basal: papel do FDG-PET/CT do estágio **IIB ao IV**.
+- Avaliação de resposta: realização em scanners certificados e laudo conforme PERCIST, EORTC PET ou critérios EANM de imunoterapia.
+- Resposta metabólica precoce: útil, sobretudo em tumores não metastáticos triplo-negativos e HER2+.
+- Recorrência: indicado quando imagem convencional é equívoca ou há suspeita clínica/laboratorial de recidiva.
+- SUV, MTV e TLG são parâmetros prognósticos valiosos.

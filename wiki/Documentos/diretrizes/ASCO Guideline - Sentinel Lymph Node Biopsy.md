@@ -28,4 +28,12 @@ status: "draft"
 
 ## Resumo
 
-Diretriz da [[ASCO]] sobre biópsia de linfonodo sentinela (SLNB) no [[Câncer de Mama (Visão Geral)|câncer de mama]] inicial. Aborda indicações, técnica, interpretação e manejo dos resultados. Recomenda SLNB como padrão para [[estadiamento/index|estadiamento]] axilar em pacientes com mama inicial clinicamente node-negative. Discute cenários de omissão da SLNB, uso de dupla-técnica (radioisótopo + azul), e manejo de micrometástases e células tumorais isoladas.
+Atualização da diretriz da [[ASCO]] sobre biópsia de linfonodo sentinela (SLNB/SNB) no [[Câncer de Mama (Visão Geral)|câncer de mama]] inicial. A revisão da literatura (PubMed e Cochrane, 2012 a julho de 2016) identificou oito publicações, nenhuma das quais motivou mudança nas recomendações de 2014, que foram reafirmadas pelo painel de atualização. A SLNB permanece como padrão para o [[estadiamento/index|estadiamento]] axilar, com uso da técnica dupla (radioisótopo + azul) e manejo específico de micrometástases e células tumorais isoladas. As três principais recomendações são baseadas em [[Documentos/ensaios-clinicos/index|ensaios clínicos]] randomizados.
+
+### Principais recomendações
+
+- Mulheres **sem** metástases no linfonodo sentinela não devem receber dissecção axilar (ALND).
+- Mulheres com 1 a 2 linfonodos sentinela metastáticos que planejam cirurgia conservadora da mama com radioterapia whole-breast não devem receber ALND (na maioria dos casos).
+- Mulheres com metástases no linfonodo sentinela que serão submetidas a mastectomia devem receber ALND.
+- SNB **pode** ser oferecida em: tumores multicêntricos operáveis, DCIS quando se realiza mastectomia, cirurgia prévia de mama e/ou axila, e terapia sistêmica pré-operatória (neoadjuvante).
+- SNB **não** deve ser realizada em: câncer invasivo grande ou localmente avançado (T3/T4), câncer inflamatório de mama, DCIS quando planejada cirurgia conservadora da mama, ou gestação.

@@ -29,4 +29,12 @@ status: "draft"
 
 ## Resumo
 
-Diretriz da ASCO sobre exercício, dieta e manejo de peso durante o [[tratamento/index|tratamento]] oncológico. Recomenda que pacientes em tratamento recebam orientação para manter atividade física aeróbica e de resistência, dieta balanceada e evitar ganho de peso significativo. Aborda segurança do exercício durante diferentes modalidades terapêuticas, impacto na fadiga e qualidade de vida, e necessidade de individualização conforme condição clínica.
+Diretriz da ASCO sobre exercício, dieta e manejo de peso durante o [[tratamento/index|tratamento]] oncológico ativo em adultos. A base de evidência, proveniente de revisão sistemática em PubMed e Cochrane (janeiro de 2000 a maio de 2021), consistiu em 52 revisões sistemáticas (42 de exercício, 9 de dieta e 1 de manejo de peso) e mais 23 [[Documentos/ensaios-clinicos/index|ensaios clínicos]] randomizados; os tipos de câncer mais estudados foram mama, próstata, pulmão e colorretal. O exercício durante o tratamento levou a melhoras na aptidão cardiorrespiratória, força, fadiga e outros desfechos relatados pelo paciente. Exercício pré-operatório em pacientes com câncer de pulmão reduziu o tempo de internação e as complicações pós-operatórias. Dietas neutropênicas não reduziram o risco de infecção durante o tratamento.
+
+### Recomendações-chave
+
+- Oncologistas devem recomendar exercício aeróbico e de resistência regular durante o tratamento ativo com intenção curativa.
+- Exercício pré-operatório pode ser recomendado para pacientes submetidos a cirurgia por câncer de pulmão.
+- Dietas neutropênicas **não** são recomendadas para prevenir infecção durante o tratamento ativo.
+- Evidência para outras intervenções dietéticas e de perda de peso durante o tratamento é muito limitada.
+- Considerações especiais incluem exercício em indivíduos com câncer avançado; há necessidade crítica de mais pesquisa, especialmente em dieta e perda de peso durante o tratamento.

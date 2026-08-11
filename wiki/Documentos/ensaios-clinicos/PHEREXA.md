@@ -9,7 +9,7 @@ status: "draft"
 # PHEREXA
 
 ## Autores Principais:
-Urruticoechea A, Rizwanullah M, Im SA, Sánchez Ruiz AC, Lang I, Tomasello G, et al. (2018 — análise final de SG)
+Urruticoechea A, Rizwanullah M, Im SA, Sánchez Ruiz [[AC (Doxorrubicina + Ciclofosfamida)|AC]], Lang I, Tomasello G, et al. (2018 — análise final de SG)
 
 ## Ano de Publicação:
 2018
