@@ -22,4 +22,4 @@ Demonstrou ganho em SLD e SG com a [[tratamento/terapia-endocrina/index|terapia 
 
 ## Referências
 
-1. Del Mastro L; Mansutti M; Bisagni G; Ponzone R; Durando A; Amaducci L; et al. Extended therapy with letrozole as adjuvant treatment of postmenopausal patients with early-stage breast cancer: a multicentre, open-label, randomised, phase 3 trial. Lancet Oncol. 2021;22(10):1458-67. DOI: [10.1016/S1470-2045(21)00352-1](https://doi.org/10.1016/S1470-2045(21)00352-1)
+1. Del Mastro L; Mansutti M; Bisagni G; Ponzone R; Durando A; Amaducci L; et al. Extended therapy with letrozole as adjuvant treatment of postmenopausal patients with early-[[Study of Adjuvant Therapy in Premenopausal Women (STAGE)|stage]] breast cancer: a multicentre, open-label, randomised, phase 3 trial. Lancet Oncol. 2021;22(10):1458-67. DOI: [10.1016/S1470-2045(21)00352-1](https://doi.org/10.1016/S1470-2045(21)00352-1)

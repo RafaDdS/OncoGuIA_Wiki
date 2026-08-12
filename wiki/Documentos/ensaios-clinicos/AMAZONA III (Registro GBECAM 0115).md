@@ -22,4 +22,4 @@ status: "draft"
 
 ## Referências
 
-1. Rosa DD; Bines J; Werutsky G; Barrios CH; Cronemberger E; Queiroz GS; et al. The impact of sociodemographic factors and health insurance coverage in the diagnosis and clinicopathological characteristics of breast cancer in Brazil: AMAZONA III study (GBECAM 0115). Breast Cancer Res Treat. 2020;183(3):749-57. DOI: [10.1007/s10549-020-05831-y](https://doi.org/10.1007/s10549-020-05831-y)
+1. Rosa DD; Bines J; Werutsky G; Barrios CH; Cronemberger E; Queiroz GS; et al. The [[IMPACT|impact]] of sociodemographic factors and health insurance coverage in the diagnosis and clinicopathological characteristics of breast cancer in Brazil: AMAZONA III study (GBECAM 0115). Breast Cancer Res Treat. 2020;183(3):749-57. DOI: [10.1007/s10549-020-05831-y](https://doi.org/10.1007/s10549-020-05831-y)

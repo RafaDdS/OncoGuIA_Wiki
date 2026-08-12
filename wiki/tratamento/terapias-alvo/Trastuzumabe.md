@@ -32,7 +32,7 @@ Dose de ataque de 8 mg/kg EV seguida de 6 mg/kg EV a cada 3 semanas, ou 4 mg/kg 
 
 ## Evidências
 
-O trastuzumabe foi o primeiro agente anti-HER2 a demonstrar benefício em [[Documentos/ensaios-clinicos/index|ensaios clínicos]]. No estudo **NSABP B-31/NCCTG N9831** (combinado), a adição de trastuzumabe por 1 ano à quimioterapia adjuvante reduziu o risco de recorrência em 52% (HR 0,48) e a mortalidade em 33% (HR 0,67), estabelecendo o padrão de 1 ano. No **[[HERA]]**, o trastuzumabe por 1 ano foi superior à observação (SLD HR 0,54, SG HR 0,66), com 2 anos não adicionando benefício. No cenário metastático, o estudo pivotal de Slamon et al. (NEJM 2001) demonstrou que a adição de trastuzumabe à quimioterapia aumentou a SG mediana de 20,3 para 25,1 meses (HR 0,80). A formulação subcutânea foi validada no estudo **Hannah** (equivalência de eficácia e segurança).
+O trastuzumabe foi o primeiro agente anti-HER2 a demonstrar benefício em [[Documentos/ensaios-clinicos/index|ensaios clínicos]]. No estudo **[[NSABP B-31]]/[[NCCTG N9831]]** (combinado), a adição de trastuzumabe por 1 ano à quimioterapia adjuvante reduziu o risco de recorrência em 52% (HR 0,48) e a mortalidade em 33% (HR 0,67), estabelecendo o padrão de 1 ano. No **[[HERA]]**, o trastuzumabe por 1 ano foi superior à observação (SLD HR 0,54, SG HR 0,66), com 2 anos não adicionando benefício. No cenário metastático, o estudo pivotal de Slamon et al. (NEJM 2001) demonstrou que a adição de trastuzumabe à quimioterapia aumentou a SG mediana de 20,3 para 25,1 meses (HR 0,80). A formulação subcutânea foi validada no estudo **Hannah** (equivalência de eficácia e segurança).
 
 ## Cardiotoxicidade
 

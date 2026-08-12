@@ -139,9 +139,9 @@ Páginas da categoria **Ensaios Clínicos**.
 
 ### Notas sobre mapeamento nas referências das diretrizes
 
-Os estudos abaixo estão, na verdade, citados nas diretrizes SBOC 2026:
+Os estudos abaixo estão, na verdade, citados nas [[Documentos/diretrizes/index|diretrizes]] [[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026:
 
-- `ASCENT-04 (KEYNOTE-D19)` – Citado na diretriz de doença Metastática (ref. 75; texto sobre o estudo).
+- `ASCENT-04 (KEYNOTE-D19)` – Citado na diretriz de [[doenca-metastatica/index|doença Metastática]] (ref. 75; texto sobre o estudo).
 - `BRIGHTNESS (Estudo Fase III)` – Citado na diretriz de doença Neoadjuvante (aumento de RPC e melhora de SLE).
 - `RSC4All Tool (Machine Learning)` – Citado na diretriz de Adjuvante (ref. 12; ferramenta de aprendizado de máquina).
 - `GeparQuinto` – Citado na diretriz de doença Neoadjuvante (bloqueio duplo HER2).

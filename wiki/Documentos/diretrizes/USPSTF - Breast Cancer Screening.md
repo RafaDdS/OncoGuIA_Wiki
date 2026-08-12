@@ -32,6 +32,6 @@ Recomendação de 2024 da força-tarefa norte-americana sobre [[Documentos/rastr
 
 ### Recomendações-chave
 
-- **Recomendação B:** rastreamento mamográfico **bienal para mulheres de 40 a 74 anos** — há certeza moderada de benefício líquido moderado. `<Recomendação divergente>` A recomendação diverge da SBOC, que preconiza mamografia anual de 40 a 74 anos (NE ALTO); a USPSTF defende o rastreamento bienal por considerar que o intervalo anual não agrega benefício suficiente em relação aos danos inerentes ao rastreamento mais frequente.
-- **I statement:** a evidência é **insuficiente** para avaliar o balanço de benefícios e danos da [[Mamografia|mamografia]] de rastreamento em mulheres com **75 anos ou mais**.
+- **Recomendação B:** rastreamento mamográfico **bienal para mulheres de 40 a 74 anos** — há certeza moderada de benefício líquido moderado. `<Recomendação divergente>` A recomendação diverge da [[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]], que preconiza [[Mamografia|mamografia]] anual de 40 a 74 anos (NE ALTO); a USPSTF defende o rastreamento bienal por considerar que o intervalo anual não agrega benefício suficiente em relação aos danos inerentes ao rastreamento mais frequente.
+- **I statement:** a evidência é **insuficiente** para avaliar o balanço de benefícios e danos da mamografia de rastreamento em mulheres com **75 anos ou mais**.
 - **I statement:** a evidência é **insuficiente** para avaliar o balanço de benefícios e danos do **rastreamento suplementar com ultrassonografia ou ressonância magnética** em mulheres com **mamas densas** e mamografia de rastreamento negativa, independentemente da densidade.

@@ -31,8 +31,8 @@ As CDK4 e CDK6 são ativadas pela ciclina D1 (superexpressa em tumores RH+ por s
 | **MONARCH-2** (JCO 2017) | 2ª linha metastático | Abemaciclibe + fulvestranto vs placebo + fulvestranto | 16,4 vs 9,3m (HR 0,55) | 46,7 vs 37,3m (HR 0,76) |
 | **[[monarchE]]** (Lancet 2023, 6a) | Adjuvante alto risco | Abemaciclibe 2a + HT vs HT | SLD HR 0,73 | SG 86,8% vs 85,0% (HR 0,84) |
 | **[[NATALEE]]** (NEJM 2024) | Adjuvante risco int/alto | Ribociclibe 3a + IA vs IA | SLD HR 0,75 | Dados imaturos |
-| **PALLAS** (Lancet Oncol 2021) | Adjuvante | Palbociclibe 2a + HT vs HT | SLD HR 0,96 (negativo) | — |
-| **PENELOPE-B** (JCO 2022) | Adjuvante pós-neoadj | Palbociclibe + HT vs HT | SLD HR 0,93 (negativo) | — |
+| **[[PALLAS]]** (Lancet Oncol 2021) | Adjuvante | Palbociclibe 2a + HT vs HT | SLD HR 0,96 (negativo) | — |
+| **[[PENELOPE-B]]** (JCO 2022) | Adjuvante pós-neoadj | Palbociclibe + HT vs HT | SLD HR 0,93 (negativo) | — |
 
 ## Perfil de Toxicidade
 

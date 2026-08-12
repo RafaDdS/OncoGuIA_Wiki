@@ -23,10 +23,11 @@ para revisão e expansão de conteúdo das páginas.
 
 ## Cobertura
 
-- **110 páginas** analisadas
-- **109 DOIs únicos** resolvidos
-- **117 pares página→DOI** catalogados (inclui 2 DOIs corrigidos adicionados)
-- **Abstracts obtidos:** 115/117 — os 5 que faltavam foram recuperados manualmente das páginas dos publishers (LBA ESMO/esmoopen, poster ASCO); os 2 restantes são DOIs incorretos remetidos ao artigo certo
+- **118 páginas** analisadas
+- **119 DOIs únicos** resolvidos
+- **128 pares página→DOI** catalogados (inclui 2 DOIs corrigidos adicionados)
+- **Abstracts obtidos:** 126/128 — os 5 que faltavam foram recuperados manualmente das páginas dos publishers (LBA ESMO/esmoopen, poster ASCO); os 2 restantes são DOIs incorretos remetidos ao artigo certo
+- **Páginas adicionadas (2026):** NSABP B-31, NCCTG N9831, Brightness, CALGB 9344, PALLAS, PENELOPE-B, POEMS, PROMISE-GIM6 — 10 DOIs novos (11 pares), todos com abstract OK (nenhum com PDF texto completo OA)
 - **Abstracts com conteúdo estruturado (Background/Methods/Results):** APHINITY (LBA1), TROPION-Breast02 (LBA21), PHEREXA, monarchE (OS), EMBER-3 (updated efficacy)
 - **PDFs de texto completo:** 15
 

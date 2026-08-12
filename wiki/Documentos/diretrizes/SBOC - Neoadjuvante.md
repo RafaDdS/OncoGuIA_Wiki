@@ -80,7 +80,7 @@ A resposta clínica das pacientes em tratamento sistêmico neoadjuvante deve ser
 
 **Carboplatina:**
 - Estudos de fase II (CALGB40603, [[GeparSixto]], [[NACATRINE|Nacatrine]]) demonstraram que a adição de carboplatina a esquemas contendo [[Antraciclinas|antraciclinas]] e taxanos resulta em um aumento da taxa de RPC.
-- Os estudos de fase III Brightness e [[PEARLY (Estudo Fase III)|Pearly]] não apenas confirmaram o aumento da resposta patológica completa com a inclusão da carboplatina, mas também demonstraram melhora na sobrevida livre de eventos. Dados mais maduros do estudo Brightness indicaram que a adição de carboplatina ao esquema de antraciclina e paclitaxel proporcionou um aumento de 43% na sobrevida livre de eventos (HR 0,57, IC 95% 0,36-0,91; p=0,02), traduzindo-se em uma melhora absoluta de 11% após um seguimento mediano de 4,5 anos.
+- Os estudos de fase III [[Brightness]] e [[PEARLY (Estudo Fase III)|Pearly]] não apenas confirmaram o aumento da resposta patológica completa com a inclusão da carboplatina, mas também demonstraram melhora na sobrevida livre de eventos. Dados mais maduros do estudo Brightness indicaram que a adição de carboplatina ao esquema de antraciclina e paclitaxel proporcionou um aumento de 43% na sobrevida livre de eventos (HR 0,57, IC 95% 0,36-0,91; p=0,02), traduzindo-se em uma melhora absoluta de 11% após um seguimento mediano de 4,5 anos.
 - Esses resultados foram consistentes independentemente do status mutacional de BRCA. Com base nesses achados, recomenda-se a incorporação da carboplatina ao regime neoadjuvante para pacientes com carcinoma mamário triplo-negativo em estádio II/III, independentemente da disponibilidade de pembrolizumabe.
 
 **[[ER-low - RE Baixo|ER-low]]:**

@@ -28,7 +28,7 @@ Avaliar a eficácia e a segurança de imlunestrando isolado ou combinado com abe
 - Todos os endpoints exploratórios pré-especificados favoreceram os esquemas à base de imlunestrando; segurança consistente com relatos anteriores.
 
 ## Impacto Clínico:
-Oferece uma opção de tratamento todo-oral, livre de quimioterapia, para pacientes com câncer de mama avançado RE+/HER2- previamente tratadas com terapia endócrina, com benefício em SLP e tendência a ganho de SG no subgrupo com mutação ESR1, incluindo a combinação com abemaciclibe independente do status de ESR1. `<Sem aprovação nacional>` imlunestrando não possui aprovação pela Anvisa e não está incluído nas recomendações formais da SBOC 2026.
+Oferece uma opção de tratamento todo-oral, livre de quimioterapia, para pacientes com câncer de mama avançado RE+/HER2- previamente tratadas com terapia endócrina, com benefício em SLP e tendência a ganho de SG no subgrupo com mutação ESR1, incluindo a combinação com abemaciclibe independente do status de ESR1. `<Sem aprovação nacional>` imlunestrando não possui aprovação pela Anvisa e não está incluído nas recomendações formais da [[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026.
 
 ## Referências
 

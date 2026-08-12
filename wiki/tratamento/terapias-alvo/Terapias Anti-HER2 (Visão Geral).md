@@ -22,7 +22,7 @@ Os anticorpos monoclonais [[Trastuzumabe|trastuzumabe]] e [[Pertuzumabe|pertuzum
 
 | Estudo | Cenário | Comparação | Resultado principal |
 |--------|---------|------------|-------------------|
-| **NSABP B-31 / NCCTG N9831** (NEJM 2005) | Adjuvante HER2+ | QT + trastuzumabe 1a vs QT | SLD HR 0,48; SG HR 0,67 |
+| **[[NSABP B-31]] / [[NCCTG N9831]]** (NEJM 2005) | Adjuvante HER2+ | QT + trastuzumabe 1a vs QT | SLD HR 0,48; SG HR 0,67 |
 | **[[HERA]]** (Lancet 2007) | Adjuvante HER2+ | Trastuzumabe 1a vs observação | SLD HR 0,54; SG HR 0,66 |
 | **[[APHINITY]]** (NEJM 2017, atualização 2023) | Adjuvante HER2+ N+ | QT + HP vs QT + H | SLD HR 0,77 em N+ (8,4a) |
 | **[[CLEOPATRA]]** (NEJM 2015) | 1ª linha metastático | HP + docetaxel vs H + docetaxel | SG 56,5 vs 40,8 meses (HR 0,68) |

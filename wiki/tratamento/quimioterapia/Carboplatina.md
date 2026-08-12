@@ -24,7 +24,7 @@ A carboplatina forma **adutos de platina-DNA** intracadeia e intercadeia, levand
 
 ## Evidências
 
-- **Brightness Trial** (Loibl et al., 2018): adição de carboplatina ao esquema neoadjuvante (paclitaxel semanal + carboplatina AUC 6 q4s → [[AC (Doxorrubicina + Ciclofosfamida)|AC]]) em TNBC estádio II/III elevou a RPC de 31% para **53%** (p < 0,001), independente da adição de veliparibe. Ganho de sobrevida livre de evento (SLE: HR 0,57) em análise exploratória
+- **[[Brightness]] Trial** (Loibl et al., 2018): adição de carboplatina ao esquema neoadjuvante (paclitaxel semanal + carboplatina AUC 6 q4s → [[AC (Doxorrubicina + Ciclofosfamida)|AC]]) em TNBC estádio II/III elevou a RPC de 31% para **53%** (p < 0,001), independente da adição de veliparibe. Ganho de sobrevida livre de evento (SLE: HR 0,57) em análise exploratória
 - **[[GeparSixto]]** (von Minckwitz et al., 2014): adição de carboplatina (AUC 2 semanal) ao regime semanal de paclitaxel + lipossomal doxorrubicina + bevacizumabe em TNBC elevou RPC de 36,9% para **53,2%** (p = 0,015) e melhorou SLE (HR 0,56)
 - **[[NACATRINE]]** (Mayer et al., 2021): uso de carboplatina no cenário neoadjuvante em associação com taxano
 
