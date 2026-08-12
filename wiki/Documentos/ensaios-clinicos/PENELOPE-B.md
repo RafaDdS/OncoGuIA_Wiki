@@ -18,7 +18,7 @@ Loibl S, Marmé F, Martin M, Untch M, Bonnefoi H, Kim SB, et al.
 2021
 
 ## Delineamento (Métodos):
-Ensaio de fase III, duplo-cego, randomizado e controlado por placebo (NCT01864746) em **1.250 mulheres** com [[Câncer de Mama (Visão Geral)|câncer de mama]] inicial [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]] **sem resposta patológica completa (pCR) após [[tratamento/quimioterapia/index|quimioterapia]] neoadjuvante contendo taxano** e de alto risco de recidiva (escore [[CPS-EG]] ≥ 3, ou escore 2 com ypN+). Randomização 1:1 para:
+Ensaio de fase III, duplo-cego, randomizado e controlado por placebo (NCT01864746) em **1.250 mulheres** com [[Câncer de Mama (Visão Geral)|câncer de mama]] inicial [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]] **sem [[Resposta Patológica Completa (RPC)|resposta patológica completa]] (pCR) após [[tratamento/quimioterapia/index|quimioterapia]] neoadjuvante contendo taxano** e de alto risco de recidiva (escore [[CPS-EG]] ≥ 3, ou escore 2 com ypN+). Randomização 1:1 para:
 - **[[Palbociclibe]] 125 mg VO 1×/dia (dias 1-21 de ciclo de 28 dias, por 13 ciclos) + [[tratamento/terapia-endocrina/index|terapia endócrina]]** (n≈625).
 - **Placebo + terapia endócrina** (n≈625).
 

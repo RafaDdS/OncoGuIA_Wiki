@@ -9,7 +9,7 @@ status: "draft"
 # PALOMA-2
 
 ## Delineamento (Métodos):
-Estudo de fase III, duplo-cego, randomizado 2:1, multicêntrico (NCT01740427). Randomizou **666 mulheres na pós-menopausa** com [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]], sem [[tratamento/index|tratamento]] prévio para doença avançada, para receber [[Palbociclibe|palbociclibe]] + letrozol ou placebo + letrozol como tratamento de primeira linha. Desfecho primário: [[Sobrevida Livre de Progressão (SLP)|sobrevida livre de progressão (SLP)]] avaliada pelos investigadores; desfechos secundários: sobrevida global, resposta objetiva, resposta clínica, desfechos relatados pelo paciente e segurança.
+Estudo de fase III, duplo-cego, randomizado 2:1, multicêntrico (NCT01740427). Randomizou **666 mulheres na pós-menopausa** com [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]], sem tratamento prévio para doença avançada, para receber [[Palbociclibe|palbociclibe]] + letrozol ou placebo + letrozol como tratamento de primeira linha. Desfecho primário: [[Sobrevida Livre de Progressão (SLP)|sobrevida livre de progressão (SLP)]] avaliada pelos investigadores; desfechos secundários: [[Sobrevida Global (SG)|sobrevida global]], resposta objetiva, resposta clínica, desfechos relatados pelo paciente e segurança.
 
 ## Objetivos:
 Confirmar e expandir os dados de eficácia e segurança do palbociclibe em combinação com letrozol como tratamento de primeira linha para mulheres na pós-menopausa com câncer de mama avançado [[Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]-.

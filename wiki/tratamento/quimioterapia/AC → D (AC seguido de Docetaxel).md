@@ -29,7 +29,7 @@ O regime **[[AC (Doxorrubicina + Ciclofosfamida)|AC]] → D** (4 ciclos de AC se
 
 ## Evidências
 
-O estudo **ECOG 1199** (Sparano et al., 2008) comparou quatro braços após AC: paclitaxel semanal vs q3s e docetaxel q3s vs semanal. O braço AC → D q3s mostrou eficácia inferior ao AC → paclitaxel semanal em termos de sobrevida livre de doença (SLD) e sobrevida global — o que consolidou o paclitaxel semanal como braço preferencial. Entretanto, AC → D permanece como opção válida, especialmente quando a logística de visitas semanais é limitante. Metanálise do **[[EBCTCG (Atlas 2005)|EBCTCG]] (2019)** demonstrou que a adição de taxano a regimes baseados em antraciclina reduz recorrência (RR 0,86) e mortalidade (RR 0,87).
+O estudo **ECOG 1199** (Sparano et al., 2008) comparou quatro braços após AC: paclitaxel semanal vs q3s e docetaxel q3s vs semanal. O braço AC → D q3s mostrou eficácia inferior ao AC → paclitaxel semanal em termos de sobrevida livre de doença (SLD) e [[Sobrevida Global (SG)|sobrevida global]] — o que consolidou o paclitaxel semanal como braço preferencial. Entretanto, AC → D permanece como opção válida, especialmente quando a logística de visitas semanais é limitante. Metanálise do **[[EBCTCG (Atlas 2005)|EBCTCG]] (2019)** demonstrou que a adição de taxano a regimes baseados em antraciclina reduz recorrência (RR 0,86) e mortalidade (RR 0,87).
 
 ## Toxicidade
 

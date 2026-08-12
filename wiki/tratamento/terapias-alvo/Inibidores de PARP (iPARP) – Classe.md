@@ -2,6 +2,8 @@
 title: "Inibidores de PARP (iPARP) – Classe"
 aliases:
   - "Inibidores de PARP (iPARP)"
+  - "Inibidores de PARP"
+  - "iPARP"
 category: "Terapias-Alvo"
 source_documents:
   - "Metastático"
@@ -16,7 +18,7 @@ Os **inibidores de PARP (iPARP)** — [[Olaparibe|olaparibe]] e talazoparibe —
 
 ## Evidências
 
-| Estudo | Cenário | Comparação | PFS | SG |
+| Estudo | Cenário | Comparação | PFS | [[Sobrevida Global (SG)|SG]] |
 |--------|---------|------------|-----|-----|
 | **[[OlympiAD]]** (NEJM 2017) | BRCA germinativo, metastático ≥ 1L QT | Olaparibe vs QT escolha | 7,0 vs 4,2m (HR 0,58) | 19,3 vs 17,1m (HR 0,89) |
 | **[[EMBRACA]]** (NEJM 2017) | BRCA germinativo, metastático ≥ 1L QT | Talazoparibe vs QT escolha | 8,6 vs 5,6m (HR 0,54) | 19,6 vs 19,3m (HR 0,85) |
@@ -29,7 +31,7 @@ A PARP-1 e PARP-2 são enzimas que detectam e reparam quebras de fita simples no
 
 ## Indicações em Câncer de Mama
 
-**Adjuvante (doença localizada de alto risco)** : olaparibe por 1 ano para portadoras de mutação germinativa BRCA1/2 com [[Doença Residual|doença residual]] pós-neoadjuvância ou com tumor ≥ T2 ou N+ (OlympiA). Em 4 anos, o ganho absoluto em SG foi de 3,4% (89,8% vs 86,4%, HR 0,68). A indicação abrange tanto TNBC quanto [[Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]− ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, NE ALTO/FR FORTE).
+**Adjuvante (doença localizada de alto risco)** : olaparibe por 1 ano para portadoras de mutação germinativa BRCA1/2 com [[Doença Residual|doença residual]] pós-neoadjuvância ou com tumor ≥ T2 ou [[Linfonodo Positivo (N+-LFN)|N+]] (OlympiA). Em 4 anos, o ganho absoluto em SG foi de 3,4% (89,8% vs 86,4%, HR 0,68). A indicação abrange tanto [[TNBC (Triplo-Negativo)|TNBC]] quanto [[Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]− ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, NE ALTO/FR FORTE).
 
 **Metastático**: olaparibe (OlympiAD, PFS 7,0 vs 4,2 meses, HR 0,58) e talazoparibe (EMBRACA, PFS 8,6 vs 5,6 meses, HR 0,54) são opções para pacientes com mutação germinativa BRCA1/2, após progressão a [[tratamento/quimioterapia/index|quimioterapia]] ou hormonioterapia. O olaparibe também é ativo em portadoras de mutação germinativa PALB2 (TBCRC 048). Ambos são bem tolerados, com fadiga, náusea e anemia como eventos adversos mais comuns, sem alopecia significativa.
 

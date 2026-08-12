@@ -12,7 +12,7 @@ status: "draft"
 
 # Aconselhamento Genético
 
-A consulta especializada para avaliação de risco hereditário é um componente essencial na oncologia de precisão, não apenas para prevenção familiar, mas também por definir o acesso a [[tratamento/terapias-alvo/index|terapias-alvo]] (como os inibidores de PARP). Devem ser encaminhados para aconselhamento genético pacientes com:
+A consulta especializada para avaliação de risco hereditário é um componente essencial na oncologia de precisão, não apenas para prevenção familiar, mas também por definir o acesso a [[tratamento/terapias-alvo/index|terapias-alvo]] (como os [[Inibidores de PARP (iPARP) – Classe|inibidores de PARP]]). Devem ser encaminhados para aconselhamento genético pacientes com:
 
 * [[diagnostico/index|Diagnóstico]] de [[Câncer de Mama (Visão Geral)|câncer de mama]] aos 50 anos ou menos.
 
@@ -24,7 +24,7 @@ A consulta especializada para avaliação de risco hereditário é um componente
 * História pessoal de neoplasia de mama.
 
 
-* Câncer de mama triplo-negativo ou câncer de mama masculino.
+* Câncer de mama [[TNBC (Triplo-Negativo)|triplo-negativo]] ou câncer de mama masculino.
 
 
 * Múltiplos primários de mama.

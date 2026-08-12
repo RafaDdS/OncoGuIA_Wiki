@@ -2,6 +2,7 @@
 title: "Sistema TNM (AJCC)"
 aliases:
   - "Sistema TNM (8ª edição AJCC)"
+  - "Sistema TNM"
 category: "Estadiamento"
 source_documents:
   - "Estadiamento"

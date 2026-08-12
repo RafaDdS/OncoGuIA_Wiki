@@ -15,7 +15,7 @@ Tutt A, Tovey H, Cheang MCU, Kernaghan S, Kilburn L, Gazinska P, et al.
 2018
 
 ## Objetivos:
-Avaliar a eficácia de [[Carboplatina|carboplatina]] versus docetaxel como [[tratamento/index|tratamento]] de primeira linha para [[Câncer de Mama (Visão Geral)|câncer de mama]] metastático triplo-negativo, com foco especial em pacientes com mutação BRCA.
+Avaliar a eficácia de [[Carboplatina|carboplatina]] versus docetaxel como tratamento de primeira linha para [[Câncer de Mama (Visão Geral)|câncer de mama]] metastático [[TNBC (Triplo-Negativo)|triplo-negativo]], com foco especial em pacientes com mutação BRCA.
 
 ## Resultados e Impacto Clínico:
 Na população geral, não houve diferença. No entanto, em pacientes com mutação [[BRCA1 - BRCA2|BRCA1/2]], a carboplatina demonstrou benefício significativo em taxa de resposta e tempo até progressão, estabelecendo a platina como uma opção preferencial neste subgrupo.

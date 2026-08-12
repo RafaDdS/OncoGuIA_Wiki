@@ -15,10 +15,10 @@ Bidard FC, Kaklamani VG, Neven P, et al. (2022)
 2022
 
 ## Delineamento (Métodos):
-Estudo de fase III, multicêntrico, aberto, randomizado 1:1 (NCT03778931). Randomizou **477 pacientes** com [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]], com 1–2 linhas prévias de [[tratamento/terapia-endocrina/index|terapia endócrina]], pré-[[tratamento/index|tratamento]] obrigatório com inibidor de CDK4/6 e ≤1 linha de [[tratamento/quimioterapia/index|quimioterapia]], para receber elacestrano 400 mg oral diário (n=239) ou terapia endócrina padrão (SOC; n=238). Endpoints primários: [[Sobrevida Livre de Progressão (SLP)|sobrevida livre de progressão (SLP)]] por revisão central independente na população global e na com mutação de [[ESR1]] detectável.
+Estudo de fase III, multicêntrico, aberto, randomizado 1:1 (NCT03778931). Randomizou **477 pacientes** com [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]], com 1–2 linhas prévias de [[tratamento/terapia-endocrina/index|terapia endócrina]], pré-tratamento obrigatório com inibidor de CDK4/6 e ≤1 linha de [[tratamento/quimioterapia/index|quimioterapia]], para receber elacestrano 400 mg oral diário (n=239) ou terapia endócrina padrão (SOC; n=238). Endpoints primários: [[Sobrevida Livre de Progressão (SLP)|sobrevida livre de progressão (SLP)]] por revisão central independente na população global e na com mutação de [[ESR1]] detectável.
 
 ## Objetivos:
-Avaliar se o SERD oral elacestrano melhora a SLP versus a terapia endócrina padrão em pacientes com câncer de mama [[Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]- avançado pré-tratado com inibidores de CDK4/6, tanto na população global quanto no subgrupo com mutações de ESR1.
+Avaliar se o SERD oral elacestrano melhora a SLP versus a terapia endócrina padrão em pacientes com câncer de mama [[Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]- avançado pré-tratado com [[Inibidores de CDK4-6 (iCDK4-6) – Classe|inibidores de CDK4/6]], tanto na população global quanto no subgrupo com mutações de ESR1.
 
 ## Resultados e Impacto Clínico:
 

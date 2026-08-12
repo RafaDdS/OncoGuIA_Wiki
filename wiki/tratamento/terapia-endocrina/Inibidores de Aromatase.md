@@ -26,13 +26,13 @@ A inibição reduz a estradiolemia em >95% em pós-menopausa. Em pré-menopausa,
 - **Adjuvante (pós-menopausa)**: 5 anos como terapia inicial ou após 2–3 anos de [[Tamoxifeno|tamoxifeno]] (sequencial); 5 anos adicionais após 5 anos de tamoxifeno (terapia estendida, com base no [[MA.17]])
 - **Adjuvante (pré-menopausa de alto risco)**: associados a supressão ovariana por 5 anos (estudos [[SOFT e TEXT|SOFT]]/TEXT)
 - **Neoadjuvante**: tumores [[Receptores Hormonais (RE-RP-RH)|RH]]+ em pós-menopausa, especialmente luminais A-like, por ≥6 meses
-- **Metastático**: primeira linha em combinação com iCDK4/6 (monoterapia em casos selecionados)
+- **Metastático**: primeira linha em combinação com [[Inibidores de CDK4-6 (iCDK4-6) – Classe|iCDK4/6]] (monoterapia em casos selecionados)
 
 ## Evidências
 
 - **ATAC** (2005): anastrozol 5a vs tamoxifeno 5a — SLD HR 0,83 (IC 0,73–0,94), menor recorrência contralateral (NE ALTO)
-- **[[BIG 1-98]]** (2005): letrozol 5a vs tamoxifeno 5a — SG HR 0,82 (IC 0,69–0,99) (NE ALTO)
-- **MA-17** (2003): letrozol 5a após 5a de tamoxifeno — SG HR 0,82 em N+ (NE ALTO)
+- **[[BIG 1-98]]** (2005): letrozol 5a vs tamoxifeno 5a — [[Sobrevida Global (SG)|SG]] HR 0,82 (IC 0,69–0,99) (NE ALTO)
+- **MA-17** (2003): letrozol 5a após 5a de tamoxifeno — SG HR 0,82 em [[Linfonodo Positivo (N+-LFN)|N+]] (NE ALTO)
 - **IES-031** (2007): troca para exemestano após 2–3a de tamoxifeno — SG HR 0,83 (NE ALTO)
 - **SOFT/TEXT** (2015): IA + supressão ovariana superior a tamoxifeno + supressão ovariana em pré-menopausa de alto risco (HR 0,77) (NE ALTO)
 

@@ -31,7 +31,7 @@ A Lei nº **11.664/2008** assegura o direito à mamografia para todas as mulhere
 
 ## Diagnóstico
 
-Na presença de sinais ou sintomas suspeitos (nódulo palpável, descarga papilar sanguinolenta, espessamento cutâneo, ferida no mamilo), a mamografia **diagnóstica** é indicada para investigação, podendo ser complementada por ultrassonografia ou ressonância magnética.
+Na presença de sinais ou sintomas suspeitos (nódulo palpável, descarga papilar sanguinolenta, espessamento cutâneo, ferida no mamilo), a mamografia **diagnóstica** é indicada para investigação, podendo ser complementada por [[Ultrassonografia (USG) de Mamas e Axilas|ultrassonografia]] ou ressonância magnética.
 
 ## Limitações
 

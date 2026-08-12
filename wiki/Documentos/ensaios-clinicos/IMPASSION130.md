@@ -15,10 +15,10 @@ Schmid P, Adams S, Rugo HS, et al. (2018)
 2018
 
 ## Delineamento (Métodos):
-Estudo de fase III, multicêntrico, randomizado 1:1, duplo-cego, controlado por placebo (NCT02425891). Randomizou **902 pacientes** (451 por braço) com [[Câncer de Mama (Visão Geral)|câncer de mama]] metastático triplo-negativo não tratado, para atezolizumabe + nab-paclitaxel ou placebo + nab-paclitaxel. Estratificação por exposição prévia a taxano (neo)adjuvante, metástases hepáticas e expressão de [[PD-L1]] ao início. Dois endpoints primários: [[Sobrevida Livre de Progressão (SLP)|sobrevida livre de progressão (SLP)]] (na população geral e no subgrupo PD-L1-positivo) e [[Sobrevida Global (SG)|sobrevida global (SG)]] (testada na população geral).
+Estudo de fase III, multicêntrico, randomizado 1:1, duplo-cego, controlado por placebo (NCT02425891). Randomizou **902 pacientes** (451 por braço) com [[Câncer de Mama (Visão Geral)|câncer de mama]] metastático [[TNBC (Triplo-Negativo)|triplo-negativo]] não tratado, para atezolizumabe + nab-paclitaxel ou placebo + nab-paclitaxel. Estratificação por exposição prévia a taxano (neo)adjuvante, metástases hepáticas e expressão de [[PD-L1]] ao início. Dois endpoints primários: [[Sobrevida Livre de Progressão (SLP)|sobrevida livre de progressão (SLP)]] (na população geral e no subgrupo PD-L1-positivo) e [[Sobrevida Global (SG)|sobrevida global (SG)]] (testada na população geral).
 
 ## Objetivos:
-Avaliar se atezolizumabe + nab-paclitaxel melhora SLP e SG versus placebo + nab-paclitaxel como [[tratamento/index|tratamento]] de primeira linha do câncer de mama metastático triplo-negativo.
+Avaliar se atezolizumabe + nab-paclitaxel melhora SLP e SG versus placebo + nab-paclitaxel como tratamento de primeira linha do câncer de mama metastático triplo-negativo.
 
 ## Resultados e Impacto Clínico:
 

@@ -22,13 +22,13 @@ O regime **[[AC (Doxorrubicina + Ciclofosfamida)|AC]] → T** (4 ciclos de AC se
 
 ## Indicações
 
-- **Adjuvante:** câncer de mama inicial de alto risco (tumores [[Receptores Hormonais (RE-RP-RH)|RH]]+ com linfonodos positivos, TNBC, [[HER2|HER2+]])
+- **Adjuvante:** câncer de mama inicial de alto risco (tumores [[Receptores Hormonais (RE-RP-RH)|RH]]+ com linfonodos positivos, [[TNBC (Triplo-Negativo)|TNBC]], [[HER2|HER2+]])
 - **Neoadjuvante:** antes da cirurgia, seguido de regime antraciclina-taxano podendo ser associado a platina no TNBC ou a anti-HER2 no HER2+
 - **Dose-densa:** variante com AC q14d + G-CSF + paclitaxel q14d, com superioridade em SLD (estudo CALGB 9741)
 
 ## Evidências
 
-O **ECOG 1199** (Sparano et al., 2008) demonstrou superioridade de AC seguido de paclitaxel semanal (80 mg/m²) em comparação ao paclitaxel a cada 3 semanas (175 mg/m²), com melhora tanto na sobrevida livre de doença (HR 0,79) quanto na sobrevida global. O estudo **CALGB 9741** (Citron et al., 2003) demonstrou que o esquema dose-densa (AC q14d + paclitaxel q14d) melhora SLD (RR 0,83) e SG (RR 0,85) em relação ao esquema convencional a cada 21 dias. A metanálise do **[[EBCTCG (Atlas 2005)|EBCTCG]] (2019)** confirma redução de recorrência (RR 0,86) e mortalidade (RR 0,87) com adição de taxanos após antraciclina.
+O **ECOG 1199** (Sparano et al., 2008) demonstrou superioridade de AC seguido de paclitaxel semanal (80 mg/m²) em comparação ao paclitaxel a cada 3 semanas (175 mg/m²), com melhora tanto na sobrevida livre de doença (HR 0,79) quanto na [[Sobrevida Global (SG)|sobrevida global]]. O estudo **CALGB 9741** (Citron et al., 2003) demonstrou que o esquema dose-densa (AC q14d + paclitaxel q14d) melhora SLD (RR 0,83) e SG (RR 0,85) em relação ao esquema convencional a cada 21 dias. A metanálise do **[[EBCTCG (Atlas 2005)|EBCTCG]] (2019)** confirma redução de recorrência (RR 0,86) e mortalidade (RR 0,87) com adição de taxanos após antraciclina.
 
 ## Toxicidade
 

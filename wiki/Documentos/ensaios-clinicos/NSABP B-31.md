@@ -20,7 +20,7 @@ Romond EH, Perez EA, Bryant J, Suman VJ, Geyer CE, et al. (2005) / Perez EA, Rom
 Ensaio randomizado de fase III multicêntrico do NSABP que comparou [[AC (Doxorrubicina + Ciclofosfamida)|AC]] → paclitaxel a cada 3 semanas (grupo 1) com o mesmo regime + 52 semanas de [[Trastuzumabe|trastuzumabe]] iniciado concomitantemente ao primeiro ciclo de paclitaxel (grupo 2) em mulheres com [[Câncer de Mama (Visão Geral)|câncer de mama]] operável [[HER2|HER2-positivo]] e linfonodos positivos. Juntamente com o [[NCCTG N9831]], foi emendado para incluir uma **análise conjunta** (joint analysis) dos braços grupos 1+A (controle) vs 2+C (trastuzumabe), que foi a base da aprovação do fármaco.
 
 ## Objetivos:
-Avaliar se a adição de trastuzumabe à [[tratamento/quimioterapia/index|quimioterapia]] adjuvante melhora a sobrevida livre de doença (SLD) e a sobrevida global em pacientes com câncer de mama inicial HER2-positivo.
+Avaliar se a adição de trastuzumabe à [[tratamento/quimioterapia/index|quimioterapia]] adjuvante melhora a sobrevida livre de doença (SLD) e a [[Sobrevida Global (SG)|sobrevida global]] em pacientes com câncer de mama inicial HER2-positivo.
 
 ## Resultados e Impacto Clínico:
 

@@ -17,7 +17,7 @@ A **imuno-histoquímica (IHQ)** é a técnica de detecção de antígenos celula
 
 ## Biomarcadores Essenciais em Câncer de Mama
 
-- **Receptores hormonais (RE e RP)**: RE ≥ 1% de células coradas é considerado positivo ([[ASCO]]/CAP). A intensidade e porcentagem são reportadas pelo escore de **Allred** (escala 0–8, combinando proporção e intensidade) ou **H-score** (0–300). RE positivo define elegibilidade a hormonioterapia ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, NE ALTO)
+- **[[Receptores Hormonais (RE-RP-RH)|Receptores hormonais]] (RE e RP)**: RE ≥ 1% de células coradas é considerado positivo ([[ASCO]]/CAP). A intensidade e porcentagem são reportadas pelo escore de **Allred** (escala 0–8, combinando proporção e intensidade) ou **H-score** (0–300). RE positivo define elegibilidade a hormonioterapia ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, NE ALTO)
 - **HER2**: graduação semiquantitativa de 0 a 3+ conforme ASCO/CAP 2018:
   - **0**: sem coloração ou coloração incompleta em ≤ 10% das células
   - **1+**: coloração incompleta, fraca, em > 10% das células (HER2-low)
@@ -25,7 +25,7 @@ A **imuno-histoquímica (IHQ)** é a técnica de detecção de antígenos celula
   - **3+**: coloração forte e completa em > 10% ([[HER2|HER2 positivo]])
   - HER2 3+ ou HER2 amplificado por ISH elegível a terapia anti-HER2
   - HER2-low (IHQ 1+ ou IHQ 2+/ISH negativo) elegível a [[T-DXd (Trastuzumabe Deruxtecana)|T-DXd]] no cenário metastático (SBOC 2026)
-- **[[Ki67]]**: índice de proliferação celular (%). O **St. Gallen Consensus** adota ≥ 20% como cutoff para distinguir luminal A de luminal B. Internamente, a padronização laboratorial (protocolo de avaliação em hotspots, contagem mínima de 500 células) é crítica devido à variabilidade interlaboratorial
+- **[[Ki67]]**: índice de proliferação celular (%). O **St. Gallen Consensus** adota ≥ 20% como cutoff para distinguir [[Subtipo Luminal (RH+-HER2-)|luminal]] A de luminal B. Internamente, a padronização laboratorial (protocolo de avaliação em hotspots, contagem mínima de 500 células) é crítica devido à variabilidade interlaboratorial
 
 ## Biomarcadores Complementares
 
@@ -38,8 +38,8 @@ A **imuno-histoquímica (IHQ)** é a técnica de detecção de antígenos celula
 
 ## Aplicações
 
-- **Classificação molecular substituta**: IHQ para RE, RP, HER2 e Ki67 permite categorizar tumores em luminais A e B, HER2-enriquecido e triplo-negativo (SBOC 2026)
-- **Predição de resposta**: [[Receptores Hormonais (RE-RP-RH)|RE/RP]] → hormonioterapia; HER2 → terapia anti-HER2; PD-L1 → imunoterapia; Ki67 → [[tratamento/quimioterapia/index|quimioterapia]]
+- **Classificação molecular substituta**: IHQ para RE, RP, HER2 e Ki67 permite categorizar tumores em luminais A e B, HER2-enriquecido e [[TNBC (Triplo-Negativo)|triplo-negativo]] (SBOC 2026)
+- **Predição de resposta**: RE/RP → hormonioterapia; HER2 → terapia anti-HER2; PD-L1 → imunoterapia; Ki67 → [[tratamento/quimioterapia/index|quimioterapia]]
 - **Prognóstico**: expressão de receptores hormonais e Ki67 são fatores independentes no [[estadiamento/index|estadiamento]] prognóstico [[AJCC]] 8ª ed
 
 ## Limitações

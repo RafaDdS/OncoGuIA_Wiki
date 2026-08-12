@@ -10,7 +10,7 @@ status: "draft"
 
 # ESR1
 
-O gene **ESR1** codifica o receptor de estrogênio alfa. Mutações neste gene representam um dos principais mecanismos de resistência adquirida à [[tratamento/terapia-endocrina/index|terapia endócrina]], em especial ao uso de [[Inibidores de Aromatase|inibidores de aromatase]]. No [[Câncer de Mama (Visão Geral)|câncer de mama]], a presença dessa mutação faz com que o receptor permaneça ativado de forma contínua, independentemente da presença do hormônio estrogênio no corpo. Isso permite que o tumor continue crescendo e exige adaptações direcionadas e estratégicas no [[tratamento/index|tratamento]].
+O gene **ESR1** codifica o receptor de estrogênio alfa. Mutações neste gene representam um dos principais mecanismos de resistência adquirida à [[tratamento/terapia-endocrina/index|terapia endócrina]], em especial ao uso de [[Inibidores de Aromatase|inibidores de aromatase]]. No [[Câncer de Mama (Visão Geral)|câncer de mama]], a presença dessa mutação faz com que o receptor permaneça ativado de forma contínua, independentemente da presença do hormônio estrogênio no corpo. Isso permite que o tumor continue crescendo e exige adaptações direcionadas e estratégicas no tratamento.
 
 ---
 
@@ -18,7 +18,7 @@ O gene **ESR1** codifica o receptor de estrogênio alfa. Mutações neste gene r
 
 A pesquisa de mutações no gene *ESR1* não é feita no momento do [[diagnostico/index|diagnóstico]] inicial, mas sim após a progressão da doença durante ou após a terapia endócrina prévia. A avaliação é realizada principalmente por:
 
-* **Biópsia Líquida (Pesquisa em ctDNA):** É o método preferencial e menos invasivo. A análise do DNA tumoral circulante no sangue consegue captar de forma eficiente as mutações adquiridas pelo tumor ao longo do tratamento.
+* **[[Biópsia Líquida (ctDNA)|Biópsia Líquida]] (Pesquisa em ctDNA):** É o método preferencial e menos invasivo. A análise do DNA tumoral circulante no sangue consegue captar de forma eficiente as mutações adquiridas pelo tumor ao longo do tratamento.
 * **Sequenciamento de Nova Geração (NGS):** Utilizado para confirmar e identificar as alterações moleculares específicas no gene, podendo ser realizado no sangue (ctDNA) ou a partir de amostras de tecido tumoral.
 
 ---

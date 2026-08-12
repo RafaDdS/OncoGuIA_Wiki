@@ -30,12 +30,12 @@ O [[AJCC Cancer Staging Manual]] (8ª edição) estabeleceu o sistema de estadia
 
 ## Precisão de PAAF e Core Biópsia guiadas por ultrassom
 
-A metanálise avaliou a precisão diagnóstica da ultrassonografia com [[Punção Aspirativa por Agulha Fina (PAAF)|punção aspirativa por agulha fina]] (PAAF/US-FNA) e core biópsia (US-CNB) na avaliação dos linfonodos axilares suspeitos em mulheres com câncer de mama.
+A metanálise avaliou a precisão diagnóstica da [[Ultrassonografia (USG) de Mamas e Axilas|ultrassonografia]] com [[Punção Aspirativa por Agulha Fina (PAAF)|punção aspirativa por agulha fina]] (PAAF/US-FNA) e core biópsia (US-CNB) na avaliação dos linfonodos axilares suspeitos em mulheres com câncer de mama.
 
 - Incluiu 22 estudos (3.548 pacientes) para US-FNA e 11 estudos (758 pacientes) para US-CNB.
 - **US-FNA:** sensibilidade 79% (IC 95% 73–84%), especificidade 96% (IC 95% 92–98%).
 - **US-CNB:** sensibilidade 85% (IC 95% 81–89%), especificidade 93% (IC 95% 87–96%).
-- Ambas apresentaram alta acurácia diagnóstica (área sob a curva SROC de 0,94 a 0,96), apoiando seu uso na avaliação axilar antes do [[tratamento/index|tratamento]] definitivo.
+- Ambas apresentaram alta acurácia diagnóstica (área sob a curva SROC de 0,94 a 0,96), apoiando seu uso na avaliação axilar antes do tratamento definitivo.
 
 ## Ressonância Magnética Mamária (State of the Art)
 

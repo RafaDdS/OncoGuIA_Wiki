@@ -13,7 +13,7 @@ status: "draft"
 
 ## 1. Terminologia de Fases do Tratamento ("Linhas")
 
-O termo "linha de [[tratamento/index|tratamento]]" (ex: 1ª linha, 2ª linha, etc.) deve ser usado **exclusivamente** ao discutir cenários de [[doenca-metastatica/index|doença metastática]]. Ao abordar cenários com intenção curativa, utilize sempre os termos "[[Tratamento Neoadjuvante (Conceito)|tratamento neoadjuvante]]" ou "[[Tratamento Adjuvante (Conceito)|tratamento adjuvante]]".
+O termo "linha de tratamento" (ex: 1ª linha, 2ª linha, etc.) deve ser usado **exclusivamente** ao discutir cenários de [[doenca-metastatica/index|doença metastática]]. Ao abordar cenários com intenção curativa, utilize sempre os termos "[[Tratamento Neoadjuvante (Conceito)|tratamento neoadjuvante]]" ou "[[Tratamento Adjuvante (Conceito)|tratamento adjuvante]]".
 
 ## 2. Definição de Status Menopausal
 

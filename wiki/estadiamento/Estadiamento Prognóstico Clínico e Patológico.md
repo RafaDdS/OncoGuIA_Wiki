@@ -76,14 +76,14 @@ Baseia-se na avaliação histológica completa da peça cirúrgica e dos linfono
 
 O estadiamento tem três funções fundamentais:
 
-1. **Planejamento terapêutico** — define a conduta mais adequada (cirurgia *upfront*, neoadjuvância, [[tratamento/index|tratamento]] sistêmico)
+1. **Planejamento terapêutico** — define a conduta mais adequada (cirurgia *upfront*, neoadjuvância, tratamento sistêmico)
 2. **Estimativa prognóstica** — correlaciona características do tumor com dados de sobrevida
 3. **Comunicação** — padroniza a informação entre profissionais e com a paciente
 
 ## Contexto por documento
 
 - **Estadiamento** (*Estadiamento prognóstico clínico e patológico*): Estadiamento que incorpora, além do TNM anatômico, o grau histológico, HER2, RE e RP
-- **Neoadjuvante** (*Estadiamento*): Inclui exames de imagem (RM, [[TC (Docetaxel + Ciclofosfamida)|TC]], [[PET-CT|PET/CT]], USG) e avaliação clínica de linfonodos axilares, supraclaviculares e parede torácica. Vide capítulo separado da diretriz.
+- **Neoadjuvante** (*Estadiamento*): Inclui exames de imagem (RM, [[TC (Docetaxel + Ciclofosfamida)|TC]], [[PET-CT|PET/CT]], [[Ultrassonografia (USG) de Mamas e Axilas|USG]]) e avaliação clínica de linfonodos axilares, supraclaviculares e parede torácica. Vide capítulo separado da diretriz.
 
 ---
 *Página gerada a partir de 2 termo(s) original(is) do glossário: Estadiamento, Estadiamento prognóstico clínico e patológico.*

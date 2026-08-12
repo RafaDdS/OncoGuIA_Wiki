@@ -40,4 +40,4 @@ O **carcinoma ductal in situ (CDIS)** é uma lesão neoplásica não invasiva, c
 
 ## Prognóstico
 
-O CDIS isoladamente não compromete a sobrevida global. O risco de recidiva local (invasiva ou não) em 10 anos é de ~15–30% com cirurgia conservadora isolada; mastectomia reduz recidiva para <2%. Fatores de risco para recidiva: margens comprometidas, alto grau nuclear, necrose comedônica, idade < 50 anos.
+O CDIS isoladamente não compromete a [[Sobrevida Global (SG)|sobrevida global]]. O risco de recidiva local (invasiva ou não) em 10 anos é de ~15–30% com cirurgia conservadora isolada; mastectomia reduz recidiva para <2%. Fatores de risco para recidiva: margens comprometidas, alto grau nuclear, necrose comedônica, idade < 50 anos.

@@ -1,9 +1,8 @@
 ---
 aliases:
-- MONALEESA-2
-- MONALEESA 2
-- Ribociclib First-Line Advanced Breast Cancer
-- MONALEESA-2 (Ribociclib + Letrozole)
+  - "MONALEESA-2"
+  - "MONALEESA 2"
+  - "Ribociclib First-Line Advanced Breast Cancer"
 category: Ensaios Clínicos
 status: draft
 title: MONALEESA-2
@@ -21,7 +20,7 @@ Hortobagyi GN, Stemmer SM, Burris HA, et al.
 Estudo de fase III, randomizado, duplo-cego, controlado por placebo (NCT01958021). Randomizou na proporção 1:1 **668 mulheres pós-menopausadas** com [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]] recorrente/metastático, para receber [[Ribociclibe|ribociclibe]] (600 mg/dia, 3 semanas on/1 semana off) ou placebo em combinação com letrozol (2,5 mg/dia contínuo), estratificado pela presença de metástases hepáticas e/ou pulmonares. Endpoint primário: SLP avaliada localmente; endpoint secundário chave: [[Sobrevida Global (SG)|sobrevida global (SG)]].
 
 ## Objetivos:
-Avaliar a eficácia e segurança do inibidor de CDK4/6 ribociclibe em combinação com letrozol como [[tratamento/index|tratamento]] de primeira linha em pacientes pós-menopausadas com câncer de mama avançado [[Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]-.
+Avaliar a eficácia e segurança do inibidor de CDK4/6 ribociclibe em combinação com letrozol como tratamento de primeira linha em pacientes pós-menopausadas com câncer de mama avançado [[Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]-.
 
 ## Resultados e Impacto Clínico:
 

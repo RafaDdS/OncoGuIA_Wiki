@@ -1,8 +1,7 @@
 ---
 aliases:
-- MONARCH 3
-- Abemaciclib AI MONARCH 3
-- MONARCH 3 (Abemaciclib + AI)
+  - "MONARCH 3"
+  - "Abemaciclib AI MONARCH 3"
 category: Ensaios Clínicos
 status: draft
 title: MONARCH 3
@@ -11,7 +10,7 @@ title: MONARCH 3
 # MONARCH 3
 
 ## Autores Principais:
-Goetz MP, Toi M, Campone M, et al. (2017) / Johnston S, Martin M, Di Leo A, et al. (2019 — SLP final)
+Goetz MP, Toi M, Campone M, et al. (2017) / Johnston S, Martin M, Di Leo A, et al. (2019 — [[Sobrevida Livre de Progressão (SLP)|SLP]] final)
 
 ## Ano de Publicação:
 2017 (análise interina) e 2019 (análise final de SLP)
@@ -20,7 +19,7 @@ Goetz MP, Toi M, Campone M, et al. (2017) / Johnston S, Martin M, Di Leo A, et a
 Estudo de fase III, randomizado, duplo-cego, controlado por placebo de [[Abemaciclibe|abemaciclibe]] ou placebo (150 mg a cada 12 horas, contínuo) em combinação com um inibidor de aromatase não esteroidal (anastrozol 1 mg ou letrozol 2,5 mg, diário) em **493 mulheres pós-menopausadas** com [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]] sem terapia sistêmica prévia no cenário avançado. Objetivo primário: SLP avaliada por investigador (análise interina após 189 eventos; análise final após 240 eventos); endpoints secundários incluíram resposta objetiva e segurança.
 
 ## Objetivos:
-Avaliar abemaciclibe + inibidor de aromatase (IA) como [[tratamento/index|tratamento]] inicial em pacientes pós-menopausadas com câncer de mama avançado [[Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]-.
+Avaliar abemaciclibe + inibidor de aromatase (IA) como tratamento inicial em pacientes pós-menopausadas com câncer de mama avançado [[Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]-.
 
 ## Resultados e Impacto Clínico:
 

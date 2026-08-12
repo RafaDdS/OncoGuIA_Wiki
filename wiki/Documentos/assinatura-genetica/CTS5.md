@@ -24,7 +24,7 @@ Dowsett M, Sestak I, Regan MM, Dodson A, Viale G, Thürlimann B, et al.
 Desenvolver e validar uma ferramenta que integra variáveis clínicas para prever o risco de recorrência tardia (entre os anos 5-10) em pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] [[Receptores Hormonais (RE-RP-RH)|RH]]-positivo tratadas com 5 anos de [[tratamento/terapia-endocrina/index|terapia endócrina]].
 
 ## Resultados e Impacto Clínico:
-A ferramenta gratuita auxilia na decisão sobre a extensão da terapia hormonal para 10 anos, individualizando o [[tratamento/index|tratamento]].
+A ferramenta gratuita auxilia na decisão sobre a extensão da terapia hormonal para 10 anos, individualizando o tratamento.
 
 Enquanto a maioria das calculadoras foca nos primeiros anos após o [[diagnostico/index|diagnóstico]], o CTS5 (Clinical Treatment Score post-5 years) preenche a lacuna do [[Seguimento Pós-Tratamento|seguimento]] a longo prazo para pacientes com tumores que respondem a hormônios, os quais podem recidivar muitos anos após a cura aparente.
 

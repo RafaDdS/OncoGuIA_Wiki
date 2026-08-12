@@ -16,7 +16,7 @@ Early Breast Cancer Trialists' Collaborative Group (EBCTCG). (2005)
 2005
 
 ## Delineamento (Métodos):
-[[Documentos/meta-analises/index|Meta-análise]] colaborativa (overviews quinquenais, 1985–2000) de **194 ensaios randomizados não confundidos** de [[tratamento/quimioterapia/index|quimioterapia]] adjuvante ou terapia hormonal iniciados até 1995, avaliando efeitos em 10 e 15 anos de [[tratamento/index|tratamento]] sobre recorrência e mortalidade por [[Câncer de Mama (Visão Geral)|câncer de mama]]. Os esquemas incluíam [[CMF]], combinações com [[Antraciclinas|antraciclinas]] (FAC/FEC), [[Tamoxifeno|tamoxifeno]] e [[Supressão Ovariana|supressão ovariana]] (sem taxanos, [[Trastuzumabe|trastuzumabe]] ou [[Inibidores de Aromatase|inibidores de aromatase]]).
+[[Documentos/meta-analises/index|Meta-análise]] colaborativa (overviews quinquenais, 1985–2000) de **194 ensaios randomizados não confundidos** de [[tratamento/quimioterapia/index|quimioterapia]] adjuvante ou terapia hormonal iniciados até 1995, avaliando efeitos em 10 e 15 anos de tratamento sobre recorrência e mortalidade por [[Câncer de Mama (Visão Geral)|câncer de mama]]. Os esquemas incluíam [[CMF]], combinações com [[Antraciclinas|antraciclinas]] (FAC/FEC), [[Tamoxifeno|tamoxifeno]] e [[Supressão Ovariana|supressão ovariana]] (sem taxanos, [[Trastuzumabe|trastuzumabe]] ou [[Inibidores de Aromatase|inibidores de aromatase]]).
 
 ## Objetivos:
 Avaliar os efeitos da quimioterapia adjuvante e da terapia hormonal na recorrência e na sobrevida em 10 e 15 anos no câncer de mama inicial.

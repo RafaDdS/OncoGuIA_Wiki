@@ -15,10 +15,10 @@ Kalinsky K, Accordino MK, Chiuzan C, Mundi PS, Sakach E, Sathe C, et al.
 2023
 
 ## Objetivos:
-Avaliar a eficácia de [[Ribociclibe|ribociclibe]] em combinação com uma [[tratamento/terapia-endocrina/index|terapia endócrina]] alternativa ([[Fulvestranto|fulvestranto]] ou exemestano) em pacientes que progrediram a um iCDK4/6 prévio (predominantemente [[Palbociclibe|palbociclibe]]).
+Avaliar a eficácia de [[Ribociclibe|ribociclibe]] em combinação com uma [[tratamento/terapia-endocrina/index|terapia endócrina]] alternativa ([[Fulvestranto|fulvestranto]] ou exemestano) em pacientes que progrediram a um [[Inibidores de CDK4-6 (iCDK4-6) – Classe|iCDK4/6]] prévio (predominantemente [[Palbociclibe|palbociclibe]]).
 
 ## Resultados e Impacto Clínico:
-Demonstrou melhora na SLP com a troca para ribociclibe, fornecendo evidência adicional para a estratégia de mudança de inibidor de CDK4/6 e parceiro endócrino após a progressão.
+Demonstrou melhora na [[Sobrevida Livre de Progressão (SLP)|SLP]] com a troca para ribociclibe, fornecendo evidência adicional para a estratégia de mudança de inibidor de CDK4/6 e parceiro endócrino após a progressão.
 
 ## Referências
 

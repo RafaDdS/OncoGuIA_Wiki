@@ -20,9 +20,9 @@ Os **inibidores de PI3K** são agentes orais que bloqueiam a subunidade catalít
 |--------|---------|------------|-----|-----------------|
 | **[[SOLAR-1]]** (NEJM 2019) | RH+ PIK3CA mut, 2ª linha | Alpelisibe + [[Fulvestranto|fulvestranto]] vs placebo + fulvestranto | 11,0 vs 5,7m (HR 0,65) | 26% vs 12% |
 | **[[INAVO120]]** (NEJM 2024) | RH+ PIK3CA mut, resistência endócrina 1ª linha | Inavolisibe + [[Palbociclibe|palbociclibe]] + fulvestranto vs palbociclibe + fulvestranto | 15,0 vs 7,3m (HR 0,43) | 58,4% vs 25% |
-| **BYLieve** (Lancet Oncol 2021) | RH+ PIK3CA mut, progressão a iCDK4/6 | Alpelisibe + fulvestranto/IA | PFS 7,3m (coorte A) | — |
+| **BYLieve** (Lancet Oncol 2021) | RH+ PIK3CA mut, progressão a [[Inibidores de CDK4-6 (iCDK4-6) – Classe|iCDK4/6]] | Alpelisibe + fulvestranto/IA | PFS 7,3m (coorte A) | — |
 
-O INAVO120 também demonstrou ganho em SG (34 vs 27 meses, HR 0,67, p = 0,019), marcando o primeiro benefício em SG para um inibidor de PI3K em primeira linha. A superioridade do inavolisibe em relação ao alpelisibe deve-se à maior seletividade (500× vs 100× sobre PI3Kδ/γ), à indução de degradação da p110α mutada e à melhor tolerabilidade.
+O INAVO120 também demonstrou ganho em [[Sobrevida Global (SG)|SG]] (34 vs 27 meses, HR 0,67, p = 0,019), marcando o primeiro benefício em SG para um inibidor de PI3K em primeira linha. A superioridade do inavolisibe em relação ao alpelisibe deve-se à maior seletividade (500× vs 100× sobre PI3Kδ/γ), à indução de degradação da p110α mutada e à melhor tolerabilidade.
 
 ## Mecanismo de Ação
 
@@ -30,7 +30,7 @@ A via PI3K/AKT/mTOR é um dos principais eixos de sinalização downstream do re
 
 ## Agentes Disponíveis
 
-**Alpelisibe (Piqray)** : inibidor seletivo de PI3Kα, aprovado em combinação com fulvestranto para pacientes RH+/HER2− com mutação PIK3CA (detectada por teste tumoral ou ctDNA) e progressão após IA no cenário metastático. O estudo SOLAR-1 demonstrou PFS de 11,0 vs 5,7 meses (HR 0,65). Toxicidades relevantes incluem hiperglicemia ([[Grau Histológico (G1–G3)|G3]]–4 ~36%), estomatite, rash, diarreia e fadiga; a hiperglicemia requer manejo com metformina e, eventualmente, inibidores de SGLT2, com monitoramento glicêmico semanal no primeiro mês ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026).
+**Alpelisibe (Piqray)** : inibidor seletivo de PI3Kα, aprovado em combinação com fulvestranto para pacientes RH+/HER2− com mutação PIK3CA (detectada por teste tumoral ou [[Biópsia Líquida (ctDNA)|ctDNA]]) e progressão após IA no cenário metastático. O estudo SOLAR-1 demonstrou PFS de 11,0 vs 5,7 meses (HR 0,65). Toxicidades relevantes incluem hiperglicemia ([[Grau Histológico (G1–G3)|G3]]–4 ~36%), estomatite, rash, diarreia e fadiga; a hiperglicemia requer manejo com metformina e, eventualmente, inibidores de SGLT2, com monitoramento glicêmico semanal no primeiro mês ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026).
 
 **Inavolisibe** : inibidor seletivo de PI3Kα com potência e seletividade superiores ao alpelisibe, além de induzir degradação da isoforma p110α mutada (mecanismo adicional). Aprovado em primeira linha para pacientes com mutação PIK3CA e resistência endócrina (recidiva ≤ 12 meses após HT adjuvante) em combinação com palbociclibe + fulvestranto (INAVO120). A PFS foi de 15,0 vs 7,3 meses (HR 0,43) com ganho em SG (34 vs 27 meses, HR 0,67). Perfil de toxicidade semelhante ao alpelisibe, mas com menor incidência de hiperglicemia G3–4 (~20%) e estomatite (SBOC 2026, NE ALTO/FR FORTE).
 

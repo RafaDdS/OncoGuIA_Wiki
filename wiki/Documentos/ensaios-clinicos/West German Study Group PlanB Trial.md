@@ -21,7 +21,7 @@ Ensaio prospectivo randomizado que avaliou um padrão de [[tratamento/quimiotera
 Avaliar se o regime de seis ciclos de TC é não-inferior ao regime de EC seguido de docetaxel em pacientes com câncer de mama inicial HER2-negativo.
 
 ## Resultados e Impacto Clínico:
-Dos 3.198 pacientes registrados, 348 (RS ≤11) omitiram quimioterapia e 401 não foram randomizados; a população de intenção de tratar incluiu 2.449 pacientes (1.227 EC-T vs. 1.222 TC). Após [[Seguimento Pós-Tratamento|seguimento]] mediano de 60 meses, os desfechos em 5 anos foram semelhantes: SLD 89,6% (IC 95% 87,9–91,5) vs. 89,9% (IC 95% 88,1–91,8) e SG 94,5% (IC 95% 93,1–95,9) vs. 94,7% (IC 95% 93,3–96,1), com a diferença de SLD dentro da margem de não-inferioridade do desenho original. Foram relatadas cinco mortes relacionadas ao [[tratamento/index|tratamento]] no braço TC (uma no EC-T).
+Dos 3.198 pacientes registrados, 348 (RS ≤11) omitiram quimioterapia e 401 não foram randomizados; a população de intenção de tratar incluiu 2.449 pacientes (1.227 EC-T vs. 1.222 TC). Após [[Seguimento Pós-Tratamento|seguimento]] mediano de 60 meses, os desfechos em 5 anos foram semelhantes: SLD 89,6% (IC 95% 87,9–91,5) vs. 89,9% (IC 95% 88,1–91,8) e SG 94,5% (IC 95% 93,1–95,9) vs. 94,7% (IC 95% 93,3–96,1), com a diferença de SLD dentro da margem de não-inferioridade do desenho original. Foram relatadas cinco mortes relacionadas ao tratamento no braço TC (uma no EC-T).
 
 ## Impacto Clínico:
 Demonstrou a não-inferioridade do TC em relação ao EC-T no câncer de mama inicial HER2-negativo, suportando a opção por um esquema sem antraciclinas, com eficácia semelhante e menor toxicidade.

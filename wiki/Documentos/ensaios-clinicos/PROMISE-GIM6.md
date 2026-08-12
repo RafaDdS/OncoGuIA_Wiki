@@ -34,7 +34,7 @@ Avaliar os resultados de longo prazo da [[Supressão Ovariana|supressão ovarian
 - **SLD em 5 anos:** 80,5% vs 83,7% — **sem diferença significativa** (HR 1,17; IC 95% 0,72–1,92; P = 0,52).
 
 ## Impacto Clínico:
-A triptorrelina concomitante à quimioterapia foi associada a **maior probabilidade de recuperação da função ovariana a longo prazo**, sem diferença estatisticamente significativa na taxa de gestações e **sem prejuízo da SLD** — apoiando os análogos do GnRH como estratégia de proteção ovariana durante a QT (neo)adjuvante em pré-menopausadas.
+A triptorrelina concomitante à quimioterapia foi associada a **maior probabilidade de recuperação da função ovariana a longo prazo**, sem diferença estatisticamente significativa na taxa de gestações e **sem prejuízo da SLD** — apoiando os [[Análogos do GnRH (GnRHa)|análogos do GnRH]] como estratégia de proteção ovariana durante a QT (neo)adjuvante em pré-menopausadas.
 
 ## Referências
 

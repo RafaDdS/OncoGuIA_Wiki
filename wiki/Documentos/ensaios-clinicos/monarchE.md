@@ -25,7 +25,7 @@ Avaliar a eficácia do abemaciclibe adjuvante combinado à terapia endócrina em
 ### Análise primária de eficácia (2021)
 - **SLDi:** redução de 29% no risco de evento de SLDi (HR 0,71; IC 95% 0,58–0,87; P nominal = 0,0009) com 19 meses de [[Seguimento Pós-Tratamento|seguimento]] mediano. Com 27 meses, HR 0,70 (IC 95% 0,59–0,82).
 - **Ki-67:** prognóstico, mas o benefício do abemaciclibe foi observado independentemente do índice de Ki-67.
-- Segurança aceitável; benefício robusto persistiu além dos 2 anos de [[tratamento/index|tratamento]].
+- Segurança aceitável; benefício robusto persistiu além dos 2 anos de tratamento.
 
 ### Resultados definitivos de OS (2026)
 - **SG:** com seguimento mediano de **76,2 meses**, o abemaciclibe + ET reduziu em 15,8% o risco de morte (661 óbitos; HR 0,842; IC 95% 0,722–0,981; P = 0,027), atingindo significância pré-especificada. OS em 7 anos: 86,8% vs 85,0% (diferença absoluta 1,8%). Benefício consistente entre subgrupos.

@@ -22,7 +22,7 @@ status: "draft"
 
 # HER2
 
-O **HER2** (Receptor 2 do Fator de Crescimento Epidérmico Humano) é um biomarcador de superfície celular fundamental na oncologia. A sua superexpressão em células tumorais confere maior agressividade à doença e, historicamente, estava associada a um pior prognóstico. No entanto, o HER2 é um excelente alvo terapêutico, e o desenvolvimento de [[tratamento/terapias-alvo/index|terapias-alvo]] revolucionou o [[tratamento/index|tratamento]] e a sobrevida dos pacientes.
+O **HER2** (Receptor 2 do Fator de Crescimento Epidérmico Humano) é um biomarcador de superfície celular fundamental na oncologia. A sua superexpressão em células tumorais confere maior agressividade à doença e, historicamente, estava associada a um pior prognóstico. No entanto, o HER2 é um excelente alvo terapêutico, e o desenvolvimento de [[tratamento/terapias-alvo/index|terapias-alvo]] revolucionou o tratamento e a sobrevida dos pacientes.
 
 ---
 
@@ -33,7 +33,7 @@ A avaliação do status do HER2 é feita inicialmente por **[[Imuno-histoquímic
 A classificação da expressão de HER2 foi recentemente expandida para guiar o uso de novas terapias:
 
 * **HER2 Positivo:** Caracteriza-se pela superexpressão da proteína HER2 (resultado IHQ 3+) ou pela amplificação do gene correspondente (resultado FISH/ISH positivo).
-* **HER2-low (Baixa expressão):** Definido como um resultado de IHQ 1+ ou IHQ 2+ com ISH negativo. Embora não seja considerado "HER2 positivo" nos moldes tradicionais, esse subgrupo tornou-se elegível para tratamentos específicos com Anticorpos Conjugados a Fármacos (ADCs), com base nos estudos *[[DESTINY-Breast04]]* e *[[DESTINY-Breast06]]*.
+* **HER2-low (Baixa expressão):** Definido como um resultado de IHQ 1+ ou IHQ 2+ com ISH negativo. Embora não seja considerado "HER2 positivo" nos moldes tradicionais, esse subgrupo tornou-se elegível para tratamentos específicos com [[Anticorpos Conjugados (ADCs) – Classe|Anticorpos Conjugados]] a Fármacos (ADCs), com base nos estudos *[[DESTINY-Breast04]]* e *[[DESTINY-Breast06]]*.
 * **HER2-ultra low (Expressão ultrabaixa):** Definido como IHQ 0, mas com uma coloração de membrana fraca ou incompleta (porém detectável). Assim como o HER2-low, também demonstra benefício e é elegível para tratamento com ADCs específicos, conforme evidenciado pelo estudo *DESTINY-Breast06*.
 
 ---

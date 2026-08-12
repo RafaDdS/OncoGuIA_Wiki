@@ -12,15 +12,15 @@ status: "draft"
 
 # Tratamento Adjuvante (Conceito)
 
-O **[[tratamento/index|tratamento]] adjuvante** é a terapia sistêmica administrada **após a cirurgia** com o objetivo de eliminar [[Doença Residual|doença residual]] microscópica e reduzir o risco de recorrência local e à distância. A decisão de indicar tratamento adjuvante baseia-se no risco de recidiva estimado por [[fatores-prognosticos/index|fatores prognósticos]] (tamanho tumoral, comprometimento linfonodal, [[Grau Histológico (G1–G3)|grau histológico]], subtipo molecular) e no benefício absoluto previsto com cada modalidade terapêutica.
+O **tratamento adjuvante** é a terapia sistêmica administrada **após a cirurgia** com o objetivo de eliminar [[Doença Residual|doença residual]] microscópica e reduzir o risco de recorrência local e à distância. A decisão de indicar tratamento adjuvante baseia-se no risco de recidiva estimado por [[fatores-prognosticos/index|fatores prognósticos]] (tamanho tumoral, comprometimento linfonodal, [[Grau Histológico (G1–G3)|grau histológico]], subtipo molecular) e no benefício absoluto previsto com cada modalidade terapêutica.
 
 ## Modalidades
 
-- **[[tratamento/quimioterapia/index|Quimioterapia]] adjuvante**: indicada para tumores TNBC e [[HER2|HER2+]] >5 mm, e para [[Receptores Hormonais (RE-RP-RH)|RH]]+/HER2− de [[Alto Risco Clínico|alto risco clínico]] ou genômico. Os regimes preferenciais incluem sequências antraciclina-taxano ([[AC (Doxorrubicina + Ciclofosfamida)|AC]] seguido de taxano semanal ou dose-densa) e [[TC (Docetaxel + Ciclofosfamida)|TC (docetaxel + ciclofosfamida)]] ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, NE ALTO/FR FORTE)
+- **[[tratamento/quimioterapia/index|Quimioterapia]] adjuvante**: indicada para tumores [[TNBC (Triplo-Negativo)|TNBC]] e [[HER2|HER2+]] >5 mm, e para [[Receptores Hormonais (RE-RP-RH)|RH]]+/HER2− de [[Alto Risco Clínico|alto risco clínico]] ou genômico. Os regimes preferenciais incluem sequências antraciclina-taxano ([[AC (Doxorrubicina + Ciclofosfamida)|AC]] seguido de taxano semanal ou dose-densa) e [[TC (Docetaxel + Ciclofosfamida)|TC (docetaxel + ciclofosfamida)]] ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, NE ALTO/FR FORTE)
 - **Hormonioterapia adjuvante**: para todos os tumores RH+, com duração de 5 a 10 anos conforme risco. [[Tamoxifeno]] para pré e pós-menopausa; IA apenas para pós-menopausa. [[Supressão Ovariana|Supressão ovariana]] combinada a tamoxifeno ou IA para pré-menopausa de alto risco (SBOC 2026)
-- **Terapia anti-HER2 adjuvante**: [[Trastuzumabe|trastuzumabe]] por 1 ano (padrão), com adição de [[Pertuzumabe|pertuzumabe]] para N+. [[T-DM1 (Trastuzumabe Emtansina)|T-DM1]] para doença residual pós-neoadjuvância ([[KATHERINE]]). [[Neratinibe]] para RH+/doença residual ([[ExteNET]])
-- **iCDK4/6 adjuvantes**: [[Abemaciclibe|abemaciclibe]] por 2 anos ([[monarchE]]) e [[Ribociclibe|ribociclibe]] por 3 anos ([[NATALEE]]) para alto risco
-- **Inibidores de PARP**: [[Olaparibe|olaparibe]] por 1 ano para BRCA germinativo com alto risco ([[OlympiA]])
+- **Terapia anti-HER2 adjuvante**: [[Trastuzumabe|trastuzumabe]] por 1 ano (padrão), com adição de [[Pertuzumabe|pertuzumabe]] para [[Linfonodo Positivo (N+-LFN)|N+]]. [[T-DM1 (Trastuzumabe Emtansina)|T-DM1]] para doença residual pós-neoadjuvância ([[KATHERINE]]). [[Neratinibe]] para RH+/doença residual ([[ExteNET]])
+- **[[Inibidores de CDK4-6 (iCDK4-6) – Classe|iCDK4/6]] adjuvantes**: [[Abemaciclibe|abemaciclibe]] por 2 anos ([[monarchE]]) e [[Ribociclibe|ribociclibe]] por 3 anos ([[NATALEE]]) para alto risco
+- **[[Inibidores de PARP (iPARP) – Classe|Inibidores de PARP]]**: [[Olaparibe|olaparibe]] por 1 ano para BRCA germinativo com alto risco ([[OlympiA]])
 
 ## Decisão Terapêutica
 

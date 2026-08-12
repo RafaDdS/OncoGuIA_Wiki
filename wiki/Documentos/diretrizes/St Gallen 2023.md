@@ -28,7 +28,7 @@ status: "draft"
 
 ## Resumo
 
-18ª conferência bienal realizada em Viena (março 2023). Focou na avaliação de novas evidências para terapias locais e sistêmicas do [[Câncer de Mama (Visão Geral)|câncer de mama]] inicial, com ênfase em [[tratamento/index|tratamento]] multimodal, refinamento de limites para uso de [[tratamento/quimioterapia/index|quimioterapia]], assinaturas genômicas, radioterapia, [[Supressão Ovariana|supressão ovariana]] e decisões pós-neoadjuvância. Pela primeira vez, abordou o manejo da doença oligometastática.
+18ª conferência bienal realizada em Viena (março 2023). Focou na avaliação de novas evidências para terapias locais e sistêmicas do [[Câncer de Mama (Visão Geral)|câncer de mama]] inicial, com ênfase em tratamento multimodal, refinamento de limites para uso de [[tratamento/quimioterapia/index|quimioterapia]], assinaturas genômicas, radioterapia, [[Supressão Ovariana|supressão ovariana]] e decisões pós-neoadjuvância. Pela primeira vez, abordou o manejo da doença oligometastática.
 
 ### Recomendações-chave
 

@@ -10,7 +10,7 @@ status: "draft"
 
 # Mortalidade / Incidência
 
-O [[Câncer de Mama (Visão Geral)|câncer de mama]] é a neoplasia maligna mais incidente em mulheres em todo o mundo (excluindo câncer de pele não melanoma) e a principal causa de morte por câncer na população feminina, com grandes variações regionais influenciadas por acesso ao [[diagnostico/index|diagnóstico]], estádio ao diagnóstico e disponibilidade de [[tratamento/index|tratamento]].
+O [[Câncer de Mama (Visão Geral)|câncer de mama]] é a neoplasia maligna mais incidente em mulheres em todo o mundo (excluindo câncer de pele não melanoma) e a principal causa de morte por câncer na população feminina, com grandes variações regionais influenciadas por acesso ao [[diagnostico/index|diagnóstico]], estádio ao diagnóstico e disponibilidade de tratamento.
 
 ## Incidência Global
 
@@ -22,7 +22,7 @@ O **INCA — Estimativa 2023** projeta aproximadamente **73.610 casos novos** de
 
 ## Mortalidade
 
-A mortalidade por câncer de mama no Brasil apresenta taxa ajustada por idade de aproximadamente **11,7 óbitos/100.000 mulheres** (INCA), com tendência de estabilização nas regiões mais desenvolvidas e aumento nas regiões Norte e Nordeste. Globalmente, a mortalidade é desproporcionalmente maior em países de baixo e médio IDH, onde o diagnóstico em estádios avançados é mais frequente e o acesso a tratamentos multimodal é limitado. Estima-se que cerca de **685.000 mulheres** morram de câncer de mama anualmente no mundo (GLOBOCAN 2020).
+A mortalidade por câncer de mama no Brasil apresenta taxa ajustada por idade de aproximadamente **11,7 óbitos/100.000 mulheres** (INCA), com tendência de estabilização nas regiões mais desenvolvidas e aumento nas regiões Norte e Nordeste. Globalmente, a mortalidade é desproporcionalmente maior em países de baixo e médio IDH, onde o diagnóstico em [[Estádios (0–IV)|estádios]] avançados é mais frequente e o acesso a tratamentos multimodal é limitado. Estima-se que cerca de **685.000 mulheres** morram de câncer de mama anualmente no mundo (GLOBOCAN 2020).
 
 ## Redução de Mortalidade pelo Rastreamento
 

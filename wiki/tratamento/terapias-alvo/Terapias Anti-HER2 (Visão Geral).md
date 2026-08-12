@@ -12,7 +12,7 @@ status: "draft"
 
 # Terapias Anti-HER2 (Visão Geral)
 
-As terapias anti-HER2 compreendem anticorpos monoclonais, conjugados anticorpo-droga (ADCs) e inibidores de tirosina quinase (TKIs) direcionados ao receptor HER2, superexpresso ou amplificado em ~15–20% dos cânceres de mama. O bloqueio da via HER2 revolucionou o prognóstico da doença HER2-positiva, reduzindo o risco de recidiva em ~40–50% na adjuvância e prolongando significativamente a sobrevida no cenário metastático ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, NE ALTO).
+As terapias anti-HER2 compreendem anticorpos monoclonais, conjugados anticorpo-droga ([[Anticorpos Conjugados (ADCs) – Classe|ADCs]]) e inibidores de tirosina quinase (TKIs) direcionados ao receptor HER2, superexpresso ou amplificado em ~15–20% dos cânceres de mama. O bloqueio da via HER2 revolucionou o prognóstico da doença HER2-positiva, reduzindo o risco de recidiva em ~40–50% na adjuvância e prolongando significativamente a sobrevida no cenário metastático ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, NE ALTO).
 
 ## Mecanismos de Ação
 
@@ -22,19 +22,19 @@ Os anticorpos monoclonais [[Trastuzumabe|trastuzumabe]] e [[Pertuzumabe|pertuzum
 
 | Estudo | Cenário | Comparação | Resultado principal |
 |--------|---------|------------|-------------------|
-| **[[NSABP B-31]] / [[NCCTG N9831]]** (NEJM 2005) | Adjuvante HER2+ | QT + trastuzumabe 1a vs QT | SLD HR 0,48; SG HR 0,67 |
+| **[[NSABP B-31]] / [[NCCTG N9831]]** (NEJM 2005) | Adjuvante HER2+ | QT + trastuzumabe 1a vs QT | SLD HR 0,48; [[Sobrevida Global (SG)|SG]] HR 0,67 |
 | **[[HERA]]** (Lancet 2007) | Adjuvante HER2+ | Trastuzumabe 1a vs observação | SLD HR 0,54; SG HR 0,66 |
-| **[[APHINITY]]** (NEJM 2017, atualização 2023) | Adjuvante HER2+ N+ | QT + HP vs QT + H | SLD HR 0,77 em N+ (8,4a) |
+| **[[APHINITY]]** (NEJM 2017, atualização 2023) | Adjuvante HER2+ [[Linfonodo Positivo (N+-LFN)|N+]] | QT + HP vs QT + H | SLD HR 0,77 em N+ (8,4a) |
 | **[[CLEOPATRA]]** (NEJM 2015) | 1ª linha metastático | HP + docetaxel vs H + docetaxel | SG 56,5 vs 40,8 meses (HR 0,68) |
 | **[[KATHERINE]]** (NEJM 2018, SG 2023) | [[Doença Residual|Doença residual]] pós-neoadj | T-DM1 vs H | SLD HR 0,50; SG +4,7% em 7a |
-| **[[DESTINY-Breast03]]** (NEJM 2022) | 2ª linha metastático | T-DXd vs T-DM1 | SLP 29 vs 7,2m (HR 0,30); SG 52,6 vs 42,7m (HR 0,73) |
+| **[[DESTINY-Breast03]]** (NEJM 2022) | 2ª linha metastático | T-DXd vs T-DM1 | [[Sobrevida Livre de Progressão (SLP)|SLP]] 29 vs 7,2m (HR 0,30); SG 52,6 vs 42,7m (HR 0,73) |
 | **[[DESTINY-Breast04]]** (NEJM 2022) | [[HER2|HER2-low]] metastático | T-DXd vs QT escolha | PFS 10,1 vs 5,4m (HR 0,51) |
 | **[[ExteNET]]** (Lancet Oncol 2017) | Adjuvante estendida | Neratinibe 1a vs placebo | SLD HR 0,73 (em [[Receptores Hormonais (RE-RP-RH)|RH]]+/DR) |
 | **[[DESTINY-Breast05]]** (2024) | Doença residual | T-DXd vs T-DM1 | Superioridade T-DXd (ainda sem aprovação no Brasil) |
 
 ## Contexto Adjuvante
 
-O [[tratamento/index|tratamento]] padrão para doença HER2+ localizada é [[tratamento/quimioterapia/index|quimioterapia]] baseada em antraciclina-taxano combinada a trastuzumabe por 1 ano (SBOC 2026, NE ALTO). Pacientes com linfonodos positivos beneficiam-se da adição de pertuzumabe (APHINITY, HR 0,77 em N+). Para doença residual após neoadjuvância, T-DM1 por 14 ciclos é superior a trastuzumabe isolado (KATHERINE, SG +4,7% em 7 anos). O T-DXd está sendo avaliado em doença residual (DESTINY-Breast05), com resultados superiores ao T-DM1, mas ainda sem aprovação no Brasil. Neratinibe por 1 ano pode ser considerado em pacientes HER2+/RH+ com doença residual (ExteNET, NE ALTO/FR FRACA, SBOC 2026).
+O tratamento padrão para doença HER2+ localizada é [[tratamento/quimioterapia/index|quimioterapia]] baseada em antraciclina-taxano combinada a trastuzumabe por 1 ano (SBOC 2026, NE ALTO). Pacientes com linfonodos positivos beneficiam-se da adição de pertuzumabe (APHINITY, HR 0,77 em N+). Para doença residual após neoadjuvância, T-DM1 por 14 ciclos é superior a trastuzumabe isolado (KATHERINE, SG +4,7% em 7 anos). O T-DXd está sendo avaliado em doença residual (DESTINY-Breast05), com resultados superiores ao T-DM1, mas ainda sem aprovação no Brasil. Neratinibe por 1 ano pode ser considerado em pacientes HER2+/RH+ com doença residual (ExteNET, NE ALTO/FR FRACA, SBOC 2026).
 
 ## Contexto Metastático
 

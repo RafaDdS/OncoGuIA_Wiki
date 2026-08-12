@@ -1,7 +1,6 @@
 ---
 title: "EBCTCG Meta-analysis (Dose-dense)"
 aliases:
-  - "EBCTCG Meta-analysis (Dose-dense)"
 category: "Ensaios Clínicos"
 status: "draft"
 ---
@@ -27,7 +26,7 @@ Avaliar se aumentar a intensidade de dose da quimioterapia adjuvante — encurta
 - A intensificação de dose reduziu moderadamente o risco de recorrência e de morte por câncer de mama em 10 anos, **sem aumento da mortalidade por outras causas**.
 
 ### Ensaio GIM2 (2015)
-- **SLD em 5 anos:** 81% (IC 95% 79–84) com dose-densa vs 76% (74–79) com intervalo padrão (HR 0,77; IC 95% 0,65–0,92; P = 0,004); **SG em 5 anos:** 94% vs 89% (HR 0,65; IC 95% 0,51–0,84; P = 0,001), após [[Seguimento Pós-Tratamento|seguimento]] mediano de 7,0 anos.
+- **SLD em 5 anos:** 81% (IC 95% 79–84) com dose-densa vs 76% (74–79) com intervalo padrão (HR 0,77; IC 95% 0,65–0,92; P = 0,004); **[[Sobrevida Global (SG)|SG]] em 5 anos:** 94% vs 89% (HR 0,65; IC 95% 0,51–0,84; P = 0,001), após [[Seguimento Pós-Tratamento|seguimento]] mediano de 7,0 anos.
 - A adição de fluorouracil ao esquema EC-P **não** melhorou a SLD (HR 1,06; IC 95% 0,89–1,25; P = 0,561).
 - Toxicidade grau 3–4 com dose-densa: mais anemia (1,4% vs 0,2%), transaminite (1,9% vs 0,4%) e mialgia (3,1% vs 1,6%); menos neutropenia (14,9% vs 44,0%).
 

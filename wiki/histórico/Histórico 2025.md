@@ -37,9 +37,9 @@ As [[Documentos/diretrizes/index|diretrizes]] da [[Sociedade Brasileira de Oncol
 
 ### 3.2. RH+/HER2- (Luminal)
 - **Painéis genômicos**: Esclarecimento de que o benefício da QT em pré-menopausa com RS intermediário ([[Recurrence Score (RS) - Oncotype DX|Oncotype DX]]) pode ser parcialmente atribuído à **[[Supressão Ovariana|supressão ovariana]] induzida pela [[tratamento/quimioterapia/index|quimioterapia]]**.
-- **Inibidores de CDK4/6**:
-  - **[[Abemaciclibe]]**: Dados de SG atualizados (ganho de 1,8% em 5 anos) – [[monarchE]].
-  - **[[Ribociclibe]]**: Nova opção para alto risco (N+ ou N0 com T≥2cm + grau 3 ou [[Ki67]]≥20%), com ganho de 4,5% em SLDi em 5 anos – [[NATALEE]].
+- **[[Inibidores de CDK4-6 (iCDK4-6) – Classe|Inibidores de CDK4/6]]**:
+  - **[[Abemaciclibe]]**: Dados de [[Sobrevida Global (SG)|SG]] atualizados (ganho de 1,8% em 5 anos) – [[monarchE]].
+  - **[[Ribociclibe]]**: Nova opção para alto risco ([[Linfonodo Positivo (N+-LFN)|N+]] ou N0 com T≥2cm + grau 3 ou [[Ki67]]≥20%), com ganho de 4,5% em SLDi em 5 anos – [[NATALEE]].
   - **Contraindicação**: Ribociclibe **não deve** ser combinado com tamoxifeno (apenas com IA).
 
 ### 3.3. HER2+
@@ -52,18 +52,18 @@ As [[Documentos/diretrizes/index|diretrizes]] da [[Sociedade Brasileira de Oncol
 ## 4. Tratamento Neoadjuvante
 
 ### 4.1. Triplo-negativo e ER-low
-- **[[ER-low - RE Baixo|ER-low]] (RE <10%)**: Passa a ser tratado como triplo-negativo (antes era considerado luminal). Inclui também **RP baixo**.
+- **[[ER-low - RE Baixo|ER-low]] (RE <10%)**: Passa a ser tratado como [[TNBC (Triplo-Negativo)|triplo-negativo]] (antes era considerado luminal). Inclui também **RP baixo**.
 - **Esquema com [[Pembrolizumabe|pembrolizumabe]]**: Permite-se o uso de **[[ACdd (AC Dose-Densa)|ACdd (dose-densa)]]** desvinculado da infusão de pembrolizumabe (que permanece a cada 3 semanas), com base em dados de segurança brasileiros (neo-real).
 - **Docetaxel**: Dose padronizada em 75 mg/m² (antes 75–100 mg/m²).
 
 ### 4.2. HER2+
-- **T-DXd**: Mencionado como opção promissora no estudo [[DESTINY-Breast11]] (RPC 67,3% vs 56,3%), ainda sem aprovação no Brasil.
+- **T-DXd**: Mencionado como opção promissora no estudo [[DESTINY-Breast11]] ([[Resposta Patológica Completa (RPC)|RPC]] 67,3% vs 56,3%), ainda sem aprovação no Brasil.
 
 ## 5. Doença Metastática
 
 ### 5.1. RH+/HER2-
-- **1ª linha com [[PIK3CA]] mutado e [[Resistência Endócrina|resistência endócrina]]**: Nova opção preferencial – **Inavolisibe + [[Palbociclibe]] + [[Fulvestranto]]** ([[INAVO120]]), com ganho de SLP (15 vs 7,3 meses) e SG (34 vs 27 meses).
-- **Capivasertibe**: Esquema intermitente detalhado (4 dias on / 3 dias off) para melhor tolerabilidade.
+- **1ª linha com [[PIK3CA]] mutado e [[Resistência Endócrina|resistência endócrina]]**: Nova opção preferencial – **Inavolisibe + [[Palbociclibe]] + [[Fulvestranto]]** ([[INAVO120]]), com ganho de [[Sobrevida Livre de Progressão (SLP)|SLP]] (15 vs 7,3 meses) e SG (34 vs 27 meses).
+- **[[Capivasertibe (Inibidor de AKT)|Capivasertibe]]**: Esquema intermitente detalhado (4 dias on / 3 dias off) para melhor tolerabilidade.
 - **SERDs orais**: Elacestrant e Imlunestrant mencionados como opções emergentes (sem aprovação no Brasil).
 
 ### 5.2. HER2+
@@ -79,7 +79,7 @@ As [[Documentos/diretrizes/index|diretrizes]] da [[Sociedade Brasileira de Oncol
 - **[[Preservação da Fertilidade|Preservação da fertilidade]]**: [[Análogos do GnRH (GnRHa)]] devem ser oferecidos durante a QT não apenas para preservação da fertilidade, mas também para **redução do risco de falência ovariana prematura** em todas as pacientes pré-menopausa, independentemente do desejo reprodutivo.
 - **Ecocardiograma**: Especifica-se o método (Doppler) para avaliação da função cardíaca.
 - **Clipagem**: Reforça-se a colocação de clipe radiopaco no tumor e em linfonodos axilares suspeitos antes da neoadjuvância.
-- **Intervalos assistenciais**: Recomendação de monitoramento de atrasos (exame índice, biópsia, laudo, biomarcadores, início do [[tratamento/index|tratamento]]) como indicador de qualidade.
+- **Intervalos assistenciais**: Recomendação de monitoramento de atrasos (exame índice, biópsia, laudo, biomarcadores, início do tratamento) como indicador de qualidade.
 
 ## Conclusão
 

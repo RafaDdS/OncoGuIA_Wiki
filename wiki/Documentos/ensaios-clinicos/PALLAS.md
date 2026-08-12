@@ -2,7 +2,6 @@
 title: "PALLAS"
 aliases:
   - "PALLAS"
-  - "PALLAS (ABCSG-42/AFT-05/BIG-14-03)"
 category: "Ensaios Clínicos"
 tags:
   - "citado indiretamente"
@@ -33,7 +32,7 @@ Desfecho primário: sobrevida livre de doença invasiva (SLDi) na população de
 
 ### Final (2022)
 - Seguimento mediano de 31 meses; HR **0,96** (IC 95% 0,81–1,14); P = 0,65. SLDi em 4 anos: 84,2% vs 84,5%.
-- Nenhuma diferença em desfechos secundários (sobrevida livre de câncer de mama invasivo, recorrência distante, SG) nem nos subgrupos.
+- Nenhuma diferença em desfechos secundários (sobrevida livre de câncer de mama invasivo, recorrência distante, [[Sobrevida Global (SG)|SG]]) nem nos subgrupos.
 
 ## Impacto Clínico:
 **Não demonstrou benefício** da adição do palbociclibe adjuvante por 2 anos na SLDi, o que, junto com o [[PENELOPE-B]] (negativo), sustenta a **não recomendação do palbociclibe na adjuvância** (NE ALTO, [[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026).

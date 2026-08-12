@@ -13,7 +13,7 @@ status: "draft"
 
 # Câncer de Mama (Visão Geral)
 
-O **câncer de mama** é a neoplasia maligna mais incidente em mulheres no mundo (excluindo câncer de pele não melanoma) e a principal causa de morte por câncer na população feminina brasileira. Caracteriza-se por grande heterogeneidade clínica, molecular e prognóstica, exigindo abordagem multidisciplinar para [[diagnostico/index|diagnóstico]] e [[tratamento/index|tratamento]].
+O **câncer de mama** é a neoplasia maligna mais incidente em mulheres no mundo (excluindo câncer de pele não melanoma) e a principal causa de morte por câncer na população feminina brasileira. Caracteriza-se por grande heterogeneidade clínica, molecular e prognóstica, exigindo abordagem multidisciplinar para [[diagnostico/index|diagnóstico]] e tratamento.
 
 ## Epidemiologia
 
@@ -24,16 +24,16 @@ O **câncer de mama** é a neoplasia maligna mais incidente em mulheres no mundo
 ## Heterogeneidade e Subtipos
 
 O câncer de mama é classificado em **subtipos intrínsecos** com base no perfil de expressão gênica (St. Gallen, 2013):
-- **Luminal A (RH+/HER2−, [[Ki67]] < 20%)**: melhor prognóstico, maior sensibilidade a hormonioterapia
+- **[[Subtipo Luminal (RH+-HER2-)|Luminal]] A (RH+/HER2−, [[Ki67]] < 20%)**: melhor prognóstico, maior sensibilidade a hormonioterapia
 - **Luminal B (RH+/HER2−, Ki67 ≥ 20% ou RH+/[[HER2|HER2+]])**: prognóstico intermediário; maior risco de recidiva
 - **HER2-enriquecido (RH−/HER2+)**: agressivo, mas altamente responsivo a terapia anti-HER2
-- **Triplo-negativo (RH−/HER2−)**: pior prognóstico, maior taxa de recidiva precoce, opções limitadas a [[tratamento/quimioterapia/index|quimioterapia]]
+- **[[TNBC (Triplo-Negativo)|Triplo-negativo]] (RH−/HER2−)**: pior prognóstico, maior taxa de recidiva precoce, opções limitadas a [[tratamento/quimioterapia/index|quimioterapia]]
 
 A classificação por **[[Imuno-histoquímica (IHQ)|imuno-histoquímica (IHQ)]]** para RE, RP, HER2 e Ki67 é a substituta prática mais utilizada para aproximar os [[subtipos-moleculares/index|subtipos moleculares]] ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, NE ALTO).
 
 ## Diagnóstico e Estadiamento
 
-O diagnóstico baseia-se na tríade: **exame clínico + [[diagnostico/imagem/index|imagem]]** ([[Mamografia|mamografia]], USG, RM) + **biópsia percutânea** ([[Core Biopsy|core biopsy]] ou biópsia cirúrgica). O laudo anatomopatológico deve incluir: tipo histológico, grau de Nottingham (Elston-Ellis), status [[Receptores Hormonais (RE-RP-RH)|RE/RP]] (Allred ou H-score), HER2 (IHQ e/ou [[FISH - CISH - SISH|FISH/CISH]]), Ki67 e presença de [[Invasão Angiolinfática|invasão angiolinfática]]. O [[estadiamento/index|estadiamento]] segue o **[[AJCC]] 8ª edição**, que incorpora fatores biológicos ao TNM anatômico ([[Estadiamento Prognóstico Clínico e Patológico]]) (SBOC 2026, NE ALTO).
+O diagnóstico baseia-se na tríade: **exame clínico + [[diagnostico/imagem/index|imagem]]** ([[Mamografia|mamografia]], [[Ultrassonografia (USG) de Mamas e Axilas|USG]], RM) + **biópsia percutânea** ([[Core Biopsy|core biopsy]] ou biópsia cirúrgica). O laudo anatomopatológico deve incluir: tipo histológico, grau de Nottingham (Elston-Ellis), status [[Receptores Hormonais (RE-RP-RH)|RE/RP]] (Allred ou H-score), HER2 (IHQ e/ou [[FISH - CISH - SISH|FISH/CISH]]), Ki67 e presença de [[Invasão Angiolinfática|invasão angiolinfática]]. O [[estadiamento/index|estadiamento]] segue o **[[AJCC]] 8ª edição**, que incorpora fatores biológicos ao TNM anatômico ([[Estadiamento Prognóstico Clínico e Patológico]]) (SBOC 2026, NE ALTO).
 
 ## Tratamento
 

@@ -12,7 +12,7 @@ status: "draft"
 
 # Cobertura Mamográfica
 
-A cobertura mamográfica é o percentual da população-alvo feminina que realiza [[Mamografia|mamografia]] de [[Documentos/rastreamento/index|rastreamento]] dentro do intervalo recomendado. É um dos principais indicadores de efetividade de programas de rastreamento populacional e está diretamente associada à redução de [[diagnostico/index|diagnóstico]] em estádios avançados e à queda da mortalidade por [[Câncer de Mama (Visão Geral)|câncer de mama]].
+A cobertura mamográfica é o percentual da população-alvo feminina que realiza [[Mamografia|mamografia]] de [[Documentos/rastreamento/index|rastreamento]] dentro do intervalo recomendado. É um dos principais indicadores de efetividade de programas de rastreamento populacional e está diretamente associada à redução de [[diagnostico/index|diagnóstico]] em [[Estádios (0–IV)|estádios]] avançados e à queda da mortalidade por [[Câncer de Mama (Visão Geral)|câncer de mama]].
 
 ## Cenário Global
 
@@ -29,4 +29,4 @@ A baixa cobertura mamográfica no Brasil traduz-se em diagnóstico tardio: aprox
 ## Referências
 
 1. Sung H; Ferlay J; Siegel RL; et al. Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. CA Cancer J Clin. 2021;71(3):209-49. DOI: [10.3322/caac.21660](https://doi.org/10.3322/caac.21660)
-2. Marmot MG; Altman DG; Cameron DA; Dewar JA; Thompson SG; Wilcox M. The benefits and harms of breast cancer screening: an independent review. Br J Cancer. 2013;108(11):2205-40. DOI: [10.1038/bjc.2013.177](https://doi.org/10.1038/bjc.2013.177)
+2. Marmot MG; Altman DG; Cameron DA; Dewar JA; Thompson [[Sobrevida Global (SG)|SG]]; Wilcox M. The benefits and harms of breast cancer screening: an independent review. Br J Cancer. 2013;108(11):2205-40. DOI: [10.1038/bjc.2013.177](https://doi.org/10.1038/bjc.2013.177)

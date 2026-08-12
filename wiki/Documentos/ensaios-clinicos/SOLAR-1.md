@@ -15,7 +15,7 @@ André F, Ciruelos EM, Juric D, Loibl S, Campone M, Mayer IA, et al. (2021 — r
 2021 (resultados finais de OS)
 
 ## Delineamento (Métodos):
-Estudo de fase III, randomizado 1:1, duplo-cego, controlado por placebo (NCT02437318). Incluiu homens e mulheres pós-menopausadas com [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]] com progressão durante ou após inibidor de aromatase, randomizados para alpelisibe (300 mg/dia) + [[Fulvestranto|fulvestranto]] ou placebo + fulvestranto. Análise final de sobrevida global (OS) na coorte com mutação [[PIK3CA]] (n = 341), com limiar de eficácia pré-especificado (P ≤ 0,0161).
+Estudo de fase III, randomizado 1:1, duplo-cego, controlado por placebo (NCT02437318). Incluiu homens e mulheres pós-menopausadas com [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]] com progressão durante ou após inibidor de aromatase, randomizados para alpelisibe (300 mg/dia) + [[Fulvestranto|fulvestranto]] ou placebo + fulvestranto. Análise final de [[Sobrevida Global (SG)|sobrevida global]] (OS) na coorte com mutação [[PIK3CA]] (n = 341), com limiar de eficácia pré-especificado (P ≤ 0,0161).
 
 ## Objetivos:
 Avaliar a eficácia de alpelisibe (inibidor de PI3Kα) em combinação com fulvestranto em tumores metastáticos [[Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]- com mutação PIK3CA, com foco nos resultados finais de sobrevida global.
@@ -29,7 +29,7 @@ Avaliar a eficácia de alpelisibe (inibidor de PI3Kα) em combinação com fulve
 - Melhora numérica de **7,9 meses** na mediana de OS; sem novos sinais de segurança com [[Seguimento Pós-Tratamento|seguimento]] mais longo.
 
 ## Impacto Clínico:
-Embora a análise final de OS não tenha cruzado o limiar de significância pré-especificado, houve ganho numericamente relevante e consistente de OS com alpelisibe + fulvestranto, particularmente na doença visceral, somando-se ao benefício já demonstrado de SLP. O SOLAR-1 estabeleceu o primeiro [[tratamento/index|tratamento]] guiado por biomarcador para câncer de mama metastático RH+, com teste obrigatório de mutação PIK3CA.
+Embora a análise final de OS não tenha cruzado o limiar de significância pré-especificado, houve ganho numericamente relevante e consistente de OS com alpelisibe + fulvestranto, particularmente na doença visceral, somando-se ao benefício já demonstrado de [[Sobrevida Livre de Progressão (SLP)|SLP]]. O SOLAR-1 estabeleceu o primeiro tratamento guiado por biomarcador para câncer de mama metastático RH+, com teste obrigatório de mutação PIK3CA.
 
 ## Referências
 

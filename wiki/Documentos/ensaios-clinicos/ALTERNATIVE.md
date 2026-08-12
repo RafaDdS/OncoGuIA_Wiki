@@ -23,11 +23,11 @@ Avaliar se o duplo bloqueio HER2 com lapatinibe + trastuzumabe combinado a inibi
 ## Resultados e Impacto Clínico:
 - **SLP (endpoint primário):** mediana de 11,0 vs 5,7 meses com lapatinibe + trastuzumabe + IA versus trastuzumabe + IA (HR 0,62; IC 95% 0,45–0,88; P = 0,0064). Benefício consistente nos subgrupos pré-especificados.
 - **SLP (lapatinibe + IA vs trastuzumabe + IA):** mediana de 8,3 vs 5,7 meses (HR 0,71; IC 95% 0,51–0,98; P = 0,0361).
-- **Resposta e SG:** taxa de resposta objetiva, taxa de benefício clínico e sobrevida global também favoreceram o braço com duplo bloqueio.
+- **Resposta e SG:** taxa de resposta objetiva, taxa de benefício clínico e [[Sobrevida Global (SG)|sobrevida global]] também favoreceram o braço com duplo bloqueio.
 - **Segurança:** diarreia (69% vs 9% vs 51%), rash (36% vs 2% vs 28%), náusea (22% vs 9% vs 22%) e paroníquia (30% vs 0% vs 15%) nos braços lapatinibe + trastuzumabe + IA, trastuzumabe + IA e lapatinibe + IA, respectivamente; a maioria graus 1–2.
 
 ## Impacto Clínico:
-Demonstrou que o duplo bloqueio HER2 com lapatinibe + trastuzumabe combinado a IA é superior a trastuzumabe + IA em SLP em pacientes na pós-menopausa com doença metastática HER2+/RH+, oferecendo uma alternativa livre de quimioterapia ao [[tratamento/index|tratamento]].
+Demonstrou que o duplo bloqueio HER2 com lapatinibe + trastuzumabe combinado a IA é superior a trastuzumabe + IA em SLP em pacientes na pós-menopausa com doença metastática HER2+/RH+, oferecendo uma alternativa livre de quimioterapia ao tratamento.
 
 ## Referências
 

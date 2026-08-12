@@ -20,7 +20,7 @@ Avaliar se o ribociclibe adjuvante, em dose reduzida (400 mg) e período estendi
 - **Desfechos secundários:** sobrevida livre de doença à distância (SLDD) e sobrevida livre de recorrência também favoreceram ribociclibe + IA.
 
 ## Impacto Clínico:
-Comprovou benefício em SLDi com o ribociclibe adjuvante em uma população mais ampla do que o [[monarchE]], incluindo pacientes com linfonodos negativos, ampliando o público-alvo de inibidores de CDK4/6 adjuvantes no câncer de mama inicial RH+/HER2-.
+Comprovou benefício em SLDi com o ribociclibe adjuvante em uma população mais ampla do que o [[monarchE]], incluindo pacientes com linfonodos negativos, ampliando o público-alvo de [[Inibidores de CDK4-6 (iCDK4-6) – Classe|inibidores de CDK4/6]] adjuvantes no câncer de mama inicial RH+/HER2-.
 
 ## Referências
 

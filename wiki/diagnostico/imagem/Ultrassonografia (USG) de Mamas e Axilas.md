@@ -2,6 +2,8 @@
 title: "Ultrassonografia (USG) de Mamas e Axilas"
 aliases:
   - "Ultrassonografia (USG) de mamas e axilas"
+  - "Ultrassonografia"
+  - "USG"
 category: "Rastreamento e Imagem"
 source_documents:
   - "Estadiamento"

@@ -9,7 +9,7 @@ status: "draft"
 # OlympiA
 
 ## Autores Principais:
- Tutt ANJ, Garber JE, Kaufman B, et al. / Geyer CE, Garber JE, Gelber RD, et al. (SG)
+ Tutt ANJ, Garber JE, Kaufman B, et al. / Geyer CE, Garber JE, Gelber RD, et al. ([[Sobrevida Global (SG)|SG]])
 
 ## Ano de Publicação:
  2021 e 2022 (SG)

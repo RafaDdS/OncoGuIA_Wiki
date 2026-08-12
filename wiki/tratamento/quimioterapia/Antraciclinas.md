@@ -10,7 +10,7 @@ status: "draft"
 
 # Antraciclinas
 
-As **antraciclinas** são antibióticos antineoplásicos derivados do *Streptomyces*, entre os quais se destacam a **doxorrubicina (adriamicina)** e a **epirrubicina**. Constituem uma das classes mais eficazes no [[tratamento/index|tratamento]] do [[Câncer de Mama (Visão Geral)|câncer de mama]], tanto no cenário adjuvante quanto no neoadjuvante e metastático.
+As **antraciclinas** são antibióticos antineoplásicos derivados do *Streptomyces*, entre os quais se destacam a **doxorrubicina (adriamicina)** e a **epirrubicina**. Constituem uma das classes mais eficazes no tratamento do [[Câncer de Mama (Visão Geral)|câncer de mama]], tanto no cenário adjuvante quanto no neoadjuvante e metastático.
 
 ## Mecanismo de Ação
 

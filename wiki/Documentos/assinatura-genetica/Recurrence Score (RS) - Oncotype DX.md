@@ -3,6 +3,7 @@ title: "Recurrence Score (RS) / Oncotype DX"
 aliases:
   - "RS (Recurrence Score)"
   - "Oncotype DX"
+  - "Recurrence Score"
 category: "Ferramentas Preditivas"
 source_documents:
   - "Adjuvante"
@@ -25,7 +26,7 @@ O Oncotype DX é um painel genômico de 21 genes (16 genes relacionados ao cânc
 * **RS > 25:** Alto risco. A quimioterapia adjuvante associada à HT possui indicação formal.
 
 
-* **Cenário Linfonodo Positivo (1 a 3 [[Linfonodo Positivo (N+-LFN)|LFN]]):** * **Pós-menopausa (RS ≤ 25):** Pode-se omitir a quimioterapia com segurança, mantendo apenas o [[tratamento/index|tratamento]] endócrino.
+* **Cenário [[Linfonodo Positivo (N+-LFN)|Linfonodo Positivo]] (1 a 3 LFN):** * **Pós-menopausa (RS ≤ 25):** Pode-se omitir a quimioterapia com segurança, mantendo apenas o tratamento endócrino.
 * **Pré-menopausa (RS ≤ 25):** Recomenda-se considerar a quimioterapia, pois observou-se um ganho real na sobrevida livre de doença, possivelmente pelo efeito de [[Supressão Ovariana|supressão ovariana]] induzido pela quimioterapia.
 
 

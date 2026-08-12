@@ -24,12 +24,12 @@ Avaliar se a adição de tucatinibe ao trastuzumabe + pertuzumabe melhora a SLP 
 
 ### Análise primária (2026)
 - **SLP:** melhora estatisticamente significativa com tucatinibe (HR 0,641; IC 95% 0,514–0,799); mediana de SLP de **24,9 versus 16,3 meses**.
-- Benefício observado independentemente da presença de metástases cerebrais ou do status de receptores hormonais.
+- Benefício observado independentemente da presença de metástases cerebrais ou do status de [[Receptores Hormonais (RE-RP-RH)|receptores hormonais]].
 - **SG:** dados imaturos na análise primária.
 - **Segurança:** eventos adversos emergentes mais comuns no braço tucatinibe — diarreia (72,7%; grau ≥3: 6,1%), náusea (33,1%; grau ≥3: 0,9%) e elevação de transaminases (ALT 28,2%; AST 25,8%; grau ≥3: 13,5% e 7,1%); 13,5% descontinuaram tucatinibe por eventos adversos.
 
 ## Impacto Clínico:
-O tucatinibe adicionado a trastuzumabe e pertuzumabe melhorou a SLP como manutenção de primeira linha no HER2-positivo metastático, sem novos sinais de segurança, representando opção de [[tratamento/index|tratamento]] nesse cenário `<Sem aprovação nacional>` (sem aprovação pela Anvisa; não incluído nas recomendações formais da [[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026).
+O tucatinibe adicionado a trastuzumabe e pertuzumabe melhorou a SLP como manutenção de primeira linha no HER2-positivo metastático, sem novos sinais de segurança, representando opção de tratamento nesse cenário `<Sem aprovação nacional>` (sem aprovação pela Anvisa; não incluído nas recomendações formais da [[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026).
 
 ## Referências
 

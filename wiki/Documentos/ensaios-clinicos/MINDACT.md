@@ -31,7 +31,7 @@ Validar prospectivamente o uso clínico da assinatura de 70 genes (MammaPrint) p
 - A diferença absoluta versus quem recebeu quimioterapia foi de 1,5 ponto percentual, menor sem quimioterapia. Aproximadamente **46%** das mulheres com alto risco clínico podem não necessitar de quimioterapia baseada na assinatura de 70 genes.
 
 ### Atualização (SABCS 2020 / Cancer Res 2021)
-- Com 8,7 anos de [[Seguimento Pós-Tratamento|seguimento]], pacientes risco clínico baixo/genômico baixo (n=2.744, apenas terapia endócrina) tiveram DMFS em 5 e 8 anos de **97,3%** e **94,7%** e SG de 98,2% e 96,5%.
+- Com 8,7 anos de [[Seguimento Pós-Tratamento|seguimento]], pacientes risco clínico baixo/genômico baixo (n=2.744, apenas terapia endócrina) tiveram DMFS em 5 e 8 anos de **97,3%** e **94,7%** e [[Sobrevida Global (SG)|SG]] de 98,2% e 96,5%.
 - Em risco clínico baixo/genômico alto, o benefício da quimioterapia foi pequeno (diferença absoluta de DMFS em 8 anos de 1,5%; SE ±2,3%), concentrado em pacientes <50 anos (Δ5,4% aos 8 anos versus −0,3% em >50 anos).
 
 ## Impacto Clínico:

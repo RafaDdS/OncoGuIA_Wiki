@@ -10,7 +10,7 @@ status: "draft"
 
 # Palbociclibe
 
-O **palbociclibe** (Ibrance) foi o primeiro inibidor de CDK4/6 aprovado no [[tratamento/index|tratamento]] do [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]−. É um inibidor oral administrado em esquema intermitente (3 semanas sim / 1 semana pausa) para permitir a recuperação medular.
+O **palbociclibe** (Ibrance) foi o primeiro inibidor de CDK4/6 aprovado no tratamento do [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]−. É um inibidor oral administrado em esquema intermitente (3 semanas sim / 1 semana pausa) para permitir a recuperação medular.
 
 ## Mecanismo
 
@@ -18,7 +18,7 @@ O palbociclibe é um inibidor potente e seletivo de CDK4 (IC50 11 nM) e CDK6 (IC
 
 ## Evidências
 
-No [[PALOMA-2]] (1ª linha, palbociclibe + letrozol), a PFS foi de 24,8 vs 14,5 meses (HR 0,58), mas a SG não atingiu significância estatística (53,9 vs 51,2 meses; HR 0,96). No [[Paloma-3|PALOMA-3]] (2ª linha, palbociclibe + [[Fulvestranto|fulvestranto]]), a PFS foi de 9,5 vs 4,6 meses (HR 0,46) e a SG de 34,8 vs 28,0 meses (HR 0,81, não significativo). O palbociclibe é o único iCDK4/6 sem benefício comprovado em SG nos estudos pivotais, embora a magnitude de benefício em PFS seja comparável aos demais. Na adjuvância, o [[PALLAS]] (palbociclibe por 2 anos) e o [[PENELOPE-B]] (palbociclibe por 1 ano após neoadjuvância com [[Doença Residual|doença residual]]) foram negativos (SLD HR 0,96 e 0,93, respectivamente), contraindicando o uso adjuvante.
+No [[PALOMA-2]] (1ª linha, palbociclibe + letrozol), a PFS foi de 24,8 vs 14,5 meses (HR 0,58), mas a [[Sobrevida Global (SG)|SG]] não atingiu significância estatística (53,9 vs 51,2 meses; HR 0,96). No [[Paloma-3|PALOMA-3]] (2ª linha, palbociclibe + [[Fulvestranto|fulvestranto]]), a PFS foi de 9,5 vs 4,6 meses (HR 0,46) e a SG de 34,8 vs 28,0 meses (HR 0,81, não significativo). O palbociclibe é o único [[Inibidores de CDK4-6 (iCDK4-6) – Classe|iCDK4/6]] sem benefício comprovado em SG nos estudos pivotais, embora a magnitude de benefício em PFS seja comparável aos demais. Na adjuvância, o [[PALLAS]] (palbociclibe por 2 anos) e o [[PENELOPE-B]] (palbociclibe por 1 ano após neoadjuvância com [[Doença Residual|doença residual]]) foram negativos (SLD HR 0,96 e 0,93, respectivamente), contraindicando o uso adjuvante.
 
 ## Indicações
 

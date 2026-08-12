@@ -2,6 +2,7 @@
 title: "Supressão Ovariana"
 aliases:
   - "Supressão Ovariana (SO)"
+  - "SO"
 category: "Terapia Endócrina"
 source_documents:
   - "Adjuvante"
@@ -16,7 +17,7 @@ A supressão ovariana (SO) é realizada com **análogos do hormônio liberador d
 
 ## Mecanismo de Ação
 
-Os análogos de LHRH atuam como **agonistas** do receptor hipofisário de GnRH. Após uma estimulação inicial (flare), ocorre *downregulation* e dessensibilização dos receptores, levando à supressão da secreção pulsátil de LH e FSH e, consequentemente, inibição da esteroidogênese ovariana. A castração química ocorre em 2–4 semanas do início do [[tratamento/index|tratamento]].
+Os análogos de LHRH atuam como **agonistas** do receptor hipofisário de GnRH. Após uma estimulação inicial (flare), ocorre *downregulation* e dessensibilização dos receptores, levando à supressão da secreção pulsátil de LH e FSH e, consequentemente, inibição da esteroidogênese ovariana. A castração química ocorre em 2–4 semanas do início do tratamento.
 
 ## Esquemas
 

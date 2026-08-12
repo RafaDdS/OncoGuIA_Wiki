@@ -19,7 +19,7 @@ Schmid P, Cortes J, Pusztai L, et al. (2020) / Schmid P, Cortes J, Dent R, et al
 Estudo de fase III, randomizado, duplo-cego, controlado por placebo (NCT03036488). Randomizou na proporção 2:1 **1.174 pacientes** com [[Câncer de Mama (Visão Geral)|câncer de mama]] [[TNBC (Triplo-Negativo)|triplo-negativo (TNBC)]] estádio II ou III previamente não tratado, para receber neoadjuvante [[Pembrolizumabe|pembrolizumabe]] (200 mg a cada 3 semanas) ou placebo por 4 ciclos com paclitaxel e [[Carboplatina|carboplatina]], seguidos de 4 ciclos com doxorrubicina-ciclofosfamida ou epirrubicina-ciclofosfamida; após a cirurgia, os pacientes receberam até 9 ciclos de adjuvante com pembrolizumabe ou placebo. Endpoints primários: [[Resposta Patológica Completa (RPC)|resposta patológica completa (RPC)]] na cirurgia definitiva e sobrevida livre de eventos (SLE).
 
 ## Objetivos:
-Avaliar se a adição de pembrolizumabe (neoadjuvante e adjuvante) à [[tratamento/quimioterapia/index|quimioterapia]] melhora a resposta patológica completa (RPC), a sobrevida livre de eventos (SLE) e a [[Sobrevida Global (SG)|sobrevida global (SG)]] no [[tratamento/index|tratamento]] do câncer de mama triplo-negativo (TNBC) em estádio inicial.
+Avaliar se a adição de pembrolizumabe (neoadjuvante e adjuvante) à [[tratamento/quimioterapia/index|quimioterapia]] melhora a resposta patológica completa (RPC), a sobrevida livre de eventos (SLE) e a [[Sobrevida Global (SG)|sobrevida global (SG)]] no tratamento do câncer de mama triplo-negativo (TNBC) em estádio inicial.
 
 ## Resultados e Impacto Clínico:
 

@@ -3,7 +3,6 @@ title: "Brightness"
 aliases:
   - "Brightness"
   - "BrighTNess"
-  - "Brightness (Estudo Fase III)"
 category: "Ensaios Clínicos"
 tags:
   - "citado indiretamente"
@@ -19,7 +18,7 @@ Loibl S, O'Shaughnessy J, Untch M, Sikov WM, Rugo HS, McKee MD, et al.
 2018
 
 ## Delineamento (Métodos):
-Ensaio de fase III randomizado, duplo-cego, controlado por placebo (BrighTNess), em 145 centros de 15 países, com **634 pacientes** com [[Câncer de Mama (Visão Geral)|câncer de mama]] [[TNBC (Triplo-Negativo)|triplo-negativo (TNBC)]] estádio clínico II-III, sem [[tratamento/index|tratamento]] prévio. Randomização 2:1:1 (estratificada por status de mutação germinativa BRCA, estádio nodal e esquema planejado de [[AC (Doxorrubicina + Ciclofosfamida)|AC]]) para três braços no segmento 1:
+Ensaio de fase III randomizado, duplo-cego, controlado por placebo (BrighTNess), em 145 centros de 15 países, com **634 pacientes** com [[Câncer de Mama (Visão Geral)|câncer de mama]] [[TNBC (Triplo-Negativo)|triplo-negativo (TNBC)]] estádio clínico II-III, sem tratamento prévio. Randomização 2:1:1 (estratificada por status de mutação germinativa BRCA, estádio nodal e esquema planejado de [[AC (Doxorrubicina + Ciclofosfamida)|AC]]) para três braços no segmento 1:
 - **Paclitaxel + [[Carboplatina]] + Veliparibe** (n=316).
 - **Paclitaxel + Carboplatina + placebo** (n=160).
 - **Paclitaxel + placebo da carboplatina + placebo do veliparibe** (n=158).
@@ -36,7 +35,7 @@ Avaliar se a adição de carboplatina, com ou sem o inibidor de PARP veliparibe,
 - Toxicidades adicionais da carboplatina (com ou sem veliparibe) foram manejáveis e não comprometeram substancialmente a entrega do AC.
 
 ## Impacto Clínico:
-Em conjunto com o [[PEARLY (Estudo Fase III)|PEARLY]], consolidou a **carboplatina como componente da neoadjuvância em TNBC de alto risco** (estádios II/III), independentemente do uso de [[Pembrolizumabe|pembrolizumabe]], com perfil de risco-benefício favorável.
+Em conjunto com o [[PEARLY (Estudo Fase III)|PEARLY]], consolidou a **carboplatina como componente da neoadjuvância em TNBC de alto risco** ([[Estádios (0–IV)|estádios]] II/III), independentemente do uso de [[Pembrolizumabe|pembrolizumabe]], com perfil de risco-benefício favorável.
 
 ## Referências
 

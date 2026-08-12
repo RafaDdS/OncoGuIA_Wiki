@@ -18,7 +18,7 @@ Publicação do **Instituto Nacional de Câncer (INCA)** que consolida dados epi
 - **Incidência:** estimativa de **73.610 casos novos/ano** no triênio 2023–2025, representando a neoplasia mais incidente na população feminina de todas as regiões do país (excluídos os tumores de pele não melanoma).
 - **Mortalidade:** principal causa de morte por câncer na população feminina brasileira, com mais de **20 mil óbitos por ano**.
 - **[[Documentos/rastreamento/index|Rastreamento]]:** [[Cobertura Mamográfica|cobertura mamográfica]] de rastreamento em torno de **30%** da população-alvo, muito abaixo da meta de 70% da OMS, com a recomendação vigente de rastreamento bienal para mulheres de 50 a 69 anos ([[Lei nº 11.664-2008|Lei nº 11.664/2008]] garante [[Mamografia|mamografia]] a partir dos 40 anos).
-- **[[diagnostico/index|Diagnóstico]] e acesso:** cerca de um terço dos casos é diagnosticado em estádios avançados (estádio III), e apenas **47,8%** dos pacientes iniciaram [[tratamento/index|tratamento]] em até 60 dias (2024).
+- **[[diagnostico/index|Diagnóstico]] e acesso:** cerca de um terço dos casos é diagnosticado em [[Estádios (0–IV)|estádios]] avançados (estádio III), e apenas **47,8%** dos pacientes iniciaram tratamento em até 60 dias (2024).
 
 **Como usar este material:** esta página é um índice; o detalhamento completo dos dados da publicação está na página [[INCA - Controle do Cancer de Mama]].
 

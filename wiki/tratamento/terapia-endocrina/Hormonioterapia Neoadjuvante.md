@@ -15,7 +15,7 @@ A hormonioterapia neoadjuvante consiste no uso de [[tratamento/terapia-endocrina
 ## Indicações
 
 - **Pós-menopausa** com tumores luminais A-like ([[Grau Histológico (G1–G3)|grau histológico]] 1–2, expressão forte de RE, [[Ki67]] < 20%, [[HER2|HER2-negativo]])
-- **[[Doença Localmente Avançada|Doença localmente avançada]]** (estádios II–III) em pacientes que não toleram ou recusam quimioterapia
+- **[[Doença Localmente Avançada|Doença localmente avançada]]** ([[Estádios (0–IV)|estádios]] II–III) em pacientes que não toleram ou recusam quimioterapia
 - **Pré-menopausa**: **não deve ser usado fora de [[Documentos/ensaios-clinicos/index|ensaios clínicos]]** ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] — NE MODERADO/FR FORTE), pois há risco teórico de estímulo paradoxal com IA isolada e dados insuficientes com [[Tamoxifeno|tamoxifeno]]/SO
 
 ## Agentes e Esquemas
@@ -45,5 +45,5 @@ Preferencial **≥ 6 meses**, podendo estender-se até que se obtenha resposta t
 ## Limitações
 
 - Baixa taxa de RPC (não substitui quimioterapia neoadjuvante em tumores de alto risco)
-- Risco de progressão durante o [[tratamento/index|tratamento]] (2–5%), exigindo reavaliação periódica
+- Risco de progressão durante o tratamento (2–5%), exigindo reavaliação periódica
 - Não é opção para pré-menopausa exceto em protocolos de pesquisa

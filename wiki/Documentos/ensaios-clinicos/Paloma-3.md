@@ -15,7 +15,7 @@ Turner NC, Slamon DJ, Ro J, Bondarenko I, Im SA, Masuda N, et al. (2018 — aná
 2018
 
 ## Delineamento (Métodos):
-Estudo de fase III, randomizado 1:1, duplo-cego, controlado por placebo (NCT01942135). Randomizou **521 pacientes** com [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]] com progressão ou recidiva durante [[tratamento/terapia-endocrina/index|terapia endócrina]] prévia, para receber [[Palbociclibe|palbociclibe]] + [[Fulvestranto|fulvestranto]] ou placebo + fulvestranto. Estratificação por sensibilidade à terapia endócrina prévia, presença de doença visceral e status menopausal. Relato da análise pré-especificada de sobrevida global (OS), da eficácia das terapias subsequentes e da segurança.
+Estudo de fase III, randomizado 1:1, duplo-cego, controlado por placebo (NCT01942135). Randomizou **521 pacientes** com [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]] com progressão ou recidiva durante [[tratamento/terapia-endocrina/index|terapia endócrina]] prévia, para receber [[Palbociclibe|palbociclibe]] + [[Fulvestranto|fulvestranto]] ou placebo + fulvestranto. Estratificação por sensibilidade à terapia endócrina prévia, presença de doença visceral e status menopausal. Relato da análise pré-especificada de [[Sobrevida Global (SG)|sobrevida global]] (OS), da eficácia das terapias subsequentes e da segurança.
 
 ## Objetivos:
 Avaliar se a adição do inibidor de CDK4/6 palbociclibe ao fulvestranto melhora a sobrevida global e desfechos subsequentes em pacientes com câncer de mama metastático [[Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]- que progrediram à terapia endócrina.
@@ -28,7 +28,7 @@ Avaliar se a adição do inibidor de CDK4/6 palbociclibe ao fulvestranto melhora
 - **Tempo até [[tratamento/quimioterapia/index|quimioterapia]]:** 17,6 vs 8,8 meses (HR 0,58; IC 95% 0,47–0,73); uso subsequente de inibidor de CDK4/6 em 16% dos pacientes do grupo placebo.
 
 ## Impacto Clínico:
-Apesar de não ter demonstrado ganho estatisticamente significativo de OS na população geral (parcialmente atenuado pelo uso subsequente de iCDK4/6 no grupo controle), o estudo consolidou palbociclibe + fulvestranto como padrão em segunda linha, com benefício robusto de SLP e ganho de OS clinicamente relevante no subgrupo sensível à terapia endócrina, estabelecendo os inibidores de CDK4/6 neste cenário.
+Apesar de não ter demonstrado ganho estatisticamente significativo de OS na população geral (parcialmente atenuado pelo uso subsequente de iCDK4/6 no grupo controle), o estudo consolidou palbociclibe + fulvestranto como padrão em segunda linha, com benefício robusto de [[Sobrevida Livre de Progressão (SLP)|SLP]] e ganho de OS clinicamente relevante no subgrupo sensível à terapia endócrina, estabelecendo os [[Inibidores de CDK4-6 (iCDK4-6) – Classe|inibidores de CDK4/6]] neste cenário.
 
 ## Referências
 

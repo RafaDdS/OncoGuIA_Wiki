@@ -9,7 +9,7 @@ status: "draft"
 # Create-X
 
 ## Delineamento (Métodos):
-Estudo randomizado de fase III (JBCRG-04, identificador do estudo: Japão/Coréia) que incluiu **910 pacientes** com [[Câncer de Mama (Visão Geral)|câncer de mama]] inicial [[HER2|HER2-negativo]] e carcinoma invasivo residual após [[tratamento/quimioterapia/index|quimioterapia]] neoadjuvante contendo antraciclina, taxano ou ambos. As pacientes foram randomizadas para [[tratamento/index|tratamento]] pós-operatório padrão com ou sem a adição de [[Capecitabina|capecitabina]]. Endpoint primário: sobrevida livre de doença (SLD); endpoints secundários incluíram [[Sobrevida Global (SG)|sobrevida global (SG)]].
+Estudo randomizado de fase III (JBCRG-04, identificador do estudo: Japão/Coréia) que incluiu **910 pacientes** com [[Câncer de Mama (Visão Geral)|câncer de mama]] inicial [[HER2|HER2-negativo]] e carcinoma invasivo residual após [[tratamento/quimioterapia/index|quimioterapia]] neoadjuvante contendo antraciclina, taxano ou ambos. As pacientes foram randomizadas para tratamento pós-operatório padrão com ou sem a adição de [[Capecitabina|capecitabina]]. Endpoint primário: sobrevida livre de doença (SLD); endpoints secundários incluíram [[Sobrevida Global (SG)|sobrevida global (SG)]].
 
 ## Objetivos:
 Avaliar se a adição de capecitabina adjuvante após quimioterapia neoadjuvante melhora a SLD e a SG em pacientes com [[Doença Residual|doença residual]] invasiva HER2-negativa.
@@ -18,7 +18,7 @@ Avaliar se a adição de capecitabina adjuvante após quimioterapia neoadjuvante
 - O estudo foi encerrado precocemente porque a análise interina pré-especificada atingiu o endpoint primário.
 - **SLD:** 74,1% vs 67,6% livres de recidiva ou segundo câncer em 5 anos (HR para recidiva, segundo câncer ou morte 0,70; IC 95% 0,53–0,92; P = 0,01).
 - **SG:** 89,2% vs 83,6% vivas em 5 anos (HR para morte 0,59; IC 95% 0,39–0,90; P = 0,01).
-- **Subgrupo triplo-negativo:** SLD 69,8% vs 56,1% (HR 0,58; IC 95% 0,39–0,87); SG 78,8% vs 70,3% (HR 0,52; IC 95% 0,30–0,90).
+- **Subgrupo [[TNBC (Triplo-Negativo)|triplo-negativo]]:** SLD 69,8% vs 56,1% (HR 0,58; IC 95% 0,39–0,87); SG 78,8% vs 70,3% (HR 0,52; IC 95% 0,30–0,90).
 - Segurança: síndrome mão-pé (reação adversa mais comum) em 73,4% das pacientes no braço com capecitabina.
 
 ## Impacto Clínico:

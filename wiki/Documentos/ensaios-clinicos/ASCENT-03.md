@@ -15,10 +15,10 @@ Bardia A, Rugo HS, Tolaney SM, Loirat D, Punie K, Oliveira M, et al. (Dados inic
 Não especificado no texto.
 
 ## Objetivos:
-Avaliar a eficácia de sacituzumabe govitecana como [[tratamento/index|tratamento]] de primeira linha versus [[tratamento/quimioterapia/index|quimioterapia]] padrão em pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] triplo-negativo metastático não elegíveis para [[tratamento/imunoterapia/index|imunoterapia]].
+Avaliar a eficácia de sacituzumabe govitecana como tratamento de primeira linha versus [[tratamento/quimioterapia/index|quimioterapia]] padrão em pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] [[TNBC (Triplo-Negativo)|triplo-negativo]] metastático não elegíveis para [[tratamento/imunoterapia/index|imunoterapia]].
 
 ## Resultados e Impacto Clínico:
-Demonstrou melhora significativa em SLP (HR 0,62). `<Sem aprovação nacional>` sacituzumabe govitecana como primeira linha não se encontra no fluxograma de tratamento da [[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026 por ainda não haver aprovação regulatória para esta indicação no Brasil.
+Demonstrou melhora significativa em [[Sobrevida Livre de Progressão (SLP)|SLP]] (HR 0,62). `<Sem aprovação nacional>` sacituzumabe govitecana como primeira linha não se encontra no fluxograma de tratamento da [[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026 por ainda não haver aprovação regulatória para esta indicação no Brasil.
 
 ## Referências
 

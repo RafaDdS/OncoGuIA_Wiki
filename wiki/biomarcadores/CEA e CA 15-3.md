@@ -32,7 +32,7 @@ Ao contrário de [[biomarcadores/index|biomarcadores]] moleculares que definem t
 
 ### Cenários Iniciais (Estadiamento e Doença Localizada)
 
-Nas fases iniciais do câncer de mama, a solicitação rotineira desses marcadores não é recomendada pelas principais [[Documentos/diretrizes/index|diretrizes]] clínicas para o [[estadiamento/index|estadiamento]] inicial ou para o [[Seguimento Pós-Tratamento|seguimento]] (follow-up) de pacientes após o [[tratamento/index|tratamento]] com intenção curativa. Nesses contextos, os marcadores apresentam baixa sensibilidade para detectar recidivas precoces de forma confiável, não impactando a sobrevida global.
+Nas fases iniciais do câncer de mama, a solicitação rotineira desses marcadores não é recomendada pelas principais [[Documentos/diretrizes/index|diretrizes]] clínicas para o [[estadiamento/index|estadiamento]] inicial ou para o [[Seguimento Pós-Tratamento|seguimento]] (follow-up) de pacientes após o tratamento com intenção curativa. Nesses contextos, os marcadores apresentam baixa sensibilidade para detectar recidivas precoces de forma confiável, não impactando a [[Sobrevida Global (SG)|sobrevida global]].
 
 ### Cenário Metastático
 

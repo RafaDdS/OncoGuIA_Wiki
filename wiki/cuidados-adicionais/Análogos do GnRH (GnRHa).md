@@ -1,5 +1,8 @@
 ---
 title: "Análogos do GnRH (GnRHa)"
+aliases:
+  - "Análogos do GnRH"
+  - "GnRHa"
 category: "Cuidados Adicionais"
 source_documents:
   - "Estadiamento"

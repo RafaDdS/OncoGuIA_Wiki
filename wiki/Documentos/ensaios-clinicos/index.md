@@ -52,7 +52,7 @@ Páginas da categoria **Ensaios Clínicos**.
 - **Metastático (Pós-progressão a CDK4/6, SERDs, Inibidores de via)**
   - `EMERALD` (Elacestrant - SERD oral)
   - `EMBER-3` (Imlunestrant - SERD oral)
-  - `BOLERO-2` (Everolimo + Exemestano)
+  - `BOLERO-2` ([[Everolimo (Inibidor de mTOR)|Everolimo]] + Exemestano)
   - `SOLAR-1` (Alpelisib + Fulvestrant - [[PIK3CA]])
   - `INAVO120` (Inavolisib + Palbociclib + Fulvestrant - PIK3CA)
   - `CAPItello-291` (Capivasertib + Fulvestrant - AKT)
@@ -103,7 +103,7 @@ Páginas da categoria **Ensaios Clínicos**.
   - `ASCENT-03` (Sacituzumabe Govitecan vs Quimioterapia em 1ª linha)
 - **Metastático (Linhas tardias)**
   - `ASCENT` (Sacituzumabe Govitecan vs Quimioterapia)
-  - `TROPiCS-02` (Sacituzumabe Govitecan para HR+/HER2- (tópico, mas aplicável a TNBC também))
+  - `TROPiCS-02` (Sacituzumabe Govitecan para HR+/HER2- (tópico, mas aplicável a [[TNBC (Triplo-Negativo)|TNBC]] também))
   - `TROPION-Breast01` (Datopotamabe Deruxtecan para HR+)
   - `TROPION-Breast02` (Datopotamabe Deruxtecan para TNBC)
 
@@ -132,7 +132,7 @@ Páginas da categoria **Ensaios Clínicos**.
 
 #### 7. GENÔMICA E PROGNÓSTICO
 - `TAILORx` ([[Recurrence Score (RS) - Oncotype DX|Oncotype DX]] para N-, RS 11-25)
-- `RxPONDER (SWOG S1007)` (Oncotype DX para N+ 1-3, RS < 25)
+- `RxPONDER (SWOG S1007)` (Oncotype DX para [[Linfonodo Positivo (N+-LFN)|N+]] 1-3, RS < 25)
 - `MINDACT` (Assinatura de 70 genes - [[Mammaprint|MammaPrint]])
 
 ---
@@ -142,7 +142,7 @@ Páginas da categoria **Ensaios Clínicos**.
 Os estudos abaixo estão, na verdade, citados nas [[Documentos/diretrizes/index|diretrizes]] [[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026:
 
 - `ASCENT-04 (KEYNOTE-D19)` – Citado na diretriz de [[doenca-metastatica/index|doença Metastática]] (ref. 75; texto sobre o estudo).
-- `BRIGHTNESS (Estudo Fase III)` – Citado na diretriz de doença Neoadjuvante (aumento de RPC e melhora de SLE).
+- `BRIGHTNESS (Estudo Fase III)` – Citado na diretriz de doença Neoadjuvante (aumento de [[Resposta Patológica Completa (RPC)|RPC]] e melhora de SLE).
 - `RSC4All Tool (Machine Learning)` – Citado na diretriz de Adjuvante (ref. 12; ferramenta de aprendizado de máquina).
 - `GeparQuinto` – Citado na diretriz de doença Neoadjuvante (bloqueio duplo HER2).
 - `NSABP B-20` – (Quimioterapia + Tamoxifeno para N-; não citado diretamente nas diretrizes SBOC 2026).

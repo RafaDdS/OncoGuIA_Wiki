@@ -3,6 +3,8 @@ title: "Linfonodo Positivo (N+/LFN)"
 aliases:
   - "LFN"
   - "N+ (Linfonodo positivo)"
+  - "Linfonodo Positivo"
+  - "N+"
 category: "Fatores Prognósticos"
 source_documents:
   - "Adjuvante"
@@ -31,9 +33,9 @@ A distinção entre 1–3 e ≥ 4 linfonodos é o principal divisor de risco uti
 
 O número de linfonodos positivos influencia diretamente as seguintes decisões:
 
-- **iCDK4/6 adjuvantes**: [[Abemaciclibe|abemaciclibe]] indicado para 4+ LFN ou 1–3 LFN com T ≥ 5 cm/[[Grau Histológico (G1–G3)|G3]]/[[Ki67]] ≥ 20% ([[monarchE]]); [[Ribociclibe|ribociclibe]] para qualquer N+ ou N0 de alto risco ([[NATALEE]])
+- **[[Inibidores de CDK4-6 (iCDK4-6) – Classe|iCDK4/6]] adjuvantes**: [[Abemaciclibe|abemaciclibe]] indicado para 4+ LFN ou 1–3 LFN com T ≥ 5 cm/[[Grau Histológico (G1–G3)|G3]]/[[Ki67]] ≥ 20% ([[monarchE]]); [[Ribociclibe|ribociclibe]] para qualquer N+ ou N0 de alto risco ([[NATALEE]])
 - **[[Pertuzumabe]] adjuvante**: adicionado a [[Trastuzumabe|trastuzumabe]] para pacientes **N+** ([[APHINITY]], HR 0,77 em N+); não recomendado em N0 (HR 0,96)
-- **[[Olaparibe]] adjuvante**: para BRCA germinativo com [[Doença Residual|doença residual]] pós-neoadjuvância (qualquer N) ou TNBC ≥ T2/N+ sem neoadjuvância ([[OlympiA]])
+- **[[Olaparibe]] adjuvante**: para BRCA germinativo com [[Doença Residual|doença residual]] pós-neoadjuvância (qualquer N) ou [[TNBC (Triplo-Negativo)|TNBC]] ≥ T2/N+ sem neoadjuvância ([[OlympiA]])
 - **[[tratamento/quimioterapia/index|Quimioterapia]]**: pacientes N+ são candidatas a QT adjuvante, exceto pós-menopausa com 1–3 LFN e risco genômico baixo ([[Recurrence Score (RS) - Oncotype DX|Oncotype DX]] RS ≤ 25) — conforme [[RxPONDER (SWOG S1007)|RxPONDER]]
 - **Radioterapia pós-mastectomia**: indicada para ≥ 4 LFN (NE ALTO); considerar para 1–3 LFN (NE MODERADO)
 

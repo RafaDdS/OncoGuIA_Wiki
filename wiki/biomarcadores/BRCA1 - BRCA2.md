@@ -20,7 +20,7 @@ Os genes **BRCA1** e **BRCA2** (Breast Cancer 1 e 2) são importantes genes supr
 
 ## Diagnóstico e Avaliação
 
-A avaliação do status do BRCA é fortemente recomendada para pacientes com fatores de risco clínicos, histórico familiar marcante ou subtipos específicos de [[Câncer de Mama (Visão Geral)|câncer de mama]] (como o triplo-negativo). O [[diagnostico/index|diagnóstico]] é feito principalmente por sequenciamento genético:
+A avaliação do status do BRCA é fortemente recomendada para pacientes com fatores de risco clínicos, histórico familiar marcante ou subtipos específicos de [[Câncer de Mama (Visão Geral)|câncer de mama]] (como o [[TNBC (Triplo-Negativo)|triplo-negativo]]). O [[diagnostico/index|diagnóstico]] é feito principalmente por sequenciamento genético:
 
 * **Testagem Germinativa (gBRCA):** Realizada por meio de amostras de sangue ou saliva, identifica mutações hereditárias (presentes em todas as células do corpo). É a testagem padrão para determinar a elegibilidade para a maioria das terapias direcionadas aprovadas atualmente.
 * **Testagem Somática (sBRCA):** Realizada a partir do sequenciamento do tecido tumoral (biópsia), identifica mutações adquiridas que estão restritas ao tumor.
@@ -29,19 +29,19 @@ A avaliação do status do BRCA é fortemente recomendada para pacientes com fat
 
 ## Abordagem Clínica e Tratamento
 
-A presença de mutações patogênicas nos genes BRCA1/BRCA2 direciona estratégias de [[tratamento/index|tratamento]] altamente personalizadas, explorando a deficiência inerente do tumor em reparar seu próprio DNA.
+A presença de mutações patogênicas nos genes BRCA1/BRCA2 direciona estratégias de tratamento altamente personalizadas, explorando a deficiência inerente do tumor em reparar seu próprio DNA.
 
 ### Cenário Neoadjuvante
 
 No tratamento antes da cirurgia, tumores com mutação em BRCA (especialmente no câncer de mama triplo-negativo) apresentam uma sensibilidade notável a agentes quimioterápicos que induzem danos diretos ao DNA.
 
-* **Sais de Platina:** A inclusão de agentes como a **[[Carboplatina]]** no esquema neoadjuvante é frequentemente utilizada. Como as células com mutação no BRCA não conseguem reparar as quebras de fita dupla causadas pela platina de forma eficiente, a taxa de resposta patológica completa (pCR) tende a ser significativamente maior.
+* **Sais de Platina:** A inclusão de agentes como a **[[Carboplatina]]** no esquema neoadjuvante é frequentemente utilizada. Como as células com mutação no BRCA não conseguem reparar as quebras de fita dupla causadas pela platina de forma eficiente, a taxa de [[Resposta Patológica Completa (RPC)|resposta patológica completa]] (pCR) tende a ser significativamente maior.
 
 ### Cenário Adjuvante
 
 No pós-operatório, o objetivo é consolidar o tratamento e reduzir drasticamente o risco de o câncer retornar em pacientes consideradas de alto risco.
 
-* **Inibidores de PARP:** Para pacientes com câncer de mama inicial [[HER2|HER2-negativo]], com alto risco de recorrência clínico-patológica e que apresentam mutação germinativa no BRCA, o uso do inibidor de PARP **[[Olaparibe]]** como terapia adjuvante é indicado. Este tratamento demonstrou melhorias expressivas na sobrevida livre de doença invasiva e na sobrevida global (baseado no estudo *[[OlympiA]]*).
+* **[[Inibidores de PARP (iPARP) – Classe|Inibidores de PARP]]:** Para pacientes com câncer de mama inicial [[HER2|HER2-negativo]], com alto risco de recorrência clínico-patológica e que apresentam mutação germinativa no BRCA, o uso do inibidor de PARP **[[Olaparibe]]** como terapia adjuvante é indicado. Este tratamento demonstrou melhorias expressivas na sobrevida livre de doença invasiva e na [[Sobrevida Global (SG)|sobrevida global]] (baseado no estudo *[[OlympiA]]*).
 
 ### Cenário Metastático
 

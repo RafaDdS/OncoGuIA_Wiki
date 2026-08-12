@@ -36,5 +36,5 @@ A metanálise do **[[EBCTCG (Atlas 2005)|EBCTCG]]** (Lancet 2015) com 18.766 pac
 
 - **Reação de fase aguda** (gripe-like): febre, mialgia, artralgia em 24–48h após a primeira dose, tratável com paracetamol ou AINEs. Geralmente não se repete em ciclos subsequentes
 - **Nefrotoxicidade**: requer avaliação da função renal (creatinina e TFG) antes de cada dose. Contraindicado se TFG < 30 mL/min
-- **Osteonecrose de mandíbula** (ONM): rara (<1%), risco aumentado com procedimentos dentários invasivos. Exige avaliação odontológica prévia e evitar extrações durante o [[tratamento/index|tratamento]]
+- **Osteonecrose de mandíbula** (ONM): rara (<1%), risco aumentado com procedimentos dentários invasivos. Exige avaliação odontológica prévia e evitar extrações durante o tratamento
 - **Hipocalcemia**: monitorar cálcio sérico, especialmente em pacientes com deficiência de vitamina D

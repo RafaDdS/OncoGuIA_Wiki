@@ -36,7 +36,7 @@ Determinar se o trastuzumabe adjuvante melhora a sobrevida livre de doença (SLD
 - Comparando os braços de trastuzumabe **concomitante** (2+C) vs controle (1+A): HR **0,48** para eventos.
 
 ### Análise definitiva de SG (2014)
-- Adição de trastuzumabe → **melhora de 37% na SG** (HR 0,63; IC 95% 0,54–0,73), com benefício duradouro.
+- Adição de trastuzumabe → **melhora de 37% na [[Sobrevida Global (SG)|SG]]** (HR 0,63; IC 95% 0,54–0,73), com benefício duradouro.
 
 ## Impacto Clínico:
 Demonstrou que o **trastuzumabe concomitante ao taxano** é superior ao regime sequencial, tornando-se o padrão de adjuvância em HER2+. Em conjunto com o NSABP B-31, estabeleceu o papel do trastuzumabe adjuvante por 1 ano.

@@ -25,7 +25,7 @@ Esta página descreve o panorama do [[Tratamento Adjuvante (Conceito)|tratamento
 - **[[HER2|HER2+]]**:
   - [[Trastuzumabe]] por 1 ano (padrão). [[Pertuzumabe]] adicionado para N+ com base no estudo [[APHINITY]].
   - [[Doença Residual|Doença residual]] após neoadjuvância: [[T-DM1 (Trastuzumabe Emtansina)|T-DM1]] por 14 ciclos ([[KATHERINE]]).
-- **Triplo-negativo**:
+- **[[TNBC (Triplo-Negativo)|Triplo-negativo]]**:
   - QT com antraciclina + taxano; [[Capecitabina|capecitabina]] para doença residual ([[Create-X]]); [[Olaparibe|olaparibe]] para BRCA-mutado de alto risco ([[OlympiA]]).
 - **[[Câncer de Mama em Homens|Câncer de mama em homens]]**: Não havia seção específica; as recomendações seguiam as mesmas das mulheres.
 - **[[Carcinoma Ductal in Situ (CDIS)|CDIS]]**: Tamoxifeno 20 mg/dia ou 5 mg/dia (indisponível no Brasil) por 3 anos, ou anastrozol para pós-menopausa.
@@ -41,7 +41,7 @@ Esta página descreve o panorama do [[Tratamento Adjuvante (Conceito)|tratamento
 | Aspecto | 2025 | 2026 | Justificativa |
 | :--- | :--- | :--- | :--- |
 | **Oncotype DX em pré-menopausa** | RS 16-20 → discutir QT (ganho 1,6%); RS 21-25 → QT (ganho 6,5%). | O benefício da QT nesse grupo pode ser **parcialmente atribuído à supressão ovariana induzida**; a decisão deve considerar esse fator. | Estudos sugerem que a QT em pré-menopausa pode agir, em parte, por efeito hormonal. |
-| **Inibidores de CDK4/6** | Apenas **abemaciclibe** (2 anos) para alto risco. | **Abemaciclibe** (atualização de SG: +1,8%) **e [[Ribociclibe]]** (3 anos) para alto risco (N+ ou N0 T≥2cm + grau 3 ou [[Ki67]]≥20%). | [[NATALEE]] (ribociclibe); [[monarchE]] (abemaciclibe). |
+| **[[Inibidores de CDK4-6 (iCDK4-6) – Classe|Inibidores de CDK4/6]]** | Apenas **abemaciclibe** (2 anos) para alto risco. | **Abemaciclibe** (atualização de [[Sobrevida Global (SG)|SG]]: +1,8%) **e [[Ribociclibe]]** (3 anos) para alto risco (N+ ou N0 T≥2cm + grau 3 ou [[Ki67]]≥20%). | [[NATALEE]] (ribociclibe); [[monarchE]] (abemaciclibe). |
 | **Contraindicação** | Não havia restrição específica. | **Ribociclibe não deve ser associado a tamoxifeno** (apenas a IA). | Desenho do estudo NATALEE. |
 
 ### 3. HER2+

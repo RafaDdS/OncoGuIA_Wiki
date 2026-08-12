@@ -32,7 +32,7 @@ Avaliar se a administração de goserrelina concomitante à quimioterapia proteg
 - Dados faltantes enfraquecem a interpretação (análises de sensibilidade consistentes com o resultado principal).
 
 ## Impacto Clínico:
-Apoia o uso de **análogos do GnRH (goserrelina) durante a quimioterapia para reduzir o risco de insuficiência ovariana prematura e melhorar as perspectivas de fertilidade** em pré-menopausadas, sem prejuízo — e possivelmente com ganho — de desfechos oncológicos.
+Apoia o uso de **[[Análogos do GnRH (GnRHa)|análogos do GnRH]] (goserrelina) durante a quimioterapia para reduzir o risco de insuficiência ovariana prematura e melhorar as perspectivas de fertilidade** em pré-menopausadas, sem prejuízo — e possivelmente com ganho — de desfechos oncológicos.
 
 ## Referências
 

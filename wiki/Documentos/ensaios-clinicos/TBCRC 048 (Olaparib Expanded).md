@@ -25,7 +25,7 @@ Avaliar a resposta ao olaparibe em pacientes com câncer de mama metastático co
 Cinquenta e quatro pacientes foram incluídas; 76% apresentavam doença [[Receptores Hormonais (RE-RP-RH)|RE]]+/[[HER2]]- e 87% mutações em PALB2, sBRCA1/2, ATM ou CHEK2. A TRO foi de 33% (IC 90% 19–51) na coorte 1 e 31% (IC 90% 15–49) na coorte 2, mas respostas confirmadas foram observadas apenas com mutações gPALB2 (TRO 82%) e sBRCA1/2 (TRO 50%). A SLP mediana foi 13,3 meses (IC 90% 12 a não disponível) para gPALB2 e 6,3 meses (IC 90% 4,4 a não disponível) para sBRCA1/2; nenhuma resposta foi observada com mutações isoladas em ATM ou CHEK2.
 
 ## Impacto Clínico:
-Demonstrou que a inibição de PARP é um [[tratamento/index|tratamento]] eficaz para pacientes com mutações gPALB2 ou sBRCA1/2, ampliando significativamente a população com câncer de mama que pode se beneficiar dos inibidores de PARP para além dos portadores de mutação germinativa em BRCA1/2.
+Demonstrou que a inibição de PARP é um tratamento eficaz para pacientes com mutações gPALB2 ou sBRCA1/2, ampliando significativamente a população com câncer de mama que pode se beneficiar dos [[Inibidores de PARP (iPARP) – Classe|inibidores de PARP]] para além dos portadores de mutação germinativa em BRCA1/2.
 
 ## Referências
 

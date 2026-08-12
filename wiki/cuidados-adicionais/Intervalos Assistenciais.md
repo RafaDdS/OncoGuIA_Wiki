@@ -12,7 +12,7 @@ status: "draft"
 
 # Intervalos Assistenciais
 
-A agilidade na jornada da paciente oncológica é um indicador de qualidade fundamental nos centros de [[tratamento/index|tratamento]]. O monitoramento rigoroso dos intervalos assistenciais — os tempos decorridos entre cada etapa desde a suspeita até o início do tratamento — está associado a melhor sobrevida, redução de estádios avançados ao [[diagnostico/index|diagnóstico]] e maior satisfação das pacientes. A [[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026 recomenda que os serviços oncológicos organizem fluxos institucionais para reduzir atrasos evitáveis, monitorando esses intervalos como indicadores de qualidade assistencial.
+A agilidade na jornada da paciente oncológica é um indicador de qualidade fundamental nos centros de tratamento. O monitoramento rigoroso dos intervalos assistenciais — os tempos decorridos entre cada etapa desde a suspeita até o início do tratamento — está associado a melhor sobrevida, redução de [[Estádios (0–IV)|estádios]] avançados ao [[diagnostico/index|diagnóstico]] e maior satisfação das pacientes. A [[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026 recomenda que os serviços oncológicos organizem fluxos institucionais para reduzir atrasos evitáveis, monitorando esses intervalos como indicadores de qualidade assistencial.
 
 ## Etapas Monitoradas
 

@@ -19,7 +19,7 @@ Henderson IC, Berry DA, Demetri GD, Cirrincione CT, Goldstein LJ, et al.
 ## Delineamento (Métodos):
 Ensaio randomizado de fase III do Cancer and Leukemia Group B com **3.121 mulheres** com [[Câncer de Mama (Visão Geral)|câncer de mama]] operável e linfonodos axilares positivos. Randomização fatorial 3×2:
 - **Dose de doxorrubicina:** 60, 75 ou 90 mg/m² com ciclofosfamida 600 mg/m² por 4 ciclos.
-- **Paclitaxel:** 4 ciclos de paclitaxel 175 mg/m² a cada 3 semanas **ou** nenhum [[tratamento/index|tratamento]] adicional.
+- **Paclitaxel:** 4 ciclos de paclitaxel 175 mg/m² a cada 3 semanas **ou** nenhum tratamento adicional.
 
 [[Tamoxifeno]] foi administrado a 94% das pacientes com tumores [[Receptores Hormonais (RE-RP-RH)|RE]]-positivos.
 
@@ -30,7 +30,7 @@ Determinar se a escalada da dose de doxorrubicina ou a adição de paclitaxel se
 
 - **Sem efeito de dose da doxorrubicina:** SLD em 5 anos de 69%, 66% e 67% para 60, 75 e 90 mg/m², respectivamente.
 - **Adição de paclitaxel:** redução de **17%** na recorrência (P = 0,0023) e **18%** na morte (P = 0,0064).
-- SLD em 5 anos: **70%** (AC → paclitaxel) vs **65%** (AC isolado); SG: **80%** vs **77%**.
+- SLD em 5 anos: **70%** (AC → paclitaxel) vs **65%** (AC isolado); [[Sobrevida Global (SG)|SG]]: **80%** vs **77%**.
 - Em análise de subgrupo não planejada, o benefício foi maior nas pacientes **RE-negativas** (HR 0,72; IC 95% 0,59–0,86) do que nas RE-positivas (HR 0,91; IC 95% 0,78–1,07), quase todas em uso de tamoxifeno.
 
 ## Impacto Clínico:

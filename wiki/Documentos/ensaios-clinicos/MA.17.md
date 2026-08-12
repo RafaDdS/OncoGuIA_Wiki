@@ -3,7 +3,6 @@ title: "MA.17"
 aliases:
   - "MA.17"
   - "NCIC CTG MA.17"
-  - "MA.17 (Letrozole Extended Adjuvant Trial)"
   - "MA17"
 category: "Ensaios Clínicos"
 status: "draft"
@@ -21,7 +20,7 @@ Goss PE, Ingle JN, Martino S, et al. (2003) / Jin H, Tu D, Zhao N, et al. (2012 
 Ensaio randomizado, duplo-cego, controlado por placebo do National Cancer Institute of Canada Clinical Trials Group que avaliou letrozol estendido versus placebo após cerca de **5 anos de [[Tamoxifeno|tamoxifeno]] adjuvante** em mulheres pós-menopausadas com [[Câncer de Mama (Visão Geral)|câncer de mama]] [[Receptores Hormonais (RE-RP-RH)|RH]]-positivo. Nesta análise de longo prazo ([[Seguimento Pós-Tratamento|seguimento]] mediano de **64 meses**), a eficácia foi avaliada com dois métodos estatísticos para ajustar o efeito do crossover (mais de 60% das pacientes do braço placebo receberam letrozol após o desmascaramento): modelo de Cox com ponderação pelo inverso da probabilidade de censura (IPCW) e modelo de Cox com covariáveis dependentes do tempo.
 
 ## Objetivos:
-Avaliar o benefício do letrozol como [[Tratamento Adjuvante (Conceito)|tratamento adjuvante]] estendido após 5 anos de tamoxifeno em mulheres pós-menopausadas com câncer de mama RH-positivo, em endpoints de sobrevida livre de doença (DFS), sobrevida livre de doença à distância (DDFS) e [[Sobrevida Global (SG)|sobrevida global (SG)]], ajustando para o crossover de [[tratamento/index|tratamento]].
+Avaliar o benefício do letrozol como [[Tratamento Adjuvante (Conceito)|tratamento adjuvante]] estendido após 5 anos de tamoxifeno em mulheres pós-menopausadas com câncer de mama RH-positivo, em endpoints de sobrevida livre de doença (DFS), sobrevida livre de doença à distância (DDFS) e [[Sobrevida Global (SG)|sobrevida global (SG)]], ajustando para o crossover de tratamento.
 
 ## Resultados e Impacto Clínico:
 

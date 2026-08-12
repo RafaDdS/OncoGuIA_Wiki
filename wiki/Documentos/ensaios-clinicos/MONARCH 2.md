@@ -1,8 +1,7 @@
 ---
 aliases:
-- MONARCH 2
-- Abemaciclib Fulvestrant MONARCH 2
-- MONARCH 2 (Abemaciclib + Fulvestrant)
+  - "MONARCH 2"
+  - "Abemaciclib Fulvestrant MONARCH 2"
 category: Ensaios Clínicos
 status: draft
 title: MONARCH 2

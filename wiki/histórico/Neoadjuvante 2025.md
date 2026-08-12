@@ -17,15 +17,15 @@ Esta página descreve o panorama do [[Tratamento Neoadjuvante (Conceito)|tratame
 
 ## Em 2025 (Contexto)
 
-- **Indicações gerais**: Neoadjuvância era padrão para tumores localmente avançados, [[HER2|HER2+]] e TNBC estádios II-III. Para luminais, era indicada principalmente para downstaging.
-- **Triplo-negativo**:
+- **Indicações gerais**: Neoadjuvância era padrão para tumores localmente avançados, [[HER2|HER2+]] e TNBC [[Estádios (0–IV)|estádios]] II-III. Para luminais, era indicada principalmente para downstaging.
+- **[[TNBC (Triplo-Negativo)|Triplo-negativo]]**:
   - QT com antraciclina + taxano + [[Carboplatina|carboplatina]] (opcional, com base em estudos fase II).
   - [[Pembrolizumabe]] + QT ([[KEYNOTE-522]]) era padrão para estádios II-III, com manutenção adjuvante.
   - Esquema: paclitaxel + carboplatina (semanal) → [[AC (Doxorrubicina + Ciclofosfamida)|AC]] (3/3 semanas) + pembrolizumabe.
 - **HER2+**:
   - Padrão: **[[TCH - TCHP|TCHP]]** (docetaxel, carboplatina, [[Trastuzumabe|trastuzumabe]], [[Pertuzumabe|pertuzumabe]]) – preferencial sem [[Antraciclinas|antraciclinas]] ([[TRAIN-2]]).
   - Opção com antraciclina: ACTHP.
-  - Manutenção: trastuzumabe (± pertuzumabe se N+) até 1 ano.
+  - Manutenção: trastuzumabe (± pertuzumabe se [[Linfonodo Positivo (N+-LFN)|N+]]) até 1 ano.
 - **[[Subtipo Luminal (RH+-HER2-)|Luminal (RH+/HER2-)]]**:
   - QT neoadjuvante com AC→T (dose-densa preferencial).
   - [[Hormonioterapia Neoadjuvante|Hormonioterapia neoadjuvante]] (IA) para pós-menopausa com tumores luminais A-like e baixo risco.
@@ -34,9 +34,9 @@ Esta página descreve o panorama do [[Tratamento Neoadjuvante (Conceito)|tratame
 ## Mudanças em 2026
 
 ### 1. ER-low (receptor de estrógeno <10%) e RP-baixo
-- **2025**: Tratados como luminais (decisão baseada em risco clínico/genômico). *Nota: a diretriz de 2025 não menciona explicitamente a categoria ER-low; o [[tratamento/index|tratamento]] como luminal é inferido pela ausência dessa categoria no documento.*
+- **2025**: Tratados como luminais (decisão baseada em risco clínico/genômico). *Nota: a diretriz de 2025 não menciona explicitamente a categoria ER-low; o tratamento como luminal é inferido pela ausência dessa categoria no documento.*
 - **2026**: Passam a ser **manejados como triplo-negativos** (neoadjuvância com quimioimunoterapia para estádios II-III).
-- **Justificativa**: Estudos mostram comportamento biológico semelhante ao TNBC, com altas taxas de RPC com esquemas contendo platina e [[tratamento/imunoterapia/index|imunoterapia]] (neo-real, dados suecos).
+- **Justificativa**: Estudos mostram comportamento biológico semelhante ao TNBC, com altas taxas de [[Resposta Patológica Completa (RPC)|RPC]] com esquemas contendo platina e [[tratamento/imunoterapia/index|imunoterapia]] (neo-real, dados suecos).
 
 ### 2. Esquema com pembrolizumabe no TNBC
 - **2025**: AC a cada 3 semanas (padrão do KEYNOTE-522).

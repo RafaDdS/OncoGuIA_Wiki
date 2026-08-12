@@ -10,7 +10,7 @@ status: "draft"
 # NSABP B-14
 
 ## Delineamento (Métodos):
-Ensaio clínico randomizado, controlado por placebo, do National Surgical Adjuvant Breast and Bowel Project (NSABP). Pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] positivo para receptor de estrogênio ([[Receptores Hormonais (RE-RP-RH)|RE]]+) e linfonodos axilares negativos que completaram 5 anos de [[Tamoxifeno|tamoxifeno]] e estavam livres de doença (n=1172) foram re-randomizadas para receber placebo (n=579) ou continuação de tamoxifeno (n=593). Desfechos: sobrevida global, sobrevida livre de doença (SLD) e sobrevida livre de recorrência (SLR), estimadas por Kaplan-Meier e comparadas por teste log-rank; riscos relativos calculados por modelo de riscos proporcionais de Cox.
+Ensaio clínico randomizado, controlado por placebo, do National Surgical Adjuvant Breast and Bowel Project (NSABP). Pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] positivo para receptor de estrogênio ([[Receptores Hormonais (RE-RP-RH)|RE]]+) e linfonodos axilares negativos que completaram 5 anos de [[Tamoxifeno|tamoxifeno]] e estavam livres de doença (n=1172) foram re-randomizadas para receber placebo (n=579) ou continuação de tamoxifeno (n=593). Desfechos: [[Sobrevida Global (SG)|sobrevida global]], sobrevida livre de doença (SLD) e sobrevida livre de recorrência (SLR), estimadas por Kaplan-Meier e comparadas por teste log-rank; riscos relativos calculados por modelo de riscos proporcionais de Cox.
 
 ## Objetivos:
 Avaliar se a continuação de tamoxifeno além de 5 anos confere benefício adicional em relação ao placebo em mulheres com câncer de mama RE-positivo e linfonodos negativos.

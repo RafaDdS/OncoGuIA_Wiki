@@ -2,6 +2,8 @@
 title: "Resposta Patológica Completa (RPC)"
 aliases:
   - "RPC (Resposta Patológica Completa)"
+  - "RPC"
+  - "Resposta Patológica Completa"
 category: "Contextos de Tratamento"
 source_documents:
   - "Neoadjuvante"
@@ -20,7 +22,7 @@ Alcançar a RPC é um excelente indicador de sucesso terapêutico. Ela atua como
 
 ## Estudos-Chave
 
-Dados consolidados na literatura médica (como os apresentados no SABCS de 2018) estabelecem a correlação direta da RPC com a redução do risco de morte e progressão. Pacientes com RPC apresentaram impacto substancial tanto na Sobrevida Livre de Progressão (HR 0,31) quanto na Sobrevida Global (HR 0,22).
+Dados consolidados na literatura médica (como os apresentados no SABCS de 2018) estabelecem a correlação direta da RPC com a redução do risco de morte e progressão. Pacientes com RPC apresentaram impacto substancial tanto na [[Sobrevida Livre de Progressão (SLP)|Sobrevida Livre de Progressão]] (HR 0,31) quanto na [[Sobrevida Global (SG)|Sobrevida Global]] (HR 0,22).
 
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: RPC (Resposta Patológica Completa).*

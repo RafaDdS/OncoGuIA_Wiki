@@ -16,7 +16,7 @@ status: "published"
 
 # Histórico das Diretrizes SBOC para Câncer de Mama
 
-Esta seção documenta a evolução das recomendações da [[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] para o [[tratamento/index|tratamento]] do [[Câncer de Mama (Visão Geral)|câncer de mama]], com ênfase nas mudanças entre as versões de **2025 e 2026**. O objetivo é fornecer contexto histórico para pesquisadores, residentes e profissionais que desejam compreender como as evidências científicas moldaram a prática clínica no Brasil.
+Esta seção documenta a evolução das recomendações da [[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] para o tratamento do [[Câncer de Mama (Visão Geral)|câncer de mama]], com ênfase nas mudanças entre as versões de **2025 e 2026**. O objetivo é fornecer contexto histórico para pesquisadores, residentes e profissionais que desejam compreender como as evidências científicas moldaram a prática clínica no Brasil.
 
 ## Por que um histórico?
 
@@ -39,7 +39,7 @@ A oncologia avança rapidamente. Novos [[Documentos/ensaios-clinicos/index|ensai
 | **Metastático (RH+)** | Introdução da **terapia tripla** (Inavolisibe + [[Palbociclibe]] + [[Fulvestranto]]) para [[PIK3CA]]-mutado com [[Resistência Endócrina|resistência endócrina]]. | [[INAVO120]] (NEJM 2024/2025) |
 | **Metastático (TN)** | **Datopotamabe deruxtecana (Dato-DXd)** como opção em 1ª linha para PD-L1 <10. | [[TROPION-Breast02]] (ESMO 2025) |
 | **Metastático (HER2+)** | Novas estratégias de manutenção ([[PATINA]], [[HER2CLIMB-05]]) – ainda sem aprovação no Brasil. | PATINA (NEJM 2026), [[HER2CLIMB]]-05 (JCO 2025) |
-| **[[cuidados-adicionais/index|Cuidados Adicionais]]** | Nova seção sobre **[[Intervalos Assistenciais|intervalos assistenciais]]**; recomendação de análogos do GnRH para redução de falência ovariana prematura (independente de desejo reprodutivo). | Consenso SBOC 2026, Lambertini et al. (JCO 2018) |
+| **[[cuidados-adicionais/index|Cuidados Adicionais]]** | Nova seção sobre **[[Intervalos Assistenciais|intervalos assistenciais]]**; recomendação de [[Análogos do GnRH (GnRHa)|análogos do GnRH]] para redução de falência ovariana prematura (independente de desejo reprodutivo). | Consenso SBOC 2026, Lambertini et al. (JCO 2018) |
 
 ## Navegue pelas mudanças por área
 

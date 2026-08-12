@@ -24,4 +24,4 @@ status: "draft"
 
 ## Referências
 
-1. Marmot MG; Altman DG; Cameron DA; Dewar JA; Thompson SG; Wilcox M. The benefits and harms of breast cancer screening: an independent review. Br J Cancer. 2013;108(11):2205-40. DOI: [10.1038/bjc.2013.177](https://doi.org/10.1038/bjc.2013.177)
+1. Marmot MG; Altman DG; Cameron DA; Dewar JA; Thompson [[Sobrevida Global (SG)|SG]]; Wilcox M. The benefits and harms of breast cancer screening: an independent review. Br J Cancer. 2013;108(11):2205-40. DOI: [10.1038/bjc.2013.177](https://doi.org/10.1038/bjc.2013.177)

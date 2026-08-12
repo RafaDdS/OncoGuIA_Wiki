@@ -42,7 +42,7 @@ Deve ser considerada no [[estadiamento/index|estadiamento]] locorregional em cas
 - Discrepância entre exame clínico e exames convencionais
 
 ### Monitoramento de Resposta à Neoadjuvância
-A RM é o método de imagem com melhor correlação com a resposta patológica após [[tratamento/quimioterapia/index|quimioterapia]] neoadjuvante, sendo superior à mamografia e à ultrassonografia para avaliar [[Doença Residual|doença residual]].
+A RM é o método de imagem com melhor correlação com a resposta patológica após [[tratamento/quimioterapia/index|quimioterapia]] neoadjuvante, sendo superior à mamografia e à [[Ultrassonografia (USG) de Mamas e Axilas|ultrassonografia]] para avaliar [[Doença Residual|doença residual]].
 
 ### Outras Indicações
 - Esclarecimento de achados inconclusivos na mamografia e/ou ultrassonografia (após esgotada a propedêutica convencional)

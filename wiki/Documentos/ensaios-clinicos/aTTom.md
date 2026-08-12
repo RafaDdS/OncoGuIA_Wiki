@@ -15,7 +15,7 @@ Gray R, et al. (aTTom — [[ASCO]] 2013) / Davies C, Gray R, Peto R, et al., [[A
 2013 (aTTom, ASCO) / 2013 (ATLAS, Lancet)
 
 ## Delineamento (Métodos):
-Ensaio randomizado de braços paralelos que alocou **6.953 mulheres** com [[Câncer de Mama (Visão Geral)|câncer de mama]] inicial após 5 anos de [[Tamoxifeno|tamoxifeno]] para continuar o [[tratamento/index|tratamento]] até 10 anos ou interromper em 5 anos. Seu ensaio-irmão, ATLAS, randomizou **12.894 mulheres** com câncer de mama inicial que já haviam completado 5 anos de tamoxifeno (alocação 1:1 por computador central, com minimização; entrada entre 1996 e 2005; ISRCTN19652633). Eficácia avaliada entre as **6.846 mulheres com doença [[Receptores Hormonais (RE-RP-RH)|RE]]-positiva** e eventos adversos em todas as pacientes.
+Ensaio randomizado de braços paralelos que alocou **6.953 mulheres** com [[Câncer de Mama (Visão Geral)|câncer de mama]] inicial após 5 anos de [[Tamoxifeno|tamoxifeno]] para continuar o tratamento até 10 anos ou interromper em 5 anos. Seu ensaio-irmão, ATLAS, randomizou **12.894 mulheres** com câncer de mama inicial que já haviam completado 5 anos de tamoxifeno (alocação 1:1 por computador central, com minimização; entrada entre 1996 e 2005; ISRCTN19652633). Eficácia avaliada entre as **6.846 mulheres com doença [[Receptores Hormonais (RE-RP-RH)|RE]]-positiva** e eventos adversos em todas as pacientes.
 
 ## Objetivos:
 Avaliar os efeitos a longo prazo da continuação do tamoxifeno adjuvante por 10 anos versus a interrupção em 5 anos na recorrência, mortalidade por câncer de mama, mortalidade global e eventos adversos.

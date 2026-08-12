@@ -18,7 +18,7 @@ Metzger O, Mandrekar S, Goel S, Gligorov J, Lim E, Ciruelos E, et al.
 Avaliar a eficácia da adição de [[Palbociclibe|palbociclibe]] à terapia de manutenção com anti-HER2 + HT em pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] metastático [[HER2|HER2+]]/[[Receptores Hormonais (RE-RP-RH)|RH]]+ após indução com [[tratamento/quimioterapia/index|quimioterapia]].
 
 ## Resultados e Impacto Clínico:
-Demonstrou ganho significativo em SLP (44,3 vs 29,1 meses; HR 0,75), representando mais de 15 meses de benefício. Ainda não possui aprovação regulatória no Brasil.
+Demonstrou ganho significativo em [[Sobrevida Livre de Progressão (SLP)|SLP]] (44,3 vs 29,1 meses; HR 0,75), representando mais de 15 meses de benefício. Ainda não possui aprovação regulatória no Brasil.
 
 ## Referências
 

@@ -9,6 +9,7 @@ aliases:
   - "RP"
   - "RH"
   - "RE/RP"
+  - "Receptores Hormonais"
 category: "Biomarcadores"
 source_documents:
   - "Adjuvante"
@@ -21,7 +22,7 @@ status: "draft"
 
 # Receptores Hormonais (RE / RP)
 
-O status dos **Receptores Hormonais (RH)** — que compreende o Receptor de Estrogênio (RE) e o Receptor de Progesterona (RP) — é um dos pilares essenciais na caracterização, prognóstico e [[tratamento/index|tratamento]] do [[Câncer de Mama (Visão Geral)|câncer de mama]]. Quando as células tumorais expressam esses receptores, significa que o crescimento do tumor é ativamente estimulado pelos hormônios femininos circulantes no corpo. Tumores que apresentam essa característica são frequentemente classificados como "luminais" e representam a maioria dos diagnósticos de câncer de mama, destacando-se por serem altamente responsivos a tratamentos que bloqueiam essa via hormonal.
+O status dos **Receptores Hormonais (RH)** — que compreende o Receptor de Estrogênio (RE) e o Receptor de Progesterona (RP) — é um dos pilares essenciais na caracterização, prognóstico e tratamento do [[Câncer de Mama (Visão Geral)|câncer de mama]]. Quando as células tumorais expressam esses receptores, significa que o crescimento do tumor é ativamente estimulado pelos hormônios femininos circulantes no corpo. Tumores que apresentam essa característica são frequentemente classificados como "luminais" e representam a maioria dos diagnósticos de câncer de mama, destacando-se por serem altamente responsivos a tratamentos que bloqueiam essa via hormonal.
 
 ---
 
@@ -42,7 +43,7 @@ A presença de receptores hormonais dita que a [[tratamento/terapia-endocrina/in
 
 No tratamento antes da cirurgia, a abordagem depende do perfil de proliferação do tumor (frequentemente avaliado pelo [[Ki67]]) e do status do [[HER2]]:
 
-* **[[tratamento/quimioterapia/index|Quimioterapia]] vs. Hormonioterapia:** Tumores RH+ com alta proliferação celular (Luminal B) geralmente recebem quimioterapia neoadjuvante. Por outro lado, para tumores com baixa proliferação (Luminal A) ou para pacientes que não têm condições clínicas para a quimioterapia, a [[Hormonioterapia Neoadjuvante|hormonioterapia neoadjuvante]] pode ser uma estratégia eficaz para reduzir o volume tumoral antes do procedimento cirúrgico.
+* **[[tratamento/quimioterapia/index|Quimioterapia]] vs. Hormonioterapia:** Tumores RH+ com alta proliferação celular ([[Subtipo Luminal (RH+-HER2-)|Luminal]] B) geralmente recebem quimioterapia neoadjuvante. Por outro lado, para tumores com baixa proliferação (Luminal A) ou para pacientes que não têm condições clínicas para a quimioterapia, a [[Hormonioterapia Neoadjuvante|hormonioterapia neoadjuvante]] pode ser uma estratégia eficaz para reduzir o volume tumoral antes do procedimento cirúrgico.
 
 ### Cenário Adjuvante
 

@@ -28,7 +28,7 @@ Avaliar se exemestano + SFO é superior a tamoxifeno + SFO no [[Tratamento Adjuv
 - O benefício foi maior nas pacientes que necessitaram de quimioterapia (população de maior risco, incluindo as mais jovens), enquanto o benefício absoluto foi pequeno naquelas sem quimioterapia.
 
 ## Impacto Clínico:
-Exemestano + SFO demonstrou ser superior a tamoxifeno + SFO na redução de recorrência em mulheres na pré-menopausa com câncer de mama RH-positivo, especialmente nas de alto risco, muito jovens (<35 anos) ou que receberam quimioterapia, estabelecendo a combinação de inibidor de aromatase + [[Supressão Ovariana|supressão ovariana]] como padrão de [[tratamento/index|tratamento]] para esse subgrupo.
+Exemestano + SFO demonstrou ser superior a tamoxifeno + SFO na redução de recorrência em mulheres na pré-menopausa com câncer de mama RH-positivo, especialmente nas de alto risco, muito jovens (<35 anos) ou que receberam quimioterapia, estabelecendo a combinação de inibidor de aromatase + [[Supressão Ovariana|supressão ovariana]] como padrão de tratamento para esse subgrupo.
 
 ## Referências
 

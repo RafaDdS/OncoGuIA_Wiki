@@ -18,7 +18,7 @@ A [[Documentos/meta-analises/index|meta-análise]] (Spring et al., 2016) avaliou
 - **NET monoterapia vs. [[tratamento/quimioterapia/index|quimioterapia]] combinada:** resposta clínica similar (OR 1,08; IC 95% 0,50–2,35), resposta radiológica similar (OR 1,38; IC 95% 0,92–2,07) e taxa de BCS similar (OR 0,65; IC 95% 0,41–1,03), porém com **menor toxicidade**.
 - **Inibidores da aromatase (IA) vs. [[Tamoxifeno|tamoxifeno]]:** os IA associaram-se a resposta clínica significativamente maior (OR 1,69; IC 95% 1,36–2,10), resposta radiológica maior (OR 1,49) e maior taxa de BCS (OR 1,62).
 - **Combinação com inibidores de vias de fator de crescimento:** maior resposta radiológica (OR 1,59), mas não resposta clínica, versus monoterapia endócrina.
-- A incidência de resposta patológica completa (pCR) foi baixa (< 10%).
+- A incidência de [[Resposta Patológica Completa (RPC)|resposta patológica completa]] (pCR) foi baixa (< 10%).
 
 **Conclusão:** a NET, mesmo em monoterapia, alcançou taxas de resposta semelhantes à quimioterapia neoadjuvante combinada com toxicidade significativamente menor, sugerindo que deve ser reconsiderada como opção no cenário apropriado.
 
@@ -28,7 +28,7 @@ A revisão de Reinert et al. (2018) destaca a NET com monitoramento de resposta 
 
 - Melhorias marcantes nas taxas de cirurgia conservadora.
 - Identificação de **respostas extremas** pelo **preoperative endocrine prognostic index (PEPI)**, fornecendo racional para evitar quimioterapia em pacientes de prognóstico altamente favorável.
-- Amostras de pacientes tratados com NET oferecem informações valiosas sobre a base molecular da **resistência intrínseca** à terapia endócrina, prometendo abordagem mais racional e precisa ao [[tratamento/index|tratamento]] sistêmico do câncer RE+.
+- Amostras de pacientes tratados com NET oferecem informações valiosas sobre a base molecular da **resistência intrínseca** à terapia endócrina, prometendo abordagem mais racional e precisa ao tratamento sistêmico do câncer RE+.
 
 ## Mecanismos de Resistência aos Inibidores da Aromatase (Nat Rev Cancer)
 

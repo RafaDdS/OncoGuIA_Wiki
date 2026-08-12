@@ -3,7 +3,6 @@ title: "APT"
 aliases:
   - "APT"
   - "Adjuvant Paclitaxel and Trastuzumab for Node-Negative, HER2-Positive Breast Cancer"
-  - "APT (Adjuvant Paclitaxel and Trastuzumab)"
 category: "Ensaios Clínicos"
 status: "draft"
 ---
@@ -30,7 +29,7 @@ Avaliar a eficácia do paclitaxel semanal combinado com trastuzumabe como [[Trat
 - **Segurança:** 13 pacientes (3,2%; IC 95% 1,7–5,4) apresentaram ≥1 episódio de neuropatia grau 3; 2 (0,5%; IC 95% 0,1–1,8) insuficiência cardíaca congestiva sintomática (com normalização da fração de ejeção após suspensão do trastuzumabe); 13 (3,2%; IC 95% 1,7–5,4) declínio assintomático significativo da fração de ejeção, com 11 dessas pacientes retomando o trastuzumabe após breve interrupção. 6% das pacientes abandonaram o estudo por eventos adversos protocolados.
 
 ## Impacto Clínico:
-Demonstrou baixo risco de recidiva precoce (~2%) com o regime de paclitaxel + trastuzumabe, estabelecendo esta opção de [[tratamento/index|tratamento]] de baixa toxicidade para pacientes com câncer de mama inicial HER2-positivo e linfonodo negativo.
+Demonstrou baixo risco de recidiva precoce (~2%) com o regime de paclitaxel + trastuzumabe, estabelecendo esta opção de tratamento de baixa toxicidade para pacientes com câncer de mama inicial HER2-positivo e linfonodo negativo.
 
 ## Referências
 

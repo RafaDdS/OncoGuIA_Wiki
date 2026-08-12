@@ -14,13 +14,13 @@ A **carboplatina** é um agente alquilante derivado da platina, análogo de segu
 
 ## Mecanismo de Ação
 
-A carboplatina forma **adutos de platina-DNA** intracadeia e intercadeia, levando à distorção da dupla hélice, bloqueio da replicação transcricional e ativação de vias de reparo. Tumores com deficiência na via de **reparo por recombinação homóloga** (ex.: BRCA mutados e subgrupo do TNBC com fenótipo BRCA-like) apresentam maior sensibilidade ao agente.
+A carboplatina forma **adutos de platina-DNA** intracadeia e intercadeia, levando à distorção da dupla hélice, bloqueio da replicação transcricional e ativação de vias de reparo. Tumores com deficiência na via de **reparo por recombinação homóloga** (ex.: BRCA mutados e subgrupo do [[TNBC (Triplo-Negativo)|TNBC]] com fenótipo BRCA-like) apresentam maior sensibilidade ao agente.
 
 ## Indicações no Câncer de Mama
 
-- **TNBC estádios II/III (neoadjuvante):** adicionada ao regime antraciclina-taxano, aumenta significativamente a taxa de [[Resposta Patológica Completa (RPC)|resposta patológica completa (RPC)]]
+- **TNBC [[Estádios (0–IV)|estádios]] II/III (neoadjuvante):** adicionada ao regime antraciclina-taxano, aumenta significativamente a taxa de [[Resposta Patológica Completa (RPC)|resposta patológica completa (RPC)]]
 - **Metastático:** combinação com taxanos em pacientes com mutação germinativa em BRCA ou TNBC avançado
-- **Segunda linha metastática:** em combinação com inibidores de PARP ou outros agentes
+- **Segunda linha metastática:** em combinação com [[Inibidores de PARP (iPARP) – Classe|inibidores de PARP]] ou outros agentes
 
 ## Evidências
 

@@ -1,7 +1,6 @@
 ---
 title: "Pertuzumabe"
 aliases:
-  - "Pertuzumabe (P)"
 category: "Terapias-Alvo"
 source_documents:
   - "Adjuvante"
@@ -20,11 +19,11 @@ Ao ligar-se ao domínio II, o pertuzumabe bloqueia a dimerização HER2/HER3, a 
 
 ## Indicações
 
-**Neoadjuvante**: o pertuzumabe é recomendado em combinação com trastuzumabe e [[tratamento/quimioterapia/index|quimioterapia]] para tumores [[HER2|HER2+]] estádio II–III, aumentando as taxas de RPC em ~17 pontos percentuais (estudo [[NeoSphere|NEOSPHERE]], RPC 45,8% vs 29% com H + QT). A RPC com HP + QT é de aproximadamente 45–60%.
+**Neoadjuvante**: o pertuzumabe é recomendado em combinação com trastuzumabe e [[tratamento/quimioterapia/index|quimioterapia]] para tumores [[HER2|HER2+]] estádio II–III, aumentando as taxas de [[Resposta Patológica Completa (RPC)|RPC]] em ~17 pontos percentuais (estudo [[NeoSphere|NEOSPHERE]], RPC 45,8% vs 29% com H + QT). A RPC com HP + QT é de aproximadamente 45–60%.
 
-**Adjuvante**: indicado para pacientes com **linfonodos positivos**, baseado no estudo [[APHINITY]] (HR 0,77 para SLD em N+ com [[Seguimento Pós-Tratamento|seguimento]] de 8,4 anos). Para pacientes N0, o benefício é marginal (HR 0,96) e o pertuzumabe não é rotineiramente recomendado neste subgrupo ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, NE ALTO/FR FORTE).
+**Adjuvante**: indicado para pacientes com **linfonodos positivos**, baseado no estudo [[APHINITY]] (HR 0,77 para SLD em [[Linfonodo Positivo (N+-LFN)|N+]] com [[Seguimento Pós-Tratamento|seguimento]] de 8,4 anos). Para pacientes N0, o benefício é marginal (HR 0,96) e o pertuzumabe não é rotineiramente recomendado neste subgrupo ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, NE ALTO/FR FORTE).
 
-**Metastático**: combinado a trastuzumabe + docetaxel em primeira linha, o pertuzumabe aumentou a SG mediana de 40,8 para 56,5 meses ([[CLEOPATRA]], HR 0,68). A combinação HP seguida de manutenção com HP isolado é o padrão-ouro.
+**Metastático**: combinado a trastuzumabe + docetaxel em primeira linha, o pertuzumabe aumentou a [[Sobrevida Global (SG)|SG]] mediana de 40,8 para 56,5 meses ([[CLEOPATRA]], HR 0,68). A combinação HP seguida de manutenção com HP isolado é o padrão-ouro.
 
 ## Evidências
 

@@ -9,13 +9,13 @@ status: "draft"
 # INAVO120
 
 ## Autores Principais:
-Turner NC, Im SA, Saura C, et al. (2024) / Jhaveri KL, Im SA, Saura C, et al. (2025 — SG)
+Turner NC, Im SA, Saura C, et al. (2024) / Jhaveri KL, Im SA, Saura C, et al. (2025 — [[Sobrevida Global (SG)|SG]])
 
 ## Ano de Publicação:
 2024 (análise primária) e 2025 (resultados definitivos de SG)
 
 ## Delineamento (Métodos):
-Estudo de fase III, multicêntrico, duplo-cego, randomizado 1:1 (NCT04191499). Randomizou **325 pacientes** com [[Câncer de Mama (Visão Geral)|câncer de mama]] localmente avançado ou metastático [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]] com mutação de [[PIK3CA]] e [[Resistência Endócrina|resistência endócrina]] (recidiva durante ou ≤12 meses após [[tratamento/terapia-endocrina/index|terapia endócrina]] adjuvante) para inavolisibe 9 mg oral diário + [[Palbociclibe|palbociclibe]] + [[Fulvestranto|fulvestranto]] (n=161) ou placebo + palbociclibe + fulvestranto (n=164), como [[tratamento/index|tratamento]] de primeira linha. Endpoint primário: [[Sobrevida Livre de Progressão (SLP)|sobrevida livre de progressão (SLP)]] por avaliação do investigador.
+Estudo de fase III, multicêntrico, duplo-cego, randomizado 1:1 (NCT04191499). Randomizou **325 pacientes** com [[Câncer de Mama (Visão Geral)|câncer de mama]] localmente avançado ou metastático [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]] com mutação de [[PIK3CA]] e [[Resistência Endócrina|resistência endócrina]] (recidiva durante ou ≤12 meses após [[tratamento/terapia-endocrina/index|terapia endócrina]] adjuvante) para inavolisibe 9 mg oral diário + [[Palbociclibe|palbociclibe]] + [[Fulvestranto|fulvestranto]] (n=161) ou placebo + palbociclibe + fulvestranto (n=164), como tratamento de primeira linha. Endpoint primário: [[Sobrevida Livre de Progressão (SLP)|sobrevida livre de progressão (SLP)]] por avaliação do investigador.
 
 ## Objetivos:
 Avaliar a eficácia e segurança da terapia tripla inavolisibe + palbociclibe + fulvestranto versus placebo + palbociclibe + fulvestranto em pacientes [[Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]- com mutação PIK3CA e resistência endócrina.

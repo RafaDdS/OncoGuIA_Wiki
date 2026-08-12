@@ -26,7 +26,7 @@ Avaliar a segurança e a eficácia da primeira linha com pertuzumabe + trastuzum
 - **SLP:** mediana de **20,6 meses** (IC 95% 18,9–22,7) na população geral — 19,6 meses com docetaxel, 23,0 meses com paclitaxel e 18,1 meses com nab-paclitaxel.
 - **ORR:** **80%** (IC 95% 78–82%) na população geral — 79% (docetaxel), 83% (paclitaxel) e 77% (nab-paclitaxel).
 - **Toxicidade por taxano:** paclitaxel associou-se a mais neuropatia periférica (31% vs 16%) mas menos neutropenia febril (1% vs 11%) e mucosite (14% vs 25%) que docetaxel.
-- Duração mediana do [[tratamento/index|tratamento]] de 16 meses para pertuzumabe/trastuzumabe e 4 meses para o taxano; 29% das pacientes haviam recebido trastuzumabe prévio.
+- Duração mediana do tratamento de 16 meses para pertuzumabe/trastuzumabe e 4 meses para o taxano; 29% das pacientes haviam recebido trastuzumabe prévio.
 
 ## Impacto Clínico:
 Confirmou em cenário de mundo real que o duplo bloqueio HER2 com pertuzumabe + trastuzumabe + taxano é seguro e eficaz na primeira linha da [[doenca-metastatica/index|doença metastática]], com resultados de SLP e ORR consistentes com o CLEOPATRA. O paclitaxel mostrou-se alternativa válida ao docetaxel, com perfil de toxicidade previsível e distinto (mais neuropatia, menos neutropenia febril e mucosite).

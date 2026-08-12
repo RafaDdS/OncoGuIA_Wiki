@@ -1,7 +1,6 @@
 ---
 aliases:
-- NSABP B-28
-- NSABP B-28 (Paclitaxel Adjuvant Trial)
+  - "NSABP B-28"
 category: Ensaios Clínicos
 status: draft
 title: NSABP B-28

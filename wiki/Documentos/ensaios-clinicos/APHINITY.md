@@ -31,7 +31,7 @@ Avaliar se a adição de pertuzumabe ao trastuzumabe e à quimioterapia adjuvant
 ### Análise final de OS (2025 — 11,3 anos de seguimento mediano)
 - **SG:** 452 óbitos no total; 205 (8,5%) no braço pertuzumabe versus 247 (10,3%) no braço placebo. **HR 0,83 (IC 95% 0,69–1,00; P = 0,044)** — atingindo a significância pré-especificada (limiar 0,0496); SG em 10 anos de 91,6% versus 89,8%.
 - **Subgrupos:** benefício em SG no linfonodo-positivo (HR 0,79; IC 95% 0,64–0,97) e RH-positivo (HR 0,76; IC 95% 0,60–0,97), mas não no linfonodo-negativo (HR 0,99; IC 95% 0,66–1,49) nem no RH-negativo (HR 0,94; IC 95% 0,70–1,26).
-- **SLDi atualizada:** HR 0,79 (IC 95% 0,68–0,92); SLDi em 10 anos de 87,2% versus 83,8%; benefício clinicamente relevante no subgrupo N+, ausente no N–.
+- **SLDi atualizada:** HR 0,79 (IC 95% 0,68–0,92); SLDi em 10 anos de 87,2% versus 83,8%; benefício clinicamente relevante no subgrupo [[Linfonodo Positivo (N+-LFN)|N+]], ausente no N–.
 - **Segurança cardíaca:** eventos cardíacos primários <1%; nenhuma nova preocupação de segurança.
 
 ## Impacto Clínico:

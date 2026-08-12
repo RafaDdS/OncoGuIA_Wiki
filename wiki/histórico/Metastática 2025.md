@@ -13,19 +13,19 @@ status: "published"
 
 # Doença Metastática – O que mudou de 2025 para 2026
 
-Esta página descreve o panorama do [[tratamento/index|tratamento]] do [[Câncer de Mama (Visão Geral)|câncer de mama]] metastático de acordo com a diretriz [[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] de **2025** e lista as principais mudanças incorporadas em **2026**. Para a conduta atual, consulte SBOC - Metastática (2026).
+Esta página descreve o panorama do tratamento do [[Câncer de Mama (Visão Geral)|câncer de mama]] metastático de acordo com a diretriz [[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] de **2025** e lista as principais mudanças incorporadas em **2026**. Para a conduta atual, consulte SBOC - Metastática (2026).
 
 ## Em 2025 (Contexto)
 
 - **[[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]]**:
-  - 1ª linha: IA + iCDK4/6 ([[Palbociclibe|palbociclibe]], [[Ribociclibe|ribociclibe]] ou [[Abemaciclibe|abemaciclibe]]) – padrão universal.
-  - 2ª linha: [[Fulvestranto|fulvestranto]] + iCDK4/6 (se não usado antes), everolimo + exemestano, ou alpelisibe + fulvestranto (se [[PIK3CA]] mutado).
-  - Capivasertibe + fulvestranto (para alterações em AKT/PIK3CA/PTEN) era opção emergente.
+  - 1ª linha: IA + [[Inibidores de CDK4-6 (iCDK4-6) – Classe|iCDK4/6]] ([[Palbociclibe|palbociclibe]], [[Ribociclibe|ribociclibe]] ou [[Abemaciclibe|abemaciclibe]]) – padrão universal.
+  - 2ª linha: [[Fulvestranto|fulvestranto]] + iCDK4/6 (se não usado antes), [[Everolimo (Inibidor de mTOR)|everolimo]] + exemestano, ou alpelisibe + fulvestranto (se [[PIK3CA]] mutado).
+  - [[Capivasertibe (Inibidor de AKT)|Capivasertibe]] + fulvestranto (para alterações em AKT/PIK3CA/PTEN) era opção emergente.
 - **HER2+**:
   - 1ª linha: [[Trastuzumabe|trastuzumabe]] + [[Pertuzumabe|pertuzumabe]] + taxano ([[CLEOPATRA]]).
   - 2ª linha: [[T-DXd (Trastuzumabe Deruxtecana)|T-DXd]] ([[DESTINY-Breast03]]) – padrão após progressão a trastuzumabe.
   - Linhas subsequentes: [[T-DM1 (Trastuzumabe Emtansina)|T-DM1]], lapatinibe + [[Capecitabina|capecitabina]], trastuzumabe + capecitabina.
-- **Triplo-negativo**:
+- **[[TNBC (Triplo-Negativo)|Triplo-negativo]]**:
   - 1ª linha: QT (se [[PD-L1]] <10) ou [[Pembrolizumabe|pembrolizumabe]] + QT (se PD-L1 ≥10).
   - Linhas subsequentes: sacituzumabe govitecana ([[ASCENT]]) ou T-DXd (se [[HER2|HER2-low]]).
 
@@ -36,7 +36,7 @@ Esta página descreve o panorama do [[tratamento/index|tratamento]] do [[Câncer
 #### 1ª linha – nova opção para PIK3CA mutado com resistência endócrina
 - **2025**: IA + iCDK4/6 (padrão universal).
 - **2026**: Para pacientes com **mutação PIK3CA** e **recidiva durante ou até 12 meses do fim da adjuvância**, opção preferencial: **Inavolisibe + Palbociclibe + Fulvestranto** ([[INAVO120]]).
-- **Ganhos**: SLP 15 vs 7,3 meses (HR 0,43); SG 34 vs 27 meses (HR 0,67). Toxicidades: hiperglicemia, estomatite, diarreia.
+- **Ganhos**: [[Sobrevida Livre de Progressão (SLP)|SLP]] 15 vs 7,3 meses (HR 0,43); [[Sobrevida Global (SG)|SG]] 34 vs 27 meses (HR 0,67). Toxicidades: hiperglicemia, estomatite, diarreia.
 
 #### Capivasertibe – esquema intermitente
 - **2025**: Dose contínua.

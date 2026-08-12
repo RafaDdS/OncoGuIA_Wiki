@@ -2,6 +2,8 @@
 title: "Everolimo (Inibidor de mTOR)"
 aliases:
   - "Inibidor de mTOR (Everolimo)"
+  - "Everolimo"
+  - "Inibidor de mTOR"
 category: "Terapias-Alvo"
 source_documents:
   - "Metastático"
@@ -20,7 +22,7 @@ O everolimo forma um complexo com a proteína FKBP-12 que se liga e inibe mTORC1
 
 ## Evidências
 
-O [[BOLERO-2]] (fase III, NEJM 2012) randomizou 724 pacientes RH+/HER2− na pós-menopausa com progressão a IA não esteroidal para everolimo + exemestano vs placebo + exemestano. A PFS foi de 7,8 vs 3,2 meses (HR 0,45, p < 0,001) pela avaliação do investigador, e de 11,0 vs 4,1 meses pelo comitê independente. A SG não atingiu significância (HR 0,89). O benefício foi consistente em todos os subgrupos, inclusive em pacientes com progressão documentada a iCDK4/6 (em análise retrospectiva). O BOLERO-6 comparou everolimo + exemestano vs everolimo + [[Fulvestranto|fulvestranto]] vs fulvestranto isolado, com PFS numericamente favorável a everolimo + exemestano. O perfil de toxicidade (estomatite, pneumonite, hiperglicemia) exigiu manejo ativo, mas sem deterioração da qualidade de vida na análise do BOLERO-2.
+O [[BOLERO-2]] (fase III, NEJM 2012) randomizou 724 pacientes RH+/HER2− na pós-menopausa com progressão a IA não esteroidal para everolimo + exemestano vs placebo + exemestano. A PFS foi de 7,8 vs 3,2 meses (HR 0,45, p < 0,001) pela avaliação do investigador, e de 11,0 vs 4,1 meses pelo comitê independente. A [[Sobrevida Global (SG)|SG]] não atingiu significância (HR 0,89). O benefício foi consistente em todos os subgrupos, inclusive em pacientes com progressão documentada a [[Inibidores de CDK4-6 (iCDK4-6) – Classe|iCDK4/6]] (em análise retrospectiva). O BOLERO-6 comparou everolimo + exemestano vs everolimo + [[Fulvestranto|fulvestranto]] vs fulvestranto isolado, com PFS numericamente favorável a everolimo + exemestano. O perfil de toxicidade (estomatite, pneumonite, hiperglicemia) exigiu manejo ativo, mas sem deterioração da qualidade de vida na análise do BOLERO-2.
 
 ## Indicação
 

@@ -19,7 +19,7 @@ Dayes IS, Metser U, Hodgson N, Parpia S, Eisen AF, George R, Blanchette P, Cil T
 Estudo randomizado, multicêntrico, conduzido em seis centros regionais de câncer de Ontário (Canadá) (NCT02751710). Entre dezembro de 2016 e abril de 2022, **369 pacientes** com [[Câncer de Mama (Visão Geral)|câncer de mama]] localmente avançado (carcinoma ductal invasivo estádio TNM III ou IIb — T3N0, excluindo T2N1) foram randomizados para [[estadiamento/index|estadiamento]] com tomografia por emissão de pósitrons com tomografia computadorizada ([[PET-CT|PET/CT]]) com 18F-FDG (n=184) ou estadiamento convencional ([[Cintilografia Óssea|cintilografia óssea]] + [[TC (Docetaxel + Ciclofosfamida)|TC]] de tórax/abdome/pelve) (n=185). Endpoint primário: upgrade para estádio IV. Desfecho secundário-chave: recebimento de terapia combinada de intenção curativa.
 
 ## Objetivos:
-Determinar por ensaio clínico randomizado se o estadiamento por PET/CT com FDG-18F detecta mais metástases à distância assintomáticas do que as ferramentas de estadiamento convencional em casos de câncer de mama localmente avançado, e seu impacto na abordagem de [[tratamento/index|tratamento]].
+Determinar por ensaio clínico randomizado se o estadiamento por PET/CT com FDG-18F detecta mais metástases à distância assintomáticas do que as ferramentas de estadiamento convencional em casos de câncer de mama localmente avançado, e seu impacto na abordagem de tratamento.
 
 ## Resultados e Impacto Clínico:
 

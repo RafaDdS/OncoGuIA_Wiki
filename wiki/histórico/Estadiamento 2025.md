@@ -27,7 +27,7 @@ Esta página descreve o panorama do [[estadiamento/index|estadiamento]] e [[diag
   - [[Imuno-histoquímica (IHQ)|IHQ]] para [[Receptores Hormonais (RE-RP-RH)|RE]], RP, HER2, [[Ki67]] (padrão).
   - [[PD-L1]] e TILs não eram formalmente recomendados na doença inicial.
 - **Estadiamento sistêmico**:
-  - Não indicado rotineiramente para estádios iniciais; indicado para localmente avançados ou com sintomas.
+  - Não indicado rotineiramente para [[Estádios (0–IV)|estádios]] iniciais; indicado para localmente avançados ou com sintomas.
   - PET/CT complementar aos exames convencionais.
 - **[[Intervalos Assistenciais|Intervalos assistenciais]]**: Não havia seção específica.
 
@@ -49,16 +49,16 @@ Esta página descreve o panorama do [[estadiamento/index|estadiamento]] e [[diag
 
 ### 3. Biomarcadores
 
-- **TILs ([[Linfócitos Infiltrantes Tumorais (TILs)|linfócitos infiltrantes tumorais]])**: Passam a ser recomendados com NE ALTO/FR FORTE para subtipos TNBC e [[HER2|HER2+]], como informação prognóstica e preditiva.
+- **TILs ([[Linfócitos Infiltrantes Tumorais (TILs)|linfócitos infiltrantes tumorais]])**: Passam a ser recomendados com NE ALTO/FR FORTE para subtipos [[TNBC (Triplo-Negativo)|TNBC]] e [[HER2|HER2+]], como informação prognóstica e preditiva.
 - **PD-L1**: **Não indicado na doença inicial** (NE ALTO/FR FORTE), pois não influencia decisões terapêuticas nesse contexto.
 - **HER2-ultralow**: Definido como IHQ 0 com coloração de membrana – relevante para elegibilidade a [[T-DXd (Trastuzumabe Deruxtecana)|T-DXd]] em estudos ([[DESTINY-Breast06]]), embora ainda não seja incorporado como biomarcador de rotina. *Nota: esta definição não consta nesta diretriz de estadiamento; é detalhada na diretriz de [[doenca-metastatica/index|doença metastática]].*
 
 ### 4. Intervalos assistenciais (nova seção)
 - **2025**: Não havia.
-- **2026**: Recomendação de monitoramento de atrasos evitáveis (exame índice → biópsia → laudo → biomarcadores → 1ª avaliação → estadiamento → início do [[tratamento/index|tratamento]]) como indicador de qualidade. Sugere-se navegação oncológica e comunicação ativa de resultados críticos.
+- **2026**: Recomendação de monitoramento de atrasos evitáveis (exame índice → biópsia → laudo → biomarcadores → 1ª avaliação → estadiamento → início do tratamento) como indicador de qualidade. Sugere-se navegação oncológica e comunicação ativa de resultados críticos.
 
 ### 5. Cuidados adicionais ao diagnóstico (novo agrupamento)
-- As recomendações sobre preservação de fertilidade, [[Ecocardiograma Doppler|ecocardiograma Doppler]], clipagem e [[Aconselhamento Genético|aconselhamento genético]] foram consolidadas em uma seção específica, com detalhamentos que não existiam em 2025 (ex.: uso de GnRHa para reduzir falência ovariana prematura, independentemente de desejo reprodutivo).
+- As recomendações sobre preservação de fertilidade, [[Ecocardiograma Doppler|ecocardiograma Doppler]], clipagem e [[Aconselhamento Genético|aconselhamento genético]] foram consolidadas em uma seção específica, com detalhamentos que não existiam em 2025 (ex.: uso de [[Análogos do GnRH (GnRHa)|GnRHa]] para reduzir falência ovariana prematura, independentemente de desejo reprodutivo).
 
 ## Impacto na Prática
 

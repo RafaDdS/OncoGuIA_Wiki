@@ -18,7 +18,7 @@ Baek SY, Noh WC, Ahn SH, Kim HA, Ryu JM, Kim SI, et al. (2023)
 Seguimento pós-ensaio do estudo ASTRRA — "Adição de [[Supressão Ovariana]] ao [[Tamoxifeno]] em Mulheres Jovens com [[Câncer de Mama (Visão Geral)|Câncer de Mama]] Hormônio-Sensível que Permaneceram Pré-Menopausadas ou Recuperaram Sangramento Vaginal Após [[tratamento/quimioterapia/index|Quimioterapia]]". Incluiu **1.483 mulheres pré-menopausadas** com menos de 45 anos, com câncer de mama receptor de estrogênio-positivo tratadas com cirurgia definitiva após quimioterapia adjuvante ou neoadjuvante. Randomizadas 1:1 para completar 5 anos de tamoxifeno isolado (somente TAM) ou 5 anos de tamoxifeno com supressão da função ovariana (SFO) por 2 anos (TAM + SFO). Endpoint primário: sobrevida livre de doença (SLD); endpoint secundário: [[Sobrevida Global (SG)|sobrevida global (SG)]].
 
 ## Objetivos:
-Determinar os desfechos de longo prazo da adição de supressão da função ovariana (SFO) ao tamoxifeno após quimioterapia em mulheres pré-menopausadas que permanecem nessa condição ou recuperam a função ovariana após o [[tratamento/index|tratamento]].
+Determinar os desfechos de longo prazo da adição de supressão da função ovariana (SFO) ao tamoxifeno após quimioterapia em mulheres pré-menopausadas que permanecem nessa condição ou recuperam a função ovariana após o tratamento.
 
 ## Resultados e Impacto Clínico:
 

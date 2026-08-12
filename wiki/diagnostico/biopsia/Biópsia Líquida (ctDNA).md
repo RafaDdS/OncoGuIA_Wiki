@@ -2,6 +2,8 @@
 title: "Biópsia Líquida (ctDNA)"
 aliases:
   - "Biópsia líquida (ctDNA)"
+  - "Biópsia Líquida"
+  - "ctDNA"
 category: "Rastreamento e Imagem"
 source_documents:
   - "Metastático"

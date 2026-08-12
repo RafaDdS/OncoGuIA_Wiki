@@ -2,6 +2,7 @@
 title: "Estádios (0–IV)"
 aliases:
   - "Estádios (0, I, II, III, IV)"
+  - "Estádios"
 category: "Estadiamento"
 source_documents:
   - "Estadiamento"
@@ -28,7 +29,7 @@ Agrupamentos prognósticos que combinam TNM e [[biomarcadores/index|biomarcadore
 
 - **Estádios I e IIA:** Sem indicação de exames de [[diagnostico/imagem/index|imagem]] de rotina para [[estadiamento/index|estadiamento]] sistêmico, exceto na presença de sinais ou sintomas suspeitos.
 - **Estádios IIB e III:** Exigem estadiamento sistêmico completo com [[TC (Docetaxel + Ciclofosfamida)|TC]] de tórax/abdome/pelve e [[Cintilografia Óssea|cintilografia óssea]] (ou [[PET-CT|PET/CT]]).
-- **Estádio IV:** Seguir protocolos de [[tratamento/index|tratamento]] para doença metastática.
+- **Estádio IV:** Seguir protocolos de tratamento para doença metastática.
 
 ---
 *Página gerada a partir de 1 termo(s) original(is) do glossário: Estádios (0, I, II, III, IV).*

@@ -12,7 +12,7 @@ status: "draft"
 
 # Doença Residual
 
-A doença residual é definida pela presença de tumor invasivo persistente na mama ou nos linfonodos da axila após a conclusão do [[tratamento/index|tratamento]] com [[tratamento/quimioterapia/index|quimioterapia]] neoadjuvante. A sua constatação na avaliação patológica da peça cirúrgica indica que a doença não foi erradicada completamente pela terapia inicial.
+A doença residual é definida pela presença de tumor invasivo persistente na mama ou nos linfonodos da axila após a conclusão do tratamento com [[tratamento/quimioterapia/index|quimioterapia]] neoadjuvante. A sua constatação na avaliação patológica da peça cirúrgica indica que a doença não foi erradicada completamente pela terapia inicial.
 
 ## Aplicações Clínicas e Tratamento
 
@@ -23,7 +23,7 @@ A identificação da doença residual atua como um marcador biológico preditivo
 
 
 * 
-**Triplo-Negativo:** A conduta de resgate pode envolver o uso de quimioterapia oral com [[Capecitabina|capecitabina]].
+**[[TNBC (Triplo-Negativo)|Triplo-Negativo]]:** A conduta de resgate pode envolver o uso de quimioterapia oral com [[Capecitabina|capecitabina]].
 
 
 * 

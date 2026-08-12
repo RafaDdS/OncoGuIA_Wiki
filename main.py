@@ -33,8 +33,10 @@ def define_env(env):
                     titulo_index = extrair_titulo(caminho_index)
                     if titulo_index:
                         titulo = titulo_index
-                href = pasta.name + "/index.md"
-                markdown += f"{'#' * nivel} [{titulo}]({href})\n\n"
+                    href = pasta.name + "/index.md"
+                    markdown += f"{'#' * nivel} [{titulo}]({href})\n\n"
+                else:
+                    markdown += f"{'#' * nivel} {titulo}\n\n"
                 markdown += preencher_diretorio(pasta, nivel + 1)
 
             return markdown

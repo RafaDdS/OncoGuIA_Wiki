@@ -10,7 +10,7 @@ status: "draft"
 
 # Doença Localmente Avançada
 
-Tumores classificados nos **estádios II e III**, caracterizados por extensão locorregional significativa.
+Tumores classificados nos **[[Estádios (0–IV)|estádios]] II e III**, caracterizados por extensão locorregional significativa.
 
 ## Critérios clínicos: 
 

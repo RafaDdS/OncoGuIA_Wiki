@@ -12,15 +12,15 @@ status: "draft"
 
 # Clipagem / Marcador Metálico
 
-A **clipagem** consiste na colocação de um **clipe metálico** (geralmente de titânio) no interior da lesão tumoral ou em suas margens, guiada por ultrassonografia, [[Mamografia|mamografia]] (estereotaxia) ou ressonância magnética. O clipe serve como **marcador radiopaco** permanente para identificação futura do leito tumoral.
+A **clipagem** consiste na colocação de um **clipe metálico** (geralmente de titânio) no interior da lesão tumoral ou em suas margens, guiada por [[Ultrassonografia (USG) de Mamas e Axilas|ultrassonografia]], [[Mamografia|mamografia]] (estereotaxia) ou ressonância magnética. O clipe serve como **marcador radiopaco** permanente para identificação futura do leito tumoral.
 
 ## Indicação Principal
 
 A clipagem é indicada em pacientes com [[Câncer de Mama (Visão Geral)|câncer de mama]] que serão submetidas a **[[Tratamento Neoadjuvante (Conceito)|tratamento neoadjuvante]]** ([[tratamento/quimioterapia/index|quimioterapia]] ou hormonioterapia pré-operatória).
 
-A quimioterapia neoadjuvante pode induzir **resposta patológica completa (pCR)** em 30 a 60% dos casos, com regressão total do tumor aos exames de [[diagnostico/imagem/index|imagem]] e à palpação. Sem o marcador, o cirurgião não teria como identificar com precisão o local exato da lesão original para ressecção e o patologista não poderia direcionar a análise para a área de interesse.
+A quimioterapia neoadjuvante pode induzir **[[Resposta Patológica Completa (RPC)|resposta patológica completa]] (pCR)** em 30 a 60% dos casos, com regressão total do tumor aos exames de [[diagnostico/imagem/index|imagem]] e à palpação. Sem o marcador, o cirurgião não teria como identificar com precisão o local exato da lesão original para ressecção e o patologista não poderia direcionar a análise para a área de interesse.
 
-A colocação do clipe no leito tumoral **antes do início do [[tratamento/index|tratamento]] sistêmico** é essencial para:
+A colocação do clipe no leito tumoral **antes do início do tratamento sistêmico** é essencial para:
 - Assegurar a **localização precisa** para a cirurgia subsequente
 - Permitir **cirurgia conservadora** da mama em vez de mastectomia
 - Orientar a **avaliação histopatológica** da resposta ao tratamento

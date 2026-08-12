@@ -14,20 +14,20 @@ O gene **AKT1** e o gene supressor de tumor **PTEN** são componentes cruciais d
 
 ## Diagnóstico e Avaliação
 
-A detecção de alterações na via AKT/PTEN é realizada a partir de amostras de tecido tumoral (biópsia sólida) ou, em alguns casos, por biópsia líquida:
+A detecção de alterações na via AKT/PTEN é realizada a partir de amostras de tecido tumoral (biópsia sólida) ou, em alguns casos, por [[Biópsia Líquida (ctDNA)|biópsia líquida]]:
 
 * **Sequenciamento de Nova Geração (NGS):** É o método de escolha para identificar mutações patogênicas específicas no gene *AKT1* (como a mutação E17K) e alterações no gene *PTEN*.
 * **[[Imuno-histoquímica (IHQ)]]:** Pode ser utilizada complementarmente para avaliar a perda da expressão da proteína PTEN no tecido tumoral, um indicativo de que a função de supressão tumoral do gene foi comprometida.
 
 ## Abordagem Clínica e Tratamento
 
-O conhecimento do status de alterações em AKT1 e PTEN assumiu recentemente um papel central na personalização do [[tratamento/index|tratamento]], especialmente nas fases avançadas da doença.
+O conhecimento do status de alterações em AKT1 e PTEN assumiu recentemente um papel central na personalização do tratamento, especialmente nas fases avançadas da doença.
 
 ### Cenário Metastático
 
 Para pacientes com câncer de mama avançado ou metastático classificado como Receptor Hormonal positivo (HR+) e [[HER2|HER2 negativo]], a presença de alterações nesses genes abre novas portas terapêuticas:
 
-* **Terapia-Alvo Direcionada (Capivasertibe):** Pacientes cujos tumores apresentam mutações em *AKT1*, alterações em *PTEN* (ou mutações no gene *[[PIK3CA]]*) são elegíveis para o tratamento com **capivasertibe** (um inibidor inibidor específico da via AKT) combinado ao [[Fulvestranto|fulvestranto]]. Essa combinação demonstrou eficácia clínica significativa em ensaios recentes para contornar a resistência à hormonioterapia padrão.
+* **Terapia-Alvo Direcionada ([[Capivasertibe (Inibidor de AKT)|Capivasertibe]]):** Pacientes cujos tumores apresentam mutações em *AKT1*, alterações em *PTEN* (ou mutações no gene *[[PIK3CA]]*) são elegíveis para o tratamento com **capivasertibe** (um inibidor inibidor específico da via AKT) combinado ao [[Fulvestranto|fulvestranto]]. Essa combinação demonstrou eficácia clínica significativa em ensaios recentes para contornar a resistência à hormonioterapia padrão.
 * **Estratégia de Tratamento:** Como a hiperativação dessa via está ligada a uma pior resposta à [[tratamento/terapia-endocrina/index|terapia endócrina]] isolada, identificar precocemente alterações em *AKT1/PTEN* permite que o oncologista sequencie o tratamento de forma mais eficaz, bloqueando diretamente a via de escape do tumor.
 
 ---

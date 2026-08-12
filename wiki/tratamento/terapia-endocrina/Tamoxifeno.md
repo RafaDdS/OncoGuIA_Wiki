@@ -2,6 +2,7 @@
 title: "Tamoxifeno"
 aliases:
   - "Tamoxifeno (TMX)"
+  - "TMX"
 category: "Terapia Endócrina"
 source_documents:
   - "Adjuvante"
@@ -21,8 +22,8 @@ O tamoxifeno liga-se ao receptor de estrogênio ([[Receptores Hormonais (RE-RP-R
 ## Indicações no Câncer de Mama
 
 - **Adjuvante**: todos os subtipos RH+, independentemente do status menopausal. Dose: 20 mg/dia por 5–10 anos
-- **[[Carcinoma Ductal in Situ (CDIS)|CDIS]]**: redução de recorrência ipsilateral e contralateral, sem impacto em SG
-- **Metastático**: monoterapia ou em combinação com iCDK4/6 (em pré-menopausa, associado a [[Supressão Ovariana|supressão ovariana]])
+- **[[Carcinoma Ductal in Situ (CDIS)|CDIS]]**: redução de recorrência ipsilateral e contralateral, sem impacto em [[Sobrevida Global (SG)|SG]]
+- **Metastático**: monoterapia ou em combinação com [[Inibidores de CDK4-6 (iCDK4-6) – Classe|iCDK4/6]] (em pré-menopausa, associado a [[Supressão Ovariana|supressão ovariana]])
 - **Prevenção**: redução de incidência de [[Câncer de Mama (Visão Geral)|câncer de mama]] em mulheres de alto risco (estudo NSABP P-1)
 
 ## Evidências

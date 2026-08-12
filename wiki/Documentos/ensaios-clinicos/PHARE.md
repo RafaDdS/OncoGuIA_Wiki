@@ -4,7 +4,6 @@ aliases:
   - "PHARE"
   - "PHARE Trial"
   - "6 Months vs 12 Months Adjuvant Trastuzumab"
-  - "PHARE (Trastuzumab Duration Trial)"
 category: "Ensaios Clínicos"
 status: "draft"
 ---

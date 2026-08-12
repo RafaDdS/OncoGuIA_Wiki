@@ -1,9 +1,8 @@
 ---
 aliases:
-- MONALEESA-7
-- MONALEESA 7
-- Ribociclib Premenopausal Advanced Breast Cancer
-- MONALEESA-7 (Ribociclib + Endocrine Therapy Premenopausal)
+  - "MONALEESA-7"
+  - "MONALEESA 7"
+  - "Ribociclib Premenopausal Advanced Breast Cancer"
 category: Ensaios Clínicos
 status: draft
 title: MONALEESA-7
@@ -12,13 +11,13 @@ title: MONALEESA-7
 # MONALEESA-7
 
 ## Autores Principais:
-Tripathy D, Im SA, Colleoni M, et al. (2018) / Lu YS, Im SA, Colleoni M, et al. (2022 — SG atualizada)
+Tripathy D, Im SA, Colleoni M, et al. (2018) / Lu YS, Im SA, Colleoni M, et al. (2022 — [[Sobrevida Global (SG)|SG]] atualizada)
 
 ## Ano de Publicação:
 2018 (publicação original); 2020/2021 (atualização SABCS); 2022 (SG atualizada, Clin Cancer Res)
 
 ## Delineamento (Métodos):
-Estudo de fase III, randomizado, duplo-cego, controlado por placebo (NCT02278120), conduzido em 188 centros de 30 países. Randomizou na proporção 1:1 **672 mulheres pré ou perimenopausadas** (idade 18–59 anos) com [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]], sem [[tratamento/index|tratamento]] prévio com inibidor de CDK4/6, para receber [[Ribociclibe|ribociclibe]] (600 mg/dia, 3 semanas on/1 semana off) ou placebo em combinação com [[tratamento/terapia-endocrina/index|terapia endócrina]] ([[Tamoxifeno|tamoxifeno]] 20 mg/dia ou inibidor de aromatase não esteroidal — letrozol 2,5 mg ou anastrozol 1 mg), todos com goserelina (3,6 mg a cada 28 dias). Endpoint primário: SLP avaliada por investigador; SG como endpoint secundário chave.
+Estudo de fase III, randomizado, duplo-cego, controlado por placebo (NCT02278120), conduzido em 188 centros de 30 países. Randomizou na proporção 1:1 **672 mulheres pré ou perimenopausadas** (idade 18–59 anos) com [[Câncer de Mama (Visão Geral)|câncer de mama]] avançado [[Subtipo Luminal (RH+-HER2-)|RH+/HER2-]], sem tratamento prévio com inibidor de CDK4/6, para receber [[Ribociclibe|ribociclibe]] (600 mg/dia, 3 semanas on/1 semana off) ou placebo em combinação com [[tratamento/terapia-endocrina/index|terapia endócrina]] ([[Tamoxifeno|tamoxifeno]] 20 mg/dia ou inibidor de aromatase não esteroidal — letrozol 2,5 mg ou anastrozol 1 mg), todos com goserelina (3,6 mg a cada 28 dias). Endpoint primário: [[Sobrevida Livre de Progressão (SLP)|SLP]] avaliada por investigador; SG como endpoint secundário chave.
 
 ## Objetivos:
 Avaliar a eficácia e segurança do inibidor de CDK4/6 ribociclibe em combinação com terapia endócrina (tamoxifeno ou IA + goserelina) em mulheres pré ou perimenopausadas com câncer de mama avançado [[Receptores Hormonais (RE-RP-RH)|RH]]+/[[HER2]]-. Primeiro ensaio randomizado de fase III dedicado a investigar inibidor de CDK4/6 nesta população jovem.

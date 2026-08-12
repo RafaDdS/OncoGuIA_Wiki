@@ -16,7 +16,7 @@ A classificação de "Alto Risco Clínico", especialmente relevante para tumores
 
 - **Para tumores com linfonodos axilares negativos (N0):** Considera-se alto risco clínico a presença de tumores a partir de 1 cm com [[Grau Histológico (G1–G3)|grau histológico]] 3; tumores a partir de 2 cm com graus 2 ou 3; ou tumores a partir de 3 cm de qualquer grau histológico. 
 
-- **Fatores agravantes adicionais:** O risco é considerado maior na presença de *status* pré-menopausal, [[Invasão Angiolinfática|invasão angiolinfática]], baixa expressão de receptores hormonais e índice de proliferação celular ([[Ki67]]) elevado (≥ 20%). 
+- **Fatores agravantes adicionais:** O risco é considerado maior na presença de *status* pré-menopausal, [[Invasão Angiolinfática|invasão angiolinfática]], baixa expressão de [[Receptores Hormonais (RE-RP-RH)|receptores hormonais]] e índice de proliferação celular ([[Ki67]]) elevado (≥ 20%). 
 
 ## Critérios Específicos para Adição de Inibidores de Ciclina (iCDK4/6):
 

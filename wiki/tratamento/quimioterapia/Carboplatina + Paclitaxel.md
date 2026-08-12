@@ -27,7 +27,7 @@ O regime de **[[Carboplatina]] + Paclitaxel** (CarboPacli) é uma opção quimio
 
 ## Evidências
 
-O estudo asiático de **Wang et al. (2021)** randomizou pacientes com TNBC estádio II–III para carboplatina + paclitaxel (CarboPacli) vs FEC-T (5-FU + Epirrubicina + Ciclofosfamida seguido de Docetaxel). O CarboPacli demonstrou **não inferioridade em sobrevida livre de doença** (SLD em 5 anos: 86,5% vs 85,3%) e sobrevida global, com toxicidade hematológica e não hematológica comparável. O estudo **GEICAM/2003-02** (Alba et al., 2012) testou a associação no neoadjuvante e evidenciou benefício em RPC para TNBC.
+O estudo asiático de **Wang et al. (2021)** randomizou pacientes com TNBC estádio II–III para carboplatina + paclitaxel (CarboPacli) vs FEC-T (5-FU + Epirrubicina + Ciclofosfamida seguido de Docetaxel). O CarboPacli demonstrou **não inferioridade em sobrevida livre de doença** (SLD em 5 anos: 86,5% vs 85,3%) e [[Sobrevida Global (SG)|sobrevida global]], com toxicidade hematológica e não hematológica comparável. O estudo **GEICAM/2003-02** (Alba et al., 2012) testou a associação no neoadjuvante e evidenciou benefício em [[Resposta Patológica Completa (RPC)|RPC]] para TNBC.
 
 ## Toxicidade
 

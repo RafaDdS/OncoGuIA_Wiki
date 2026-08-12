@@ -45,7 +45,7 @@ O escore final (3–9) é a soma de três componentes, cada um pontuado de 1 a 3
 
 ## Valor Prognóstico
 
-- **G1**: melhor prognóstico, menor taxa de proliferação, mais frequentemente luminal A
+- **G1**: melhor prognóstico, menor taxa de proliferação, mais frequentemente [[Subtipo Luminal (RH+-HER2-)|luminal]] A
 - **G3**: maior agressividade, maior risco de recorrência precoce ([[EBCTCG (Atlas 2005)|EBCTCG]] 2011: RR para recidiva em 10 anos ~2,0 vs G1), mais associado a TNBC e [[HER2|HER2+]] ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026)
 - O grau histológico é **fator prognóstico independente** mesmo após ajuste para tamanho tumoral, status linfonodal e subtipo molecular
 
@@ -56,7 +56,7 @@ O escore final (3–9) é a soma de três componentes, cada um pontuado de 1 a 3
 | Luminal A | G1–G2 | < 20% |
 | Luminal B | G2–G3 | ≥ 20% |
 | HER2-enriquecido | G3 | Usualmente alto |
-| Triplo-negativo | G3 | Usualmente alto |
+| [[TNBC (Triplo-Negativo)|Triplo-negativo]] | G3 | Usualmente alto |
 
 ## Limitações
 

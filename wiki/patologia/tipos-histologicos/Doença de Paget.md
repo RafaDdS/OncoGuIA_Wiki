@@ -34,14 +34,14 @@ A **doença de Paget da mama** é uma apresentação rara (1–4% dos cânceres 
 ## Diagnóstico
 
 - **Biópsia de pele do mamilo:** padrão-ouro — demonstra células de Paget intraepidérmicas
-- **[[Mamografia]] e USG:** para identificar lesão parenquimatosa subjacente (CDIS ou invasivo), presente em >90% dos casos
+- **[[Mamografia]] e [[Ultrassonografia (USG) de Mamas e Axilas|USG]]:** para identificar lesão parenquimatosa subjacente (CDIS ou invasivo), presente em >90% dos casos
 - **RNM de mamas:** útil na suspeita de doença oculta não identificável na mamografia
 
 ## Tratamento
 
 - **Cirurgia conservadora**: ressecção do complexo aréolo-mamilar (ectomia do mamilo) + radioterapia adjuvante, associada ou não à ressecção do parênquima subjacente
 - **Mastectomia total**: quando a doença compromete extensamente o mamilo ou há carcinoma subjacente multicêntrico/extenso
-- **[[tratamento/index|Tratamento]] sistêmico**: guiado pelo status de RH, HER2 e subtipo do carcinoma subjacente (se invasivo)
+- **Tratamento sistêmico**: guiado pelo status de RH, HER2 e subtipo do carcinoma subjacente (se invasivo)
 
 ## Prognóstico
 

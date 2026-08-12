@@ -18,7 +18,7 @@ Tomografia computadorizada indicada para [[estadiamento/index|estadiamento]] de 
 
 - **Sintomas respiratórios/pulmonares:** Considerar [[TC (Docetaxel + Ciclofosfamida)|TC]] de tórax com contraste.
 - **Sintomas gastrointestinais ou pélvicos, ou alterações de [[Fosfatase Alcalina (FALC)|FALC]] ou enzimas hepáticas:** Considerar tomografia de abdome total com contraste ou RM com contraste.
-- **Tumores localmente avançados (estádios II e III) ou neoadjuvantes:** Deve-se realizar estadiamento sistêmico com TC de tórax com contraste e TC de abdome e pelve com contraste (ou RM com contraste).
+- **Tumores localmente avançados ([[Estádios (0–IV)|estádios]] II e III) ou neoadjuvantes:** Deve-se realizar estadiamento sistêmico com TC de tórax com contraste e TC de abdome e pelve com contraste (ou RM com contraste).
 - **Algoritmo de estadiamento:** TC de tórax/abdome e [[Cintilografia Óssea|cintilografia óssea]] (ou [[PET-CT|PET/CT]]) estão indicados para estádios IIB e III.
 
 ---

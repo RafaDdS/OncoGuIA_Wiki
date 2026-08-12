@@ -16,7 +16,7 @@ Avaliar se a adição de trastuzumabe (neoadjuvante e adjuvante, total de 1 ano)
 
 ## Resultados e Impacto Clínico:
 - **SLE:** o trastuzumabe melhorou significativamente a sobrevida livre de eventos. SLE em 3 anos: **71%** (IC 95% 61–78; 36 eventos) com trastuzumabe versus **56%** (IC 95% 46–65; 51 eventos) sem trastuzumabe (HR 0,59; IC 95% 0,38–0,90; P = 0,013).
-- **Segurança:** bem tolerado; apesar da administração concomitante com doxorrubicina, apenas 2 pacientes (2%) desenvolveram insuficiência cardíaca sintomática, ambas responsivas ao [[tratamento/index|tratamento]] cardiológico.
+- **Segurança:** bem tolerado; apesar da administração concomitante com doxorrubicina, apenas 2 pacientes (2%) desenvolveram insuficiência cardíaca sintomática, ambas responsivas ao tratamento cardiológico.
 
 ## Impacto Clínico:
 Estabeleceu a adição de trastuzumabe neoadjuvante e adjuvante à quimioterapia como padrão para mulheres com câncer de mama HER2-positivo localmente avançado ou inflamatório, melhorando SLE, sobrevida e respostas clínicas e patológicas.

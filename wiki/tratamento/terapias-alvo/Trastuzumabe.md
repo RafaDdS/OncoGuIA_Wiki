@@ -1,7 +1,6 @@
 ---
 title: "Trastuzumabe"
 aliases:
-  - "Trastuzumabe (H)"
 category: "Terapias-Alvo"
 source_documents:
   - "Adjuvante"
@@ -12,7 +11,7 @@ status: "draft"
 
 # Trastuzumabe
 
-O **trastuzumabe** (nome comercial Herceptin) é um anticorpo monoclonal humanizado recombinante direcionado ao domínio extracelular IV do receptor HER2. Foi o primeiro agente anti-HER2 aprovado e permanece como pilar do [[tratamento/index|tratamento]] do [[Câncer de Mama (Visão Geral)|câncer de mama]] [[HER2|HER2-positivo]] em todos os cenários.
+O **trastuzumabe** (nome comercial Herceptin) é um anticorpo monoclonal humanizado recombinante direcionado ao domínio extracelular IV do receptor HER2. Foi o primeiro agente anti-HER2 aprovado e permanece como pilar do tratamento do [[Câncer de Mama (Visão Geral)|câncer de mama]] [[HER2|HER2-positivo]] em todos os cenários.
 
 ## Mecanismo de Ação
 
@@ -22,9 +21,9 @@ O trastuzumabe liga-se ao HER2, inibindo a dimerização do receptor e a sinaliz
 
 **Adjuvante**: padrão por 1 ano (total de 18 ciclos a cada 3 semanas ou 52 doses semanais), associado a quimioterapia (sequencial ou concomitante). Na doença de baixo risco (T1N0), esquemas descalonados de paclitaxel + trastuzumabe por 12 semanas são opção validada ([[Sociedade Brasileira de Oncologia Clínica (SBOC)|SBOC]] 2026, NE MODERADO/FR FORTE). O monitoramento cardíaco com ecocardiograma a cada 3 meses é obrigatório durante o tratamento (SBOC 2026).
 
-**Neoadjuvante**: associado a quimioterapia baseada em antraciclina-taxano, com taxas de RPC de ~40–60% dependendo da adição de [[Pertuzumabe|pertuzumabe]] e do perfil tumoral.
+**Neoadjuvante**: associado a quimioterapia baseada em antraciclina-taxano, com taxas de [[Resposta Patológica Completa (RPC)|RPC]] de ~40–60% dependendo da adição de [[Pertuzumabe|pertuzumabe]] e do perfil tumoral.
 
-**Metastático**: em primeira linha, combinado a pertuzumabe + taxano ([[CLEOPATRA]]) ou como monoterapia de manutenção após resposta. O benefício em SG é de ~16 meses em relação à quimioterapia isolada (HR 0,68, CLEOPATRA).
+**Metastático**: em primeira linha, combinado a pertuzumabe + taxano ([[CLEOPATRA]]) ou como monoterapia de manutenção após resposta. O benefício em [[Sobrevida Global (SG)|SG]] é de ~16 meses em relação à quimioterapia isolada (HR 0,68, CLEOPATRA).
 
 ## Esquemas de Administração
 

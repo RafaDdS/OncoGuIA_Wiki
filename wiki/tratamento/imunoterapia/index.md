@@ -10,4 +10,4 @@ Páginas da categoria **Imunoterapia**.
 
 {{ gerar_lista_arquivos() }}
 
-[← Voltar ao índice geral](../index.md)
+[← Voltar ao índice geral](../../index.md)

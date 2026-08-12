@@ -18,7 +18,7 @@ Rimawi M, Ferrero JM, de la Haba-Rodriguez J, Poole C, De Placido S, Osborne CK,
 Estudo de fase II, randomizado 1:1, aberto, multicêntrico (80 sítios em 8 países; NCT01491737). Randomizou **258 pacientes** (129 por braço) com [[Câncer de Mama (Visão Geral)|câncer de mama]] metastático ou localmente avançado [[HER2|HER2-positivo]] e [[Receptores Hormonais (RE-RP-RH)|RH]]-positivo, sem terapia sistêmica prévia para doença avançada (exceto endócrina), para receber [[Trastuzumabe|trastuzumabe]] + inibidor de aromatase (IA; anastrozol ou letrozol) com ou sem [[Pertuzumabe|pertuzumabe]]. [[tratamento/quimioterapia/index|Quimioterapia]] de indução (docetaxel a cada 3 semanas ou paclitaxel semanal) por 18–24 semanas era permitida a critério do investigador (75 e 71 pacientes, respectivamente). Estratificação por recebimento de quimioterapia de indução e tempo desde terapia hormonal adjuvante. Endpoint primário: [[Sobrevida Livre de Progressão (SLP)|sobrevida livre de progressão (SLP)]].
 
 ## Objetivos:
-Avaliar se a adição de pertuzumabe a trastuzumabe + IA melhora a sobrevida livre de progressão (SLP) como [[tratamento/index|tratamento]] de primeira linha em pacientes com câncer de mama metastático HER2-positivo/RH-positivo, incluindo aquelas sem quimioterapia de indução.
+Avaliar se a adição de pertuzumabe a trastuzumabe + IA melhora a sobrevida livre de progressão (SLP) como tratamento de primeira linha em pacientes com câncer de mama metastático HER2-positivo/RH-positivo, incluindo aquelas sem quimioterapia de indução.
 
 ## Resultados e Impacto Clínico:
 
