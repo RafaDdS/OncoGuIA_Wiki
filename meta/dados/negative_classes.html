@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Classes Excluídas</title>
+<link href="https://unpkg.com/tabulator-tables@6.3.1/dist/css/tabulator_site.min.css" rel="stylesheet">
+<script src="https://unpkg.com/tabulator-tables@6.3.1/dist/js/tabulator.min.js"></script>
+<script src="https://unpkg.com/vis-network@9.1.2/standalone/umd/vis-network.min.js"></script>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background: #f5f5f5;
+    color: #222;
+    padding: 0;
+  }
+  .header {
+    background: #4051b5;
+    color: #fff;
+    padding: 16px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  .header h1 {
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0.2px;
+  }
+  .header .stats {
+    font-size: 13px;
+    opacity: 0.85;
+  }
+  .section-title {
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+    margin: 0 0 8px 0;
+  }
+  .table-block {
+    padding: 16px 24px;
+  }
+  .table-heading {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 8px;
+  }
+  .table-title {
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+  }
+  .table-count {
+    font-size: 12px;
+    color: #888;
+  }
+  .controls {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 12px 24px;
+    background: #fff;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  .controls label {
+    font-size: 13px;
+    font-weight: 500;
+    color: #555;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .controls input, .controls select {
+    padding: 6px 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 13px;
+    background: #fff;
+    min-width: 160px;
+  }
+  .controls input:focus, .controls select:focus {
+    outline: none;
+    border-color: #4051b5;
+    box-shadow: 0 0 0 2px rgba(64,81,181,0.15);
+  }
+  .table-container {
+    padding: 16px 24px;
+  }
+  .tabulator {
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  }
+  .tabulator .tabulator-header .tabulator-col .tabulator-col-content {
+    padding: 8px 12px;
+  }
+  .tabulator .tabulator-row .tabulator-cell {
+    padding: 6px 12px;
+    font-size: 13px;
+  }
+  .tabulator .tabulator-row .tabulator-cell a {
+    color: #4051b5;
+    text-decoration: none;
+  }
+  .tabulator .tabulator-row .tabulator-cell a:hover {
+    text-decoration: underline;
+  }
+  .graph-section {
+    padding: 16px 24px;
+  }
+  .graph-wrapper {
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    overflow-x: auto;
+  }
+  .legend {
+    display: flex;
+    gap: 14px;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+    font-size: 12px;
+    color: #555;
+  }
+  .legend span {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+  }
+  .legend .dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  @media (max-width: 768px) {
+    .header { padding: 12px 16px; }
+    .controls { padding: 10px 16px; }
+    .table-container { padding: 8px 12px; }
+    .graph-section { padding: 10px 12px; }
+    .controls input, .controls select { min-width: 120px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Classes Excluídas</h1>
+  <span class="stats">25 registros em tabelas</span>
+</div>
+
+<div class="table-block">
+  <div class="table-heading">
+    <h2 class="table-title">Negative Classes</h2>
+    <span class="table-count" id="table-0-count"></span>
+  </div>
+</div>
+
+<div class="controls" id="table-0-controls">
+  <label>
+    Buscar:
+    <input type="text" id="table-0-search" placeholder="Pesquisar em todas as colunas..." autocomplete="off">
+  </label>
+  
+</div>
+
+<div class="table-container">
+  <div id="table-0"></div>
+</div>
+
+<script>
+(function() {
+  const DATA = [{"id": "1", "name": "Manejo de eventos adversos (toxicidades)", "description": "Perguntas sobre manejo detalhado de efeitos colaterais específicos (ex: diarreia grau 3, neutropenia febril, estomatite, hiperglicemia) que não são abordados pelas diretrizes, incluindo escalas, algoritmos de tratamento e ajustes de dose."}, {"id": "2", "name": "Ajustes de dose para populações especiais", "description": "Perguntas sobre ajustes de quimioterapia e terapias-alvo em pacientes com insuficiência renal ou hepática, idosos frágeis, performance status baixo ou desnutrição – informações ausentes nos documentos."}, {"id": "3", "name": "Condutas em emergências oncológicas", "description": "Perguntas sobre síndrome da lise tumoral, compressão medular, neutropenia febril, hipercalcemia maligna e extravasamento de quimioterápicos – situações não contempladas nas diretrizes de tratamento eletivo."}, {"id": "4", "name": "Interações medicamentosas relevantes", "description": "Perguntas sobre interações entre drogas oncológicas (iCDK4/6, anti-HER2, hormonioterápicos) e medicamentos de uso comum (antidepressivos, antifúngicos, anticoagulantes, anticonvulsivantes) – não há tabelas ou orientações nos documentos."}, {"id": "5", "name": "Procedimentos operacionais do Registro de Câncer de Base Populacional (RCBP)", "description": "Perguntas sobre situações-limite de codificação topográfica/morfológica, uso do sistema SisBasepop (BPW), integração com prontuário eletrônico e critérios específicos de exclusão de casos – não detalhadas no manual do INCA."}, {"id": "6", "name": "Técnicas avançadas de imagem para rastreamento e diagnóstico", "description": "Perguntas sobre tomossíntese, elastografia, ultrassom 3D, ressonância mamária funcional e biópsia líquida para rastreamento – não abordadas nas diretrizes de rastreamento e estadiamento."}, {"id": "7", "name": "Biópsia líquida (ctDNA) para diagnóstico, prognóstico e monitoramento", "description": "Perguntas sobre uso de DNA tumoral circulante para detecção precoce de recidiva, mutações de resistência (ex: ESR1), ou monitoramento terapêutico – apenas mencionada superficialmente, sem recomendações práticas."}, {"id": "8", "name": "Terapias de suporte, cuidados paliativos e controle de sintomas", "description": "Perguntas sobre manejo de dor oncológica (opioides), náuseas refratárias, fadiga, caquexia, dispneia terminal e cuidados de fim de vida – ausentes nos documentos."}, {"id": "9", "name": "Tratamento de sequelas e reabilitação", "description": "Perguntas sobre prevenção e manejo de linfedema, neuropatia periférica induzida por quimioterapia, toxicidade cognitiva e reabilitação funcional pós-tratamento."}, {"id": "10", "name": "Fertilidade, gestação e contracepção durante tratamento oncológico", "description": "Perguntas sobre técnicas de preservação de fertilidade (criopreservação), momento seguro para gestação após tratamento, e métodos contraceptivos recomendados – parcialmente citadas mas sem detalhes."}, {"id": "11", "name": "Aconselhamento genético e interpretação de variantes de significado incerto (VUS)", "description": "Perguntas sobre como lidar com resultados de VUS em BRCA1/2, PALB2, CHEK2, e conduta em familiares – não há orientações sobre interpretação e seguimento."}, {"id": "12", "name": "Prevenção de recorrência e intervenções em estilo de vida", "description": "Perguntas sobre suplementação (vitamina D, cálcio), dietas específicas (cetogênica, baixa gordura), exercícios físicos pós-tratamento e controle de peso – recomendações genéricas insuficientes."}, {"id": "13", "name": "Seguimento de longo prazo e detecção de recidiva", "description": "Perguntas sobre periodicidade e tipo de exames de imagem (PET/CT, RM) no seguimento, uso de marcadores tumorais (CA 15-3, CEA) e critérios para investigação de recidiva."}, {"id": "14", "name": "Vacinação durante o tratamento oncológico", "description": "Perguntas sobre segurança e eficácia de vacinas (influenza, COVID-19, HPV, pneumocócica) durante quimioterapia, imunoterapia ou terapias-alvo – nenhuma recomendação nos documentos."}, {"id": "15", "name": "Radioterapia: indicações, esquemas de fracionamento e efeitos tardios", "description": "Perguntas sobre doses específicas, técnicas (IMRT, SBRT), planejamento conformacional e manejo de toxicidades tardias (pneumonite, cardiotoxicidade) – diretrizes não detalham."}, {"id": "16", "name": "Cirurgia oncológica e reconstrução mamária", "description": "Perguntas sobre tipos de mastectomia, oncoplastia, momento da reconstrução (imediata vs tardia), linfadenectomia axilar e complicações cirúrgicas – apenas tópicos gerais."}, {"id": "17", "name": "Patologia e interpretação de biomarcadores discordantes ou novos", "description": "Perguntas sobre discordância de receptores hormonais entre biópsia e peça cirúrgica, HER2 ultra-low, PD-L1 em TNBC adjuvante, e validade de biomarcadores emergentes (Trop-2)."}, {"id": "18", "name": "Terapias‑alvo emergentes e drogas sem aprovação no Brasil", "description": "Perguntas sobre eficácia, segurança e acesso a medicamentos como trastuzumabe-deruxtecan (T-DXd), tucatinibe, inavolisibe, e status regulatório na Anvisa/CONITEC – mencionados apenas como não aprovados."}, {"id": "19", "name": "Aspectos legais, éticos e diretivas antecipadas de vontade", "description": "Perguntas sobre consentimento informado para tratamentos de alto custo, recusa terapêutica, acesso a testes genéticos por familiares e diretivas antecipadas de vontade."}, {"id": "20", "name": "Manejo de comorbidades durante o tratamento oncológico", "description": "Perguntas sobre ajustes de antidiabéticos (metformina) durante uso de alpelisibe, manejo de insuficiência cardíaca com anti-HER2, e hipertensão com inibidores de aromatase."}, {"id": "21", "name": "Custos, acesso e incorporação de tecnologias no SUS (Anvisa, CONITEC)", "description": "Perguntas sobre preços, disponibilidade no SUS, critérios dos PCDT, prazos de incorporação e vias judiciais para medicamentos não padronizados."}, {"id": "22", "name": "Ensaios clínicos em andamento no Brasil e acesso a terapias experimentais", "description": "Perguntas sobre estudos abertos para recrutamento, centros de referência, critérios de elegibilidade e como obter medicamentos experimentais."}, {"id": "23", "name": "Psicologia, retorno ao trabalho e qualidade de vida", "description": "Perguntas sobre ferramentas de rastreamento de sofrimento emocional, adaptações laborais, sexualidade e disfunção cognitiva – nenhuma orientação."}, {"id": "24", "name": "Prevenção primária (quimioprevenção, mastectomia profilática, ooforectomia)", "description": "Perguntas sobre tamoxifeno ou raloxifeno para redução de risco em mulheres de alto risco, e indicações de cirurgias profiláticas em portadoras de mutações BRCA."}, {"id": "25", "name": "Tratamentos não farmacológicos e integrativos (acupuntura, fitoterapia, mindfulness)", "description": "Perguntas sobre eficácia de acupuntura para ondas de calor, interações de fitoterápicos (curcumina, chá verde) com quimioterapia, e práticas de mindfulness durante tratamento ativo."}];
+  const COLUMNS = [{"title": "id", "field": "id", "sorter": "number", "headerFilter": "number"}, {"title": "name", "field": "name", "sorter": "string", "headerFilter": "input", "width": 300}, {"title": "description", "field": "description", "sorter": "string", "headerFilter": "input"}];
+  const FILTER_COLS = [];
+  const tableId = "table-0";
+
+  const table = new Tabulator("#" + tableId, {
+    data: DATA,
+    columns: COLUMNS,
+    layout: "fitDataStretch",
+    pagination: true,
+    paginationSize: 25,
+    paginationSizeSelector: [10, 25, 50, 100],
+    paginationCounter: "rows",
+    movableColumns: true,
+    resizableRows: false,
+    selectable: false,
+    tooltips: true,
+    headerFilterPlaceholder: "filtrar...",
+    initialSort: {"column": "id", "dir": "asc"},
+    language: "pt-BR",
+  });
+
+  document.getElementById(tableId + "-search").addEventListener("input", function(e) {
+    table.setFilter(matchAnyField, e.target.value);
+  });
+
+  function matchAnyField(data, filterParams, value) {
+    if (!value) return true;
+    const q = value.toLowerCase();
+    for (let key in data) {
+      if (data[key] != null && String(data[key]).toLowerCase().includes(q)) {
+        return true;
+      }
+    }
+    return false;
+  }
+
+  FILTER_COLS.forEach(function(col) {
+    const sel = document.getElementById(tableId + "-filter-" + col);
+    if (!sel) return;
+    sel.addEventListener("change", function() {
+      if (this.value) {
+        table.addFilter(col, "=", this.value);
+      } else {
+        table.removeFilter(col, "=");
+      }
+    });
+  });
+
+  table.on("dataFiltered", function(filters, rows) {
+    document.getElementById(tableId + "-count").innerHTML = rows.length + " registros";
+  });
+})();
+</script>
+
+
+</body>
+</html>
