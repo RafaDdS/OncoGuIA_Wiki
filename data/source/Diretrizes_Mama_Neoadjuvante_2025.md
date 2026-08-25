@@ -184,10 +184,10 @@ Recomendamos a QT neoadjuvante com um esquema contendo antracíclico e taxano, p
 | --- | --- |
 | Paclitaxel 80 mg/m2 EV D1 e D8 ou Docetaxel 75 mg/m2 D1 | A cada 3 semanas, por 6-9 ciclos e manter trastuzumabe ± pertuzumabe após a cirurgia até completar 1 ano em caso de RPC (resposta patológica completa) |
 | Carboplatina AUC 6 EV D1 | |
-| Trastuzumabe | |
+| **Trastuzumabe** | |
 | - Trastuzumabe 8 mg/kg EV D1 (dose de ataque no C1) | |
 | - Trastuzumabe 6 mg/kg EV D1 (a partir do C2) | |
-| Pertuzumabe | |
+| **Pertuzumabe** | |
 | - Pertuzumabe 840 mg EV D1 (dose de ataque no C1) | |
 | - Pertuzumabe 420 mg EV D1 (a partir do C2) | |
 

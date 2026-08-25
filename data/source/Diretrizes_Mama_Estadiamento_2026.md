@@ -123,7 +123,7 @@ O estadiamento sistêmico acurado é essencial para definir extensão da doença
 Não estão indicados exames de imagem rotineiramente para câncer de mama em estádio inicial, exceto quando houver sinais ou sintomas suspeitos para doença metastática NE BAIXO/FR FORTE, ESMO; NE MODERADO/FR FORTE, NCCN :25,26
 
 - Recomenda-se uma avaliação mínima do sangue (hemograma completo,
-  testes de função hepática e renal, níveis de fosfatase alcalina e cálcio) antes da cirurgia e de uma definição de tratamento (neo)adjuvante sistê- mico NE MUITO BAIXO/FR FORTE, ESMO .26
+  testes de função hepática e renal, níveis de fosfatase alcalina e cálcio) antes da cirurgia e de uma definição de tratamento (neo)adjuvante sistêmico NE MUITO BAIXO/FR FORTE, ESMO .26
 
 - Em caso de dores ósseas ou aumento de FALC, considerar cintilografia
   óssea ou PET/CT;
@@ -136,7 +136,7 @@ Não estão indicados exames de imagem rotineiramente para câncer de mama em es
 
 - Em caso de sintomas neurológicos, sugere-se RM de crânio com contraste.
 
-Em casos de tumores localmente avançados (estádios II e III) ou em pacientes que receberão tratamento neoadjuvante, deve-se realizar estadiamento sistê- mico com:
+Em casos de tumores localmente avançados (estádios II e III) ou em pacientes que receberão tratamento neoadjuvante, deve-se realizar estadiamento sistêmico com:
 
 - Painel laboratorial completo, incluindo FALC;
 
@@ -160,11 +160,11 @@ Além disso, em pacientes com doença localmente avançada, múltiplos linfonodo
 
 Ensaio clínico randomizado demonstrou maior detecção de doença em estádio IV com PET/CT-FDG em comparação ao estadiamento convencional (23% versus 11%; p=0,002), com impacto na estratégia terapêutica.37
 
-O PET/CT-FDG é considerado modalidade preferencial para estadiamento sistê- mico do câncer de mama localmente avançado em guideline da EANM/SNMMI, endossado por ACR, ESSO, ESTRO e EUSOMA.38 Diretrizes como NCCN, ASCO, ESMO e ABC recomendam seu uso como estratégia complementar aos exames convencionais.25,26,38
+O PET/CT-FDG é considerado modalidade preferencial para estadiamento sistêmico do câncer de mama localmente avançado em guideline da EANM/SNMMI, endossado por ACR, ESSO, ESTRO e EUSOMA.38 Diretrizes como NCCN, ASCO, ESMO e ABC recomendam seu uso como estratégia complementar aos exames convencionais.25,26,38
 
 Deve-se considerar menor sensibilidade em tumores lobulares e de baixo grau, além de limitações relacionadas a custo e acessibilidade.26
 
-Em relação ao PET/CT-FES, sua principal indicação hoje é avaliar lesões com expressão de receptor de estrógeno em contexto de câncer de mama metastá- tico. O papel do exame no estadiamento do câncer de mama inicial ainda não está estabelecido, podendo ser considerado em casos selecionados de tumores RE-positivos de baixo grau e/ou histologia lobular NE FRACA/FR FRACA .39
+Em relação ao PET/CT-FES, sua principal indicação hoje é avaliar lesões com expressão de receptor de estrógeno em contexto de câncer de mama metastático. O papel do exame no estadiamento do câncer de mama inicial ainda não está estabelecido, podendo ser considerado em casos selecionados de tumores RE-positivos de baixo grau e/ou histologia lobular NE FRACA/FR FRACA .39
 
 ### Proposta de algoritmo para realização de estadiamento sistêmico com exames de imagem ao diagnóstico de câncer de mama
 
@@ -687,7 +687,7 @@ Para a confirmação diagnóstica, uma core biopsy deve ser o exame de preferên
 ## Cuidados adicionais ao diagnóstico
 ### Preservação de fertilidade
 
-É contraindicado engravidar durante o tratamento oncológico, seja quimioterá- pico, radioterápico, com hormonioterapia ou com drogas-alvo. Recomenda-se coletar teste de beta-HCG para pacientes com potencial fértil antes de iniciar tratamento NE MODERADO/FR FORTE, NCCN .26 O uso de anticoncepcionais hormonais deve ser interrompido e deve-se orientar, preferencialmente, outros métodos de anticoncepção (tal como dispositivo intrauterino e método de barreira).
+É contraindicado engravidar durante o tratamento oncológico, seja quimioterápico, radioterápico, com hormonioterapia ou com drogas-alvo. Recomenda-se coletar teste de beta-HCG para pacientes com potencial fértil antes de iniciar tratamento NE MODERADO/FR FORTE, NCCN .26 O uso de anticoncepcionais hormonais deve ser interrompido e deve-se orientar, preferencialmente, outros métodos de anticoncepção (tal como dispositivo intrauterino e método de barreira).
 
 Mulheres na pré-menopausa, independentemente do estágio da doença, devem ser informadas sobre as opções aprovadas de preservação da fertilidade e, caso haja interesse, encaminhadas para avaliação e aconselhamento com especialista em reprodução antes do início de qualquer terapia NE MODERADO/FR FORTE, NCCN .25,26,39 Essa discussão deve contemplar não apenas as alternativas disponíveis, mas também informações adequadas sobre prognóstico e sobre as potenciais implicações de uma gestação no contexto do tratamento oncológico, incluindo, quando aplicável, a possibilidade de interrupção temporária de terapias em curso. Deve-se esclarecer que, em geral, as estratégias atualmente disponíveis de preservação da fertilidade permitem o início oportuno da quimioterapia, sem atrasos clinicamente relevantes. O uso de análogos do GnRH (GnRHa) concomitantes à QT (neo)adjuvante deve ser oferecido com o objetivo de reduzir o risco de insuficiência ovariana prematura e, potencialmente, preservar a função ovariana e mitigar o impacto sobre a fertilidade NE MODERADO/FR FORTE, NCCN .25,26 Ressalta-se que o GnRHa não substitui métodos estabelecidos de preservação da fertilidade — como a criopreservação de oócitos e/ou embriões —, os quais devem continuar sendo ofertados às pacientes jovens elegíveis. O GnRHa está também indicado para mulheres jovens pré-menopausa durante QT com intuito de redução do risco de insucifiência ovariana/menopausa precoce mesmo em pacientes que não apresentem desejo reprodutivo.40,41 Por fim, a gestação após câncer de mama não deve ser desencorajada, inclusive em pacientes com doença RH-positiva ou com mutação germinativa em BRCA. A gestação, por si só, não aumenta o risco de recorrência, porém a decisão acerca do momento da gestação deve ser individualizada, considerando o estadiamento inicial, a biologia tumoral e o risco/ prognóstico de cada paciente.42
 
@@ -715,7 +715,7 @@ Ao mesmo tempo, é recomendada uma avaliação das axilas com USG NE MODERADO/FR
 
 ### Intervalos assistenciais e tempo até início do tratamento
 
-Em cenários de câncer potencialmente curável, localmente avançado, sintomá- tico ou biologicamente agressivo, atrasos evitáveis entre suspeita diagnóstica, confirmação histopatológica, disponibilidade de biomarcadores críticos, estadiamento, avaliação multidisciplinar e início do tratamento podem comprometer desfechos clínicos, experiência do paciente e eficiência do sistema.
+Em cenários de câncer potencialmente curável, localmente avançado, sintomático ou biologicamente agressivo, atrasos evitáveis entre suspeita diagnóstica, confirmação histopatológica, disponibilidade de biomarcadores críticos, estadiamento, avaliação multidisciplinar e início do tratamento podem comprometer desfechos clínicos, experiência do paciente e eficiência do sistema.
 
 Recomenda-se que os serviços oncológicos organizem fluxos institucionais para reduzir atrasos evitáveis e monitorem esses intervalos como indicadores de qualidade assistencial, incluindo, sempre que aplicável, data do exame índice ou suspeita, data da biópsia, data do laudo anatomopatológico, data dos biomarcadores, data da primeira avaliação especializada, data do estadiamento completo e data de início do tratamento. Estratégias de navegação oncológica, comunicação ativa de resultados críticos e pactuação multidisciplinar de fluxos podem reduzir perda de seguimento e acelerar decisões terapêuticas, sem estimular estadiamento excessivo ou intervenções desnecessárias.
 
@@ -764,11 +764,9 @@ https://svs.aids.gov.br/daent/centrais-de-conteudos/paineis-de-monitoramento/ mo
 16. Ray KM, Price ER, Joe BN. Evidence to Support Screening Women in Their 40s.
 RadiolClin North Am 2017; 55:429–439.
 
-17. Hendrick RE, Pisano ED, Averbukh A, et al. Comparison of acquisition parame-
-ters and breast dose in digital mammography and screen-film mammography in the American.
+17. Hendrick RE, Pisano ED, Averbukh A, et al. Comparison of acquisition parameters and breast dose in digital mammography and screen-film mammography in the American.
 
-18. Arleo EK, Hendrick RE, Helvie MA, Sickles EA. Comparison of recommen-
-dations for screening mammography using CISNET models. Cancer 2017; 123:3673–3680.
+18. Arleo EK, Hendrick RE, Helvie MA, Sickles EA. Comparison of recommendations for screening mammography using CISNET models. Cancer 2017; 123:3673–3680.
 
 19. Monticciolo DL, Hendrick RE, Helvie MA. Outcomes of Breast Cancer
 ScreeningStrategies Based on Cancer Intervention and Surveillance Modeling NetworkEstimates. Radiology 2024; 310(2):e23265.
@@ -831,8 +829,7 @@ breast cancer: Important milestones and perspectives for the future. Eur J Nucl 
 38. Vaz SC, Woll JPP, Cardoso F, Groheux D, Cook GJR, Ulaner GA, et al. Joint
 EANM-SNMMI guideline on the role of 2-[18F]FDG PET/CT in no special type breast cancer : (endorsed by the ACR, ESSO, ESTRO, EUSOBI/ESR, and EUSOMA). Eur J Nucl Med Mol Imaging. 2024 Jul;51(9):2706–32.
 
-39. Paluch-Shimon S, Cardoso F, Partridge AH, Abulkhair O, Azim HA Jr, Bianchi-
-Micheli G, et al. ESO-ESMO fifth international consensus guidelines for breast cancer in young women (BCY5). Ann Oncol. 2022;33(11):1097-1118.
+39. Paluch-Shimon S, Cardoso F, Partridge AH, Abulkhair O, Azim HA Jr, Bianchi-Micheli G, et al. ESO-ESMO fifth international consensus guidelines for breast cancer in young women (BCY5). Ann Oncol. 2022;33(11):1097-1118.
 
 40. Lambertini M, Moore HC, Leonard RCF, Loibl S, Munster P, Bruzzone M, et
 al. Gonadotropin-releasing hormone agonists during chemotherapy for preservation of ovarian function and fertility in premenopausal patients with early breast cancer: a systematic review and meta-analysis of individual patient-level data. J Clin Oncol. 2018;36(19):1981-90.

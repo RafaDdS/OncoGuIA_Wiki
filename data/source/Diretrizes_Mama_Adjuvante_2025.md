@@ -385,12 +385,7 @@ Estudo de fase III demonstrou benefício em SLDi em favor do uso de neratinibe 2
 
 ### Inibidores de osteólise
 
-Ácido Zoledrônico semestral ou anual por 3 a 5 anos, ou denosumabe semestral
-por 5 anos, devem ser considerado como parte de terapia adjuvante endócrina
-para mulheres na pós-menopausa, assim como para as pacientes na pré-meno-
-pausa em tratamento com supressão ovariana NE ALTO/FR FORTE .63 Em adição, suge-
-rimos o acompanhamento com densitometria óssea anual ou bianual, devendo-se
-a primeira ser feita antes do início da terapia endócrina e seguir a cada 1-2 anos.
+Ácido Zoledrônico semestral ou anual por 3 a 5 anos, ou denosumabe semestral por 5 anos, devem ser considerado como parte de terapia adjuvante endócrina para mulheres na pós-menopausa, assim como para as pacientes na pré-menopausa em tratamento com supressão ovariana NE ALTO/FR FORTE .63 Em adição, sugerimos o acompanhamento com densitometria óssea anual ou bianual, devendo-se a primeira ser feita antes do início da terapia endócrina e seguir a cada 1-2 anos.
 
 #### Considerações e bases científicas para recomendações
 
@@ -402,21 +397,16 @@ O uso de denosumabe semestral na dose de 60 mg por 5 anos também mostrou benef�
 
 ### Carcinoma ductal in situ (incluindo casos com microinvasão – nenhum foco > 1 mm)
 
-O tratamento padrão é a ressecção cirúrgica completa, seja cirurgia conserva-
-dora seguida de RT da mama total ou mastectomia NE ALTO/FR FORTE .
+O tratamento padrão é a ressecção cirúrgica completa, seja cirurgia conservadora seguida de RT da mama total ou mastectomia NE ALTO/FR FORTE .
 
 Caso seja realizada cirurgia conservadora e RT complementar, 2 mm de margens
 são necessários NE MODERADO/FR FORTE .
 
 Habitualmente não se faz necessário a pesquisa de LFN sentinela no carcinoma
 ductal in situ da mama, podendo ser considerada em pacientes com tumores
-de alto grau e/ou volumosos, especialmente quando submetidos a mastec-
-tomia NE MUITO BAIXO/FR FRACA .
+de alto grau e/ou volumosos, especialmente quando submetidos a mastectomia NE MUITO BAIXO/FR FRACA .
 
-Tamoxifeno 20 mg/dia por 5 anos ou 5 mg/dia por 3 anos (pré- ou pós-meno-
-pausa) ou Anastrazol 1 mg/dia (apenas na pós-menopausa) por total de 5 anos
-estão indicados para tumores in situ de mama que expressam RH e que não
-foram submetidas a mastectomia bilateral NE ALTO/FR FORTE .
+Tamoxifeno 20 mg/dia por 5 anos ou 5 mg/dia por 3 anos (pré- ou pós-menopausa) ou Anastrazol 1 mg/dia (apenas na pós-menopausa) por total de 5 anos estão indicados para tumores in situ de mama que expressam RH e que não foram submetidas a mastectomia bilateral NE ALTO/FR FORTE .
 
 Não se deve oferecer terapia anti-HER2 para pacientes submetidas a cirurgia para
 carcinoma in situ que apresentem hiperexpressão de HER2 NE MODERADO/FR FRACA .
@@ -433,7 +423,7 @@ Oncologistas e equipe multidisciplinar devem recomendar exercícios aeróbicos e
 
 Em relação à dieta, não há evidências suficientes para recomendar a favor ou contra intervenções dietéticas, como dietas cetogênicas ou com baixo teor de carboidratos, dietas com baixo teor de gordura, alimentos funcionais ou jejum para melhorar os resultados relacionados à qualidade de vida, toxicidade do tratamento ou controle do câncer.72
 
-## Seguimento
+## Seguimento73
 
 História clínica e exame físico:
 A cada 3-6 meses nos primeiros 3 anos, depois a cada 6-12 meses nos 2 anos subsequentes e anualmente após.
@@ -480,8 +470,7 @@ of the Cancer Care Ontario Guideline. J Clin Oncol. 2019 Aug 1;37(22):1965–77.
 
 5. Dowsett M, Cuzick J, Wale C, Forbes J, Mallon EA, Salter J, et al. Prediction of
 risk of distant recurrence using the 21-gene recurrence score in node-negative and
-node-positive postmenopausal patients with breast cancer treated with anastro-
-zole or tamoxifen: a TransATAC study. J Clin Oncol. 2010 Apr 10;28(11):1829–34.
+node-positive postmenopausal patients with breast cancer treated with anastrozole or tamoxifen: a TransATAC study. J Clin Oncol. 2010 Apr 10;28(11):1829–34.
 
 6. Paik S, Tang G, Shak S, Kim C, Baker J, Kim W, et al. Gene expression and benefit
 of chemotherapy in women with node-negative, estrogen receptor-positive breast
@@ -496,15 +485,13 @@ as predictor of chemotherapy benefit in HER2-negative breast cancer. NPJ Breast
 Cancer. 2018;4:37.
 
 9. Kalinsky K, Barlow WE, Meric-Bernstam F, Gralow JR, Albain KS, Hayes D, et al.
-Abstract GS3-00: First results from a phase III randomized clinical trial of stan-
-dard adjuvant endocrine therapy (ET) +/- chemotherapy (CT) in patients (pts) with
+Abstract GS3-00: First results from a phase III randomized clinical trial of standard adjuvant endocrine therapy (ET) +/- chemotherapy (CT) in patients (pts) with
 1-3 positive nodes, hormone receptor-positive (HR+) and HER2-negative (HER2-)
 breast cancer (BC) with recurrence score (RS) &lt; 25: SWOG S1007 (RxPonder).
 Cancer Res. 2021 Feb 15;81(4 Supplement):GS3-GS3-00.
 
 10. Sparano JA, Crager MR, Tang G, Gray RJ, Stemmer SM, Shak S. Development
-and Validation of a Tool Integrating the 21-Gene Recurrence Score and Clinical-
-Pathological Features to Individualize Prognosis and Prediction of Chemotherapy
+and Validation of a Tool Integrating the 21-Gene Recurrence Score and Clinical-Pathological Features to Individualize Prognosis and Prediction of Chemotherapy
 Benefit in Early Breast Cancer. J Clin Oncol. 2021 Feb 20;39(6):557–64.
 
 11. Knauer M, Mook S, Rutgers EJT, Bender RA, Hauptmann M, van de Vijver MJ,
@@ -512,8 +499,7 @@ et al. The predictive value of the 70-gene signature for adjuvant chemotherapy i
 early breast cancer. Breast Cancer Res Treat. 2010 Apr;120(3):655–61.
 
 12. Drukker CA, Bueno-de-Mesquita JM, Retèl VP, van Harten WH, van Tinteren H,
-Wesseling J, et al. A prospective evaluation of a breast cancer prognosis signa-
-ture in the observational RASTER study. Int J Cancer. 2013 Aug 15;133(4):929–36.
+Wesseling J, et al. A prospective evaluation of a breast cancer prognosis signature in the observational RASTER study. Int J Cancer. 2013 Aug 15;133(4):929–36.
 
 13. Cardoso F, van’t Veer LJ, Bogaerts J, Slaets L, Viale G, Delaloge S, et al. 70-Gene
 Signature as an Aid to Treatment Decisions in Early-Stage Breast Cancer. N Engl J
@@ -534,15 +520,12 @@ Oncotype Dx recurrence score (RS) from clinicopathologic factors. Cancer Res.
 2019 Feb 15;79(4 Supplement):P2-07-11-P2-07–11.
 
 17. Vaz-Luis I, Barroso-Sousa R, Di Meglio A, Hu J, Rees R, Sinclair N, et al.
-Avoiding Peg-Filgrastim Prophylaxis During the Paclitaxel Portion of the Dose-
-Dense Doxorubicin-Cyclophosphamide and Paclitaxel Regimen: A Prospective
+Avoiding Peg-Filgrastim Prophylaxis During the Paclitaxel Portion of the Dose-Dense Doxorubicin-Cyclophosphamide and Paclitaxel Regimen: A Prospective
 Study. J Clin Oncol. 2020 Jul 20;38(21):2390–7.
 
 18. Fisher B, Brown AM, Dimitrov NV, Poisson R, Redmond C, Margolese RG, et
-al. Two months of doxorubicin-cyclophosphamide with and without interval rein-
-duction therapy compared with 6 months of cyclophosphamide, methotrexate,
-and fluorouracil in positive-node breast cancer patients with tamoxifen-nonres-
-ponsive tumors: results from the National Surgical Adjuvant Breast and Bowel
+al. Two months of doxorubicin-cyclophosphamide with and without interval reinduction therapy compared with 6 months of cyclophosphamide, methotrexate,
+and fluorouracil in positive-node breast cancer patients with tamoxifen-nonresponsive tumors: results from the National Surgical Adjuvant Breast and Bowel
 Project B-15. J Clin Oncol. 1990 Sep 1;8(9):1483–96.
 
 19. Jones S, Holmes FA, O’Shaughnessy J, Blum JL, Vukelja SJ, McIntyre KJ, et al.
@@ -551,8 +534,7 @@ Compared With Doxorubicin and Cyclophosphamide: 7-Year Follow-Up of US
 Oncology Research Trial 9735. J Clin Oncol. 2009 Mar 10;27(8):1177–83.
 
 20. Mamounas EP, Bryant J, Lembersky B, Fehrenbacher L, Sedlacek SM, Fisher B,
-et al. Paclitaxel after doxorubicin plus cyclophosphamide as adjuvant chemothe-
-rapy for node-positive breast cancer: results from NSABP B-28. J Clin Oncol. 2005
+et al. Paclitaxel after doxorubicin plus cyclophosphamide as adjuvant chemotherapy for node-positive breast cancer: results from NSABP B-28. J Clin Oncol. 2005
 Jun 1;23(16):3686–96.
 
 21. Henderson IC, Berry DA, Demetri GD, Cirrincione CT, Goldstein LJ, Martino S, et
@@ -595,8 +577,7 @@ early-stage breast cancer: an open-label, 2 × 2 factorial, randomised phase 3 t
 Lancet. 2015 May 9;385(9980):1863–72.
 
 29. Baek SY, Noh WC, Ahn SH, Kim HA, Ryu JM, Kim SI, et al. Adding Ovarian
-Suppression to Tamoxifen for Premenopausal Women With Hormone Receptor-
-Positive Breast Cancer After Chemotherapy: An 8-Year Follow-Up of the ASTRRA
+Suppression to Tamoxifen for Premenopausal Women With Hormone Receptor-Positive Breast Cancer After Chemotherapy: An 8-Year Follow-Up of the ASTRRA
 Trial. J Clin Oncol. 2023 Nov 1;41(31):4864–71.
 
 30. Breast International Group (BIG) 1-98 Collaborative Group, Thürlimann B,
@@ -642,8 +623,7 @@ cancer: updated efficacy and Ki-67 analysis from the monarchE study. Ann Oncol.
 
 38. Davies C, Pan H, Godwin J, Gray R, Arriagada R, Raina V, et al. Long-term
 effects of continuing adjuvant tamoxifen to 10 years versus stopping at 5 years
-after diagnosis of oestrogen receptor-positive breast cancer: ATLAS, a rando-
-mised trial. Lancet. 2013 Mar 9;381(9869):805–16.
+after diagnosis of oestrogen receptor-positive breast cancer: ATLAS, a randomised trial. Lancet. 2013 Mar 9;381(9869):805–16.
 
 39. Gray DR, University of Oxford O, University of Birmingham B, AO Foundation
 Z, NIHR Cambridge Biomedical Research Centre C, Department of Medical
@@ -682,8 +662,7 @@ and 15-year survival: an overview of the randomised trials. Lancet. 2005 May
 
 46. Gnant M, Steger G, Greil R, Fitzal F, Mlineritsch B, Manfreda D, et al. Abstract
 GS3-01: A prospective randomized multi-center phase-III trial of additional 2
-versus additional 5 years of anastrozole after initial 5 years of adjuvant endo-
-crine therapy – results from 3,484 postmenopausal women in the ABCSG-16 trial.
+versus additional 5 years of anastrozole after initial 5 years of adjuvant endocrine therapy – results from 3,484 postmenopausal women in the ABCSG-16 trial.
 Cancer Res. 2018 Feb 15;78(4 Supplement):GS3-01-GS3-01.
 
 47. Jin H, Tu D, Zhao N, Shepherd LE, Goss PE. Longer-term outcomes of letrozole
@@ -704,8 +683,7 @@ pathogenic variants in BRCA1/2 and high-risk, early breast cancer. Ann Oncol.
 2022 Dec;33(12):1250–68.
 
 51. Schmid P, Cortes J, Pusztai L, McArthur H, Kümmel S, Bergh J, et al.
-Pembrolizumab for Early Triple-Negative Breast Cancer. N Engl J Med. 27 de feve-
-reiro de 2020;382(9):810–21.
+Pembrolizumab for Early Triple-Negative Breast Cancer. N Engl J Med. 27 de fevereiro de 2020;382(9):810–21.
 
 52. Slamon D, Eiermann W, Robert N, Pienkowski T, Martin M, Press M, et al.
 Adjuvant trastuzumab in HER2-positive breast cancer. N Engl J Med. 2011 Oct
@@ -722,8 +700,7 @@ Concomitant Chemotherapy for Early Human Epidermal Growth Factor Receptor
 01;4(9):1199–206.
 
 55. Conte P, Frassoldati A, Bisagni G, Brandes AA, Donadio M, Garrone O, et al.
-Nine weeks versus 1 year adjuvant trastuzumab in combination with chemothe-
-rapy: final results of the phase III randomized Short-HER study‡. Ann Oncol. 2018
+Nine weeks versus 1 year adjuvant trastuzumab in combination with chemotherapy: final results of the phase III randomized Short-HER study‡. Ann Oncol. 2018
 01;29(12):2328–33.
 
 56. Pivot X, Romieu G, Debled M, Pierga JY, Kerbrat P, Bachelot T, et al. 6 months
@@ -741,9 +718,7 @@ G, et al. Adjuvant Pertuzumab and Trastuzumab in Early HER2-Positive Breast
 Cancer. N Engl J Med. 2017 Jul 13;377(2):122–31.
 
 59. Piccart M, Procter M, Fumagalli D, Azambuja E de, Clark E, Ewer MS, et al.
-Abstract GS1-04: Interim overall survival analysis of APHINITY (BIG 4-11): A ran-
-domized multicenter, double-blind, placebo-controlled trial comparing chemothe-
-rapy plus trastuzumab plus pertuzumab versus chemotherapy plus trastuzumab
+Abstract GS1-04: Interim overall survival analysis of APHINITY (BIG 4-11): A randomized multicenter, double-blind, placebo-controlled trial comparing chemotherapy plus trastuzumab plus pertuzumab versus chemotherapy plus trastuzumab
 plus placebo as adjuvant therapy in patients with operable HER2-positive early
 breast cancer. Cancer Res. 2020 Feb 15;80(4 Supplement):GS1-04-GS1-04.
 
@@ -766,8 +741,7 @@ versus anastrozol plus ovarian function suppression in premenopausal early
 breast cancer: final analysis of the Austrian Breast and Colorectal Cancer Study
 Group Trial 12. Ann Oncol. 2015 Feb;26(2):313–20.
 
-64. Adjuvant bisphosphonate treatment in early breast cancer: meta-a-
-nalyses of individual patient data from randomised trials. Lancet. 2015 Oct
+64. Adjuvant bisphosphonate treatment in early breast cancer: meta-analyses of individual patient data from randomised trials. Lancet. 2015 Oct
 3;386(10001):1353–61.
 
 65. Dhesy-Thind S, Fletcher GG, Blanchette PS, Clemons MJ, Dillmon MS, Frank
@@ -775,14 +749,11 @@ ES, et al. Use of Adjuvant Bisphosphonates and Other Bone-Modifying Agents in
 Breast Cancer: A Cancer Care Ontario and American Society of Clinical Oncology
 Clinical Practice Guideline. J Clin Oncol. 2017 Jun 20;35(18):2062–81.
 
-66. Gnant M, Pfeiler G, Steger GG, Egle D, Greil R, Fitzal F, et al. Adjuvant deno-
-sumab in postmenopausal patients with hormone receptor-positive breast cancer
-(ABCSG-18): disease-free survival results from a randomised, double-blind, pla-
-cebo-controlled, phase 3 trial. Lancet Oncol. º de março de 2019;20(3):339–51.
+66. Gnant M, Pfeiler G, Steger GG, Egle D, Greil R, Fitzal F, et al. Adjuvant denosumab in postmenopausal patients with hormone receptor-positive breast cancer
+(ABCSG-18): disease-free survival results from a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet Oncol. º de março de 2019;20(3):339–51.
 
 67. Morrow M, Van Zee KJ, Solin LJ, Houssami N, Chavez-MacGregor M, Harris
-JR, et al. Society of Surgical Oncology-American Society for Radiation Oncology-
-American Society of Clinical Oncology Consensus Guideline on Margins for
+JR, et al. Society of Surgical Oncology-American Society for Radiation Oncology-American Society of Clinical Oncology Consensus Guideline on Margins for
 Breast-Conserving Surgery With Whole-Breast Irradiation in Ductal Carcinoma in
 Situ. Pract Radiat Oncol. 2016 Oct;6(5):287–95.
 

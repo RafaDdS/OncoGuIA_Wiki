@@ -709,11 +709,9 @@ https://svs.aids.gov.br/daent/centrais-de-conteudos/paineis-de-monitoramento/ mo
 16. Ray KM, Price ER, Joe BN. Evidence to Support Screening Women in Their 40s.
 RadiolClin North Am 2017; 55:429–439.
 
-17. Hendrick RE, Pisano ED, Averbukh A, et al. Comparison of acquisition parame-
-ters and breast dose in digital mammography and screen-film mammography in the American
+17. Hendrick RE, Pisano ED, Averbukh A, et al. Comparison of acquisition parameters and breast dose in digital mammography and screen-film mammography in the American
 
-18. Arleo EK, Hendrick RE, Helvie MA, Sickles EA. Comparison of recommen-
-dations for screening mammography using CISNET models. Cancer 2017; 123:3673–3680.
+18. Arleo EK, Hendrick RE, Helvie MA, Sickles EA. Comparison of recommendations for screening mammography using CISNET models. Cancer 2017; 123:3673–3680.
 
 19. Monticciolo DL, Hendrick RE, Helvie MA. Outcomes of Breast Cancer
 ScreeningStrategies Based on Cancer Intervention and Surveillance Modeling NetworkEstimates. Radiology 2024; 310(2):e23265
@@ -758,8 +756,7 @@ staging imaging for distant metastasis in women with stages I, II, and III breas
 Subgroup analysis of molecular subtypes and prognosis. Oncol Lett. 2020 Apr;19(4):2884–94.
 
 33. Thavorn K, Wang Z, Fergusson D, van Katwyk S, Arnaout A, Clemons M. Cost
-implications of unwarranted imaging for distant metastasis in women with early-
--stage breast cancer in Ontario. Curr Oncol. 2016 Feb;23(Suppl 1):S52-55.
+implications of unwarranted imaging for distant metastasis in women with early-stage breast cancer in Ontario. Curr Oncol. 2016 Feb;23(Suppl 1):S52-55.
 
 34. Schnipper LE, Smith TJ, Raghavan D, Blayney DW, Ganz PA, Mulvey TM, et al.
 American Society of Clinical Oncology identifies five key opportunities to improve care and reduce costs: the top five list for oncology. J Clin Oncol. 2012 May 10;30(14):1715–24.

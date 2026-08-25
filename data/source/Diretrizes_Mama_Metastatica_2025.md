@@ -479,8 +479,7 @@ PD2-04: Updated overall survival (OS) results from the phase III MONALEESA-7 tri
 13. Cruz M, Reinert T, Cristofanilli M. Emerging Innovative Therapeutic Approaches
 Leveraging Cyclin-Dependent Kinase Inhibitors to Treat Advanced Breast Cancer. Clin Pharmacol Ther. 2018;103(6):1009–19.
 
-14. Llombart-Cussac A, Pérez-García JM, Bellet M, Dalenc F, Gil-Gil M, Ruíz-
-Borrego M, et al. Fulvestrant-Palbociclib vs Letrozole-Palbociclib as Initial Therapy for Endocrine-Sensitive, Hormone Receptor–Positive, ERBB2-Negative Advanced Breast Cancer: A Randomized Clinical Trial. JAMA Oncology. º de dezembro de 2021;7(12):1791–9.
+14. Llombart-Cussac A, Pérez-García JM, Bellet M, Dalenc F, Gil-Gil M, Ruíz-Borrego M, et al. Fulvestrant-Palbociclib vs Letrozole-Palbociclib as Initial Therapy for Endocrine-Sensitive, Hormone Receptor–Positive, ERBB2-Negative Advanced Breast Cancer: A Randomized Clinical Trial. JAMA Oncology. º de dezembro de 2021;7(12):1791–9.
 
 15. Sonke GS, van Ommen-Nijhof A, Wortelboer N, van der Noort V, Swinkels
 ACP, Blommestein HM, et al. Early versus deferred use of CDK4/6 inhibitors in advanced breast cancer. Nature. dezembro de 2024;636(8042):474–80.
@@ -516,13 +515,12 @@ al. Capivasertib in Hormone Receptor-Positive Advanced Breast Cancer. N Engl J M
 Abemaciclib plus fulvestrant vs fulvestrant alone for HR+, HER2-advanced breast cancer following progression on a prior CDK4/6 inhibitor plus endocrine therapy: Primary outcome of the phase 3 postMONARCH trial. J Clin Oncol. 10 de junho de 2024;42(17_suppl):LBA1001–LBA1001.
 
 26. Kalinsky K, Accordino MK, Chiuzan C, Mundi PS, Sakach E, Sathe C, et al.
-Randomized Phase II Trial of Endocrine Therapy With or Without Ribociclib After Progression on Cyclin-Dependent Kinase 4/6 Inhibition in Hormone Receptor- Positive, Human Epidermal Growth Factor Receptor 2-Negative Metastatic Breast Cancer: MAINTAIN Trial. J Clin Oncol. 20 de agosto de 2023;41(24):4004–13.
+Randomized Phase II Trial of Endocrine Therapy With or Without Ribociclib After Progression on Cyclin-Dependent Kinase 4/6 Inhibition in Hormone Receptor-Positive, Human Epidermal Growth Factor Receptor 2-Negative Metastatic Breast Cancer: MAINTAIN Trial. J Clin Oncol. 20 de agosto de 2023;41(24):4004–13.
 
 27. Robson M, Im SA, Senkus E, Xu B, Domchek SM, Masuda N, et al. Olaparib for
 Metastatic Breast Cancer in Patients with a Germline BRCA Mutation. N Engl J Med. 10 de agosto de 2017;377(6):523–33.
 
-28. Robson ME, Tung N, Conte P, Im SA, Senkus E, Xu B, et al. OlympiAD final ove-
-rall survival and tolerability results: Olaparib versus chemotherapy treatment of physician’s choice in patients with a germline BRCA mutation and HER2-negative metastatic breast cancer. Ann Oncol. º de abril de 2019;30(4):558–66.
+28. Robson ME, Tung N, Conte P, Im SA, Senkus E, Xu B, et al. OlympiAD final overall survival and tolerability results: Olaparib versus chemotherapy treatment of physician’s choice in patients with a germline BRCA mutation and HER2-negative metastatic breast cancer. Ann Oncol. º de abril de 2019;30(4):558–66.
 
 29. Litton JK, Rugo HS, Ettl J, Hurvitz SA, Gonçalves A, Lee KH, et al. Talazoparib
 in Patients with Advanced Breast Cancer and a Germline BRCA Mutation. N Engl J Med. 23 de agosto de 2018;379(8):753–63.
@@ -540,8 +538,7 @@ Deruxtecan in Previously Treated HER2-Low Advanced Breast Cancer. N Engl J Med. 
 Trastuzumab deruxtecan (T-DXd) vs physician’s choice of chemotherapy (TPC) in patients (pts) with hormone receptor-positive (HR+), human epidermal growth factor receptor 2 (HER2)-low or HER2-ultralow metastatic breast cancer (mBC) with prior endocrine therapy (ET): Primary results from DESTINY-Breast06 (DB-
 06). J Clin Oncol. 10 de junho de 2024;42(17_suppl):LBA1000–LBA1000.
 
-34. Rugo HS, Bardia A, Marmé F, Cortés J, Schmid P, Loirat D, et al. Overall sur-
-vival with sacituzumab govitecan in hormone receptor-positive and human epi- dermal growth factor receptor 2-negative metastatic breast cancer (TROPiCS-02): a randomised, open-label, multicentre, phase 3 trial. Lancet. 21 de outubro de 2023;402(10411):1423–33.
+34. Rugo HS, Bardia A, Marmé F, Cortés J, Schmid P, Loirat D, et al. Overall survival with sacituzumab govitecan in hormone receptor-positive and human epidermal growth factor receptor 2-negative metastatic breast cancer (TROPiCS-02): a randomised, open-label, multicentre, phase 3 trial. Lancet. 21 de outubro de 2023;402(10411):1423–33.
 
 35. Baselga J, Cortés J, Kim SB, Im SA, Hegg R, Im YH, et al. Pertuzumab plus
 Trastuzumab plus Docetaxel for Metastatic Breast Cancer. N Engl J Med. 12 de janeiro de 2012;366(2):109–19.
@@ -602,7 +599,7 @@ Therapy or Chemotherapy as First-line Treatment for Patients with Hormone Recept
 5th ESO-ESMO international consensus guidelines for advanced breast cancer (ABC 5). Ann Oncol. dezembro de 2020;31(12):1623–49.
 
 54. O’Brien MER, Wigler N, Inbar M, Rosso R, Grischke E, Santoro A, et al. Reduced
-cardiotoxicity and comparable efficacy in a phase III trial of pegylated liposomal doxorubicin HCl (CAELYX/Doxil) versus conventional doxorubicin for first-line tre- atment of metastatic breast cancer. Ann Oncol. março de 2004;15(3):440–9.
+cardiotoxicity and comparable efficacy in a phase III trial of pegylated liposomal doxorubicin HCl (CAELYX/Doxil) versus conventional doxorubicin for first-line treatment of metastatic breast cancer. Ann Oncol. março de 2004;15(3):440–9.
 
 55. Sparano JA, Zhao F, Martino S, Ligibel JA, Perez EA, Saphner T, et al. Long-Term
 Follow-Up of the E1199 Phase III Trial Evaluating the Role of Taxane and Schedule in Operable Breast Cancer. J Clin Oncol. 20 de julho de 2015;33(21):2353–60.
@@ -614,7 +611,7 @@ plus bevacizumab versus paclitaxel alone for metastatic breast cancer. N Engl J 
 Randomized, open-label, phase II trial of oral capecitabine (Xeloda) vs. a reference arm of intravenous CMF (cyclophosphamide, methotrexate and 5-fluorouracil) as first-line therapy for advanced/metastatic breast cancer. Ann Oncol. setembro de 2001;12(9):1247–54.
 
 58. Stockler MR, Harvey VJ, Francis PA, Byrne MJ, Ackland SP, Fitzharris B, et
-al. Capecitabine versus classical cyclophosphamide, methotrexate, and fluorou- racil as first-line chemotherapy for advanced breast cancer. J Clin Oncol. º de dezembro de 2011;29(34):4498–504.
+al. Capecitabine versus classical cyclophosphamide, methotrexate, and fluorouracil as first-line chemotherapy for advanced breast cancer. J Clin Oncol. º de dezembro de 2011;29(34):4498–504.
 
 59. Cortes J, O’Shaughnessy J, Loesch D, Blum JL, Vahdat LT, Petrakova K, et
 al. Eribulin monotherapy versus treatment of physician’s choice in patients with metastatic breast cancer (EMBRACE): a phase 3 open-label randomised study. Lancet. 12 de março de 2011;377(9769):914–23.

@@ -73,7 +73,7 @@ A ressonância magnética (RM) de encéfalo está indicada em pacientes com sint
 
 Na prática clínica, a biópsia de um sítio metastático deve ser considerada em algumas situações específicas. A primeira ocorre quando não há confirmação histológica prévia e a paciente se apresenta inicialmente com doença avançada. Nesses casos, a biópsia permite estabelecer o diagnóstico definitivo. Outro cenário relevante corresponde à primeira manifestação de doença metastática em pacientes previamente tratadas por doença localizada, quando a confirmação histológica pode influenciar a definição da estratégia terapêutica. A avaliação imunohistoquímica (IHQ) em lesões metastáticas deve ser considerada, uma vez que alterações na expressão de receptores hormonais ou de HER2 podem ocorrer ao longo
 
-da evolução da doença e podem motivar mudanças na abordagem terapêutica. Entretanto, os dados disponíveis até o momento sugerem que essas alterações nem sempre se traduzem em benefício clínico significativo, não havendo evidência consistente de impacto em sobrevida livre de progressão ou sobrevida global.1 A biópsia de lesões metastáticas também pode ser considerada com o objetivo de avaliar o perfil molecular da doença e orientar terapias subsequentes. Esse cenário permanece, em grande parte, exploratório, devendo ser discutido individualmente com cada paciente. Por fim, na pesquisa clínica, a obtenção de biópsias de sítios metastáticos pode constituir parte essencial dos protocolos de estudo. A análise molecular dessas amostras permite investigar mecanismos de resistência aos tratamentos e contribui para o desenvolvimento de estraté- gias terapêuticas mais individualizadas. As biópsias líquidas, baseadas na detecção de alterações no DNA tumoral circulante (ctDNA), representam uma abordagem promissora para o monitoramento molecular da doença e podem ampliar as possibilidades de personalização terapêutica.
+da evolução da doença e podem motivar mudanças na abordagem terapêutica. Entretanto, os dados disponíveis até o momento sugerem que essas alterações nem sempre se traduzem em benefício clínico significativo, não havendo evidência consistente de impacto em sobrevida livre de progressão ou sobrevida global.1 A biópsia de lesões metastáticas também pode ser considerada com o objetivo de avaliar o perfil molecular da doença e orientar terapias subsequentes. Esse cenário permanece, em grande parte, exploratório, devendo ser discutido individualmente com cada paciente. Por fim, na pesquisa clínica, a obtenção de biópsias de sítios metastáticos pode constituir parte essencial dos protocolos de estudo. A análise molecular dessas amostras permite investigar mecanismos de resistência aos tratamentos e contribui para o desenvolvimento de estratégias terapêuticas mais individualizadas. As biópsias líquidas, baseadas na detecção de alterações no DNA tumoral circulante (ctDNA), representam uma abordagem promissora para o monitoramento molecular da doença e podem ampliar as possibilidades de personalização terapêutica.
 
 ## Tratamento
 ### Fatores que influenciam na decisão do tratamento
@@ -501,8 +501,7 @@ PD2-04: Updated overall survival (OS) results from the phase III MONALEESA-7 tri
 13. Cruz M, Reinert T, Cristofanilli M. Emerging Innovative Therapeutic Approaches
 Leveraging Cyclin-Dependent Kinase Inhibitors to Treat Advanced Breast Cancer. Clin Pharmacol Ther. 2018;103(6):1009–19.
 
-14. Llombart-Cussac A, Pérez-García JM, Bellet M, Dalenc F, Gil-Gil M, Ruíz-
-Borrego M, et al. Fulvestrant-Palbociclib vs Letrozole-Palbociclib as Initial Therapy for Endocrine-Sensitive, Hormone Receptor–Positive, ERBB2-Negative Advanced Breast Cancer: A Randomized Clinical Trial. JAMA Oncology. º de dezembro de 2021;7(12):1791–9.
+14. Llombart-Cussac A, Pérez-García JM, Bellet M, Dalenc F, Gil-Gil M, Ruíz-Borrego M, et al. Fulvestrant-Palbociclib vs Letrozole-Palbociclib as Initial Therapy for Endocrine-Sensitive, Hormone Receptor–Positive, ERBB2-Negative Advanced Breast Cancer: A Randomized Clinical Trial. JAMA Oncology. º de dezembro de 2021;7(12):1791–9.
 
 15. Sonke GS, van Ommen-Nijhof A, Wortelboer N, van der Noort V, Swinkels
 ACP, Blommestein HM, et al. Early versus deferred use of CDK4/6 inhibitors in advanced breast cancer. Nature. dezembro de 2024;636(8042):474–80.
@@ -510,8 +509,7 @@ ACP, Blommestein HM, et al. Early versus deferred use of CDK4/6 inhibitors in ad
 16. Turner NC, Im SA, Saura C, et al. Inavolisib-based therapy in PIK3CA-mutated
 advanced breast cancer. N Engl J Med. 2024;391(17):1584–1596.
 
-17. Jhaveri KL, Im SA, Saura C, et al. Overall survival with inavolisib in PIK3CA-
-mutated advanced breast cancer. N Engl J Med. 2025;393(2):151–161.
+17. Jhaveri KL, Im SA, Saura C, et al. Overall survival with inavolisib in PIK3CA mutated advanced breast cancer. N Engl J Med. 2025;393(2):151–161.
 
 18. Sledge GW, Toi M, Neven P, Sohn J, Inoue K, Pivot X, et al. The Effect of
 Abemaciclib Plus Fulvestrant on Overall Survival in Hormone Receptor-Positive, ERBB2-Negative Breast Cancer That Progressed on Endocrine Therapy-MONARCH 2: A Randomized Clinical Trial. JAMA Oncol. 29 de setembro de 2019.
@@ -549,8 +547,7 @@ Randomized Phase II Trial of Endocrine Therapy With or Without Ribociclib After 
 29. Robson M, Im SA, Senkus E, Xu B, Domchek SM, Masuda N, et al. Olaparib for
 Metastatic Breast Cancer in Patients with a Germline BRCA Mutation. N Engl J Med. 10 de agosto de 2017;377(6):523–33.
 
-30. Robson ME, Tung N, Conte P, Im SA, Senkus E, Xu B, et al. OlympiAD final ove-
-rall survival and tolerability results: Olaparib versus chemotherapy treatment of physician’s choice in patients with a germline BRCA mutation and HER2-negative metastatic breast cancer. Ann Oncol. º de abril de 2019;30(4):558–66.
+30. Robson ME, Tung N, Conte P, Im SA, Senkus E, Xu B, et al. OlympiAD final overall survival and tolerability results: Olaparib versus chemotherapy treatment of physician’s choice in patients with a germline BRCA mutation and HER2-negative metastatic breast cancer. Ann Oncol. º de abril de 2019;30(4):558–66.
 
 31. Litton JK, Rugo HS, Ettl J, Hurvitz SA, Gonçalves A, Lee KH, et al. Talazoparib
 in Patients with Advanced Breast Cancer and a Germline BRCA Mutation. N Engl J Med. 23 de agosto de 2018;379(8):753–63.
@@ -561,11 +558,9 @@ TBCRC 048: Phase II Study of Olaparib for Metastatic Breast Cancer and Mutations
 33. Bidard FC, Kaklamani VG, Neven P, Streich G, Montero AJ, Forget F, et al.
 Elacestrant (oral selective estrogen receptor degrader) Versus Standard Endocrine Therapy for Estrogen Receptor-Positive, Human Epidermal Growth Factor Receptor 2-Negative Advanced Breast Cancer: Results From the Randomized Phase III EMERALD Trial. J Clin Oncol. º de outubro de 2022;40(28):3246–56.
 
-34. Jhaveri KL, Neven P, Casalnuovo ML, et al. Imlunestrant with or without abema-
-ciclib in advanced breast cancer. N Engl J Med. 2025 Mar 27;392(12):1189-1202
+34. Jhaveri KL, Neven P, Casalnuovo ML, et al. Imlunestrant with or without abemaciclib in advanced breast cancer. N Engl J Med. 2025 Mar 27;392(12):1189-1202
 
-35. Jhaveri KL, Neven P, Casalnuovo ML, et al. Imlunestrant with or without abe-
-maciclib in advanced breast cancer: updated efficacy results from the phase III EMBER-3 trial. Ann Oncol. 2026 Apr;37(4):532-543
+35. Jhaveri KL, Neven P, Casalnuovo ML, et al. Imlunestrant with or without abemaciclib in advanced breast cancer: updated efficacy results from the phase III EMBER-3 trial. Ann Oncol. 2026 Apr;37(4):532-543
 
 36. Modi S, Jacot W, Yamashita T, Sohn J, Vidal M, Tokunaga E, et al. Trastuzumab
 Deruxtecan in Previously Treated HER2-Low Advanced Breast Cancer. N Engl J Med. 7 de julho de 2022;387(1):9–20.
@@ -574,8 +569,7 @@ Deruxtecan in Previously Treated HER2-Low Advanced Breast Cancer. N Engl J Med. 
 Trastuzumab deruxtecan (T-DXd) vs physician’s choice of chemotherapy (TPC) in patients (pts) with hormone receptor-positive (HR+), human epidermal growth factor receptor 2 (HER2)-low or HER2-ultralow metastatic breast cancer (mBC) with prior endocrine therapy (ET): Primary results from DESTINY-Breast06 (DB-
 06). J Clin Oncol. 10 de junho de 2024;42(17_suppl):LBA1000–LBA1000.
 
-38. Rugo HS, Bardia A, Marmé F, Cortés J, Schmid P, Loirat D, et al. Overall sur-
-vival with sacituzumab govitecan in hormone receptor-positive and human epidermal growth factor receptor 2-negative metastatic breast cancer (TROPiCS-02): a randomised, open-label, multicentre, phase 3 trial. Lancet. 21 de outubro de 2023;402(10411):1423–33.
+38. Rugo HS, Bardia A, Marmé F, Cortés J, Schmid P, Loirat D, et al. Overall survival with sacituzumab govitecan in hormone receptor-positive and human epidermal growth factor receptor 2-negative metastatic breast cancer (TROPiCS-02): a randomised, open-label, multicentre, phase 3 trial. Lancet. 21 de outubro de 2023;402(10411):1423–33.
 
 39. Bardia A, Jhaveri K, Im SA, Pernas S, De Laurentiis M, Wang S, et al. Datopotamab
 Deruxtecan Versus Chemotherapy in Previously Treated Inoperable/Metastatic Hormone Receptor-Positive Human Epidermal Growth Factor Receptor 2-Negative Breast Cancer: Primary Results From TROPION-Breast01. J Clin Oncol. 2025 Jan 20;43(3):285–96.
@@ -689,8 +683,7 @@ From the Randomized Phase III ASCENT Clinical Trial in Metastatic Triple-Negativ
 75. Cortés J, Punie K, Barrios C, Hurvitz SA, Schneeweiss A, Sohn J, et al.
 Sacituzumab Govitecan in Untreated, Advanced Triple-Negative Breast Cancer. N Engl J Med. 2025 Nov 13;393(19):1912–25. doi:10.1056/NEJMoa2511734.
 
-76. Dent RA, Shao Z, Schmid P, Cortés JC, Cescon DW, Saji S, et al. LBA21 First-
-line (1L) datopotamab deruxtecan (Dato-DXd) vs chemotherapy in patients with locally recurrent inoperable or metastatic triple-negative breast cancer (mTNBC) for whom immunotherapy was not an option: Primary results from the randomised, phase III TROPION-Breast02 trial. Ann Oncol. 2025 Sep 1;36:S1566–7. doi:10.1016/j.annonc.2025.09.031.
+76. Dent RA, Shao Z, Schmid P, Cortés JC, Cescon DW, Saji S, et al. LBA21 First-line (1L) datopotamab deruxtecan (Dato-DXd) vs chemotherapy in patients with locally recurrent inoperable or metastatic triple-negative breast cancer (mTNBC) for whom immunotherapy was not an option: Primary results from the randomised, phase III TROPION-Breast02 trial. Ann Oncol. 2025 Sep 1;36:S1566–7. doi:10.1016/j.annonc.2025.09.031.
 
 77. Drilon A, Laetsch TW, Kummar S, DuBois SG, Lassen UN, Demetri GD, et al.
 Efficacy of Larotrectinib in TRK Fusion-Positive Cancers in Adults and Children. N Engl J Med. 22 de fevereiro de 2018;378(8):731–9.

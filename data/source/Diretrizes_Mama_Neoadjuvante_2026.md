@@ -137,10 +137,10 @@ A resposta clínica das pacientes em tratamento sistêmico neoadjuvante deve ser
 | --- | --- |
 | Paclitaxel 80 mg/m2 EV D1 e D8 ou Docetaxel 75 mg/m2 D1 | A cada 3 semanas, por 6-9 ciclos e manter trastuzumabe ± pertuzumabe após a cirurgia até completar 1 ano em caso de RPC (resposta patológica completa) |
 | Carboplatina AUC 6 EV D1 | |
-| Trastuzumabe | |
+| **Trastuzumabe** | |
 | - Trastuzumabe 8 mg/kg EV D1 (dose de ataque no C1) | |
 | - Trastuzumabe 6 mg/kg EV D1 (a partir do C2) | |
-| Pertuzumabe | |
+| **Pertuzumabe** | |
 | - Pertuzumabe 840 mg EV D1 (dose de ataque no C1) | |
 | - Pertuzumabe 420 mg EV D1 (a partir do C2) | |
 
@@ -500,8 +500,7 @@ Therapy in Early Stage Breast Cancer. Curr Treat Options in Oncol. maio de 2018;
 17. Bonadio RC, Tavares MC, Balint FC, de Sousa IM, Comini ACM, Madasi F, et
 al. Pathologic complete response rates of patients with ER-low/HER2-negative breast cancer treated with neoadjuvant pembrolizumab plus chemotherapy in the neo-real study. Breast Cancer Res Treat. 2025 May;211(1):131–7.
 
-18. Acs B, Hartman J, Sönmez D, Lindman H, Johansson ALV, Fredriksson I. Real-
-world overall survival and characteristics of patients with ER-zero and ER-low HER2-negative breast cancer treated as triple-negative breast cancer: a Swedish population-based cohort study. Lancet Reg Health Eur. 2024 May;40:100886.
+18. Acs B, Hartman J, Sönmez D, Lindman H, Johansson ALV, Fredriksson I. Real-world overall survival and characteristics of patients with ER-zero and ER-low HER2-negative breast cancer treated as triple-negative breast cancer: a Swedish population-based cohort study. Lancet Reg Health Eur. 2024 May;40:100886.
 
 19. Burstein HJ, Curigliano G, Gnant M, Loibl S, Regan MM, Loi S, et al. Tailoring
 treatment to cancer risk and patient preference: the 2025 St Gallen International Breast Cancer Consensus Statement on individualizing therapy for patients with early breast cancer. Ann Oncol. 2025 Dec;36(12):1433–46.
@@ -553,8 +552,7 @@ I, Dezentjé VO, et al. Neoadjuvant chemotherapy with or without anthracyclines 
 34. van der Voort A, van Ramshorst MS, van Werkhoven ED, Mandjes IA, Kemper
 I, Vulink AJ, et al. Three-year follow-up of neoadjuvant chemotherapy with or without anthracyclines in the presence of dual HER2-blockade for HER2-positive breast cancer (TRAIN-2): A randomized phase III trial. J Clin Oncol. 20 de maio de 2020;38(15_suppl):501–501.
 
-35. Harbeck N, Modi S, Pusztai L, Ohno S, Wu J, Kim SB, et al. Neoadjuvant tras-
-tuzumab deruxtecan alone or followed by paclitaxel, trastuzumab, and pertuzumab for high-risk HER2-positive early breast cancer (DESTINY-Breast11): a randomised, open-label, multicentre, phase III trial. Ann Oncol. 2026 Feb;37(2):166–79.
+35. Harbeck N, Modi S, Pusztai L, Ohno S, Wu J, Kim SB, et al. Neoadjuvant trastuzumab deruxtecan alone or followed by paclitaxel, trastuzumab, and pertuzumab for high-risk HER2-positive early breast cancer (DESTINY-Breast11): a randomised, open-label, multicentre, phase III trial. Ann Oncol. 2026 Feb;37(2):166–79.
 
 36. von Minckwitz G, Procter M, de Azambuja E, Zardavas D, Benyunes M, Viale
 G, et al. Adjuvant Pertuzumab and Trastuzumab in Early HER2-Positive Breast Cancer. N Engl J Med. 13 de julho de 2017;377(2):122–31.
